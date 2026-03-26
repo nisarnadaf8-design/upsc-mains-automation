@@ -1,46 +1,48 @@
-import os
-import sys
-import requests
-from google import genai
+name: UPSC Mains Bot
 
-# Load environment variables
-TELEGRAM_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN')
-CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID')
-GEMINI_KEY = os.environ.get('GEMINI_API_KEY')
+on:
+  schedule:
+    # 02:30 UTC = 08:00 AM IST (Questions)
+    - cron: '30 2 * * *'
+    # 07:30 UTC = 01:00 PM IST (Answers)
+    - cron: '30 7 * * *'
+  workflow_dispatch: # Allows you to run it manually for testing
 
-# Initialize the NEW Gemini client
-client = genai.Client(api_key=GEMINI_KEY)
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
-def send_telegram_message(text):
-    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-    payload = {"chat_id": CHAT_ID, "text": text, "parse_mode": "Markdown"}
-    requests.post(url, json=payload)
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-def main():
-    mode = sys.argv[1] if len(sys.argv) > 1 else "questions"
-    
-    if mode == "questions":
-        prompt = "Generate 3 UPSC Mains standard questions on Indian Society (GS1) and 3 on Ethics (GS4). Output ONLY the questions, numbered clearly."
-        # Using the new SDK syntax
-        response = client.models.generate_content(model="gemini-2.0-flash", contents=prompt)
-        
-        with open('latest_questions.txt', 'w') as f:
-            f.write(response.text)
-            
-        message = "🌅 **Good Morning! Here are your Mains Questions for today:**\n\n" + response.text
-        send_telegram_message(message)
-            
-    elif mode == "answers":
-        try:
-            with open('latest_questions.txt', 'r') as f:
-                questions = f.read()
-            prompt = f"Provide detailed, structured UPSC-standard answers for the following questions:\n{questions}"
-            response = client.models.generate_content(model="gemini-2.0-flash", contents=prompt)
-            message = "📚 **Afternoon! Here are the detailed answers:**\n\n" + response.text
-        except FileNotFoundError:
-            message = "⚠️ Error: Could not find today's questions to answer."
-            
-        send_telegram_message(message)
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-if __name__ == "__main__":
-    main()
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests google-genai
+
+      - name: Run the Bot
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          HOUR=$(date -u +"%H")
+          # If UTC hour is 02 or 03 (Morning IST), send questions
+          if [ "$HOUR" -eq "02" ] || [ "$HOUR" -eq "03" ]; then
+            python bot.py questions
+          else
+            python bot.py answers
+          fi
+
+      - name: Save Questions for the Afternoon
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-save morning questions"
