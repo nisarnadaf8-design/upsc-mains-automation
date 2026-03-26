@@ -33,7 +33,7 @@ jobs:
         run: |
           HOUR=$(date -u +"%H")
           # If UTC hour is 2 (morning schedule), pass 'questions', else 'answers'
-          if [ "$HOUR" -eq "02" ]; then
+          if [ "$HOUR" -eq "02" ] || [ "$HOUR" -eq "03" ]; then
             python bot.py questions
           else
             python bot.py answers
