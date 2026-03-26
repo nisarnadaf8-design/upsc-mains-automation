@@ -35,7 +35,7 @@ def main():
             with open('latest_questions.txt', 'r') as f:
                 questions = f.read()
             prompt = f"Provide detailed, structured UPSC-standard answers for the following questions:\n{questions}"
-            response = client.models.generate_content(model="gemini-2.0-flash", contents=prompt)
+            response = client.models.generate_content(model="gemini-1.5-flash", contents=prompt)
             message = "📚 **Afternoon! Here are the detailed answers:**\n\n" + response.text
         except FileNotFoundError:
             message = "⚠️ Error: Could not find today's questions to answer."
