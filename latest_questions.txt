@@ -1,11 +1,15 @@
-**UPSC GS-1 Society Questions**
+GS-1 SOCIETY: Communalism, Regionalism and Secularism
 
-1.  "Globalization, while fostering economic integration, has simultaneously amplified cultural anxieties and the assertion of regional identities in India." Critically examine this statement, discussing the complex interplay between global forces and local specificities in shaping India's socio-cultural landscape.
-2.  Despite increasing female literacy rates and workforce participation, gender-based violence and economic disparities against women persist in India. Analyze the deep-rooted patriarchal structures and socio-economic factors that perpetuate this paradox, and suggest comprehensive strategies for genuine women's empowerment.
-3.  The rise of identity politics, often fueled by caste, religion, and linguistic divisions, poses significant challenges to the idea of a unified and inclusive Indian society. Discuss the historical context and contemporary manifestations of this phenomenon, and evaluate its impact on national integration and developmental goals.
+Q1. (10 Marks)
+While often seen as distinct challenges, how might the nuanced assertion of regional identity inadvertently create fertile ground for communal polarization, despite not being directly communal in its genesis? Discuss with suitable examples.
 
-**UPSC GS-4 Ethics Questions**
+Q2. (15 Marks)
+Critically examine how the rise of competitive regionalism and identity-based communalism poses a persistent threat to India's pluralistic fabric and developmental aspirations. In this context, evaluate the effectiveness of India's constitutional secularism in fostering national unity.
 
-1.  In situations where rules and regulations conflict with the perceived greater public good, civil servants often face a moral dilemma. Discuss the ethical frameworks a civil servant can employ to navigate such situations, ensuring both probity in administration and responsiveness to societal needs.
-2.  Emotional intelligence is considered a crucial attribute for effective leadership and ethical governance. Elucidate how the components of emotional intelligence contribute to sound decision-making, conflict resolution, and fostering a culture of empathy and integrity in public administration.
-3.  Beyond financial malfeasance, corruption manifests in various subtle forms such as nepotism, abuse of discretion, and intellectual dishonesty, eroding public trust and institutional credibility. Critically examine these broader dimensions of corruption and suggest a multi-pronged ethical approach to strengthen integrity and transparency in governance.
+GS-4 ETHICS: Civil Services Values: Integrity, Impartiality, Empathy
+
+Q3. (10 Marks)
+Discuss how an overemphasis on empathy, without the anchoring principles of integrity and impartiality, might inadvertently lead to a subversion of justice or due process in public administration. Elaborate with an example.
+
+Q4. (20 Marks - Case Study)
+You are a District Magistrate. During a routine audit of a flagship development project, you uncover significant financial irregularities and potential corruption involving the Chief Engineer, a close mentor from your probation days who has also been instrumental in the project's success. The project is critical for regional development and has garnered significant public support, but exposing the irregularities now could delay or jeopardize its completion and damage your mentor's reputation. What should the officer do? Discuss the ethical dimensions involved.
