@@ -12,7 +12,7 @@ CHAT_ID        = os.environ.get('TELEGRAM_CHAT_ID')
 GEMINI_KEY     = os.environ.get('GEMINI_API_KEY')
  
 client = genai.Client(api_key=GEMINI_KEY)
-MODEL  = "gemini-2.0-flash"
+MODEL  = "gemini-1.5-flash"
  
 # ── Topic Rotation (changes daily, never repeats same day) ────────────────────
 GS1_TOPICS = [
