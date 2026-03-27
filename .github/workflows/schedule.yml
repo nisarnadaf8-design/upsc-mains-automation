@@ -1,48 +1,65 @@
 name: UPSC Mains Bot
-
+ 
 on:
   schedule:
-    # 02:30 UTC = 08:00 AM IST (Questions)
-    - cron: '30 2 * * *'
-    # 07:30 UTC = 01:00 PM IST (Answers)
-    - cron: '30 7 * * *'
-  workflow_dispatch: # Allows you to run it manually for testing
-
+    - cron: '30 2 * * *'   # 08:00 AM IST
+    - cron: '30 7 * * *'   # 01:00 PM IST
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Choose mode to run'
+        required: true
+        default: 'questions'
+        type: choice
+        options:
+          - questions
+          - answers
+ 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
+ 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-
+ 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
+ 
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests google-genai
-
-      - name: Run the Bot
+ 
+      - name: Determine Mode
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ github.event.inputs.mode }}" >> $GITHUB_OUTPUT
+          else
+            HOUR=$(date -u +"%H")
+            if [ "$HOUR" -eq "02" ] || [ "$HOUR" -eq "03" ]; then
+              echo "mode=questions" >> $GITHUB_OUTPUT
+            else
+              echo "mode=answers" >> $GITHUB_OUTPUT
+            fi
+          fi
+ 
+      - name: Run Bot
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: |
-          HOUR=$(date -u +"%H")
-          # If UTC hour is 02 or 03 (Morning IST), send questions
-          if [ "$HOUR" -eq "02" ] || [ "$HOUR" -eq "03" ]; then
-            python bot.py questions
-          else
-            python bot.py answers
-          fi
-
-      - name: Save Questions for the Afternoon
+        run: python bot.py ${{ steps.mode.outputs.mode }}
+ 
+      - name: Save questions to repo (morning only)
+        if: steps.mode.outputs.mode == 'questions'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-save morning questions"
+          commit_message: "Auto-save: daily questions"
+          file_pattern: "latest_questions.txt latest_meta.json"
+ 
