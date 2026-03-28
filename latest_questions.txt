@@ -1,15 +1,33 @@
-GS-1 SOCIETY: Communalism, Regionalism and Secularism
+========================================
+GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
+========================================
 
-Q1. (10 Marks)
-While often seen as distinct challenges, how might the nuanced assertion of regional identity inadvertently create fertile ground for communal polarization, despite not being directly communal in its genesis? Discuss with suitable examples.
+Q1. (10 Marks | 150 words)
+Examine the structural and policy reforms required to fully harness India's demographic dividend, especially in the context of evolving global economic trends and the risks of its premature expiry.
 
-Q2. (15 Marks)
-Critically examine how the rise of competitive regionalism and identity-based communalism poses a persistent threat to India's pluralistic fabric and developmental aspirations. In this context, evaluate the effectiveness of India's constitutional secularism in fostering national unity.
+Q2. (10 Marks | 150 words)
+What do you understand by the concept of 'demographic winter'? How is India balancing its population policy imperatives to manage both a youthful bulge and an impending ageing society without exclusively focusing on fertility control?
 
-GS-4 ETHICS: Civil Services Values: Integrity, Impartiality, Empathy
+Q3. (15 Marks | 250 words)
+Critically analyse the socio-economic, political, and gender implications of India's evolving migration patterns, encompassing both rural-to-urban shifts and international skilled migration, for national development and social cohesion. Discuss with suitable examples.
 
-Q3. (10 Marks)
-Discuss how an overemphasis on empathy, without the anchoring principles of integrity and impartiality, might inadvertently lead to a subversion of justice or due process in public administration. Elaborate with an example.
+========================================
+GS-4 ETHICS: Emotional Intelligence in Governance
+========================================
 
-Q4. (20 Marks - Case Study)
-You are a District Magistrate. During a routine audit of a flagship development project, you uncover significant financial irregularities and potential corruption involving the Chief Engineer, a close mentor from your probation days who has also been instrumental in the project's success. The project is critical for regional development and has garnered significant public support, but exposing the irregularities now could delay or jeopardize its completion and damage your mentor's reputation. What should the officer do? Discuss the ethical dimensions involved.
+Q4. (10 Marks | 150 words)
+Explain the significance of self-awareness and self-regulation as core components of emotional intelligence for a civil servant in maintaining impartiality and ethical conduct during periods of high political pressure and public scrutiny.
+
+Q5. (10 Marks | 150 words)
+How can an administrator effectively leverage empathy and social skills, two key dimensions of emotional intelligence, to resolve inter-departmental conflicts and foster a culture of collaboration for better public service delivery and stakeholder engagement?
+
+Q6. (20 Marks | 300 words) — CASE STUDY
+Rakesh Kumar, a decorated IPS officer known for his integrity and investigative acumen, was recently transferred to lead a special investigation unit within the State Anti-Corruption Bureau (ACB) in a prominent metropolitan city. His current mandate is to probe large-scale irregularities in public infrastructure projects that have faced significant delays and cost overruns.
+
+During a high-profile investigation, Rakesh uncovers irrefutable evidence that a significant portion of the corruption in a major public works scam directly involves several senior officers within his own State Police Department, including some who previously held positions of power in the ACB. His immediate superior, a respected Additional Director General (ADG), subtly advises him to "handle the matter discreetly" due to the potential damage to the department's reputation and morale, and the risk of political fallout. A prominent political leader, whose associates are also implicated, issues veiled threats regarding Rakesh's career and personal safety. Meanwhile, civil society activists are demanding quick action, and the media is speculating about a cover-up.
+
+Exposing the scam could lead to a massive institutional crisis, erode public trust in the police further, and jeopardize Rakesh's career and family's safety. Covering it up would compromise justice, encourage systemic corruption, and betray his oath of office and public trust, affecting millions of citizens.
+
+(a) Identify and discuss the ethical issues involved in this case.
+(b) What are the options available to Rakesh Kumar? Evaluate each option with its merits and demerits.
+(c) What course of action would you recommend and why? How would you handle the pressures involved?
