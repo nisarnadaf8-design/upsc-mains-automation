@@ -17,7 +17,7 @@ client = genai.Client(api_key=GEMINI_KEY)
 MODELS = [
     "gemini-2.5-pro",
     "gemini-2.5-flash",
-    "gemini-1.5-flash-001",
+    "gemini-1.5-flash",
 ]
 
 # ── Case Study Scenario Types (rotates daily) ─────────────────────────────────
