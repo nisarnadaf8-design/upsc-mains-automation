@@ -1,33 +1,35 @@
+Date: 31 Mar 2026
+
 ========================================
-GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
+GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the structural and policy reforms required to fully harness India's demographic dividend, especially in the context of evolving global economic trends and the risks of its premature expiry.
+Examine how caste, despite its traditional social institutional aspects, has transformed into a potent tool for political mobilisation in contemporary India. Discuss the implications of this transformation for social cohesion and democratic participation.
 
 Q2. (10 Marks | 150 words)
-What do you understand by the concept of 'demographic winter'? How is India balancing its population policy imperatives to manage both a youthful bulge and an impending ageing society without exclusively focusing on fertility control?
+Critically examine how the policy of reservation, intended to enhance social mobility, has sometimes led to the entrenchment of new structural barriers and identity politics in Indian society. What challenges does this pose for achieving genuine social equity?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the socio-economic, political, and gender implications of India's evolving migration patterns, encompassing both rural-to-urban shifts and international skilled migration, for national development and social cohesion. Discuss with suitable examples.
+Discuss how the intersection of caste, class, and gender continues to shape access to education, economic opportunities, and political power in India. Critically analyse the role of legal frameworks and social movements in addressing these layered inequalities, providing suitable examples.
 
 ========================================
-GS-4 ETHICS: Emotional Intelligence in Governance
+GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of self-awareness and self-regulation as core components of emotional intelligence for a civil servant in maintaining impartiality and ethical conduct during periods of high political pressure and public scrutiny.
+Explain the significance of an awakened conscience for a civil servant navigating ethical dilemmas, particularly when confronted with pressures to conform to prevailing social or political norms. How does one cultivate such a conscience in public service?
 
 Q5. (10 Marks | 150 words)
-How can an administrator effectively leverage empathy and social skills, two key dimensions of emotional intelligence, to resolve inter-departmental conflicts and foster a culture of collaboration for better public service delivery and stakeholder engagement?
+How should a civil servant reconcile the principles of universal ethics, such as justice and impartiality, with the challenges posed by moral relativism arising from diverse cultural or regional contexts in governance? Examine this dilemma with an example from public policy implementation.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Rakesh Kumar, a decorated IPS officer known for his integrity and investigative acumen, was recently transferred to lead a special investigation unit within the State Anti-Corruption Bureau (ACB) in a prominent metropolitan city. His current mandate is to probe large-scale irregularities in public infrastructure projects that have faced significant delays and cost overruns.
+Ms. Ananya Sharma is a diligent District Magistrate (DM) of Rudrapur District in Uttar Pradesh. A major infrastructure project, a new highway bypassing a densely populated area, is in its final stages. The land acquisition process has been meticulously completed according to law, ensuring fair compensation and rehabilitation for all affected families.
 
-During a high-profile investigation, Rakesh uncovers irrefutable evidence that a significant portion of the corruption in a major public works scam directly involves several senior officers within his own State Police Department, including some who previously held positions of power in the ACB. His immediate superior, a respected Additional Director General (ADG), subtly advises him to "handle the matter discreetly" due to the potential damage to the department's reputation and morale, and the risk of political fallout. A prominent political leader, whose associates are also implicated, issues veiled threats regarding Rakesh's career and personal safety. Meanwhile, civil society activists are demanding quick action, and the media is speculating about a cover-up.
+The state's influential Minister for Public Works, Mr. Rajesh Singh, whose family owns a significant land parcel directly in the proposed highway's path, approaches Ms. Sharma. He demands a last-minute alteration to the highway alignment, citing minor environmental concerns, which would incidentally reroute the highway away from his land, increasing its value significantly. The Minister subtly threatens a transfer or adverse career implications if his demand is not met. Her immediate superior, the Divisional Commissioner, also advises "pragmatism" to avoid political friction.
 
-Exposing the scam could lead to a massive institutional crisis, erode public trust in the police further, and jeopardize Rakesh's career and family's safety. Covering it up would compromise justice, encourage systemic corruption, and betray his oath of office and public trust, affecting millions of citizens.
+Ms. Sharma's decision will directly affect the project's integrity, public trust, the environment, and the financial interests of both the affected original landholders and the Minister's family. Bending the rules would lead to costly delays and injustice, while upholding them could jeopardize her career.
 
-(a) Identify and discuss the ethical issues involved in this case.
-(b) What are the options available to Rakesh Kumar? Evaluate each option with its merits and demerits.
-(c) What course of action would you recommend and why? How would you handle the pressures involved?
+(a) Identify and discuss the ethical issues involved in this case. (50 words)
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
