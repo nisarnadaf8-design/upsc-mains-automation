@@ -17,7 +17,7 @@ client = genai.Client(api_key=GEMINI_KEY)
 MODELS = [
     "gemini-2.5-pro",
     "gemini-2.5-flash",
-    "gemini-1.5-flash",
+    "gemini-1.5-flash-001",
 ]
 
 # ── Case Study Scenario Types (rotates daily) ─────────────────────────────────
@@ -603,9 +603,9 @@ def run_questions():
 
     questions = generate(prompt)
 
-  with open(QUESTIONS_FILE, "w", encoding="utf-8") as f:
-    f.write(f"Date: {date_str}\n\n")
-    f.write(questions)
+    with open(QUESTIONS_FILE, "w", encoding="utf-8") as f:
+        f.write(f"Date: {date_str}\n\n")
+        f.write(questions)
     with open(META_FILE, "w", encoding="utf-8") as f:
         json.dump({
             "gs1": gs1["topic"],
