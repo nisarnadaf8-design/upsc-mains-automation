@@ -603,8 +603,9 @@ def run_questions():
 
     questions = generate(prompt)
 
-    with open(QUESTIONS_FILE, "w", encoding="utf-8") as f:
-        f.write(questions)
+  with open(QUESTIONS_FILE, "w", encoding="utf-8") as f:
+    f.write(f"Date: {date_str}\n\n")
+    f.write(questions)
     with open(META_FILE, "w", encoding="utf-8") as f:
         json.dump({
             "gs1": gs1["topic"],
