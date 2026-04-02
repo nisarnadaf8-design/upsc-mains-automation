@@ -1,35 +1,36 @@
-Date: 31 Mar 2026
+Date: 02 Apr 2026
 
 ========================================
-GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
+GS-1 SOCIETY: Communalism, Regionalism and Secularism
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how caste, despite its traditional social institutional aspects, has transformed into a potent tool for political mobilisation in contemporary India. Discuss the implications of this transformation for social cohesion and democratic participation.
+Examine how India's constitutional model of 'principled distance' secularism, unlike strict separation models, attempts to manage religious diversity while simultaneously facing the challenge of communal narratives being leveraged for political mobilisation in a multi-party democracy.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the policy of reservation, intended to enhance social mobility, has sometimes led to the entrenchment of new structural barriers and identity politics in Indian society. What challenges does this pose for achieving genuine social equity?
+Critically examine the assertion that regionalism, often perceived as a threat to national unity, can actually enrich India's 'composite culture' by preserving linguistic and cultural specificities, thereby strengthening national integration rather than undermining it.
 
 Q3. (15 Marks | 250 words)
-Discuss how the intersection of caste, class, and gender continues to shape access to education, economic opportunities, and political power in India. Critically analyse the role of legal frameworks and social movements in addressing these layered inequalities, providing suitable examples.
+Critically analyse the multifaceted impact of social media and digital platforms in amplifying communal narratives in contemporary India. Discuss its implications for social harmony, electoral politics, and the effectiveness of legal frameworks governing hate speech, providing suitable examples.
 
 ========================================
-GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
+GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of an awakened conscience for a civil servant navigating ethical dilemmas, particularly when confronted with pressures to conform to prevailing social or political norms. How does one cultivate such a conscience in public service?
+What do you understand by 'integrity beyond legal compliance' for a civil servant? Explain its significance in fostering public trust and ensuring ethical governance, especially when the spirit of a policy might diverge from its strict legal interpretation.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant reconcile the principles of universal ethics, such as justice and impartiality, with the challenges posed by moral relativism arising from diverse cultural or regional contexts in governance? Examine this dilemma with an example from public policy implementation.
+In situations where a civil servant faces intense political pressure that conflicts with official duty, how can impartiality be effectively upheld? Discuss how balancing this with empathy can lead to more citizen-centric public service delivery, despite inherent administrative challenges.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Ananya Sharma is a diligent District Magistrate (DM) of Rudrapur District in Uttar Pradesh. A major infrastructure project, a new highway bypassing a densely populated area, is in its final stages. The land acquisition process has been meticulously completed according to law, ensuring fair compensation and rehabilitation for all affected families.
 
-The state's influential Minister for Public Works, Mr. Rajesh Singh, whose family owns a significant land parcel directly in the proposed highway's path, approaches Ms. Sharma. He demands a last-minute alteration to the highway alignment, citing minor environmental concerns, which would incidentally reroute the highway away from his land, increasing its value significantly. The Minister subtly threatens a transfer or adverse career implications if his demand is not met. Her immediate superior, the Divisional Commissioner, also advises "pragmatism" to avoid political friction.
+Aman Sharma, a young and diligent District Collector in the resource-rich tribal district of Janprabhat, has gained a reputation for his commitment to welfare schemes and community engagement. The district, home to several indigenous tribes, is marked by delicate ecological balances and deep ancestral ties of the tribal communities to their land and forests. His tenure so far has focused on ensuring development reaches the last mile while respecting tribal rights.
 
-Ms. Sharma's decision will directly affect the project's integrity, public trust, the environment, and the financial interests of both the affected original landholders and the Minister's family. Bending the rules would lead to costly delays and injustice, while upholding them could jeopardize her career.
+Recently, the State Government announced a large-scale industrial mining project in a tribal-majority block of Janprabhat, promising significant economic growth and employment. Aman has been issued an urgent directive by the Chief Secretary to expedite land acquisition and facilitate smooth project commencement, emphasizing its 'national importance' and potential revenue generation for the state. However, the proposed project site involves the displacement of several tribal villages and the acquisition of their sacred forest lands, where Gram Sabhas have not given their Free, Prior, and Informed Consent as mandated by the Forest Rights Act (FRA) and PESA Act.
+
+Tribal elders, supported by local activists, have approached Aman with emotional appeals, highlighting their spiritual connection to the land and expressing profound fears of cultural annihilation and forced destitution if displaced. They cite previous instances of unfulfilled rehabilitation promises and irreversible environmental damage. Aman is caught between the explicit orders from the state government, which views any delay as insubordination, and his responsibility to protect the constitutional rights and welfare of the vulnerable tribal community.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
-(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+(b) What are the options available to Aman Sharma? Evaluate each option with its merits and demerits. (100 words)
+(c) What course of action would you recommend and why? How would you handle the pressures involved from the state government and other stakeholders? (150 words)
