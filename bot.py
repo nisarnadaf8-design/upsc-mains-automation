@@ -20,7 +20,7 @@ MODELS = [
     "gemini-1.5-flash-001",
 ]
 
-# ── Case Study Scenario Types (rotates daily) ─────────────────────────────────
+# ── Case Study Scenario Types ─────────────────────────────────────────────────
 CASE_STUDY_TYPES = [
     "civil servant facing political pressure to bend rules for a powerful politician",
     "IAS officer discovering corruption by a senior colleague during disaster relief",
@@ -39,7 +39,7 @@ CASE_STUDY_TYPES = [
     "IAS officer discovering child labour in a factory owned by a senior politician",
 ]
 
-# ── 15 GS-1 Topics with PYQ Themes ───────────────────────────────────────────
+# ── 15 GS-1 Topics ────────────────────────────────────────────────────────────
 GS1_TOPICS = [
     {
         "topic": "Indian Society: Diversity, Caste and Social Stratification",
@@ -193,7 +193,7 @@ GS1_TOPICS = [
     },
 ]
 
-# ── 15 GS-4 Topics with PYQ Themes ───────────────────────────────────────────
+# ── 15 GS-4 Topics ────────────────────────────────────────────────────────────
 GS4_TOPICS = [
     {
         "topic": "Ethics and Human Interface: Determinants of Ethical Behaviour",
@@ -591,7 +591,16 @@ META_FILE      = "latest_meta.json"
 # ── Morning: Send Questions ───────────────────────────────────────────────────
 def run_questions():
     gs1, gs4, case_type, date_str = today_topics()
+    print(f"Date: {date_str}")
     print(f"GS1: {gs1['topic']} | GS4: {gs4['topic']}")
+
+    # Check if today's questions already sent — skip if same date
+    if os.path.exists(META_FILE):
+        with open(META_FILE, "r", encoding="utf-8") as f:
+            existing_meta = json.load(f)
+        if existing_meta.get("date") == date_str:
+            print(f"Questions for {date_str} already sent today. Skipping.")
+            return
 
     prompt = QUESTION_PROMPT.format(
         gs1_topic  = gs1["topic"],
@@ -601,17 +610,22 @@ def run_questions():
         case_type  = case_type,
     )
 
+    print("Generating new questions from Gemini...")
     questions = generate(prompt)
+    print("Questions generated successfully.")
 
     with open(QUESTIONS_FILE, "w", encoding="utf-8") as f:
         f.write(f"Date: {date_str}\n\n")
         f.write(questions)
+
     with open(META_FILE, "w", encoding="utf-8") as f:
         json.dump({
             "gs1": gs1["topic"],
             "gs4": gs4["topic"],
             "date": date_str
         }, f)
+
+    print(f"Files saved: {QUESTIONS_FILE}, {META_FILE}")
 
     header = (
         f"UPSC MAINS DAILY PRACTICE\n"
