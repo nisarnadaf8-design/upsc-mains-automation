@@ -1,36 +1,35 @@
-Date: 02 Apr 2026
+Date: 11 Apr 2026
 
 ========================================
-GS-1 SOCIETY: Communalism, Regionalism and Secularism
+GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how India's constitutional model of 'principled distance' secularism, unlike strict separation models, attempts to manage religious diversity while simultaneously facing the challenge of communal narratives being leveraged for political mobilisation in a multi-party democracy.
+Examine the challenges faced by a secular state in balancing the protection of minority religious and cultural rights with the imperative of promoting social cohesion and uniform legal principles in India.
 
 Q2. (10 Marks | 150 words)
-Critically examine the assertion that regionalism, often perceived as a threat to national unity, can actually enrich India's 'composite culture' by preserving linguistic and cultural specificities, thereby strengthening national integration rather than undermining it.
+Critically examine how the concept of 'positive secularism' in India has influenced the state's approach towards religious minorities, particularly concerning issues of faith-based institutions and religious conversions.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multifaceted impact of social media and digital platforms in amplifying communal narratives in contemporary India. Discuss its implications for social harmony, electoral politics, and the effectiveness of legal frameworks governing hate speech, providing suitable examples.
+Discuss the socio-economic, political, and gender justice implications of India's constitutional framework for minority protection, especially in the context of persistent debates around personal laws and social harmony.
 
 ========================================
-GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
+GS-4 ETHICS: Social Influence, Persuasion and Moral Development
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by 'integrity beyond legal compliance' for a civil servant? Explain its significance in fostering public trust and ensuring ethical governance, especially when the spirit of a policy might diverge from its strict legal interpretation.
+Explain the significance of Kohlberg's post-conventional stage of moral reasoning for a civil servant operating in a complex administrative environment marked by conflicting rules and public expectations.
 
 Q5. (10 Marks | 150 words)
-In situations where a civil servant faces intense political pressure that conflicts with official duty, how can impartiality be effectively upheld? Discuss how balancing this with empathy can lead to more citizen-centric public service delivery, despite inherent administrative challenges.
+Examine the ethical boundaries between legitimate persuasion and manipulative influence when a civil servant seeks to implement a controversial public policy amidst significant community resistance.
 
-Q6. (20 Marks | 300 words) — CASE STUDY
+Q6. (20 Marks | 300 words)
+Rohan Sharma, a young and committed District Collector, is posted in the remote, forest-rich district of Dantewada, Chhattisgarh. His primary challenge is overseeing the implementation of a strategically important iron ore mining project, critical for national infrastructure development, which involves significant land acquisition and displacement of several indigenous tribal villages adhering to traditional forest-based livelihoods.
 
-Aman Sharma, a young and diligent District Collector in the resource-rich tribal district of Janprabhat, has gained a reputation for his commitment to welfare schemes and community engagement. The district, home to several indigenous tribes, is marked by delicate ecological balances and deep ancestral ties of the tribal communities to their land and forests. His tenure so far has focused on ensuring development reaches the last mile while respecting tribal rights.
+The project, while mandated by the central government and championed by senior bureaucrats and state political leadership for its economic benefits, faces fierce resistance from the local tribal communities. They invoke their rights under the PESA Act and Forest Rights Act, expressing deep concerns over loss of ancestral land, cultural identity, environmental degradation, and inadequate rehabilitation packages. Rohan finds himself caught between the pressure from his Chief Secretary to expedite clearances and ensure smooth project execution, and the legitimate grievances and planned protests from the tribal groups, supported by various civil society organizations.
 
-Recently, the State Government announced a large-scale industrial mining project in a tribal-majority block of Janprabhat, promising significant economic growth and employment. Aman has been issued an urgent directive by the Chief Secretary to expedite land acquisition and facilitate smooth project commencement, emphasizing its 'national importance' and potential revenue generation for the state. However, the proposed project site involves the displacement of several tribal villages and the acquisition of their sacred forest lands, where Gram Sabhas have not given their Free, Prior, and Informed Consent as mandated by the Forest Rights Act (FRA) and PESA Act.
-
-Tribal elders, supported by local activists, have approached Aman with emotional appeals, highlighting their spiritual connection to the land and expressing profound fears of cultural annihilation and forced destitution if displaced. They cite previous instances of unfulfilled rehabilitation promises and irreversible environmental damage. Aman is caught between the explicit orders from the state government, which views any delay as insubordination, and his responsibility to protect the constitutional rights and welfare of the vulnerable tribal community.
+His decision will profoundly impact the lives and livelihoods of thousands of tribal families, the financial viability of a national strategic project, and the socio-environmental fabric of the region. Both swift project approval and outright rejection carry significant economic, social, and political ramifications, potentially leading to social unrest, legal challenges, or substantial delays in a critical national undertaking.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Aman Sharma? Evaluate each option with its merits and demerits. (100 words)
-(c) What course of action would you recommend and why? How would you handle the pressures involved from the state government and other stakeholders? (150 words)
+(b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
+(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
