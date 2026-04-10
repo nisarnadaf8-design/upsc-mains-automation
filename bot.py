@@ -659,13 +659,26 @@ def run_answers():
         print("Questions file missing.")
         return
 
-    with open(QUESTIONS_FILE, "r", encoding="utf-8") as f:
-        questions = f.read()
-
     meta = {}
     if os.path.exists(META_FILE):
         with open(META_FILE, "r", encoding="utf-8") as f:
             meta = json.load(f)
+
+    # Validate that the questions file is from today — skip if stale
+    ist = datetime.now(timezone(timedelta(hours=5, minutes=30)))
+    today_str = ist.strftime("%d %b %Y")
+    if meta.get("date") != today_str:
+        send_message(
+            f"UPSC Bot Alert: Answer key skipped for {today_str}.\n"
+            f"Reason: Questions file is from {meta.get('date', 'unknown')} — "
+            f"morning commit/push may have failed.\n"
+            f"Check GitHub Actions log for the 8 AM run."
+        )
+        print(f"Stale questions file (from {meta.get('date', 'unknown')}). Skipping answers.")
+        return
+
+    with open(QUESTIONS_FILE, "r", encoding="utf-8") as f:
+        questions = f.read()
 
     print(f"Generating answers for: {meta}")
 
