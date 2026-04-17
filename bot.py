@@ -15,9 +15,8 @@ client = genai.Client(api_key=GEMINI_KEY)
 
 # ── Model Fallback Chain ──────────────────────────────────────────────────────
 MODELS = [
-    "gemini-2.5-pro",
     "gemini-2.5-flash",
-    "gemini-1.5-flash-001",
+    "gemini-2.5-pro",
 ]
 
 # ── Case Study Scenario Types ─────────────────────────────────────────────────
@@ -397,6 +396,8 @@ def generate(prompt: str) -> str:
 QUESTION_PROMPT = """You are a senior UPSC Mains paper setter with 20 years of experience.
 You have studied all UPSC GS-1 and GS-4 papers from 2013 to 2024 in detail.
 
+DATE: {date_str}
+
 TODAY'S TOPICS:
 GS-1 (Society): {gs1_topic}
 PYQ Themes: {gs1_themes}
@@ -407,9 +408,10 @@ PYQ Themes: {gs4_themes}
 Today's Case Study Scenario Type: {case_type}
 
 YOUR TASK:
-Generate exactly 6 questions as specified below.
+Generate exactly 6 FRESH questions specific to {date_str}.
+Every question must be brand new — never reuse wording from any previous set.
 Do NOT copy previous year questions directly.
-Frame fresh questions inspired by the PYQ themes.
+Frame fresh questions inspired by the PYQ themes from a unique angle suited for {date_str}.
 
 OUTPUT FORMAT (plain text only, no asterisks, no symbols, no markdown):
 
@@ -603,6 +605,7 @@ def run_questions():
             return
 
     prompt = QUESTION_PROMPT.format(
+        date_str   = date_str,
         gs1_topic  = gs1["topic"],
         gs1_themes = "\n- ".join(gs1["pyq_themes"]),
         gs4_topic  = gs4["topic"],
