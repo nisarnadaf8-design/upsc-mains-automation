@@ -1,36 +1,35 @@
-Date: 17 Apr 2026
+Date: 18 Apr 2026
 
 ========================================
-GS-1 SOCIETY: Communalism, Regionalism and Secularism
+GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
 ========================================
 
 Q1. (10 Marks | 150 words)
-Analyse how the interplay between identity politics and electoral competition can exacerbate communal tensions, posing a significant challenge to India's constitutional secularism. Examine the role of political mobilization in this context.
+Examine how persistent regional disparities in human capital development and employment opportunities could impede India's ability to inclusively realize its demographic dividend by 2047, highlighting the need for targeted policy interventions.
 
 Q2. (10 Marks | 150 words)
-Critically examine the proposition that regionalism, while fostering a sense of sub-national identity and promoting local development, can simultaneously strengthen national integration through healthy competition and diversity. Discuss with suitable examples.
+Critically examine the implications of an accelerating ageing population in India for its intergenerational solidarity and traditional family support systems, beyond just the economic dependency ratio challenges.
 
 Q3. (15 Marks | 250 words)
-Examine the multifaceted challenges faced by India's constitutional secularism in the contemporary era, considering the roles of digital media narratives, political polarization, and socio-economic disparities. Discuss how these factors influence the erosion of syncretic traditions and communal harmony.
+Discuss the multi-faceted socio-economic and governance challenges posed by large-scale internal migration, particularly its impact on the rural areas of origin regarding labour availability and the strained urban infrastructure. What policy approaches, beyond fertility control, are required to manage these dynamics effectively?
 
 ========================================
-GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
+GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how 'integrity beyond legal compliance' requires a civil servant to uphold the spirit of public service, even when no explicit rule exists to govern a situation. Illustrate its significance in fostering public trust and ethical governance.
+Explain the significance of 'self-awareness' as a foundational virtue for civil servants in maintaining objectivity, ethical decision-making, and resisting undue influence in the performance of their public duties.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical challenges an administrator faces in maintaining impartiality and objectivity while delivering citizen-centric services, especially when emotional appeals or political interventions conflict with evidence-based decision-making. How can a civil servant reconcile these competing demands?
+How can 'empathy' be effectively cultivated and applied by public administrators to ensure policy implementation is genuinely inclusive, responsive, and addresses the nuanced needs of diverse and often marginalized communities, rather than merely adhering to procedural rules?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Anjali Sharma, a diligent Superintendent of Police (SP) in a prominent district, is leading an Anti-Corruption Bureau (ACB) investigation into widespread irregularities in a state government procurement project for infrastructure development. Known for her unblemished record and methodical approach, Anjali has recently garnered significant public trust in her efforts to tackle corruption.
 
-Ms. Anjali Sharma, a diligent District Collector in a Scheduled V Area of Chhattisgarh, has been actively working to empower the particularly vulnerable Abujhmaria tribal community. She initiated successful livelihood projects based on sustainable forest produce and traditional farming, gaining immense trust and goodwill among the tribals, significantly improving their socio-economic status.
+During her meticulous investigation, Anjali uncovers substantial evidence pointing to a multi-crore scam involving collusion between a large construction firm and senior officials within her own State Police Housing Corporation, a wing responsible for departmental infrastructure projects. Further, initial findings suggest the implicit approval, if not direct involvement, of a high-ranking political functionary and a powerful superior officer within the broader police hierarchy, who has been a long-term mentor. She faces immense pressure from her immediate superior to "manage" the investigation discreetly to protect the department's image, while a local politician with vested interests subtly threatens her family's safety if she proceeds without compromise.
 
-Recently, the State Government issued an order for a large-scale bauxite mining project in the heart of the forest, citing substantial revenue generation and industrial development for the state. This project would necessitate the displacement of several tribal villages and extensive deforestation in the very area where Ms. Sharma's projects are flourishing, directly threatening their traditional lands and way of life. She faces immense pressure from the Chief Secretary for rapid implementation, while the local MLA is publicly championing the project, subtly hinting at repercussions for any obstruction. Meanwhile, tribal elders, who view Ms. Sharma as their protector, are appealing to her to save their ancestral land.
-
-Ms. Sharma is caught in a profound ethical dilemma. Complying with the state order would mean betraying the trust of a vulnerable community and negating her own efforts for their welfare, potentially leading to social unrest and environmental damage. Resisting or delaying the project would invite severe political and administrative censure, possibly jeopardizing her career and personal standing.
+Anjali's decision will profoundly impact public trust in the police, the lives of honest officials and whistleblowers, the reputation of her department, and potentially her own career and family's well-being. Both exposing the truth and suppressing it carry severe implications for justice, accountability, and institutional integrity.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
