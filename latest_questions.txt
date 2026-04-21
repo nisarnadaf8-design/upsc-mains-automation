@@ -1,35 +1,35 @@
-Date: 19 Apr 2026
+Date: 21 Apr 2026
 
 ========================================
-GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
+GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the persistent challenges in achieving truly 'inclusive growth' in India, despite recent improvements in Multidimensional Poverty Index (MPI) indicators, particularly for marginalized social groups in remote areas.
+Examine how the forces of globalisation, while often perceived as homogenising, have simultaneously led to the reassertion and transformation of local cultural identities in contemporary India.
 
 Q2. (10 Marks | 150 words)
-Critically analyze how deeply entrenched structural inequalities, rather than mere lack of resources, perpetuate social exclusion among Scheduled Tribes and Dalits, rendering certain poverty alleviation programs less effective in ensuring equitable outcomes.
+How has the burgeoning gig economy, a significant outcome of digital globalisation, fundamentally altered traditional notions of employment, labour rights, and social security frameworks for workers in India?
 
 Q3. (15 Marks | 250 words)
-Discuss how the policy debate between 'trickle-down economics' and 'inclusive growth' frameworks influences intergenerational social mobility, considering economic opportunities, access to quality education, and political empowerment.
+Critically analyse the multi-faceted impact of globalisation on women's economic participation and their evolving roles within Indian family structures, highlighting both the opportunities for empowerment and the emergence of new vulnerabilities.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
+GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of Dr. B.R. Ambedkar's concept of 'constitutional morality' for a civil servant navigating the complexities of public policy implementation in a society still grappling with deep-seated social inequalities.
+Explain how cultivating a robust culture of transparency and proactive disclosure, beyond mere legal compliance, can fundamentally strengthen ethical decision-making and enhance public trust in government administration.
 
 Q5. (10 Marks | 150 words)
-How can the Gandhian principle of 'trusteeship' be practically applied by public administrators in managing natural resources and public assets to ensure equitable benefit distribution and prevent elite capture in a developing economy?
+A civil servant often faces a delicate balance between loyalty to their organisation and their paramount duty to serve the public interest. Discuss the ethical challenges involved when these two duties come into conflict, particularly in situations requiring institutional dissent.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Mr. Alok Kumar, a diligent District Collector in the economically backward district of Ramanagar, is overseeing a critical land acquisition project for a major industrial corridor aimed at generating local employment. The project involves acquiring significant tracts of agricultural land from several villages, leading to intense public scrutiny and protests regarding fair compensation and rehabilitation packages.
+Rohan Sharma is the District Project Coordinator (DPC) for the Rural Development Department in Mandla district, Madhya Pradesh. He is responsible for the ground-level implementation and reporting of the "Van Mitra Kalyan Yojana," a flagship state welfare scheme designed to provide direct benefit transfers to tribal communities for sustainable forest produce collection. The scheme aims to uplift thousands of vulnerable families.
 
-A sudden complication arises when Mr. Kumar discovers that a significant portion of the land earmarked for acquisition is owned by a real estate firm, 'Shakti Properties', in which his elder brother holds a substantial stake. His brother directly approaches him, subtly suggesting the possibility of a revised land valuation or a favourable interpretation of rehabilitation policies for his firm, citing potential financial ruin for the family business.
+As a crucial review of the scheme by the central government approaches, Rohan's immediate superior, the District Collector, instructs him to "adjust" certain beneficiary figures and disbursement amounts in the final report. The Collector explicitly states that achieving 100% target figures, irrespective of the ground reality, is essential to avoid negative political repercussions. Simultaneously, a powerful local political leader informally hints at significant career progression opportunities for Rohan if he ensures the report presents a flawless picture of the scheme's success. Rohan is aware that such manipulation would lead to genuine beneficiaries being overlooked and a misrepresentation of public funds utilisation.
 
-The Chief Secretary has set a strict deadline for the project's completion, local political leaders are vocal, some supporting the displaced farmers while others align with industrial interests. The decision will profoundly impact hundreds of farming families, the financial viability of his brother's firm, and the public's trust in the impartiality of the administration and Mr. Kumar's personal integrity.
+The integrity of the "Van Mitra Kalyan Yojana" and the welfare of thousands of tribal families are at stake. Rohan's decision will have significant consequences for his career, the credibility of the administration, and the trust placed in government welfare programs. Both compliance and resistance carry substantial personal and professional risks.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Mr. Alok Kumar? Evaluate each option with its merits and demerits. (100 words)
-(c) What course of action would you recommend to Mr. Kumar and why? How would he handle the various pressures involved? (150 words)
+(b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
+(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
