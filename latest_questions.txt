@@ -1,35 +1,35 @@
-Date: 21 Apr 2026
+Date: 22 Apr 2026
 
 ========================================
-GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
+GS-1 SOCIETY: Social Movements and Civil Society in India
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the forces of globalisation, while often perceived as homogenising, have simultaneously led to the reassertion and transformation of local cultural identities in contemporary India.
+Examine the evolving nature of engagement by civil society organizations in India, beyond traditional protest movements, towards strengthening democratic governance and fostering participatory policy-making.
 
 Q2. (10 Marks | 150 words)
-How has the burgeoning gig economy, a significant outcome of digital globalisation, fundamentally altered traditional notions of employment, labour rights, and social security frameworks for workers in India?
+Critically examine how emerging environmental and tribal rights movements navigate the complexities of development narratives and state policies in contemporary India, often facing challenges in securing equitable and sustainable outcomes.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multi-faceted impact of globalisation on women's economic participation and their evolving roles within Indian family structures, highlighting both the opportunities for empowerment and the emergence of new vulnerabilities.
+Discuss the multifaceted challenge of left-wing extremism in India, critically analysing its deep-seated socio-economic origins, the state's evolving security responses, and the efficacy of development interventions in addressing the root causes. Use suitable examples.
 
 ========================================
-GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
+GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how cultivating a robust culture of transparency and proactive disclosure, beyond mere legal compliance, can fundamentally strengthen ethical decision-making and enhance public trust in government administration.
+Explain the profound significance of the Nolan Principles of public life in establishing a robust ethical framework for civil services in India, particularly highlighting how selflessness and integrity can prevent administrative malpractice.
 
 Q5. (10 Marks | 150 words)
-A civil servant often faces a delicate balance between loyalty to their organisation and their paramount duty to serve the public interest. Discuss the ethical challenges involved when these two duties come into conflict, particularly in situations requiring institutional dissent.
+How should a civil servant navigate situations involving potential 'revolving door' conflicts of interest, especially when professional experience gained in public service could benefit a future private sector role? Examine the ethical dilemmas and strategies for mitigation.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Rohan Sharma is the District Project Coordinator (DPC) for the Rural Development Department in Mandla district, Madhya Pradesh. He is responsible for the ground-level implementation and reporting of the "Van Mitra Kalyan Yojana," a flagship state welfare scheme designed to provide direct benefit transfers to tribal communities for sustainable forest produce collection. The scheme aims to uplift thousands of vulnerable families.
+Aarti Sharma, a newly appointed Sub-Divisional Magistrate (SDM) in the rapidly urbanizing district of Bharatpur, is a sincere and idealistic IAS officer. Her responsibilities include overseeing land acquisition processes for public infrastructure projects and maintaining land records. She is committed to ensuring transparency and fairness in her administration.
 
-As a crucial review of the scheme by the central government approaches, Rohan's immediate superior, the District Collector, instructs him to "adjust" certain beneficiary figures and disbursement amounts in the final report. The Collector explicitly states that achieving 100% target figures, irrespective of the ground reality, is essential to avoid negative political repercussions. Simultaneously, a powerful local political leader informally hints at significant career progression opportunities for Rohan if he ensures the report presents a flawless picture of the scheme's success. Rohan is aware that such manipulation would lead to genuine beneficiaries being overlooked and a misrepresentation of public funds utilisation.
+During her review of a large-scale land acquisition for a proposed industrial corridor, Aarti uncovers significant discrepancies. She finds evidence suggesting that compensation packages for several plots have been deliberately undervalued, while certain land parcels belonging to politically connected private builders were acquired at exorbitant rates, far exceeding market value. Her immediate superior, the District Collector, subtly advises her to expedite the process without further scrutiny, citing 'development urgency,' while a prominent local political leader directly contacts her to ensure 'smooth passage' of the files.
 
-The integrity of the "Van Mitra Kalyan Yojana" and the welfare of thousands of tribal families are at stake. Rohan's decision will have significant consequences for his career, the credibility of the administration, and the trust placed in government welfare programs. Both compliance and resistance carry substantial personal and professional risks.
+The affected farmers, who stand to lose their ancestral land with inadequate compensation, are largely unaware of the extent of the undervaluation. Failure to act would perpetuate injustice and institutionalize corruption, while initiating an inquiry could jeopardize Aarti's career, invite political backlash, and potentially delay the crucial industrial project, affecting the district's development prospects.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Aarti Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
