@@ -1,35 +1,36 @@
-Date: 22 Apr 2026
+Date: 25 Apr 2026
 
 ========================================
-GS-1 SOCIETY: Social Movements and Civil Society in India
+GS-1 SOCIETY: Tribal Communities: Issues, Rights and Constitutional Safeguards
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving nature of engagement by civil society organizations in India, beyond traditional protest movements, towards strengthening democratic governance and fostering participatory policy-making.
+Examine the efficacy of the Fifth and Sixth Schedule provisions in safeguarding tribal land rights and cultural autonomy amidst contemporary challenges posed by rapid urbanization and infrastructure development in resource-rich regions.
 
 Q2. (10 Marks | 150 words)
-Critically examine how emerging environmental and tribal rights movements navigate the complexities of development narratives and state policies in contemporary India, often facing challenges in securing equitable and sustainable outcomes.
+Critically examine how the implementation of the Forest Rights Act, 2006, has navigated the complex interplay between forest conservation goals and the aspirations of tribal communities for livelihood security and traditional resource management, often leading to unresolved conflicts.
 
 Q3. (15 Marks | 250 words)
-Discuss the multifaceted challenge of left-wing extremism in India, critically analysing its deep-seated socio-economic origins, the state's evolving security responses, and the efficacy of development interventions in addressing the root causes. Use suitable examples.
+The forced displacement of tribal communities due to large-scale mining projects often creates a fertile ground for social unrest and insurgency. Discuss this statement, analysing the socio-economic impact on affected populations, the political implications for regional governance, and the legal challenges in ensuring equitable rehabilitation and grievance redressal.
 
 ========================================
-GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
+GS-4 ETHICS: Ethics in Public and Private Relationships
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the profound significance of the Nolan Principles of public life in establishing a robust ethical framework for civil services in India, particularly highlighting how selflessness and integrity can prevent administrative malpractice.
+Explain the significance of 'impartiality' and 'objectivity' for a civil servant, especially when navigating decisions that could directly or indirectly affect close friends or family members, potentially leading to conflicts of interest.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant navigate situations involving potential 'revolving door' conflicts of interest, especially when professional experience gained in public service could benefit a future private sector role? Examine the ethical dilemmas and strategies for mitigation.
+How should a civil servant ethically manage the receipt of unsolicited gifts and extensive hospitality from private entities or individuals who frequently interact with their department, ensuring public trust and preventing the perception of undue influence?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Aarti Sharma, a newly appointed Sub-Divisional Magistrate (SDM) in the rapidly urbanizing district of Bharatpur, is a sincere and idealistic IAS officer. Her responsibilities include overseeing land acquisition processes for public infrastructure projects and maintaining land records. She is committed to ensuring transparency and fairness in her administration.
 
-During her review of a large-scale land acquisition for a proposed industrial corridor, Aarti uncovers significant discrepancies. She finds evidence suggesting that compensation packages for several plots have been deliberately undervalued, while certain land parcels belonging to politically connected private builders were acquired at exorbitant rates, far exceeding market value. Her immediate superior, the District Collector, subtly advises her to expedite the process without further scrutiny, citing 'development urgency,' while a prominent local political leader directly contacts her to ensure 'smooth passage' of the files.
+Ms. Ananya Sharma, a diligent Deputy Secretary in the Ministry of Finance, uncovered a significant financial fraud involving fraudulent claims and embezzlement of public funds worth crores in a major infrastructure project. Following due process, she meticulously documented the irregularities and submitted a detailed report to the Vigilance Commissioner and her Joint Secretary.
 
-The affected farmers, who stand to lose their ancestral land with inadequate compensation, are largely unaware of the extent of the undervaluation. Failure to act would perpetuate injustice and institutionalize corruption, while initiating an inquiry could jeopardize Aarti's career, invite political backlash, and potentially delay the crucial industrial project, affecting the district's development prospects.
+Shortly after her report, Ms. Sharma began experiencing subtle but clear retaliation. Her work was being unduly scrutinized, important files were withheld, and her transfer to a remote, inconsequential post was being actively considered by her Joint Secretary, who appeared to be acting under pressure from a powerful political figure implicated in the fraud. Her family is deeply worried about her career and safety, urging her to retract or dilute her findings to avoid further persecution.
+
+Ms. Sharma's decision will directly impact the integrity of public service, the financial health of the state, the morale of honest officers, and the security and peace of mind of her family. Both pursuing the truth and succumbing to pressure carry severe, long-term consequences for all involved.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Aarti Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
