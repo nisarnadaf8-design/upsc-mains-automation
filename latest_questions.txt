@@ -1,35 +1,35 @@
-Date: 28 Apr 2026
+Date: 29 Apr 2026
 
 ========================================
-GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
+GS-1 SOCIETY: Media, Social Media and Their Role in Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the cultivation of robust social capital within diverse communities can act as a crucial mechanism for enhancing resilience against socio-economic disruptions and fostering truly inclusive development in the context of rapid technological change and increasing societal fragmentation.
+Examine how the proliferation of user-generated content and AI-driven news algorithms challenges traditional notions of media accountability in a democratic society. Discuss the implications for informed public discourse.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the evolving regulatory landscape, including recent FCRA amendments, has reshaped the operational space and efficacy of the voluntary sector in its foundational role of fostering state-citizen collaboration and addressing grassroots needs across India.
+What do you understand by the 'infodemic' phenomenon in the context of India? How has the uneven distribution of digital literacy and access to reliable information exacerbated its impact on social cohesion and public trust?
 
 Q3. (15 Marks | 250 words)
-Discuss the enduring relevance of the cooperative model in promoting equitable rural development and empowerment, drawing lessons from successful initiatives. Critically analyse the socio-economic and governance challenges hindering its widespread and sustainable replication, particularly in ensuring genuine community participation and gender inclusivity.
+Critically analyse the multifaceted challenges faced by regulatory bodies in India in addressing hate speech and incitement to violence on social media platforms, while upholding the constitutional right to freedom of expression. Discuss its social, political, and legal implications for a diverse democracy.
 
 ========================================
-GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
+GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the 'Responsibility to Protect' (R2P) doctrine in international relations? Discuss the ethical complexities for a nation-state and its civil service when balancing sovereign non-interference with universal human rights obligations in the face of grave humanitarian crises.
+Explain the significance of 'moral courage' as a foundational value for civil servants, particularly when confronted with situations involving political pressure or institutional corruption. How does it strengthen ethical governance?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemmas faced by civil servants tasked with implementing economic sanctions or restrictive trade policies that, while intended to achieve strategic foreign policy goals, may inadvertently exacerbate humanitarian crises or refugee flows in targeted regions. How can a balance be struck between national interest and global ethical responsibilities?
+How should a civil servant navigate the ethical dilemma arising from a conflict between their duty to uphold the law and a personal loyalty towards a senior political figure involved in an unethical practice? Discuss the administrative tools and principles that can guide such decisions.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Rakesh Kumar, an Under Secretary in the Department of Defence Procurement, Ministry of Defence, New Delhi, is responsible for processing sensitive government contracts. His department recently concluded negotiations for a critical defense system, a process involving national security considerations and substantial public funds.
+Rohan Sharma, a relatively new but respected Sub-Divisional Magistrate (SDM) in the Revenue Department, is known for his strict adherence to rules and proactive approach to public welfare in Mandar District, a semi-urban area. During a routine inspection of industrial units in his sub-division, following a tip-off about unregistered units, he discovers a large textile factory.
 
-An RTI applicant has sought detailed records, including internal deliberations and commercial terms, related to this procurement. While Rakesh believes in transparency, a confidential circular from his Joint Secretary explicitly warns against disclosing information that could compromise national security or ongoing diplomatic relations. Simultaneously, the Minister's office has indirectly communicated the political sensitivity of the matter, fearing public backlash or international implications if certain details are prematurely revealed.
+The factory, 'Grand Textiles', is found to employ a significant number of underage children in hazardous conditions. During the raid, Rohan's team collects irrefutable evidence. Immediately after the raid, Rohan receives a call from his District Collector, subtly hinting at the factory's owner being Mr. Jayant Singh, a powerful state cabinet minister and a key figure in the ruling party, known for his influence over transfers and postings. The Collector advises caution, suggesting a "less confrontational" approach. Rohan's family also expresses concern about potential repercussions if he acts against such a powerful person.
 
-His decision will impact the RTI applicant's right to information, national security, the integrity of ongoing diplomatic negotiations, the public's trust in government, and his own career progression. Both full disclosure and complete denial carry significant and potentially damaging consequences.
+The child labourers, their families, the factory owner, the local community, the district administration, the judiciary, and the integrity of public service are all significant stakeholders. Rohan's decision will have profound implications for the children's future, the rule of law, the public perception of governance, and his own career trajectory.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rakesh Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
