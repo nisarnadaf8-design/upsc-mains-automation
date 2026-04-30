@@ -1,35 +1,36 @@
-Date: 29 Apr 2026
+Date: 30 Apr 2026
 
 ========================================
-GS-1 SOCIETY: Media, Social Media and Their Role in Society
+GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the proliferation of user-generated content and AI-driven news algorithms challenges traditional notions of media accountability in a democratic society. Discuss the implications for informed public discourse.
+Examine how the traditional understanding of caste as a closed social institution is being challenged and reconfigured by the forces of globalization and increased digital interconnectedness in India.
 
 Q2. (10 Marks | 150 words)
-What do you understand by the 'infodemic' phenomenon in the context of India? How has the uneven distribution of digital literacy and access to reliable information exacerbated its impact on social cohesion and public trust?
+Critically analyse the extent to which the processes of Sanskritisation and Westernisation continue to influence social mobility patterns, particularly for aspirational youth in India's rapidly urbanizing landscapes today.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multifaceted challenges faced by regulatory bodies in India in addressing hate speech and incitement to violence on social media platforms, while upholding the constitutional right to freedom of expression. Discuss its social, political, and legal implications for a diverse democracy.
+Discuss the multi-dimensional challenges of implementing reservation policies effectively in the contemporary socio-economic and political landscape, considering their impact on equitable development, perceived meritocracy, and the evolving demands for inclusion.
 
 ========================================
-GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
+GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'moral courage' as a foundational value for civil servants, particularly when confronted with situations involving political pressure or institutional corruption. How does it strengthen ethical governance?
+Explain the inherent tension between an individual public servant's reliance on personal conscience as a moral compass and the imperative to adhere to institutional rules and established societal norms in administrative decision-making.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant navigate the ethical dilemma arising from a conflict between their duty to uphold the law and a personal loyalty towards a senior political figure involved in an unethical practice? Discuss the administrative tools and principles that can guide such decisions.
+How can Gilligan's framework of 'ethics of care' be practically integrated into public service delivery mechanisms to ensure a more empathetic and responsive approach, especially when universal regulations may not adequately address specific individual vulnerabilities?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Rohan Sharma, a relatively new but respected Sub-Divisional Magistrate (SDM) in the Revenue Department, is known for his strict adherence to rules and proactive approach to public welfare in Mandar District, a semi-urban area. During a routine inspection of industrial units in his sub-division, following a tip-off about unregistered units, he discovers a large textile factory.
 
-The factory, 'Grand Textiles', is found to employ a significant number of underage children in hazardous conditions. During the raid, Rohan's team collects irrefutable evidence. Immediately after the raid, Rohan receives a call from his District Collector, subtly hinting at the factory's owner being Mr. Jayant Singh, a powerful state cabinet minister and a key figure in the ruling party, known for his influence over transfers and postings. The Collector advises caution, suggesting a "less confrontational" approach. Rohan's family also expresses concern about potential repercussions if he acts against such a powerful person.
+Rahul Sharma is a diligent District Magistrate in Bharatpur District, known for his integrity and efficiency. His current focus is the successful completion and allocation of units under a flagship public housing scheme for Economically Weaker Sections (EWS), a project he has managed transparently from its inception. The final list of verified beneficiaries is ready for approval.
 
-The child labourers, their families, the factory owner, the local community, the district administration, the judiciary, and the integrity of public service are all significant stakeholders. Rohan's decision will have profound implications for the children's future, the rule of law, the public perception of governance, and his own career trajectory.
+Suddenly, a powerful ruling party MLA from a neighbouring constituency, Mr. Singh, approaches Rahul with an unofficial list, demanding that several completed housing units be reallocated to his political supporters, many of whom clearly do not meet the strict eligibility criteria. Mr. Singh suggests that non-compliance could lead to "unnecessary scrutiny" of Rahul's work or a "challenging transfer." Rahul's immediate superior, the Divisional Commissioner, later advises him to "find an amicable solution" to avoid political friction, implying flexibility is expected.
+
+If Rahul were to comply, numerous deserving EWS families would be deprived of their legitimate homes and the integrity of a vital social welfare program would be compromised. If he refuses, he risks facing severe political repercussions and potential career instability, while also navigating the implicit pressure from his superior.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rahul Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
