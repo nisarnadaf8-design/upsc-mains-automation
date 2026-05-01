@@ -1,36 +1,35 @@
-Date: 30 Apr 2026
+Date: 01 May 2026
 
 ========================================
-GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
+GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the traditional understanding of caste as a closed social institution is being challenged and reconfigured by the forces of globalization and increased digital interconnectedness in India.
+Examine how the intersection of persistent gender gap in workforce participation and the digital divide perpetuates intergenerational vulnerability for women and their families in India.
 
 Q2. (10 Marks | 150 words)
-Critically analyse the extent to which the processes of Sanskritisation and Westernisation continue to influence social mobility patterns, particularly for aspirational youth in India's rapidly urbanizing landscapes today.
+Critically examine the effectiveness of legal and institutional frameworks in transforming societal attitudes towards gender-based violence, beyond mere punitive measures.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-dimensional challenges of implementing reservation policies effectively in the contemporary socio-economic and political landscape, considering their impact on equitable development, perceived meritocracy, and the evolving demands for inclusion.
+Discuss the multi-faceted challenges faced by women in translating increased political representation into substantive empowerment, addressing social, economic, and power dynamics at local governance levels.
 
 ========================================
-GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
+GS-4 ETHICS: Attitude: Formation, Change and Social Influence
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the inherent tension between an individual public servant's reliance on personal conscience as a moral compass and the imperative to adhere to institutional rules and established societal norms in administrative decision-making.
+Explain how an administrator's deeply ingrained personal attitudes, even subconscious ones, can inadvertently influence their ethical decision-making process and impact public trust.
 
 Q5. (10 Marks | 150 words)
-How can Gilligan's framework of 'ethics of care' be practically integrated into public service delivery mechanisms to ensure a more empathetic and responsive approach, especially when universal regulations may not adequately address specific individual vulnerabilities?
+How should a civil servant navigate the ethical dilemma arising from societal pressures and the need to uphold constitutional morality when their personal attitudes are challenged by institutional norms or prevalent prejudices?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Avantika Sharma, a young and earnest IAS officer, serves as the Sub-Divisional Magistrate in Jagannathpur district, a coastal region in Odisha known for its vulnerability to natural disasters. Following a devastating super-cyclone that ravaged the district, she is at the forefront of coordinating extensive relief and rehabilitation efforts, overseeing distribution of essential supplies, medical camps, and temporary shelter construction.
 
-Rahul Sharma is a diligent District Magistrate in Bharatpur District, known for his integrity and efficiency. His current focus is the successful completion and allocation of units under a flagship public housing scheme for Economically Weaker Sections (EWS), a project he has managed transparently from its inception. The final list of verified beneficiaries is ready for approval.
+During her field visits and review of procurement records, Avantika uncovers irrefutable evidence of large-scale irregularities in the allocation of contracts for temporary shelters and procurement of emergency relief materials, pointing towards active collusion and misappropriation of funds by her immediate superior, the District Collector, Mr. Rajeev Mehta. Simultaneously, the influential local MLA, whose family business incidentally secured some of these contracts, subtly advises Avantika to focus on 'expeditious delivery' rather than 'unnecessary scrutiny', hinting at potential career hurdles if she 'disrupts the established process'.
 
-Suddenly, a powerful ruling party MLA from a neighbouring constituency, Mr. Singh, approaches Rahul with an unofficial list, demanding that several completed housing units be reallocated to his political supporters, many of whom clearly do not meet the strict eligibility criteria. Mr. Singh suggests that non-compliance could lead to "unnecessary scrutiny" of Rahul's work or a "challenging transfer." Rahul's immediate superior, the Divisional Commissioner, later advises him to "find an amicable solution" to avoid political friction, implying flexibility is expected.
-
-If Rahul were to comply, numerous deserving EWS families would be deprived of their legitimate homes and the integrity of a vital social welfare program would be compromised. If he refuses, he risks facing severe political repercussions and potential career instability, while also navigating the implicit pressure from his superior.
+Avantika faces immense pressure to either ignore the corruption for the sake of perceived 'smooth operations' and career stability, or expose it, knowing it could tarnish the district administration's image, delay critical relief efforts temporarily, and potentially put her own career and safety at risk. The lives and immediate recovery of thousands of vulnerable cyclone victims hang in the balance, dependent on the integrity of the relief distribution system.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rahul Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Avantika Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
