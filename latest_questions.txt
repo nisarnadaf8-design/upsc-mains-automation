@@ -1,45 +1,35 @@
-Date: 02 May 2026
+Date: 03 May 2026
 
 ========================================
-GS-1 SOCIETY: Communalism, Regionalism and Secularism
+GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the evolving interpretation of constitutional secularism in India navigates the complexities posed by demands for a uniform civil code and the protection of distinct community personal laws, ensuring both equality and diversity.
+Examine how India can strategically capitalize on its current demographic advantage to foster sustainable economic growth while simultaneously devising robust social security frameworks to mitigate the challenges posed by its impending ageing population.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the strategic deployment of communal narratives by political actors impacts electoral outcomes and undermines the spirit of inclusive governance in India's multi-party democracy.
+Critically analyse the efficacy of comprehensive population policies that extend beyond traditional fertility control measures to address issues of maternal health, skill development, and gender equality across diverse regional demographics in India.
 
 Q3. (15 Marks | 250 words)
-Discuss how growing regional economic disparities and linguistic identity assertions pose multifaceted challenges to national integration. Examine, with suitable examples, how these forces can simultaneously foster unique cultural expressions and also strain federal relations, requiring nuanced policy responses that address social, economic, and political dimensions.
+Discuss the multi-dimensional impacts of reverse migration and intra-state labour mobility, exacerbated by recent economic shifts, on India's rural economies, urban labour markets, social cohesion, and the political representation of migrant workers. Provide suitable examples.
 
 ========================================
-GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
+GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'intellectual integrity' for a civil servant in an era of information overload and polarised public discourse. How does it enable objective decision-making and uphold evidence-based policy formulation?
+Explain the significance of fostering self-awareness and empathetic understanding as core components of emotional intelligence for civil servants, enabling them to navigate complex ethical dilemmas and build trust with diverse stakeholders.
 
 Q5. (10 Marks | 150 words)
-In situations where legitimate administrative decisions face intense political scrutiny and informal pressure, how should a civil servant uphold the principle of impartiality without jeopardizing their operational effectiveness or career progression?
+How should a civil servant leverage emotional intelligence to manage public grievances effectively and prevent burnout among their team members, especially when operating under immense resource constraints and public scrutiny?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Superintendent of Police, Ms. Ananya Sharma, posted in the industrially growing district of Rampur, [State], has been lauded for her integrity and proactive approach to law enforcement. Her current assignment involves overseeing a major public safety project to install smart surveillance systems across the district, funded significantly by the state government, aiming to curb rising crime rates.
 
-Ms. Avantika Sharma, an upright District Collector of the remote, resource-rich district of Janajeevani, has been overseeing the implementation of a major infrastructure project – a multi-purpose dam – deemed critical for regional development by the state government. The project requires the acquisition of a significant tract of forest land, traditionally inhabited by the vulnerable 'Dongri' tribal community, who hold ancestral rights to the land.
+During a routine audit of project expenditures, Ms. Sharma uncovers discrepancies suggesting large-scale embezzlement involving inflated contracts and non-existent procurements. The preliminary findings point towards the involvement of several senior police officials within her own department, including a close aide of the Inspector General. A local political leader, whose associates secured some of the questionable contracts, has subtly warned her against 'disrupting the peace' if she pursues the matter further.
 
-Recently, the State Chief Minister's office has instructed Ms. Sharma to expedite the land acquisition process and resettlement of the Dongri community within an unprecedented six-month deadline, citing national strategic importance and impending central funding expiration. However, her ground assessments, supported by local NGOs and community leaders, indicate that the proposed rehabilitation package is inadequate, the alternative land unsuitable, and forced relocation would severely disrupt their traditional way of life, social cohesion, and unique cultural practices, potentially leading to widespread resentment and social unrest. A powerful state minister is personally monitoring the progress and has conveyed displeasure at any delays.
-
-The decision will profoundly affect thousands of Dongri tribals, impacting their livelihood, identity, and future generations. On the other hand, delaying the project risks loss of crucial state funding, political backlash from the government, and may be perceived as hindering vital development, leading to criticism from other local stakeholders who stand to benefit from the dam.
+Her decision to expose the scam could lead to a major shake-up within the police hierarchy, loss of public trust if concealed, and potential threats to her career and personal safety. Conversely, inaction would compromise her integrity, perpetuate corruption, and deprive citizens of essential safety infrastructure. The public, the police force, and the state's reputation are all at stake.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-The ethical issues involve balancing tribal welfare and rights against state development mandates, maintaining administrative integrity amidst political pressure, ensuring empathetic and just rehabilitation, and upholding impartiality in decision-making when faced with competing interests.
-
-(b) What are the options available to Ms. Avantika Sharma? Evaluate each option with its merits and demerits. (100 words)
-Option 1: Strictly follow state orders. Merits: Avoids political backlash, ensures project continuity. Demerits: Violates tribal rights, risks social unrest, compromises ethical governance, fuels injustice.
-Option 2: Resolutely resist state orders, prioritize tribal rights. Merits: Upholds constitutional values, protects vulnerable. Demerits: Risks insubordination, career repercussions, potential project cancellation.
-Option 3: Propose a revised, comprehensive rehabilitation plan. Merits: Seeks a just, sustainable solution, balances development with welfare, demonstrates leadership. Demerits: Requires skillful negotiation, may still face resistance and time constraints.
-
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
-I would recommend Option 3: Ms. Sharma should formally communicate her concerns to the Chief Minister's office, providing a detailed, evidence-based report highlighting the deficiencies in the current rehabilitation package and the potential long-term socio-cultural costs of forced relocation. She should concurrently propose an enhanced, culturally sensitive, and legally compliant rehabilitation and resettlement plan, clearly outlining its feasibility and benefits.
-
-To handle pressures, she must maintain meticulous documentation of all communications and assessments. She should proactively engage with tribal representatives and state officials, acting as a facilitator to find common ground. Leveraging support from constitutional bodies or expert committees on tribal affairs could also strengthen her position. Her approach must be firm in principle, but collaborative in execution, demonstrating dedication to both public welfare and institutional integrity.
