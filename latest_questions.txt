@@ -1,35 +1,36 @@
-Date: 04 May 2026
+Date: 05 May 2026
 
 ========================================
-GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
+GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how a persistent focus solely on income-based poverty measures overlooks critical dimensions of human deprivation and impacts policy effectiveness for achieving truly inclusive growth in India.
+Discuss the inherent tension between the 'smart city' ideal and the organic growth of informal settlements, considering both as outcomes of urbanisation in India and reflections of governance efficacy.
 
 Q2. (10 Marks | 150 words)
-Critically examine how intergenerational lack of access to quality education perpetuates cycles of social exclusion among historically marginalized communities, thereby impeding their full participation in the mainstream economy.
+How has the demographic shift driven by rural-urban migration exacerbated the stress on metropolitan infrastructure and essential services, particularly concerning water and waste management in rapidly urbanising regions?
 
 Q3. (15 Marks | 250 words)
-Discuss the socio-economic and gender transformative impacts of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) in addressing rural poverty, while also highlighting the persistent structural and administrative gaps hindering its full potential.
+Examine the multi-dimensional challenges faced by urban local bodies in leveraging the promise of decentralisation to manage rapid urbanisation, particularly concerning social equity, economic sustainability, and environmental resilience.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
+GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by Dr. B.R. Ambedkar’s concept of 'constitutional morality'? Explain its significance for public servants navigating the intricate balance between popular social customs and the fundamental principles enshrined in the Constitution.
+Explain how Aristotle’s concept of 'phronesis' or practical wisdom, coupled with cultivated character virtues, is fundamental for an ideal civil servant navigating complex policy decisions in a diverse democratic society.
 
 Q5. (10 Marks | 150 words)
-How can the Gandhian principles of 'Trusteeship' and 'Sarvodaya' provide a moral framework for modern public administrators in India to address the equitable distribution of resources and promote sustainable, grassroots-centric development?
+How should a civil servant reconcile the utilitarian principle of 'greatest good for the greatest number' with Kantian notions of individual rights and duties when implementing large-scale development projects that impact vulnerable communities?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Anjali Sharma, a diligent District Magistrate in Shahjahanpur, is known for her impeccable integrity and efficient administration. Her office is currently processing a critical land acquisition dispute involving an ancestral property claim, which has been a contentious issue in the district for years.
 
-Recently, Anjali discovered that her paternal uncle, who has a significant political presence in the region, is one of the primary claimants in the land dispute case currently awaiting her final administrative review. Her family insists that she fast-track the decision in their favour, citing family loyalty. Simultaneously, a local political leader, with vested interests in the opposing party, has subtly threatened to raise questions about her impartiality if she doesn't recuse herself or delay the process.
+Ms. Ananya Sharma is a young and diligent Sub-Divisional Magistrate (SDM) in the fictional district of Kailashpur, known for its socio-cultural diversity but also underlying communal sensitivities. For the past six months, she has been instrumental in maintaining peace through proactive community engagement and impartial enforcement of law and order. Recently, tensions have escalated in a specific locality following a minor dispute between two community groups that has been fueled by misinformation.
 
-The decision will profoundly affect numerous landless families who have built their homes on parts of the disputed land, the public's trust in the fairness of the district administration, and Anjali’s personal reputation. Both expediting or delaying the case, or a decision in any direction, carry significant ethical and social consequences.
+As Ananya prepares to deploy preventative measures and conduct peace committee meetings, she receives direct instructions from a powerful state minister, her political master, to take a decisively biased stance against one particular community. The minister, seeking to consolidate his vote bank, explicitly asks her to selectively apply crowd control measures and register FIRs disproportionately. Her immediate superior, the District Magistrate, subtly advises her to "manage the situation carefully, keeping in mind the political realities."
+
+Ananya's decision will directly impact the lives and safety of thousands of citizens, the fragile communal harmony in Kailashpur, her professional integrity and career, and the credibility of the administration. Both strict adherence to impartiality and compliance with political directives carry significant and potentially volatile consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
