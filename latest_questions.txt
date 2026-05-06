@@ -1,36 +1,36 @@
-Date: 05 May 2026
+Date: 06 May 2026
 
 ========================================
-GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
+GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Discuss the inherent tension between the 'smart city' ideal and the organic growth of informal settlements, considering both as outcomes of urbanisation in India and reflections of governance efficacy.
+Examine how the pervasive influence of global digital content platforms has subtly reshaped the cultural consumption patterns and identity formation among Indian youth, leading to a dynamic tension between emergent global trends and resilient local traditions. Discuss the implications for cultural diversity.
 
 Q2. (10 Marks | 150 words)
-How has the demographic shift driven by rural-urban migration exacerbated the stress on metropolitan infrastructure and essential services, particularly concerning water and waste management in rapidly urbanising regions?
+What do you understand by the 'precariat' as a sociological concept, and how has the expansion of the gig economy, fueled by globalisation, contributed to its growth and altered the traditional notions of employment security and social safety nets for a significant segment of the Indian workforce? Critically examine.
 
 Q3. (15 Marks | 250 words)
-Examine the multi-dimensional challenges faced by urban local bodies in leveraging the promise of decentralisation to manage rapid urbanisation, particularly concerning social equity, economic sustainability, and environmental resilience.
+Critically analyse the multi-faceted impact of accelerated globalisation on the stability and transformation of the Indian joint family system, particularly within urban middle-class households. Discuss how economic pressures, evolving social values, and changing gender roles contribute to the rise of nuclear families and altered intergenerational relationships.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
+GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how Aristotle’s concept of 'phronesis' or practical wisdom, coupled with cultivated character virtues, is fundamental for an ideal civil servant navigating complex policy decisions in a diverse democratic society.
+Explain the significance of transparency and accountability as twin pillars of probity in governance, outlining how their robust institutionalisation can effectively counter corruption and strengthen the social contract between the state and its citizens in a democratic setup. Illustrate with examples.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant reconcile the utilitarian principle of 'greatest good for the greatest number' with Kantian notions of individual rights and duties when implementing large-scale development projects that impact vulnerable communities?
+How should a civil servant ethically navigate situations involving a potential conflict of interest arising from strong personal or familial ties intersecting with their official duties, especially in policy formulation or resource allocation? Examine the challenges and propose strategies for maintaining impartiality and public trust.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Ms. Ananya Sharma is a young and diligent Sub-Divisional Magistrate (SDM) in the fictional district of Kailashpur, known for its socio-cultural diversity but also underlying communal sensitivities. For the past six months, she has been instrumental in maintaining peace through proactive community engagement and impartial enforcement of law and order. Recently, tensions have escalated in a specific locality following a minor dispute between two community groups that has been fueled by misinformation.
+Anjali Sharma, a diligent District Nodal Officer for the 'Gram Samridhi Awaas Yojana' (GSAY) under the Ministry of Rural Development, has been posted in the resource-scarce Ramgarh District of Bihar for the past two years. Her primary responsibility involves overseeing the scheme's implementation, monitoring beneficiary selection, and preparing quarterly progress reports detailing its impact on the rural poor.
 
-As Ananya prepares to deploy preventative measures and conduct peace committee meetings, she receives direct instructions from a powerful state minister, her political master, to take a decisively biased stance against one particular community. The minister, seeking to consolidate his vote bank, explicitly asks her to selectively apply crowd control measures and register FIRs disproportionately. Her immediate superior, the District Magistrate, subtly advises her to "manage the situation carefully, keeping in mind the political realities."
+As the deadline for the crucial annual impact assessment report approaches, Anjali receives a directive from the Principal Secretary of her department, heavily influenced by the local Member of Legislative Assembly (MLA), to 'adjust' the data. Specifically, she is asked to inflate the number of successful housing completions and exaggerate the income generation figures for beneficiaries, despite her ground surveys indicating only moderate progress due to various logistical and funding challenges. This manipulation is intended to ensure continued central funding and boost the MLA's political standing.
 
-Ananya's decision will directly impact the lives and safety of thousands of citizens, the fragile communal harmony in Kailashpur, her professional integrity and career, and the credibility of the administration. Both strict adherence to impartiality and compliance with political directives carry significant and potentially volatile consequences.
+Anjali faces an ethical dilemma where complying would mean compromising her professional integrity and misleading the public and policymakers, while refusing could invite administrative repercussions, including a transfer or stalled career progression. Her decision will directly impact thousands of deserving rural families, the credibility of the welfare scheme, and the overall transparency of governance.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
