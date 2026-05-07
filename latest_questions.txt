@@ -1,36 +1,36 @@
-Date: 06 May 2026
+Date: 07 May 2026
 
 ========================================
-GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
+GS-1 SOCIETY: Social Movements and Civil Society in India
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the pervasive influence of global digital content platforms has subtly reshaped the cultural consumption patterns and identity formation among Indian youth, leading to a dynamic tension between emergent global trends and resilient local traditions. Discuss the implications for cultural diversity.
+Examine how the proliferation of digital platforms and transnational advocacy networks has transformed the landscape of social movements in India, particularly in strengthening public accountability of state and corporate power.
 
 Q2. (10 Marks | 150 words)
-What do you understand by the 'precariat' as a sociological concept, and how has the expansion of the gig economy, fueled by globalisation, contributed to its growth and altered the traditional notions of employment security and social safety nets for a significant segment of the Indian workforce? Critically examine.
+Critically examine the inherent tension between national developmental aspirations and the assertion of traditional community rights, as manifested in contemporary tribal rights movements against large-scale resource extraction projects in India.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multi-faceted impact of accelerated globalisation on the stability and transformation of the Indian joint family system, particularly within urban middle-class households. Discuss how economic pressures, evolving social values, and changing gender roles contribute to the rise of nuclear families and altered intergenerational relationships.
+Discuss the multifaceted challenges posed by prolonged Naxalite insurgency in India, evaluating its socio-economic roots, the state's security and developmental responses, and its impact on local governance and human rights in the affected regions.
 
 ========================================
-GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
+GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of transparency and accountability as twin pillars of probity in governance, outlining how their robust institutionalisation can effectively counter corruption and strengthen the social contract between the state and its citizens in a democratic setup. Illustrate with examples.
+Explain the significance of 'selflessness' and 'integrity' as fundamental Nolan Principles in fostering public trust, especially when civil servants face pressures to prioritize narrow interests over the broader public good.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant ethically navigate situations involving a potential conflict of interest arising from strong personal or familial ties intersecting with their official duties, especially in policy formulation or resource allocation? Examine the challenges and propose strategies for maintaining impartiality and public trust.
+Examine the ethical complexities and challenges faced by a senior public official transitioning into a leadership role in a private sector entity that previously engaged significantly with their former government department, particularly regarding potential 'revolving door' conflicts of interest.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Anjali Sharma, a diligent District Nodal Officer for the 'Gram Samridhi Awaas Yojana' (GSAY) under the Ministry of Rural Development, has been posted in the resource-scarce Ramgarh District of Bihar for the past two years. Her primary responsibility involves overseeing the scheme's implementation, monitoring beneficiary selection, and preparing quarterly progress reports detailing its impact on the rural poor.
+Ms. Aanya Sharma, a recently posted Sub-Divisional Magistrate (SDM) in District Rudrapur, is keen to establish a reputation for fairness and efficiency. She is overseeing the land acquisition process for a crucial industrial corridor project, a high priority for the state government aimed at boosting regional employment and investment.
 
-As the deadline for the crucial annual impact assessment report approaches, Anjali receives a directive from the Principal Secretary of her department, heavily influenced by the local Member of Legislative Assembly (MLA), to 'adjust' the data. Specifically, she is asked to inflate the number of successful housing completions and exaggerate the income generation figures for beneficiaries, despite her ground surveys indicating only moderate progress due to various logistical and funding challenges. This manipulation is intended to ensure continued central funding and boost the MLA's political standing.
+During her review, Aanya uncovers disturbing irregularities where prime agricultural land, intended for public utility, is being acquired at significantly undervalued rates. Initial inquiries suggest a nexus between local revenue officials, a powerful private real estate conglomerate, and a politically influential local MLA. Her immediate superior, the District Collector, subtly hints at the need for "smooth execution" and avoiding "unnecessary delays or complications" when Aanya raises her preliminary concerns.
 
-Anjali faces an ethical dilemma where complying would mean compromising her professional integrity and misleading the public and policymakers, while refusing could invite administrative repercussions, including a transfer or stalled career progression. Her decision will directly impact thousands of deserving rural families, the credibility of the welfare scheme, and the overall transparency of governance.
+Thousands of marginal farmers stand to lose their land and livelihood without fair compensation, threatening to erupt into widespread protests. The integrity of the land acquisition process itself, along with public trust in the administration, is at stake. Aanya realises that both action and inaction carry severe personal and professional consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Aanya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
