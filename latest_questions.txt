@@ -1,36 +1,36 @@
-Date: 07 May 2026
+Date: 08 May 2026
 
 ========================================
-GS-1 SOCIETY: Social Movements and Civil Society in India
+GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the proliferation of digital platforms and transnational advocacy networks has transformed the landscape of social movements in India, particularly in strengthening public accountability of state and corporate power.
+Examine the extent to which the National Education Policy 2020 is poised to bridge the digital learning divide and enhance educational quality across India, considering the socio-economic disparities inherent in its implementation challenges.
 
 Q2. (10 Marks | 150 words)
-Critically examine the inherent tension between national developmental aspirations and the assertion of traditional community rights, as manifested in contemporary tribal rights movements against large-scale resource extraction projects in India.
+Critically examine how robust early childhood care and education, as envisioned by NEP 2020, can fundamentally reshape social mobility and mitigate intergenerational poverty in diverse Indian contexts.
 
 Q3. (15 Marks | 250 words)
-Discuss the multifaceted challenges posed by prolonged Naxalite insurgency in India, evaluating its socio-economic roots, the state's security and developmental responses, and its impact on local governance and human rights in the affected regions.
+Discuss the multi-faceted implications of increasing commercialisation in higher education on equity, access for marginalized groups, and the overall quality of research and pedagogy in India. What regulatory measures could foster a more inclusive and high-quality system?
 
 ========================================
-GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
+GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'selflessness' and 'integrity' as fundamental Nolan Principles in fostering public trust, especially when civil servants face pressures to prioritize narrow interests over the broader public good.
+Explain the significance of 'moral imagination' for a civil servant in identifying and resisting systemic pressures that often lead to subtle forms of corruption, even in the absence of direct personal gain.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical complexities and challenges faced by a senior public official transitioning into a leadership role in a private sector entity that previously engaged significantly with their former government department, particularly regarding potential 'revolving door' conflicts of interest.
+Examine the ethical challenges faced by public administrators in leveraging emerging technologies like AI and blockchain for corruption prevention, ensuring data privacy, accountability, and avoiding new forms of digital discrimination.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Ms. Aanya Sharma, a recently posted Sub-Divisional Magistrate (SDM) in District Rudrapur, is keen to establish a reputation for fairness and efficiency. She is overseeing the land acquisition process for a crucial industrial corridor project, a high priority for the state government aimed at boosting regional employment and investment.
+Ms. Ananya Sharma, an honest and dedicated District Magistrate of Sundergarh district, Odisha, is spearheading the emergency response in May 2026. The district has recently been devastated by unprecedented monsoon floods, causing widespread displacement and destruction. The central government has allocated substantial emergency relief funds, and Ms. Sharma is personally overseeing their distribution to ensure swift and equitable aid reaches the affected population.
 
-During her review, Aanya uncovers disturbing irregularities where prime agricultural land, intended for public utility, is being acquired at significantly undervalued rates. Initial inquiries suggest a nexus between local revenue officials, a powerful private real estate conglomerate, and a politically influential local MLA. Her immediate superior, the District Collector, subtly hints at the need for "smooth execution" and avoiding "unnecessary delays or complications" when Aanya raises her preliminary concerns.
+Just as the relief operations gain momentum, Ms. Sharma receives a direct order from a senior political leader to divert a significant portion of the allocated funds towards a road construction project in his constituency, citing 'long-term development' and 'political expediency' as reasons. Concurrently, her departmental secretary subtly hints that cooperation would ensure smoother career progression, while local community leaders from the most severely hit areas are clamoring for immediate and full aid.
 
-Thousands of marginal farmers stand to lose their land and livelihood without fair compensation, threatening to erupt into widespread protests. The integrity of the land acquisition process itself, along with public trust in the administration, is at stake. Aanya realises that both action and inaction carry severe personal and professional consequences.
+The decision will profoundly affect thousands of flood victims awaiting essential supplies and shelter, as well as the credibility of the administration and public trust. Diverting funds could alleviate political pressure but leave vulnerable communities suffering, while refusing could lead to professional repercussions for Ms. Sharma and potential disruption of future relief efforts.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Aanya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
