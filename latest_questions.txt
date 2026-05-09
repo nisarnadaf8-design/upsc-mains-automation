@@ -1,36 +1,35 @@
-Date: 08 May 2026
+Date: 09 May 2026
 
 ========================================
-GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
+GS-1 SOCIETY: Health: Public Health System and Social Determinants
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the extent to which the National Education Policy 2020 is poised to bridge the digital learning divide and enhance educational quality across India, considering the socio-economic disparities inherent in its implementation challenges.
+Examine how the intricate interplay of socio-economic disparities, particularly caste and income inequality, fundamentally exacerbates vulnerabilities within India's public health system, hindering equitable access and effective service delivery across diverse populations.
 
 Q2. (10 Marks | 150 words)
-Critically examine how robust early childhood care and education, as envisioned by NEP 2020, can fundamentally reshape social mobility and mitigate intergenerational poverty in diverse Indian contexts.
+Critically examine the growing challenge of mental health as a distinct and often neglected public health crisis in India. How do societal stigma and historical resource allocation patterns perpetuate this divide, significantly impacting overall national well-being?
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted implications of increasing commercialisation in higher education on equity, access for marginalized groups, and the overall quality of research and pedagogy in India. What regulatory measures could foster a more inclusive and high-quality system?
+Discuss the multi-faceted challenges in achieving genuine universal health coverage in India, extending beyond mere financial protection offered by schemes like Ayushman Bharat. Critically analyse its implications across social equity, economic productivity, and administrative efficiency, citing relevant data trends from recent health surveys.
 
 ========================================
-GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
+GS-4 ETHICS: Corporate Governance and Business Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'moral imagination' for a civil servant in identifying and resisting systemic pressures that often lead to subtle forms of corruption, even in the absence of direct personal gain.
+What do you understand by the 'stewardship principle' in corporate governance, and how does its adherence align with the broader public interest, particularly when a civil servant interacts with industrial regulatory frameworks?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical challenges faced by public administrators in leveraging emerging technologies like AI and blockchain for corruption prevention, ensuring data privacy, accountability, and avoiding new forms of digital discrimination.
+Examine the ethical dilemmas a public servant faces when navigating corporate lobbying for policy relaxations, especially regarding environmental norms. How should the principles of impartiality and transparency guide their decision-making in such situations?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Aakash Sharma, a diligent District Environmental Officer in the State Pollution Control Board, is posted in Rudrapur, a rapidly industrializing district. His role involves ensuring industries comply with environmental regulations and issuing compliance reports. Recently, his team conducted an inspection of 'Greenfield Petrochemicals Ltd.', a major employer and influential company in the region.
 
-Ms. Ananya Sharma, an honest and dedicated District Magistrate of Sundergarh district, Odisha, is spearheading the emergency response in May 2026. The district has recently been devastated by unprecedented monsoon floods, causing widespread displacement and destruction. The central government has allocated substantial emergency relief funds, and Ms. Sharma is personally overseeing their distribution to ensure swift and equitable aid reaches the affected population.
+The inspection report detailed significant violations related to untreated industrial discharge into a local river and improper hazardous waste disposal. However, before Aakash could initiate action, he received a call from his Principal Secretary, subtly hinting at "exercising discretion" due to the company's economic contribution. A local political leader also directly urged him to re-evaluate the findings, suggesting strict action could jeopardize the region's industrial climate and Aakash's career, while the company CEO offered to "contribute generously" to local development if the matter was resolved amicably.
 
-Just as the relief operations gain momentum, Ms. Sharma receives a direct order from a senior political leader to divert a significant portion of the allocated funds towards a road construction project in his constituency, citing 'long-term development' and 'political expediency' as reasons. Concurrently, her departmental secretary subtly hints that cooperation would ensure smoother career progression, while local community leaders from the most severely hit areas are clamoring for immediate and full aid.
-
-The decision will profoundly affect thousands of flood victims awaiting essential supplies and shelter, as well as the credibility of the administration and public trust. Diverting funds could alleviate political pressure but leave vulnerable communities suffering, while refusing could lead to professional repercussions for Ms. Sharma and potential disruption of future relief efforts.
+Aakash faces an acute ethical dilemma. Approving the report means potential confrontation with his superiors and powerful political figures, risking his career and institutional pressure. Overlooking the violations would endanger the health of local communities dependent on the river, degrade the environment, and compromise the integrity of his office and the regulatory body.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Aakash Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
