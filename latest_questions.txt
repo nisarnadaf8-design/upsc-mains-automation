@@ -1,35 +1,36 @@
-Date: 09 May 2026
+Date: 10 May 2026
 
 ========================================
-GS-1 SOCIETY: Health: Public Health System and Social Determinants
+GS-1 SOCIETY: Tribal Communities: Issues, Rights and Constitutional Safeguards
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the intricate interplay of socio-economic disparities, particularly caste and income inequality, fundamentally exacerbates vulnerabilities within India's public health system, hindering equitable access and effective service delivery across diverse populations.
+Examine the persistent gaps between the constitutional intent of protecting tribal land rights through the Fifth Schedule and the ground realities influenced by large-scale developmental projects and resource extraction activities.
 
 Q2. (10 Marks | 150 words)
-Critically examine the growing challenge of mental health as a distinct and often neglected public health crisis in India. How do societal stigma and historical resource allocation patterns perpetuate this divide, significantly impacting overall national well-being?
+Critically analyze how the 'integration versus assimilation' debate for tribal communities is evolving in the context of increasing digital penetration and exposure to mainstream cultural narratives, impacting their unique identities.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted challenges in achieving genuine universal health coverage in India, extending beyond mere financial protection offered by schemes like Ayushman Bharat. Critically analyse its implications across social equity, economic productivity, and administrative efficiency, citing relevant data trends from recent health surveys.
+Discuss the multi-dimensional challenges, encompassing socio-economic disparities, legal ambiguities, and political marginalization, faced by tribal populations displaced due to ecological conservation efforts or strategic infrastructure projects, offering suitable illustrations.
 
 ========================================
-GS-4 ETHICS: Corporate Governance and Business Ethics
+GS-4 ETHICS: Ethics in Public and Private Relationships
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the 'stewardship principle' in corporate governance, and how does its adherence align with the broader public interest, particularly when a civil servant interacts with industrial regulatory frameworks?
+What do you understand by the concept of "ethical proximity" in public administration, and how does it influence a civil servant's decision-making process when balancing personal loyalty with professional impartiality?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemmas a public servant faces when navigating corporate lobbying for policy relaxations, especially regarding environmental norms. How should the principles of impartiality and transparency guide their decision-making in such situations?
+How should a civil servant navigate the ethical dilemma arising from societal expectations of extending personal favours to friends and family members, which may conflict with their duty to uphold fairness and meritocracy in official dealings?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Aakash Sharma, a diligent District Environmental Officer in the State Pollution Control Board, is posted in Rudrapur, a rapidly industrializing district. His role involves ensuring industries comply with environmental regulations and issuing compliance reports. Recently, his team conducted an inspection of 'Greenfield Petrochemicals Ltd.', a major employer and influential company in the region.
 
-The inspection report detailed significant violations related to untreated industrial discharge into a local river and improper hazardous waste disposal. However, before Aakash could initiate action, he received a call from his Principal Secretary, subtly hinting at "exercising discretion" due to the company's economic contribution. A local political leader also directly urged him to re-evaluate the findings, suggesting strict action could jeopardize the region's industrial climate and Aakash's career, while the company CEO offered to "contribute generously" to local development if the matter was resolved amicably.
+Pranjal Sharma, a dedicated Joint Secretary in the Ministry of Commerce and Industry, based in New Delhi, has served with an exemplary record for twenty years, known for his integrity and efficiency. His department is responsible for approving large industrial projects and managing international trade agreements.
 
-Aakash faces an acute ethical dilemma. Approving the report means potential confrontation with his superiors and powerful political figures, risking his career and institutional pressure. Overlooking the violations would endanger the health of local communities dependent on the river, degrade the environment, and compromise the integrity of his office and the regulatory body.
+Recently, Pranjal uncovered substantial evidence of a sophisticated financial fraud scheme involving a prominent industrialist and a few high-ranking officials within his own ministry, potentially compromising a major international trade deal. He diligently compiled a detailed report and, upholding his ethical duty, submitted it to the appropriate vigilance authorities and his immediate superior, becoming an internal whistleblower. Following his report, Pranjal has been subjected to immense pressure: his career progression has been stalled, his family has received anonymous threats, and he faces subtle ostracism from colleagues who are either complicit or fearful. His superior, a long-time acquaintance, privately advises him to retract his allegations, suggesting it's "better for everyone involved" and crucial for his own and his family's security.
+
+Pranjal's decision will not only affect his personal safety and career but also the morale of honest officers, the integrity of the Ministry, the nation's economic interests, and public trust in governance. Both pursuing the truth and backing down carry severe personal, professional, and systemic consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Aakash Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Pranjal Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
