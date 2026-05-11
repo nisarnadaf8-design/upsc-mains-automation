@@ -1,36 +1,35 @@
-Date: 10 May 2026
+Date: 11 May 2026
 
 ========================================
-GS-1 SOCIETY: Tribal Communities: Issues, Rights and Constitutional Safeguards
+GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the persistent gaps between the constitutional intent of protecting tribal land rights through the Fifth Schedule and the ground realities influenced by large-scale developmental projects and resource extraction activities.
+Examine how the constitutional provisions aimed at protecting minority rights contribute to, and at times challenge, the broader objective of fostering social harmony in a pluralistic society like India. Discuss with contemporary relevance.
 
 Q2. (10 Marks | 150 words)
-Critically analyze how the 'integration versus assimilation' debate for tribal communities is evolving in the context of increasing digital penetration and exposure to mainstream cultural narratives, impacting their unique identities.
+Critically examine the complexities involved in reconciling the vision of a Uniform Civil Code with the constitutional guarantees for religious freedom and cultural diversity. How might such a code impact the rights of specific minority groups and the principle of gender justice?
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-dimensional challenges, encompassing socio-economic disparities, legal ambiguities, and political marginalization, faced by tribal populations displaced due to ecological conservation efforts or strategic infrastructure projects, offering suitable illustrations.
+Analyse the legal, social, and political dimensions of legislative measures restricting religious conversions in various states. Discuss how these laws navigate the delicate balance between protecting individual freedom of conscience and preventing coercive proselytization, while considering their implications for secularism and social cohesion.
 
 ========================================
-GS-4 ETHICS: Ethics in Public and Private Relationships
+GS-4 ETHICS: Social Influence, Persuasion and Moral Development
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the concept of "ethical proximity" in public administration, and how does it influence a civil servant's decision-making process when balancing personal loyalty with professional impartiality?
+Explain the significance of understanding Kohlberg’s stages of moral development for a civil servant in navigating ethical dilemmas within a complex administrative framework. How do these stages influence the capacity for principled decision-making versus adherence to institutional rules?
 
 Q5. (10 Marks | 150 words)
-How should a civil servant navigate the ethical dilemma arising from societal expectations of extending personal favours to friends and family members, which may conflict with their duty to uphold fairness and meritocracy in official dealings?
+How should a civil servant ethically distinguish between legitimate persuasion and manipulative influence when implementing public policies that require behavioural change or acceptance from diverse community groups? Discuss the ethical boundaries and the role of transparency in maintaining public trust.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ms. Ananya Sharma is the District Collector of Sundergarh District, Odisha, a region known for its rich biodiversity and significant tribal population. The central government has identified Sundergarh as a strategic location for establishing a National Green Hydrogen Hub, a project crucial for India's energy security and transition to renewable sources. The project requires the acquisition of a large tract of land, which includes 'Jalgaon', a Scheduled Tribe village whose residents hold ancestral land rights protected under the PESA Act and consider certain forest patches as sacred groves vital to their cultural identity.
 
-Pranjal Sharma, a dedicated Joint Secretary in the Ministry of Commerce and Industry, based in New Delhi, has served with an exemplary record for twenty years, known for his integrity and efficiency. His department is responsible for approving large industrial projects and managing international trade agreements.
+The tribal community of Jalgaon has vehemently resisted displacement, citing threats to their livelihoods, cultural heritage, and the fragile ecosystem. Local political leaders, supported by several environmental and tribal rights NGOs, have mobilized public opinion against the project. Simultaneously, Ms. Sharma is facing intense pressure from the Chief Secretary and the Union Minister for Energy to expedite the land acquisition process, who emphasize the project's national importance and warn of severe repercussions for any delays. An influential industrial lobby also exerts continuous pressure for a quick resolution to facilitate their investment.
 
-Recently, Pranjal uncovered substantial evidence of a sophisticated financial fraud scheme involving a prominent industrialist and a few high-ranking officials within his own ministry, potentially compromising a major international trade deal. He diligently compiled a detailed report and, upholding his ethical duty, submitted it to the appropriate vigilance authorities and his immediate superior, becoming an internal whistleblower. Following his report, Pranjal has been subjected to immense pressure: his career progression has been stalled, his family has received anonymous threats, and he faces subtle ostracism from colleagues who are either complicit or fearful. His superior, a long-time acquaintance, privately advises him to retract his allegations, suggesting it's "better for everyone involved" and crucial for his own and his family's security.
-
-Pranjal's decision will not only affect his personal safety and career but also the morale of honest officers, the integrity of the Ministry, the nation's economic interests, and public trust in governance. Both pursuing the truth and backing down carry severe personal, professional, and systemic consequences.
+Ms. Sharma's decision will directly affect the fundamental rights and socio-cultural fabric of the tribal community, the successful implementation and timeline of a strategically vital national project, and the economic development prospects of the state. Both forcefully proceeding with acquisition or yielding to the community's demands carry significant socio-economic, political, and personal consequences for all involved stakeholders.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Pranjal Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
