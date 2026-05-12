@@ -1,35 +1,35 @@
-Date: 11 May 2026
+Date: 12 May 2026
 
 ========================================
-GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
+GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the constitutional provisions aimed at protecting minority rights contribute to, and at times challenge, the broader objective of fostering social harmony in a pluralistic society like India. Discuss with contemporary relevance.
+Examine the intricate socio-economic vulnerabilities that render specific demographic groups susceptible to the triple menace of child labour, bonded labour, and human trafficking in contemporary India. Discuss how systemic inequalities perpetuate this cycle.
 
 Q2. (10 Marks | 150 words)
-Critically examine the complexities involved in reconciling the vision of a Uniform Civil Code with the constitutional guarantees for religious freedom and cultural diversity. How might such a code impact the rights of specific minority groups and the principle of gender justice?
+Critically examine the efficacy of the existing legal and institutional frameworks in India in combating child labour and human trafficking. How effectively do multi-agency cooperation models address the transnational nature of these crimes?
 
 Q3. (15 Marks | 250 words)
-Analyse the legal, social, and political dimensions of legislative measures restricting religious conversions in various states. Discuss how these laws navigate the delicate balance between protecting individual freedom of conscience and preventing coercive proselytization, while considering their implications for secularism and social cohesion.
+Discuss the far-reaching societal and economic consequences of unaddressed bonded labour, extending beyond the immediate victims to national development. Critically analyse the role of international conventions and technological interventions in enhancing prevention and rehabilitation efforts, particularly for women and children.
 
 ========================================
-GS-4 ETHICS: Social Influence, Persuasion and Moral Development
+GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of understanding Kohlberg’s stages of moral development for a civil servant in navigating ethical dilemmas within a complex administrative framework. How do these stages influence the capacity for principled decision-making versus adherence to institutional rules?
+Explain the enduring significance of drawing lessons on ethical courage and integrity from historical figures of the Indian freedom struggle for a modern civil servant. How can these values inspire resilience against undue influence in public service?
 
 Q5. (10 Marks | 150 words)
-How should a civil servant ethically distinguish between legitimate persuasion and manipulative influence when implementing public policies that require behavioural change or acceptance from diverse community groups? Discuss the ethical boundaries and the role of transparency in maintaining public trust.
+How can exposure to diverse literature and performing arts refine a civil servant's moral compass and foster virtues like compassion and tolerance, which are crucial for inclusive governance? Illustrate with relevant examples.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Ananya Sharma is the District Collector of Sundergarh District, Odisha, a region known for its rich biodiversity and significant tribal population. The central government has identified Sundergarh as a strategic location for establishing a National Green Hydrogen Hub, a project crucial for India's energy security and transition to renewable sources. The project requires the acquisition of a large tract of land, which includes 'Jalgaon', a Scheduled Tribe village whose residents hold ancestral land rights protected under the PESA Act and consider certain forest patches as sacred groves vital to their cultural identity.
+Manoj Kumar is a District Land Records Officer in Purnia district, Bihar, known for his unblemished record of integrity. His department is currently verifying land ownership and issuing certificates for a new state-sponsored housing project aimed at economically weaker sections. This scheme promises significant relief to many impoverished families.
 
-The tribal community of Jalgaon has vehemently resisted displacement, citing threats to their livelihoods, cultural heritage, and the fragile ecosystem. Local political leaders, supported by several environmental and tribal rights NGOs, have mobilized public opinion against the project. Simultaneously, Ms. Sharma is facing intense pressure from the Chief Secretary and the Union Minister for Energy to expedite the land acquisition process, who emphasize the project's national importance and warn of severe repercussions for any delays. An influential industrial lobby also exerts continuous pressure for a quick resolution to facilitate their investment.
+A senior political leader, the sitting MLA from the ruling party, approaches Manoj with a direct demand. The leader insists that Manoj issue several 'occupancy certificates' for specific land parcels in a contested area to individuals who do not legally own them. These certificates are crucial for them to qualify for the housing scheme. The leader clearly states that these individuals are key party workers whose loyalty depends on receiving this benefit, hinting at severe career repercussions for Manoj if he refuses. His immediate superior, under palpable political pressure, also subtly advises Manoj to "find a way" to accommodate the request to avoid further complications.
 
-Ms. Sharma's decision will directly affect the fundamental rights and socio-cultural fabric of the tribal community, the successful implementation and timeline of a strategically vital national project, and the economic development prospects of the state. Both forcefully proceeding with acquisition or yielding to the community's demands carry significant socio-economic, political, and personal consequences for all involved stakeholders.
+Manoj is acutely aware that issuing false certificates would not only violate established legal procedures but also deprive genuine beneficiaries and set a dangerous precedent. His decision will affect his reputation, the credibility of his office, the political leader's influence, and the trust of the public in the fair execution of government schemes.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Manoj Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
