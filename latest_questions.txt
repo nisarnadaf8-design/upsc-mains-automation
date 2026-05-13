@@ -1,35 +1,36 @@
-Date: 12 May 2026
+Date: 13 May 2026
 
 ========================================
-GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
+GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the intricate socio-economic vulnerabilities that render specific demographic groups susceptible to the triple menace of child labour, bonded labour, and human trafficking in contemporary India. Discuss how systemic inequalities perpetuate this cycle.
+Examine how the evolving digital landscape in India presents both opportunities and challenges for strengthening social capital within urban and rural communities, citing relevant contemporary trends.
 
 Q2. (10 Marks | 150 words)
-Critically examine the efficacy of the existing legal and institutional frameworks in India in combating child labour and human trafficking. How effectively do multi-agency cooperation models address the transnational nature of these crimes?
+Critically examine the shifting dynamics of the state-civil society interface in India, particularly in the aftermath of recent regulatory changes concerning the voluntary sector. How has this impacted their capacity to bridge citizens' needs and state services?
 
 Q3. (15 Marks | 250 words)
-Discuss the far-reaching societal and economic consequences of unaddressed bonded labour, extending beyond the immediate victims to national development. Critically analyse the role of international conventions and technological interventions in enhancing prevention and rehabilitation efforts, particularly for women and children.
+Discuss the potential of the cooperative model, drawing lessons from successful Indian examples beyond traditional sectors, to foster inclusive economic growth and empower marginalized communities. Critically analyse its challenges in achieving wider social, economic, and political impact in contemporary India.
 
 ========================================
-GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
+GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the enduring significance of drawing lessons on ethical courage and integrity from historical figures of the Indian freedom struggle for a modern civil servant. How can these values inspire resilience against undue influence in public service?
+Explain the ethical dilemma faced by a civil servant when national interests, driven by economic or strategic considerations, appear to conflict with universal humanitarian principles in the context of global crises. How does the principle of 'Responsibility to Protect' (R2P) complicate traditional notions of state sovereignty in such situations?
 
 Q5. (10 Marks | 150 words)
-How can exposure to diverse literature and performing arts refine a civil servant's moral compass and foster virtues like compassion and tolerance, which are crucial for inclusive governance? Illustrate with relevant examples.
+Examine the ethical obligations of a developing nation's diplomat in advocating for climate justice at international forums, particularly when balancing immediate national development imperatives with long-term global environmental sustainability. What ethical frameworks can guide such advocacy?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Manoj Kumar is a District Land Records Officer in Purnia district, Bihar, known for his unblemished record of integrity. His department is currently verifying land ownership and issuing certificates for a new state-sponsored housing project aimed at economically weaker sections. This scheme promises significant relief to many impoverished families.
 
-A senior political leader, the sitting MLA from the ruling party, approaches Manoj with a direct demand. The leader insists that Manoj issue several 'occupancy certificates' for specific land parcels in a contested area to individuals who do not legally own them. These certificates are crucial for them to qualify for the housing scheme. The leader clearly states that these individuals are key party workers whose loyalty depends on receiving this benefit, hinting at severe career repercussions for Manoj if he refuses. His immediate superior, under palpable political pressure, also subtly advises Manoj to "find a way" to accommodate the request to avoid further complications.
+Ms. Ananya Sharma is a Joint Secretary in the Ministry of Environment, Forest and Climate Change in New Delhi. Her department is responsible for processing environmental clearances for large infrastructure projects. Recently, a major multi-state river interlinking project, involving significant land acquisition in tribal-dominated forest areas and critical wildlife habitats, received provisional environmental clearance. This project is deemed strategically important for water security and regional development.
 
-Manoj is acutely aware that issuing false certificates would not only violate established legal procedures but also deprive genuine beneficiaries and set a dangerous precedent. His decision will affect his reputation, the credibility of his office, the political leader's influence, and the trust of the public in the fair execution of government schemes.
+A prominent environmental activist and RTI applicant, Mr. Rajeev Mehta, has filed a comprehensive RTI request seeking detailed reports, internal committee deliberations, expert opinions, and any dissenting notes related to the Environmental Impact Assessment (EIA) of this particular project. Ms. Sharma's superior, the Secretary, has informally advised her to withhold certain 'sensitive' information, citing national strategic interests, potential public unrest, and the risk of derailing crucial foreign investment tied to the project. The concerned state governments are also exerting pressure through informal channels for quick commencement, fearing delays could cause political backlash.
+
+Ms. Sharma's decision will directly impact the project's progress, the rights and livelihoods of thousands of tribal communities, the Ministry's credibility regarding transparency, and public trust in environmental governance. Both releasing all information and withholding it completely carry significant consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Manoj Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
