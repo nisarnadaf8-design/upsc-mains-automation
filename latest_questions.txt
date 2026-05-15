@@ -1,35 +1,36 @@
-Date: 14 May 2026
+Date: 15 May 2026
 
 ========================================
-GS-1 SOCIETY: Media, Social Media and Their Role in Society
+GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving challenges to media's traditional role as the fourth pillar of democracy, particularly in ensuring accountability and fostering informed public discourse amidst the proliferation of user-generated content.
+Examine how the forces of urbanisation and the informalisation of labour have reshaped the traditional forms of caste-based discrimination, presenting new challenges to achieving substantive equality. Discuss if caste primarily functions as a social identity or a political resource in these evolving contexts.
 
 Q2. (10 Marks | 150 words)
-What do you understand by the concept of 'infodemic resilience' in the context of a digitally saturated society? How can citizen media literacy and fact-checking initiatives contribute to mitigating the societal impact of misinformation?
+Critically examine how the processes of 'Sanskritisation' and 'Westernisation' manifest simultaneously and sometimes contradictorily in contemporary Indian society, particularly among aspirational groups. How do these cultural shifts influence social hierarchies beyond economic standing?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multifaceted implications of the digital access disparity on social cohesion, economic opportunities, and political participation in contemporary India. Discuss the ethical imperatives for bridging this divide to ensure inclusive governance and equitable development.
+Discuss the multifaceted implications of reservation policies on social cohesion, economic development, and political representation in India. Analyse how these policies address historical injustices while also navigating contemporary debates around meritocracy, inter-caste dynamics, and the evolving nature of social backwardness across different regions and communities.
 
 ========================================
-GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
+GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by 'moral courage' in public administration? Explain its significance for a civil servant in upholding the rule of law and maintaining ethical standards when confronted with powerful vested interests or political interference.
+Explain the significance of cultivating a robust individual conscience for a civil servant operating in a culturally diverse and often morally relativistic public sphere. How does an informed conscience help in upholding universal ethical principles against prevailing societal norms that might conflict with justice or equity?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical considerations a civil servant must weigh when faced with pressure to compromise institutional integrity or due process in the allocation of public funds or resources. How does the principle of accountability guide such decisions?
+How should a civil servant integrate the 'ethics of care' framework, distinct from purely justice-oriented approaches, when designing and implementing welfare policies for vulnerable sections of society? Discuss the challenges in balancing impartiality with compassionate responsiveness in public service delivery.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Mr. Arjun Sharma, a dynamic and upright IAS officer, serves as the District Magistrate of Shahpur District, Uttar Pradesh. Known for his commitment to grassroots development and social justice, he was conducting a surprise inspection of industrial units in the newly designated Special Economic Zone (SEZ) to assess compliance with labor laws and environmental norms.
 
-During an inspection of 'Grand Textiles Pvt. Ltd.', a prominent garment factory, Mr. Sharma’s team discovered several children, visibly underage, working in hazardous conditions on the production floor. Further investigation revealed that the factory is owned by Mr. Raghavendra Singh, a powerful state cabinet minister and a key political figure in the ruling party, known for his influence across the district. Mr. Singh immediately contacts Mr. Sharma, subtly reminding him of his career prospects and the potential 'misunderstanding' that could damage both their reputations, urging him to 'handle the matter discreetly'.
+Smt. Priya Sharma, an accomplished IAS officer, is serving as the District Magistrate in Rudrapur, a district witnessing rapid industrialization and significant land acquisition for mega-projects. Her reputation for integrity and efficiency precedes her, and she has been instrumental in ensuring fair compensation processes for displaced farmers.
 
-Mr. Sharma's decision will directly affect the exploited children, the factory owner and his political career, his own professional integrity, the district administration's credibility, and potentially spark public outcry or political backlash. Both decisive action and passive inaction carry significant professional and personal repercussions.
+Recently, her office received a complaint regarding a major real estate project owned by the son of a powerful state minister. The project, a high-rise residential complex, allegedly violates several environmental clearances and zoning regulations, posing significant ecological risks to a nearby wetland and displacing a small tribal community. The minister has personally called Smt. Sharma, strongly 'advising' her to expedite the clearances and overlook the procedural lapses, implying severe consequences for her career if she doesn't comply. Her Chief Secretary has also subtly hinted at the political sensitivity of the matter.
+
+The tribal community is protesting, while environmental activists are threatening legal action. Smt. Sharma’s decision will directly impact the rule of law, environmental sustainability, the rights of the vulnerable, and the public's trust in governance, besides her own professional standing.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Mr. Arjun Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Smt. Priya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
