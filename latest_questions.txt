@@ -1,36 +1,36 @@
-Date: 15 May 2026
+Date: 16 May 2026
 
 ========================================
-GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
+GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the forces of urbanisation and the informalisation of labour have reshaped the traditional forms of caste-based discrimination, presenting new challenges to achieving substantive equality. Discuss if caste primarily functions as a social identity or a political resource in these evolving contexts.
+Examine how the persistent gender gap in workforce participation not only exacerbates the feminisation of poverty but also significantly impedes the holistic empowerment of women in India across socio-economic spheres.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the processes of 'Sanskritisation' and 'Westernisation' manifest simultaneously and sometimes contradictorily in contemporary Indian society, particularly among aspirational groups. How do these cultural shifts influence social hierarchies beyond economic standing?
+Critically evaluate the extent to which Self Help Groups (SHGs) have been successful in fostering active political participation and enhancing the representation of women in local governance, moving beyond their traditional economic mandates.
 
 Q3. (15 Marks | 250 words)
-Discuss the multifaceted implications of reservation policies on social cohesion, economic development, and political representation in India. Analyse how these policies address historical injustices while also navigating contemporary debates around meritocracy, inter-caste dynamics, and the evolving nature of social backwardness across different regions and communities.
+Discuss the multi-faceted challenges in implementing legal safeguards against domestic violence, analysing how deeply entrenched patriarchal attitudes and socio-economic dependencies often prevent victims from seeking justice and rehabilitation, impacting their overall well-being and autonomy.
 
 ========================================
-GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
+GS-4 ETHICS: Attitude: Formation, Change and Social Influence
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of cultivating a robust individual conscience for a civil servant operating in a culturally diverse and often morally relativistic public sphere. How does an informed conscience help in upholding universal ethical principles against prevailing societal norms that might conflict with justice or equity?
+What do you understand by the concept of 'ethical dissonance' in public service? Explain its significance in influencing the moral courage and decision-making integrity of civil servants facing conflicting loyalties or pressure to compromise standards.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant integrate the 'ethics of care' framework, distinct from purely justice-oriented approaches, when designing and implementing welfare policies for vulnerable sections of society? Discuss the challenges in balancing impartiality with compassionate responsiveness in public service delivery.
+How should a civil servant address the challenge of ingrained prejudice and implicit bias within bureaucratic structures that undermine the principles of fairness and equity in service delivery, particularly to marginalized communities?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Smt. Priya Sharma, an accomplished IAS officer, is serving as the District Magistrate in Rudrapur, a district witnessing rapid industrialization and significant land acquisition for mega-projects. Her reputation for integrity and efficiency precedes her, and she has been instrumental in ensuring fair compensation processes for displaced farmers.
+Ritu Sharma, a dynamic young IAS officer, is serving as the Sub-Divisional Magistrate (SDM) in a district recently devastated by severe floods. She is actively involved in coordinating relief and rehabilitation efforts, working under the direct supervision of Mr. Alok Verma, a senior and highly regarded IAS officer designated as the Special Relief Commissioner. The situation is chaotic, with immense pressure to provide immediate assistance to thousands of displaced people.
 
-Recently, her office received a complaint regarding a major real estate project owned by the son of a powerful state minister. The project, a high-rise residential complex, allegedly violates several environmental clearances and zoning regulations, posing significant ecological risks to a nearby wetland and displacing a small tribal community. The minister has personally called Smt. Sharma, strongly 'advising' her to expedite the clearances and overlook the procedural lapses, implying severe consequences for her career if she doesn't comply. Her Chief Secretary has also subtly hinted at the political sensitivity of the matter.
+During a routine inspection of a relief camp and subsequent review of procurement records, Ritu observes glaring discrepancies in the quantity and quality of essential relief materials, specifically in the tendering process overseen by Mr. Verma's office. She also receives credible intelligence, hinting at a nexus between certain suppliers and a senior officer, suggesting the diversion of funds meant for the flood victims. Reporting this could severely disrupt the ongoing relief operations and potentially tarnish the reputation of a senior colleague known for his political connections.
 
-The tribal community is protesting, while environmental activists are threatening legal action. Smt. Sharma’s decision will directly impact the rule of law, environmental sustainability, the rights of the vulnerable, and the public's trust in governance, besides her own professional standing.
+The district administration is already under public scrutiny for slow relief efforts, and any internal conflict could further erode public trust and invite political interference. Ritu understands that a quiet dismissal of her observations could save her career from immediate friction, but the plight of the flood victims, whose lives depend on these resources, weighs heavily on her conscience. Both taking action and remaining silent have significant, far-reaching consequences for her, the victims, the administration, and the public.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Smt. Priya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ritu Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
