@@ -1,36 +1,36 @@
-Date: 16 May 2026
+Date: 17 May 2026
 
 ========================================
-GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
+GS-1 SOCIETY: Communalism, Regionalism and Secularism
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the persistent gender gap in workforce participation not only exacerbates the feminisation of poverty but also significantly impedes the holistic empowerment of women in India across socio-economic spheres.
+Examine how the proliferation of hyper-local digital news platforms and social media algorithms are reshaping the manifestations of communalism in contemporary India, moving beyond traditional fault lines and impacting social cohesion.
 
 Q2. (10 Marks | 150 words)
-Critically evaluate the extent to which Self Help Groups (SHGs) have been successful in fostering active political participation and enhancing the representation of women in local governance, moving beyond their traditional economic mandates.
+How does India's 'positive' model of secularism, as enshrined in its Constitution, facilitate the sustenance and evolution of its composite culture and syncretic traditions, in contrast to strict separationist models often seen elsewhere?
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted challenges in implementing legal safeguards against domestic violence, analysing how deeply entrenched patriarchal attitudes and socio-economic dependencies often prevent victims from seeking justice and rehabilitation, impacting their overall well-being and autonomy.
+Critically analyse how the instrumentalization of regional identities for political mobilisation, sometimes intersecting with communal narratives, can exacerbate socio-economic disparities and complicate developmental planning within a federal structure. Discuss with suitable examples.
 
 ========================================
-GS-4 ETHICS: Attitude: Formation, Change and Social Influence
+GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the concept of 'ethical dissonance' in public service? Explain its significance in influencing the moral courage and decision-making integrity of civil servants facing conflicting loyalties or pressure to compromise standards.
+Explain the significance of 'intellectual integrity' for civil servants in fostering an environment of objectivity and evidence-based policy making, especially when dealing with popular but unsubstantiated narratives or vested interests.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant address the challenge of ingrained prejudice and implicit bias within bureaucratic structures that undermine the principles of fairness and equity in service delivery, particularly to marginalized communities?
+A civil servant often encounters situations where demonstrating empathy towards one marginalized group might be perceived as partiality towards another. How should a public servant navigate this ethical tightrope to ensure citizen-centric service delivery while upholding the principle of impartiality?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Ritu Sharma, a dynamic young IAS officer, is serving as the Sub-Divisional Magistrate (SDM) in a district recently devastated by severe floods. She is actively involved in coordinating relief and rehabilitation efforts, working under the direct supervision of Mr. Alok Verma, a senior and highly regarded IAS officer designated as the Special Relief Commissioner. The situation is chaotic, with immense pressure to provide immediate assistance to thousands of displaced people.
+Mr. Alok Kumar, District Collector of the predominantly tribal Surajpur District, has been instrumental in implementing several welfare schemes. The district is earmarked for a significant industrial corridor project, a flagship initiative of the state government, promising economic growth and employment for the region.
 
-During a routine inspection of a relief camp and subsequent review of procurement records, Ritu observes glaring discrepancies in the quantity and quality of essential relief materials, specifically in the tendering process overseen by Mr. Verma's office. She also receives credible intelligence, hinting at a nexus between certain suppliers and a senior officer, suggesting the diversion of funds meant for the flood victims. Reporting this could severely disrupt the ongoing relief operations and potentially tarnish the reputation of a senior colleague known for his political connections.
+The detailed Environmental and Social Impact Assessment (ESIA) report, though officially cleared, has serious flaws. It underestimates the displacement of several indigenous tribal hamlets and the irreversible damage to their sacred groves and traditional livelihoods, which rely heavily on forest produce. The Chief Secretary has conveyed the state's firm commitment to the project, emphasizing its strategic importance and instructing Alok to fast-track land acquisition. Simultaneously, a powerful local tribal council leader has warned of mass protests and even self-immolation if their ancestral lands are forcibly taken.
 
-The district administration is already under public scrutiny for slow relief efforts, and any internal conflict could further erode public trust and invite political interference. Ritu understands that a quiet dismissal of her observations could save her career from immediate friction, but the plight of the flood victims, whose lives depend on these resources, weighs heavily on her conscience. Both taking action and remaining silent have significant, far-reaching consequences for her, the victims, the administration, and the public.
+Stakeholders include the tribal communities facing displacement, the state government pushing for industrial development, potential investors, and the environmental integrity of the region. Alok's decision will have profound implications for the human rights of the tribals, the state's development agenda, and his own career trajectory and reputation for integrity.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ritu Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Mr. Alok Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
