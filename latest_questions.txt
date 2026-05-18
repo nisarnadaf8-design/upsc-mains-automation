@@ -1,36 +1,35 @@
-Date: 17 May 2026
+Date: 18 May 2026
 
 ========================================
-GS-1 SOCIETY: Communalism, Regionalism and Secularism
+GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the proliferation of hyper-local digital news platforms and social media algorithms are reshaping the manifestations of communalism in contemporary India, moving beyond traditional fault lines and impacting social cohesion.
+Examine the paradox of India simultaneously navigating a transient demographic dividend window and the incipient stages of an ageing population. How might this demographic duality necessitate a recalibration of existing development and social security policies?
 
 Q2. (10 Marks | 150 words)
-How does India's 'positive' model of secularism, as enshrined in its Constitution, facilitate the sustenance and evolution of its composite culture and syncretic traditions, in contrast to strict separationist models often seen elsewhere?
+Critically examine how the evolving nature of inter-state migration patterns, particularly concerning skilled and semi-skilled labour, is reshaping regional economic disparities and social integration across India. What holistic policy measures are required to harness these movements for equitable growth?
 
 Q3. (15 Marks | 250 words)
-Critically analyse how the instrumentalization of regional identities for political mobilisation, sometimes intersecting with communal narratives, can exacerbate socio-economic disparities and complicate developmental planning within a federal structure. Discuss with suitable examples.
+Discuss the multi-dimensional challenges arising from the increasing feminisation of agriculture coupled with sustained male out-migration from rural areas on the social security and welfare architecture for India's elderly. Analyse its social, economic, and gender-specific implications for the future.
 
 ========================================
-GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
+GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'intellectual integrity' for civil servants in fostering an environment of objectivity and evidence-based policy making, especially when dealing with popular but unsubstantiated narratives or vested interests.
+Explain the significance of 'self-awareness' and 'self-regulation' as fundamental pillars of emotional intelligence for a public servant in upholding integrity and ensuring ethical consistency in public administration.
 
 Q5. (10 Marks | 150 words)
-A civil servant often encounters situations where demonstrating empathy towards one marginalized group might be perceived as partiality towards another. How should a public servant navigate this ethical tightrope to ensure citizen-centric service delivery while upholding the principle of impartiality?
+In an environment of heightened public expectations and digital scrutiny, how can an emotionally intelligent civil servant effectively leverage empathy to foster trust and facilitate inclusive public service delivery, especially when implementing complex or unpopular policies?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ananya Singh, a diligent and upright IPS officer, holds the position of Superintendent of Police in the historically sensitive district of Avantika. Known for her commitment to transparency and justice, she has been instrumental in modernizing local police operations and enhancing community outreach over the past year.
 
-Mr. Alok Kumar, District Collector of the predominantly tribal Surajpur District, has been instrumental in implementing several welfare schemes. The district is earmarked for a significant industrial corridor project, a flagship initiative of the state government, promising economic growth and employment for the region.
+During a routine internal audit initiated by Ananya following several public complaints, her team uncovered a sophisticated procurement scam involving inflated invoices and substandard equipment supply to the police department across the state, stretching back five years. The preliminary findings strongly implicate a former Inspector General of Police, who is now a respected political figure, and several high-ranking officers currently serving in various capacities, including some within Ananya's immediate circle and even her own superior. Ananya faces immense pressure from a powerful state minister to halt the investigation, who subtly reminds her of potential adverse impacts on her career and the "reputation of the force."
 
-The detailed Environmental and Social Impact Assessment (ESIA) report, though officially cleared, has serious flaws. It underestimates the displacement of several indigenous tribal hamlets and the irreversible damage to their sacred groves and traditional livelihoods, which rely heavily on forest produce. The Chief Secretary has conveyed the state's firm commitment to the project, emphasizing its strategic importance and instructing Alok to fast-track land acquisition. Simultaneously, a powerful local tribal council leader has warned of mass protests and even self-immolation if their ancestral lands are forcibly taken.
-
-Stakeholders include the tribal communities facing displacement, the state government pushing for industrial development, potential investors, and the environmental integrity of the region. Alok's decision will have profound implications for the human rights of the tribals, the state's development agenda, and his own career trajectory and reputation for integrity.
+Ananya's decision in this matter will profoundly affect the credibility of the police force, the morale of honest officers, the lives of those implicated, and the trust citizens place in governance. Both pursuing and suppressing the investigation carry significant professional and personal consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Mr. Alok Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ananya Singh? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
