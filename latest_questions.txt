@@ -1,35 +1,36 @@
-Date: 18 May 2026
+Date: 19 May 2026
 
 ========================================
-GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
+GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the paradox of India simultaneously navigating a transient demographic dividend window and the incipient stages of an ageing population. How might this demographic duality necessitate a recalibration of existing development and social security policies?
+Examine how shifting the focus from income-based poverty lines to a multidimensional poverty index influences the design and targeting of social welfare schemes in India. Discuss the conceptual challenges in measuring deprivations across diverse indicators and ensuring data accuracy for effective policy interventions.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the evolving nature of inter-state migration patterns, particularly concerning skilled and semi-skilled labour, is reshaping regional economic disparities and social integration across India. What holistic policy measures are required to harness these movements for equitable growth?
+What do you understand by 'structural immobility' as it pertains to Scheduled Tribes and Dalits in India? How do entrenched social hierarchies and inadequate educational access perpetuate intergenerational poverty, despite targeted affirmative action policies?
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-dimensional challenges arising from the increasing feminisation of agriculture coupled with sustained male out-migration from rural areas on the social security and welfare architecture for India's elderly. Analyse its social, economic, and gender-specific implications for the future.
+Critically analyse the extent to which India's pursuit of inclusive growth has reconciled with the outcomes of market-driven 'trickle-down' economic policies. Discuss the social, economic, and political implications of prioritizing either approach in addressing persistent inequalities, providing suitable examples.
 
 ========================================
-GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
+GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'self-awareness' and 'self-regulation' as fundamental pillars of emotional intelligence for a public servant in upholding integrity and ensuring ethical consistency in public administration.
+Explain the significance of upholding 'constitutional morality' for a public servant when confronted with societal pressures rooted in deeply ingrained 'social morality'. How does Ambedkar's distinction guide ethical decision-making in diverse administrative contexts?
 
 Q5. (10 Marks | 150 words)
-In an environment of heightened public expectations and digital scrutiny, how can an emotionally intelligent civil servant effectively leverage empathy to foster trust and facilitate inclusive public service delivery, especially when implementing complex or unpopular policies?
+How should a civil servant navigate the complexities of implementing policies aimed at social justice and caste reform, balancing the idealism of Sarvodaya with the pragmatic need for constitutional safeguards envisioned by Ambedkar? Examine the ethical dilemmas involved in challenging existing social hierarchies through administrative action.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ananya Singh, a diligent and upright IPS officer, holds the position of Superintendent of Police in the historically sensitive district of Avantika. Known for her commitment to transparency and justice, she has been instrumental in modernizing local police operations and enhancing community outreach over the past year.
 
-During a routine internal audit initiated by Ananya following several public complaints, her team uncovered a sophisticated procurement scam involving inflated invoices and substandard equipment supply to the police department across the state, stretching back five years. The preliminary findings strongly implicate a former Inspector General of Police, who is now a respected political figure, and several high-ranking officers currently serving in various capacities, including some within Ananya's immediate circle and even her own superior. Ananya faces immense pressure from a powerful state minister to halt the investigation, who subtly reminds her of potential adverse impacts on her career and the "reputation of the force."
+Manoj Kumar, a highly regarded District Magistrate of Aridpur District, is known for his impartiality and efficient handling of administrative affairs. He is currently overseeing a time-sensitive land acquisition process for a crucial national highway project designed to significantly boost regional connectivity and economic activity in a historically underdeveloped region.
 
-Ananya's decision in this matter will profoundly affect the credibility of the police force, the morale of honest officers, the lives of those implicated, and the trust citizens place in governance. Both pursuing and suppressing the investigation carry significant professional and personal consequences.
+A substantial parcel of land required for the highway alignment belongs to his paternal uncle, Mr. Suresh Kumar, a prominent local landlord. Mr. Suresh is vehemently resisting the acquisition, claiming sentimental value for the ancestral property and disputing the proposed compensation rates. Manoj faces immense pressure from his Principal Secretary to expedite the acquisition. Simultaneously, the local MLA has made subtle inquiries, while Manoj's own family members have personally appealed to him to safeguard his uncle's interests, creating a significant conflict.
+
+Manoj's decision will directly impact his family, the other landowners awaiting fair compensation, the reputation of the district administration, and the timely completion of a vital public infrastructure project. Both an overly lenient approach and an uncompromising stance carry significant financial, social, and ethical consequences, potentially leading to public outcry or accusations of conflict of interest.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ananya Singh? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Manoj Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
