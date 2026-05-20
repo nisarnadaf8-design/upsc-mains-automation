@@ -1,36 +1,35 @@
-Date: 19 May 2026
+Date: 20 May 2026
 
 ========================================
-GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
+GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how shifting the focus from income-based poverty lines to a multidimensional poverty index influences the design and targeting of social welfare schemes in India. Discuss the conceptual challenges in measuring deprivations across diverse indicators and ensuring data accuracy for effective policy interventions.
+Examine the extent to which India's Smart Cities Mission, despite its technological ambitions, has genuinely addressed the challenges of social equity and environmental resilience in rapidly expanding urban landscapes, beyond mere infrastructure upgrades.
 
 Q2. (10 Marks | 150 words)
-What do you understand by 'structural immobility' as it pertains to Scheduled Tribes and Dalits in India? How do entrenched social hierarchies and inadequate educational access perpetuate intergenerational poverty, despite targeted affirmative action policies?
+Critically examine how the symbiotic relationship between a burgeoning informal economy, a reactive urban planning approach, and insufficient housing policies perpetuates slum proliferation rather than facilitating comprehensive rehabilitation in Indian cities.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the extent to which India's pursuit of inclusive growth has reconciled with the outcomes of market-driven 'trickle-down' economic policies. Discuss the social, economic, and political implications of prioritizing either approach in addressing persistent inequalities, providing suitable examples.
+Critically analyse the efficacy of the 74th Constitutional Amendment Act in empowering urban local bodies to effectively manage urban services, particularly solid waste and water challenges, in the face of rapid urbanisation. Discuss the political, financial, and administrative impediments that continue to hinder true decentralisation and sustainable urban governance.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
+GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of upholding 'constitutional morality' for a public servant when confronted with societal pressures rooted in deeply ingrained 'social morality'. How does Ambedkar's distinction guide ethical decision-making in diverse administrative contexts?
+Explain the significance of Aristotle's concept of 'phronesis' (practical wisdom) and Kant's emphasis on 'duty' in cultivating an ethical character and guiding administrative decision-making for a civil servant facing moral dilemmas in public service.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant navigate the complexities of implementing policies aimed at social justice and caste reform, balancing the idealism of Sarvodaya with the pragmatic need for constitutional safeguards envisioned by Ambedkar? Examine the ethical dilemmas involved in challenging existing social hierarchies through administrative action.
+Examine the ethical considerations a civil servant must balance when applying Kautilya's principles of 'danda' (punishment) and 'artha' (material well-being) in contemporary governance, especially when faced with conflicts between state security, public welfare, and individual rights. How does this align with a utilitarian perspective?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ms. Anjali Sharma, a diligent Sub-Divisional Magistrate (SDM) in a district known for its historical communal sensitivity in Uttar Pradesh, is widely respected for her integrity and efficient crisis management. A major local festival, often a flashpoint for tensions, is scheduled to commence in the coming week.
 
-Manoj Kumar, a highly regarded District Magistrate of Aridpur District, is known for his impartiality and efficient handling of administrative affairs. He is currently overseeing a time-sensitive land acquisition process for a crucial national highway project designed to significantly boost regional connectivity and economic activity in a historically underdeveloped region.
+Following a minor altercation between two community groups during a preparatory procession, a prominent political leader from the ruling party, known for his inflammatory rhetoric, exerts immense pressure on Ms. Sharma. He demands that she issue prohibitory orders selectively targeting one community, effectively preventing their participation in a key ritualistic component of the upcoming festival. Her immediate superior, under similar political duress, discreetly advises her to "consider the larger political stability and prevailing sentiments" and comply, while local community leaders from the targeted group appeal to her for impartial treatment and protection of their fundamental rights.
 
-A substantial parcel of land required for the highway alignment belongs to his paternal uncle, Mr. Suresh Kumar, a prominent local landlord. Mr. Suresh is vehemently resisting the acquisition, claiming sentimental value for the ancestral property and disputing the proposed compensation rates. Manoj faces immense pressure from his Principal Secretary to expedite the acquisition. Simultaneously, the local MLA has made subtle inquiries, while Manoj's own family members have personally appealed to him to safeguard his uncle's interests, creating a significant conflict.
-
-Manoj's decision will directly impact his family, the other landowners awaiting fair compensation, the reputation of the district administration, and the timely completion of a vital public infrastructure project. Both an overly lenient approach and an uncompromising stance carry significant financial, social, and ethical consequences, potentially leading to public outcry or accusations of conflict of interest.
+Ms. Sharma's decision will directly impact public order, communal harmony, the fundamental rights of a significant population segment, her professional integrity, and the public's trust in impartial administration. Both compliance with political demands and adherence to ethical principles carry serious consequences for maintaining peace and for her own career trajectory.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Manoj Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
