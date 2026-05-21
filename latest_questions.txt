@@ -1,35 +1,35 @@
-Date: 20 May 2026
+Date: 21 May 2026
 
 ========================================
-GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
+GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the extent to which India's Smart Cities Mission, despite its technological ambitions, has genuinely addressed the challenges of social equity and environmental resilience in rapidly expanding urban landscapes, beyond mere infrastructure upgrades.
+Examine how the forces of globalisation, while fostering a sense of global commonality, have simultaneously spurred a resurgence of distinct local identities and cultural assertions in India. Discuss this phenomenon with specific examples from various social spheres.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the symbiotic relationship between a burgeoning informal economy, a reactive urban planning approach, and insufficient housing policies perpetuates slum proliferation rather than facilitating comprehensive rehabilitation in Indian cities.
+Critically examine how the proliferation of the gig economy, a direct consequence of globalised labour markets, has reshaped traditional notions of employment, social security, and worker solidarity in India. What are its profound societal implications?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the efficacy of the 74th Constitutional Amendment Act in empowering urban local bodies to effectively manage urban services, particularly solid waste and water challenges, in the face of rapid urbanisation. Discuss the political, financial, and administrative impediments that continue to hinder true decentralisation and sustainable urban governance.
+Discuss how globalisation has intricately influenced the structure of Indian families and the socio-economic roles of women, leading to both perceived empowerment and novel forms of vulnerability. Critically analyse the socio-economic and policy challenges arising from these transformations, suggesting a multi-pronged approach for inclusive growth.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
+GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of Aristotle's concept of 'phronesis' (practical wisdom) and Kant's emphasis on 'duty' in cultivating an ethical character and guiding administrative decision-making for a civil servant facing moral dilemmas in public service.
+Explain the inherent ethical significance of transparency and accountability as indispensable pillars of good governance. How do these values foster public trust and cultivate a culture of probity within the civil services?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical considerations a civil servant must balance when applying Kautilya's principles of 'danda' (punishment) and 'artha' (material well-being) in contemporary governance, especially when faced with conflicts between state security, public welfare, and individual rights. How does this align with a utilitarian perspective?
+Examine the ethical dilemma faced by a civil servant when the imperative of institutional loyalty conflicts with the paramount duty to uphold public interest, especially in cases involving potential malpractices. How can a civil servant navigate such conflicts while maintaining personal integrity and probity?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Anjali Sharma, a diligent Sub-Divisional Magistrate (SDM) in a district known for its historical communal sensitivity in Uttar Pradesh, is widely respected for her integrity and efficient crisis management. A major local festival, often a flashpoint for tensions, is scheduled to commence in the coming week.
+Rohan Sharma is the District Planning Officer in the Department of Rural Development in Mandi District, Himachal Pradesh. He is currently overseeing the final compilation of an impact assessment report for the flagship ‘Gramin Uday’ welfare scheme, which is crucial for securing the next tranche of central government funding for rural development projects. The raw data collected from the ground reveals mixed results, with some negative trends regarding beneficiary outreach and the actual impact on livelihoods in remote villages.
 
-Following a minor altercation between two community groups during a preparatory procession, a prominent political leader from the ruling party, known for his inflammatory rhetoric, exerts immense pressure on Ms. Sharma. He demands that she issue prohibitory orders selectively targeting one community, effectively preventing their participation in a key ritualistic component of the upcoming festival. Her immediate superior, under similar political duress, discreetly advises her to "consider the larger political stability and prevailing sentiments" and comply, while local community leaders from the targeted group appeal to her for impartial treatment and protection of their fundamental rights.
+His superior, the District Collector, has subtly suggested "optimizing" the data to present a more "favorable" report, emphasizing the need to project success to secure future funds and maintain the district's reputation. Simultaneously, the local Member of Legislative Assembly (MLA) has also hinted at the political importance of showcasing the scheme's achievements, given the upcoming state elections. Rohan's own career progression is closely tied to the perceived success of such schemes, yet he is deeply aware that manipulating the data would mask genuine issues faced by the rural poor.
 
-Ms. Sharma's decision will directly impact public order, communal harmony, the fundamental rights of a significant population segment, her professional integrity, and the public's trust in impartial administration. Both compliance with political demands and adherence to ethical principles carry serious consequences for maintaining peace and for her own career trajectory.
+The beneficiaries of the Gramin Uday scheme are genuinely struggling with implementation gaps and poor service delivery, which would be completely overlooked if the report is manipulated. Both submitting the factual report and yielding to pressure have significant consequences for the public, government credibility, and Rohan’s personal and professional life.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
