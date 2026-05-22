@@ -1,34 +1,35 @@
-Date: 21 May 2026
+Date: 22 May 2026
 
 ========================================
-GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
+GS-1 SOCIETY: Social Movements and Civil Society in India
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the forces of globalisation, while fostering a sense of global commonality, have simultaneously spurred a resurgence of distinct local identities and cultural assertions in India. Discuss this phenomenon with specific examples from various social spheres.
+Examine how digital platforms have reconfigured the strategies and reach of contemporary social movements in India, impacting their capacity to strengthen democratic accountability and influence public policy.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the proliferation of the gig economy, a direct consequence of globalised labour markets, has reshaped traditional notions of employment, social security, and worker solidarity in India. What are its profound societal implications?
+What do you understand by the concept of 'civic space contraction'? Critically examine its implications for the operational autonomy and public trust of non-governmental organizations engaged in advocacy and development work in India.
 
 Q3. (15 Marks | 250 words)
-Discuss how globalisation has intricately influenced the structure of Indian families and the socio-economic roles of women, leading to both perceived empowerment and novel forms of vulnerability. Critically analyse the socio-economic and policy challenges arising from these transformations, suggesting a multi-pronged approach for inclusive growth.
+Critically analyse how unresolved issues related to land, forest rights, and displacement continue to fuel left-wing extremism in certain regions. Discuss its social, economic, and human security ramifications, alongside the challenges in formulating a holistic state response.
 
 ========================================
-GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
+GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the inherent ethical significance of transparency and accountability as indispensable pillars of good governance. How do these values foster public trust and cultivate a culture of probity within the civil services?
+Explain the concept of 'indirect conflict of interest' in public service. How can it erode public trust and compromise the principles of impartiality and fairness in administrative decision-making?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemma faced by a civil servant when the imperative of institutional loyalty conflicts with the paramount duty to uphold public interest, especially in cases involving potential malpractices. How can a civil servant navigate such conflicts while maintaining personal integrity and probity?
+How should a civil servant reconcile their duty to uphold the law and expose corruption with the organizational imperative of maintaining loyalty and internal cohesion? Discuss the institutional safeguards necessary to support such ethical conduct.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Rohan Sharma is the District Planning Officer in the Department of Rural Development in Mandi District, Himachal Pradesh. He is currently overseeing the final compilation of an impact assessment report for the flagship ‘Gramin Uday’ welfare scheme, which is crucial for securing the next tranche of central government funding for rural development projects. The raw data collected from the ground reveals mixed results, with some negative trends regarding beneficiary outreach and the actual impact on livelihoods in remote villages.
 
-His superior, the District Collector, has subtly suggested "optimizing" the data to present a more "favorable" report, emphasizing the need to project success to secure future funds and maintain the district's reputation. Simultaneously, the local Member of Legislative Assembly (MLA) has also hinted at the political importance of showcasing the scheme's achievements, given the upcoming state elections. Rohan's own career progression is closely tied to the perceived success of such schemes, yet he is deeply aware that manipulating the data would mask genuine issues faced by the rural poor.
+Rohan Sharma, a bright and idealistic IAS officer, recently posted as Sub-Divisional Magistrate (SDM) in the Revenue Department of a rapidly urbanizing district in a southern Indian state, is overseeing several key projects, including a major land acquisition for an ambitious smart city development.
 
-The beneficiaries of the Gramin Uday scheme are genuinely struggling with implementation gaps and poor service delivery, which would be completely overlooked if the report is manipulated. Both submitting the factual report and yielding to pressure have significant consequences for the public, government credibility, and Rohan’s personal and professional life.
+He discovers that a significant portion of the acquired agricultural land, initially earmarked for public infrastructure, is being quietly re-allotted to a consortium of private builders at highly concessional rates, bypassing transparent bidding processes. This appears driven by a powerful state minister and supported by his District Collector, who advises him to "expedite approvals without asking too many questions". The local farmers' union has begun protesting, alleging a scam.
+
+The key stakeholders are the marginalized farmers, the private builders, the state exchequer, the public's trust in governance, and Rohan's professional integrity. Both compliance and resistance carry severe personal and public consequences, impacting justice, transparency, and administrative ethics.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
 (b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
