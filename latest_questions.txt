@@ -1,36 +1,36 @@
-Date: 22 May 2026
+Date: 23 May 2026
 
 ========================================
-GS-1 SOCIETY: Social Movements and Civil Society in India
+GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how digital platforms have reconfigured the strategies and reach of contemporary social movements in India, impacting their capacity to strengthen democratic accountability and influence public policy.
+Examine the effectiveness of the National Education Policy 2020 in fostering a truly inclusive learning environment that addresses the diverse needs of children with disabilities and those from remote geographical regions, thereby ensuring equitable access to quality education.
 
 Q2. (10 Marks | 150 words)
-What do you understand by the concept of 'civic space contraction'? Critically examine its implications for the operational autonomy and public trust of non-governmental organizations engaged in advocacy and development work in India.
+Critically examine how the escalating commercialisation of coaching institutes and private schools impacts the meritocratic foundation of higher education access, disproportionately disadvantaging aspirants from socio-economically weaker backgrounds.
 
 Q3. (15 Marks | 250 words)
-Critically analyse how unresolved issues related to land, forest rights, and displacement continue to fuel left-wing extremism in certain regions. Discuss its social, economic, and human security ramifications, alongside the challenges in formulating a holistic state response.
+Discuss the multi-dimensional challenges posed by the persistent digital divide in education, encompassing social inequalities, economic disparities, and inadequate technological infrastructure, particularly in rural India. What synergistic policy interventions are necessary to transform digital learning from an exclusionary factor into an enabler of educational equity and quality?
 
 ========================================
-GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
+GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the concept of 'indirect conflict of interest' in public service. How can it erode public trust and compromise the principles of impartiality and fairness in administrative decision-making?
+Explain the significance of cultivating a robust culture of 'ethical leadership' within public administration as a primary strategy to combat systemic corruption. How does such leadership influence organizational norms and individual conduct, thereby restoring public faith in governance?
 
 Q5. (10 Marks | 150 words)
-How should a civil servant reconcile their duty to uphold the law and expose corruption with the organizational imperative of maintaining loyalty and internal cohesion? Discuss the institutional safeguards necessary to support such ethical conduct.
+How should a civil servant navigate the ethical quandary when confronted with a directive from a superior that, while not overtly illegal, clearly deviates from established principles of transparency and public service ethics? Examine the moral courage required in such situations.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Rohan Sharma, a bright and idealistic IAS officer, recently posted as Sub-Divisional Magistrate (SDM) in the Revenue Department of a rapidly urbanizing district in a southern Indian state, is overseeing several key projects, including a major land acquisition for an ambitious smart city development.
+Mr. Divya Prakash, a conscientious IAS officer, is serving as the District Magistrate in Sagarpur, a region recently devastated by unprecedented floods. He is directly responsible for the allocation and oversight of a substantial sum of INR 75 crores in emergency relief funds, crucial for immediate housing, food, and medical aid to hundreds of thousands of displaced individuals. His department has meticulously identified the most vulnerable villages and allocated resources based on urgent needs assessments.
 
-He discovers that a significant portion of the acquired agricultural land, initially earmarked for public infrastructure, is being quietly re-allotted to a consortium of private builders at highly concessional rates, bypassing transparent bidding processes. This appears driven by a powerful state minister and supported by his District Collector, who advises him to "expedite approvals without asking too many questions". The local farmers' union has begun protesting, alleging a scam.
+Just as the relief operations gain momentum, Mr. Prakash receives an urgent call from a prominent Member of Parliament from an adjacent, less-affected district. The MP, a senior figure in the ruling party, strongly 'advises' Mr. Prakash to divert 15% of Sagarpur's funds to a few key villages in his constituency, promising expedited promotions and crucial political support for Mr. Prakash's future career. Simultaneously, a powerful local industrialist, whose properties were affected in the MP's constituency, offers a generous 'donation' to Mr. Prakash's family trust if the funds are redirected.
 
-The key stakeholders are the marginalized farmers, the private builders, the state exchequer, the public's trust in governance, and Rohan's professional integrity. Both compliance and resistance carry severe personal and public consequences, impacting justice, transparency, and administrative ethics.
+Mr. Prakash is acutely aware that diverting these funds would leave several severely impacted Sagarpur villages without crucial aid, potentially leading to further suffering and loss of life. His refusal, however, could result in immediate political retaliation, including a punitive transfer or departmental inquiry, jeopardizing his career and ability to serve.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Mr. Divya Prakash? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
