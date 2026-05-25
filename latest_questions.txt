@@ -1,36 +1,35 @@
-Date: 24 May 2026
+Date: 25 May 2026
 
 ========================================
-GS-1 SOCIETY: Health: Public Health System and Social Determinants
+GS-1 SOCIETY: Tribal Communities: Issues, Rights and Constitutional Safeguards
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the inherent limitations of a primarily curative public health system in effectively tackling the deep-rooted social determinants of health across diverse Indian populations.
+Examine the efficacy of the Fifth and Sixth Schedules in safeguarding tribal autonomy and traditional land rights against modern pressures of industrial development and resource extraction in India.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the current architecture of healthcare financing in India inadvertently perpetuates health inequities, particularly for marginalized social groups, despite initiatives like Ayushman Bharat.
+Critically examine the concept of 'free, prior, and informed consent' (FPIC) as a foundational principle for tribal land rights, considering its implementation challenges in balancing development goals with indigenous sovereignty in contemporary India.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted challenges in addressing malnutrition in India, moving beyond mere food security to encompass social norms, economic disparities, political will, and gendered implications. Provide suitable examples.
+Discuss how the increasing pressures of climate change-induced resource scarcity and large-scale infrastructure projects exacerbate the grievances of tribal communities, contributing to socio-economic marginalisation and political unrest in several regions. Provide examples illustrating these interconnected challenges.
 
 ========================================
-GS-4 ETHICS: Corporate Governance and Business Ethics
+GS-4 ETHICS: Ethics in Public and Private Relationships
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the ethical significance of distinguishing between mere compliance and genuine ethical commitment in corporate governance, especially in industries impacting public welfare and environmental sustainability.
+Explain the significance of upholding personal integrity and fostering institutional loyalty for a civil servant, especially when these two ethical commitments appear to diverge in the pursuit of public good.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical challenges faced by regulatory bodies in ensuring consumer protection and fair advertising practices in the digital age, where traditional oversight mechanisms are often outpaced by technology and market dynamics.
+How should a civil servant navigate the ethical tightrope between maintaining personal friendships and family obligations while strictly adhering to the principles of impartiality and meritocracy in official administrative decisions?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Rohan Mehta, an honest and diligent officer, serves as the Assistant Director in the Department of Public Works (DPW) in the bustling city of Rudrapur. For several months, he noticed discrepancies in the procurement processes for a major urban infrastructure project, indicating potential financial fraud amounting to several crores. Following proper channels, Rohan meticulously documented his findings and submitted a detailed report to the Chief Secretary’s office.
 
-Mr. Alok Kumar, a dedicated District Environment Officer in the State Pollution Control Board, has recently been posted to an industrializing district in a coastal state. His mandate includes monitoring and enforcing environmental regulations. A major cement plant, Bharati Cements Ltd., is a significant employer and revenue generator for the region and has a history of minor environmental complaints.
+Instead of an investigation, Rohan soon finds himself sidelined; his key responsibilities are reassigned, and his integrity is questioned through anonymous complaints circulated within the department. His immediate superior, Mr. Sharma, advises him to retract his report for the sake of 'departmental harmony' and warns of potential harm to his career progression. Simultaneously, Rohan's family expresses concern for his safety and future, urging him to reconsider his stance, while a powerful local political leader, whose associates are implicated in Rohan’s report, begins to exert indirect pressure through veiled threats.
 
-During a routine inspection, Mr. Kumar's team discovers that Bharati Cements is discharging a significant volume of untreated industrial waste directly into a local river, far exceeding permissible limits. This pollution is severely impacting the livelihoods of local fishing communities and contaminating agricultural lands downstream. The plant manager, Mr. Rajesh Sharma, offers a substantial "donation" to a local charity, implicitly expecting Mr. Kumar to overlook the violations, and hints at the company's strong political connections. The local MLA also calls Mr. Kumar, urging a "pragmatic approach" to avoid disrupting employment and investment. Furthermore, Mr. Brijesh Singh, Mr. Kumar's Senior Environment Officer, advises caution, citing the company's influence and the state government's overarching push for industrial growth.
-
-Mr. Kumar's decision will directly affect the health and livelihoods of the local communities, the credibility of the State Pollution Control Board, the economic stability of Bharati Cements and its employees, and his own career and ethical standing. Both immediate action and inaction carry significant and complex consequences.
+Rohan's decision will directly impact public trust in governance, the financial health of the state, the morale of honest officers, and his own career and family well-being. Both pursuing his complaint and yielding to pressure carry significant, far-reaching consequences for himself and the integrity of the public service.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Mr. Alok Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rohan Mehta? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
