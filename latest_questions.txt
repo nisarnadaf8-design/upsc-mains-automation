@@ -1,36 +1,35 @@
-Date: 27 May 2026
+Date: 28 May 2026
 
 ========================================
-GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
+GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the inherent challenges in disaggregating and addressing child labour, bonded labour, and human trafficking as distinct issues, given their frequent convergence on the ground in India, particularly within informal economic sectors.
+Examine the diverse ways in which social capital, encompassing networks of trust and reciprocity, contributes to community resilience and sustainable development, particularly in an era of increasing climate vulnerabilities and digital divides.
 
 Q2. (10 Marks | 150 words)
-Critically examine how global supply chains and digital platforms have reshaped the dynamics of human trafficking and modern forms of bonded labour, necessitating a re-evaluation of national and international response strategies.
+Critically examine how the evolving landscape of regulatory oversight and public scrutiny has impacted the perceived legitimacy and operational effectiveness of the voluntary sector in addressing grassroots challenges in India.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted approach required to effectively combat child labour, bonded labour, and human trafficking, encompassing social empowerment, economic security, legal reforms, and technological interventions. Illustrate with suitable examples from recent policy initiatives.
+Discuss how the cooperative movement, drawing lessons from success stories like Amul, can be leveraged to foster multi-dimensional rural empowerment, encompassing economic upliftment, social equity, and decentralized governance. Illustrate with relevant examples.
 
 ========================================
-GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
+GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'moral courage' and 'impartiality' as foundational values for a civil servant, particularly when upholding the rule of law amidst societal pressures or political interference.
+What do you understand by the concept of 'intergenerational equity' in the context of climate change? Explain its ethical implications for current global policy-making and resource allocation decisions.
 
 Q5. (10 Marks | 150 words)
-How can lessons drawn from the lives of historical figures or fictional narratives inspire a civil servant to cultivate ethical resilience and uphold public service values in challenging administrative scenarios?
+Examine the ethical dilemmas faced by national policy makers when balancing sovereign economic interests with humanitarian imperatives during international refugee crises or global health emergencies.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ms. Anjali Sharma is an Under Secretary in the Ministry of Infrastructure Development in New Delhi, responsible for overseeing a crucial public-private partnership (PPP) project aimed at smart city development. The project, in its advanced stages, involves significant land acquisition and obtaining environmental clearances, with sensitive negotiations currently underway with various stakeholders.
 
-Rohan Sharma, a diligent District Project Coordinator in the Rural Development Department of Mandla District, Madhya Pradesh, has been instrumental in implementing a new tribal welfare scheme. The scheme provides skill development training and certification to eligible beneficiaries, enabling them to secure employment and improve their livelihoods. The district, predominantly tribal, is gearing up for crucial state assembly elections.
+A local environmental activist, Mr. Rajesh Kumar, files a Right to Information (RTI) application demanding immediate access to all project-related documents, including internal deliberations, preliminary legal opinions, and unfinalized draft reports pertaining to the Environmental Impact Assessment (EIA). Ms. Sharma's Joint Secretary firmly instructs her to withhold specific sections of this information under the Official Secrets Act, citing potential market speculation, public panic, and a law and order situation if premature data is disclosed. However, Mr. Kumar argues that withholding information compromises public trust and the fundamental right of citizens to be fully informed about projects impacting their environment and livelihood.
 
-Just weeks before the elections, Rohan's immediate superior, the Additional District Magistrate, along with a prominent local political leader from the ruling party, approaches him with an unusual demand. They instruct him to expedite the issuance of several hundred skill development completion certificates to individuals who have not completed the requisite training or, in some cases, are not even eligible for the scheme. The stated reason is to showcase the scheme's 'success' to the electorate and consolidate support for the upcoming elections. Rohan is implicitly warned about potential career repercussions if he does not comply.
-
-Rohan's decision will directly affect the integrity of the welfare scheme, the trust of genuine beneficiaries, and the overall credibility of the district administration. Compliance would benefit the political party electorally but compromise his ethical obligations, while refusal could jeopardize his professional standing and invite punitive transfers.
+Ms. Sharma's decision will directly affect the project's timeline, the financial viability of the developers, the trust of local residents and environmental groups, and potentially her own career. Both full disclosure and complete withholding have serious ramifications, ranging from jeopardizing ongoing negotiations to accusations of opacity and institutional malpractice.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
