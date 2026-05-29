@@ -1,34 +1,34 @@
-Date: 28 May 2026
+Date: 29 May 2026
 
 ========================================
-GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
+GS-1 SOCIETY: Media, Social Media and Their Role in Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the diverse ways in which social capital, encompassing networks of trust and reciprocity, contributes to community resilience and sustainable development, particularly in an era of increasing climate vulnerabilities and digital divides.
+Examine how the proliferation of digital platforms and citizen journalism has redefined the traditional accountability mechanisms expected of media as a democratic watchdog. Discuss the inherent challenges in ensuring responsible reporting in this hyper-connected ecosystem.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the evolving landscape of regulatory oversight and public scrutiny has impacted the perceived legitimacy and operational effectiveness of the voluntary sector in addressing grassroots challenges in India.
+How has the pervasive spread of synthetic media and deepfakes impacted social cohesion and public trust in factual information? Critically examine the ethical responsibilities of technology platforms and individual users in combating the erosion of shared reality.
 
 Q3. (15 Marks | 250 words)
-Discuss how the cooperative movement, drawing lessons from success stories like Amul, can be leveraged to foster multi-dimensional rural empowerment, encompassing economic upliftment, social equity, and decentralized governance. Illustrate with relevant examples.
+Critically analyse the multi-faceted impact of social media on policy formulation and public grievance redressal in contemporary governance. Discuss its implications across social inclusivity, administrative transparency, and legal oversight, providing suitable examples from recent Indian experiences.
 
 ========================================
-GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
+GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the concept of 'intergenerational equity' in the context of climate change? Explain its ethical implications for current global policy-making and resource allocation decisions.
+Explain the significance of 'probity in public life' as a foundational ethical value for civil servants, especially when confronted with dilemmas involving political patronage or personal gain. How does upholding probity contribute to building and sustaining public trust in governance?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemmas faced by national policy makers when balancing sovereign economic interests with humanitarian imperatives during international refugee crises or global health emergencies.
+How should a civil servant navigate the ethical complexities when faced with a directive from a superior that might contravene established rules or public interest? Examine the moral courage required to uphold professional ethics amidst institutional pressures.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Anjali Sharma is an Under Secretary in the Ministry of Infrastructure Development in New Delhi, responsible for overseeing a crucial public-private partnership (PPP) project aimed at smart city development. The project, in its advanced stages, involves significant land acquisition and obtaining environmental clearances, with sensitive negotiations currently underway with various stakeholders.
+Ms. Anjali Sharma, a newly appointed Sub-Divisional Magistrate (SDM) in the industrially burgeoning district of Rudrapur, Uttarakhand, was keen on ensuring fair labor practices. Her proactive approach involved regular field visits to factories and establishments in her jurisdiction, aiming to foster both economic growth and social welfare.
 
-A local environmental activist, Mr. Rajesh Kumar, files a Right to Information (RTI) application demanding immediate access to all project-related documents, including internal deliberations, preliminary legal opinions, and unfinalized draft reports pertaining to the Environmental Impact Assessment (EIA). Ms. Sharma's Joint Secretary firmly instructs her to withhold specific sections of this information under the Official Secrets Act, citing potential market speculation, public panic, and a law and order situation if premature data is disclosed. However, Mr. Kumar argues that withholding information compromises public trust and the fundamental right of citizens to be fully informed about projects impacting their environment and livelihood.
+During an unannounced inspection of a large garment manufacturing unit, 'Garuda Textiles', Ms. Sharma's team uncovered irrefutable evidence of several children, some as young as nine, working in deplorable conditions. To her dismay, she soon learned that 'Garuda Textiles' was widely known to be owned by Mr. Raghav Puri, a powerful state cabinet minister. Her immediate superior, the District Collector, called her, advising her to "exercise extreme caution" and suggesting the matter be "handled internally and sensitively" to avoid political complications, implicitly hinting at adverse career repercussions. Simultaneously, a local child rights NGO, having received prior intelligence, began pressing Ms. Sharma for swift and decisive action.
 
-Ms. Sharma's decision will directly affect the project's timeline, the financial viability of the developers, the trust of local residents and environmental groups, and potentially her own career. Both full disclosure and complete withholding have serious ramifications, ranging from jeopardizing ongoing negotiations to accusations of opacity and institutional malpractice.
+The primary stakeholders include the exploited children, their families, the factory management, Minister Puri, Ms. Sharma, the district administration, and the child rights NGO. Both immediate action and delayed response carry significant consequences, ranging from ensuring justice and upholding the law to risking political backlash and compromising administrative integrity.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
 (b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
