@@ -1,34 +1,35 @@
-Date: 29 May 2026
+Date: 30 May 2026
 
 ========================================
-GS-1 SOCIETY: Media, Social Media and Their Role in Society
+GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the proliferation of digital platforms and citizen journalism has redefined the traditional accountability mechanisms expected of media as a democratic watchdog. Discuss the inherent challenges in ensuring responsible reporting in this hyper-connected ecosystem.
+Examine the evolving nature of caste in contemporary India, moving beyond its traditional ritualistic aspects to manifest as a dynamic force in political mobilisation and resource allocation. Discuss how this transformation challenges a purely socio-religious understanding of caste.
 
 Q2. (10 Marks | 150 words)
-How has the pervasive spread of synthetic media and deepfakes impacted social cohesion and public trust in factual information? Critically examine the ethical responsibilities of technology platforms and individual users in combating the erosion of shared reality.
+Critically examine the limitations of M.N. Srinivas' concept of Sanskritisation in fully explaining the complexities of upward social mobility and status assertion among historically marginalized communities in 21st-century India. How do factors like economic empowerment and political participation offer alternative pathways?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multi-faceted impact of social media on policy formulation and public grievance redressal in contemporary governance. Discuss its implications across social inclusivity, administrative transparency, and legal oversight, providing suitable examples from recent Indian experiences.
+Critically analyse how the implementation of reservation policies in India has navigated the complex intersection of caste, class, and gender, creating both opportunities for social justice and new structural barriers within society. Discuss with suitable examples from recent policy discourses and their socio-economic implications.
 
 ========================================
-GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
+GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'probity in public life' as a foundational ethical value for civil servants, especially when confronted with dilemmas involving political patronage or personal gain. How does upholding probity contribute to building and sustaining public trust in governance?
+What do you understand by moral relativism? Discuss the inherent challenges a civil servant faces in adhering to universal ethical principles when confronted with culturally specific norms or socio-political expediency in their public duties.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant navigate the ethical complexities when faced with a directive from a superior that might contravene established rules or public interest? Examine the moral courage required to uphold professional ethics amidst institutional pressures.
+How can educational institutions be more effectively leveraged to inculcate an 'ethics of care' among aspiring civil servants, ensuring empathetic and inclusive decision-making in public administration? Explain with examples of pedagogical approaches.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Anjali Sharma, a newly appointed Sub-Divisional Magistrate (SDM) in the industrially burgeoning district of Rudrapur, Uttarakhand, was keen on ensuring fair labor practices. Her proactive approach involved regular field visits to factories and establishments in her jurisdiction, aiming to foster both economic growth and social welfare.
 
-During an unannounced inspection of a large garment manufacturing unit, 'Garuda Textiles', Ms. Sharma's team uncovered irrefutable evidence of several children, some as young as nine, working in deplorable conditions. To her dismay, she soon learned that 'Garuda Textiles' was widely known to be owned by Mr. Raghav Puri, a powerful state cabinet minister. Her immediate superior, the District Collector, called her, advising her to "exercise extreme caution" and suggesting the matter be "handled internally and sensitively" to avoid political complications, implicitly hinting at adverse career repercussions. Simultaneously, a local child rights NGO, having received prior intelligence, began pressing Ms. Sharma for swift and decisive action.
+Ms. Anjali Sharma, a young and upright District Magistrate of Rudraprayag district, Uttarakhand, has recently taken charge amidst an ongoing ambitious highway expansion project aimed at improving connectivity to remote pilgrimage sites. Her initial reviews revealed several irregularities in land acquisition proposals and environmental impact assessments for a critical section.
 
-The primary stakeholders include the exploited children, their families, the factory management, Minister Puri, Ms. Sharma, the district administration, and the child rights NGO. Both immediate action and delayed response carry significant consequences, ranging from ensuring justice and upholding the law to risking political backlash and compromising administrative integrity.
+A powerful local Member of Legislative Assembly (MLA), Mr. Rakesh Verma, has approached Ms. Sharma, insisting on a rapid approval for a particular stretch of the highway that involves acquiring a land parcel owned by his close associates at an inflated price, bypassing due diligence. Her immediate superior, the Chief Secretary, subtly hinted at "political sensitivities" and advised a "pragmatic approach" to avoid confrontation, while the MLA himself suggested potential career repercussions for non-cooperation.
+
+This dilemma directly impacts the marginalized villagers whose legitimate land claims might be undervalued, the ecological balance of the sensitive Himalayan region, the integrity of the public exchequer, and the credibility of the administrative machinery. Ms. Sharma's decision carries significant implications for social justice, environmental sustainability, and her own professional future.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
 (b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
