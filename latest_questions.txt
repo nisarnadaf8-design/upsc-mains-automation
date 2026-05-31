@@ -1,36 +1,35 @@
-Date: 30 May 2026
+Date: 31 May 2026
 
 ========================================
-GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
+GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving nature of caste in contemporary India, moving beyond its traditional ritualistic aspects to manifest as a dynamic force in political mobilisation and resource allocation. Discuss how this transformation challenges a purely socio-religious understanding of caste.
+Examine the multi-layered challenges women face in translating legislative quotas into substantive political empowerment at the local governance level, focusing on aspects beyond mere numerical representation. Discuss how prevailing patriarchal structures and institutional capacities impact their ability to influence policy and resource allocation effectively.
 
 Q2. (10 Marks | 150 words)
-Critically examine the limitations of M.N. Srinivas' concept of Sanskritisation in fully explaining the complexities of upward social mobility and status assertion among historically marginalized communities in 21st-century India. How do factors like economic empowerment and political participation offer alternative pathways?
+Critically examine how the informalization of the economy, coupled with the persistent care burden and digital illiteracy, contributes to the widening gender gap in formal sector workforce participation in contemporary India. What policy interventions are crucial to address these intertwined barriers and foster inclusive economic growth?
 
 Q3. (15 Marks | 250 words)
-Critically analyse how the implementation of reservation policies in India has navigated the complex intersection of caste, class, and gender, creating both opportunities for social justice and new structural barriers within society. Discuss with suitable examples from recent policy discourses and their socio-economic implications.
+Discuss how the effectiveness of legal safeguards against gender-based violence, such as the Protection of Women from Domestic Violence Act and amendments to the POCSO Act, is shaped by their interface with patriarchal social attitudes and the capacity of grassroots institutions. Analyse this interaction across legal implementation, community engagement, and resource allocation dimensions, citing appropriate examples.
 
 ========================================
-GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
+GS-4 ETHICS: Attitude: Formation, Change and Social Influence
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by moral relativism? Discuss the inherent challenges a civil servant faces in adhering to universal ethical principles when confronted with culturally specific norms or socio-political expediency in their public duties.
+What do you understand by ‘moral scaffolding’ in public administration? Explain how continuous engagement with socio-economic realities and diverse community perspectives can actively reshape an administrator's foundational attitudes, moving them from rigid rule-centricity towards a more empathetic and citizen-centric approach, overcoming inherent biases.
 
 Q5. (10 Marks | 150 words)
-How can educational institutions be more effectively leveraged to inculcate an 'ethics of care' among aspiring civil servants, ensuring empathetic and inclusive decision-making in public administration? Explain with examples of pedagogical approaches.
+As a civil servant, how would you address subtle institutional biases and implicit prejudices within your department that indirectly contribute to discriminatory service delivery, without directly confronting senior colleagues? Discuss the ethical implications of using indirect influence versus direct confrontation in fostering a culture of equity.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Meera Sharma, a young and dedicated Sub-Divisional Magistrate (SDM) in the flood-ravaged district of Sagar, is leading a critical team coordinating relief and rehabilitation efforts. The district has been severely hit by unprecedented rains, displacing thousands and causing extensive damage to infrastructure. She has been working relentlessly for weeks, often alongside her superior, the District Collector (DC), Mr. Alok Kumar, whom she deeply respects as a mentor.
 
-Ms. Anjali Sharma, a young and upright District Magistrate of Rudraprayag district, Uttarakhand, has recently taken charge amidst an ongoing ambitious highway expansion project aimed at improving connectivity to remote pilgrimage sites. Her initial reviews revealed several irregularities in land acquisition proposals and environmental impact assessments for a critical section.
+During an internal audit of procurement for emergency shelters and food supplies, Meera uncovers compelling evidence of large-scale corruption. Her investigation reveals that Mr. Kumar is systematically diverting funds meant for victims, approving grossly inflated bills for substandard materials, and favouring a specific network of contractors. The dilemma is stark: Mr. Kumar is not only her direct superior and a politically influential figure but also a personal mentor, and exposing him could severely disrupt ongoing relief operations, jeopardize her career, and potentially put her in personal danger.
 
-A powerful local Member of Legislative Assembly (MLA), Mr. Rakesh Verma, has approached Ms. Sharma, insisting on a rapid approval for a particular stretch of the highway that involves acquiring a land parcel owned by his close associates at an inflated price, bypassing due diligence. Her immediate superior, the Chief Secretary, subtly hinted at "political sensitivities" and advised a "pragmatic approach" to avoid confrontation, while the MLA himself suggested potential career repercussions for non-cooperation.
-
-This dilemma directly impacts the marginalized villagers whose legitimate land claims might be undervalued, the ecological balance of the sensitive Himalayan region, the integrity of the public exchequer, and the credibility of the administrative machinery. Ms. Sharma's decision carries significant implications for social justice, environmental sustainability, and her own professional future.
+The primary stakeholders are the vulnerable flood victims who are being denied essential aid, the honest officers working diligently, the reputation of the civil service, and Meera's own integrity and future. Inaction would perpetuate suffering and systemic corruption, while action carries significant personal and institutional risks, yet upholds ethical governance.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Meera Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
