@@ -1,35 +1,36 @@
-Date: 31 May 2026
+Date: 01 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
+GS-1 SOCIETY: Communalism, Regionalism and Secularism
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the multi-layered challenges women face in translating legislative quotas into substantive political empowerment at the local governance level, focusing on aspects beyond mere numerical representation. Discuss how prevailing patriarchal structures and institutional capacities impact their ability to influence policy and resource allocation effectively.
+Examine how contemporary political narratives often oversimplify or misrepresent India's constitutional secularism, thereby inadvertently aiding communal mobilization. Discuss the challenges this poses to maintaining social harmony and national cohesion.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the informalization of the economy, coupled with the persistent care burden and digital illiteracy, contributes to the widening gender gap in formal sector workforce participation in contemporary India. What policy interventions are crucial to address these intertwined barriers and foster inclusive economic growth?
+What do you understand by "constructive regionalism" in the context of India's diverse composite culture? Critically examine how regional aspirations, when nurtured respectfully, can strengthen rather than undermine national integration and syncretic traditions.
 
 Q3. (15 Marks | 250 words)
-Discuss how the effectiveness of legal safeguards against gender-based violence, such as the Protection of Women from Domestic Violence Act and amendments to the POCSO Act, is shaped by their interface with patriarchal social attitudes and the capacity of grassroots institutions. Analyse this interaction across legal implementation, community engagement, and resource allocation dimensions, citing appropriate examples.
+Critically analyse the multi-dimensional impact of algorithmic news feeds and targeted social media campaigns in exacerbating communal polarization and regional fragmentation in India. Discuss its implications on social fabric, electoral democracy, and economic development, providing suitable examples.
 
 ========================================
-GS-4 ETHICS: Attitude: Formation, Change and Social Influence
+GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by ‘moral scaffolding’ in public administration? Explain how continuous engagement with socio-economic realities and diverse community perspectives can actively reshape an administrator's foundational attitudes, moving them from rigid rule-centricity towards a more empathetic and citizen-centric approach, overcoming inherent biases.
+What do you understand by integrity as a foundational value for civil servants, extending beyond mere legal compliance to encompass ethical probity and moral courage? Explain its significance in fostering public trust and upholding the spirit of the Constitution.
 
 Q5. (10 Marks | 150 words)
-As a civil servant, how would you address subtle institutional biases and implicit prejudices within your department that indirectly contribute to discriminatory service delivery, without directly confronting senior colleagues? Discuss the ethical implications of using indirect influence versus direct confrontation in fostering a culture of equity.
+How should a civil servant navigate the ethical imperative of impartiality and objectivity when faced with demands from diverse stakeholder groups, each claiming legitimate rights and exerting significant political or social pressure? Discuss the challenges in ensuring evidence-based and equitable decision-making in such scenarios.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Meera Sharma, a young and dedicated Sub-Divisional Magistrate (SDM) in the flood-ravaged district of Sagar, is leading a critical team coordinating relief and rehabilitation efforts. The district has been severely hit by unprecedented rains, displacing thousands and causing extensive damage to infrastructure. She has been working relentlessly for weeks, often alongside her superior, the District Collector (DC), Mr. Alok Kumar, whom she deeply respects as a mentor.
 
-During an internal audit of procurement for emergency shelters and food supplies, Meera uncovers compelling evidence of large-scale corruption. Her investigation reveals that Mr. Kumar is systematically diverting funds meant for victims, approving grossly inflated bills for substandard materials, and favouring a specific network of contractors. The dilemma is stark: Mr. Kumar is not only her direct superior and a politically influential figure but also a personal mentor, and exposing him could severely disrupt ongoing relief operations, jeopardize her career, and potentially put her in personal danger.
+Aparna Singh, a dynamic young District Collector of Mandla district, Madhya Pradesh, has been lauded for her pro-people approach. Her current challenge involves a state-backed mining project for bauxite extraction in the dense forest region, impacting several Gond tribal villages. The project promises significant revenue and jobs but threatens the ancestral lands and traditional livelihoods of the tribal communities.
 
-The primary stakeholders are the vulnerable flood victims who are being denied essential aid, the honest officers working diligently, the reputation of the civil service, and Meera's own integrity and future. Inaction would perpetuate suffering and systemic corruption, while action carries significant personal and institutional risks, yet upholds ethical governance.
+The State Government has issued clear directives to fast-track environmental clearances and land acquisition, citing national interest and economic growth. However, local tribal leaders, supported by environmental activists, are vehemently opposing it, highlighting potential ecological devastation, displacement, and violation of the Forest Rights Act (FRA) and PESA. Aparna is under immense pressure from the Chief Secretary to demonstrate 'administrative efficiency' and also faces passionate appeals from the tribal community for protecting their jal, jangal, zameen.
+
+The decision will directly impact thousands of tribal families, the district's ecological balance, the state's revenue goals, and potentially set a precedent for future development projects. Both swift compliance and empathetic resistance carry significant socio-economic, environmental, and political consequences for Aparna's career and the community's future.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Meera Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Aparna Singh? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
