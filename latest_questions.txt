@@ -1,36 +1,35 @@
-Date: 01 Jun 2026
+Date: 02 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Communalism, Regionalism and Secularism
+GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how contemporary political narratives often oversimplify or misrepresent India's constitutional secularism, thereby inadvertently aiding communal mobilization. Discuss the challenges this poses to maintaining social harmony and national cohesion.
+As India navigates its demographic transition, examine the intricate interplay between sustained outward migration from certain states, the challenges of harnessing the demographic dividend, and the emerging strains on social support systems for the elderly in source regions.
 
 Q2. (10 Marks | 150 words)
-What do you understand by "constructive regionalism" in the context of India's diverse composite culture? Critically examine how regional aspirations, when nurtured respectfully, can strengthen rather than undermine national integration and syncretic traditions.
+What do you understand by the concept of 'demographic resilience' in the context of India's population dynamics? Critically analyse how a holistic population policy, emphasizing skill development and social security, can foster this resilience amidst regional disparities in demographic transition.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multi-dimensional impact of algorithmic news feeds and targeted social media campaigns in exacerbating communal polarization and regional fragmentation in India. Discuss its implications on social fabric, electoral democracy, and economic development, providing suitable examples.
+Discuss the multi-faceted implications of the 'silver tsunami' phenomenon – the rapid growth of the elderly population – on India's social fabric, economic productivity, and healthcare infrastructure. Critically analyse the gender-differentiated challenges faced by older persons, particularly in rural settings, and suggest policy interventions for dignified ageing.
 
 ========================================
-GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
+GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by integrity as a foundational value for civil servants, extending beyond mere legal compliance to encompass ethical probity and moral courage? Explain its significance in fostering public trust and upholding the spirit of the Constitution.
+What do you understand by 'emotional contagion' in the context of public administration? Explain how emotionally intelligent leaders can leverage or mitigate its effects to foster a positive organizational climate and enhance team resilience during periods of intense public scrutiny.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant navigate the ethical imperative of impartiality and objectivity when faced with demands from diverse stakeholder groups, each claiming legitimate rights and exerting significant political or social pressure? Discuss the challenges in ensuring evidence-based and equitable decision-making in such scenarios.
+In what ways can a civil servant deploy 'social awareness' and 'relationship management', two vital components of emotional intelligence, to effectively resolve inter-departmental conflicts and build sustainable stakeholder partnerships for complex development projects?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Manoj Kumar, an upright and highly decorated IPS officer, was recently posted as the Superintendent of Police, heading the State Police Cyber Crime Unit in a major metropolitan city. Known for his keen investigative skills and unwavering commitment to justice, he had successfully streamlined the unit's operations, leading to several high-profile arrests in recent months.
 
-Aparna Singh, a dynamic young District Collector of Mandla district, Madhya Pradesh, has been lauded for her pro-people approach. Her current challenge involves a state-backed mining project for bauxite extraction in the dense forest region, impacting several Gond tribal villages. The project promises significant revenue and jobs but threatens the ancestral lands and traditional livelihoods of the tribal communities.
+His unit recently uncovered a sophisticated online recruitment scam targeting thousands of unemployed youth for government positions. As the investigation deepened, preliminary evidence revealed the shocking involvement of a few mid-level officers from the state police's own recruitment wing, alongside covert support from a powerful political functionary. Manoj's immediate superior subtly advised him to proceed with extreme caution, emphasizing the potential for severe damage to public trust in the entire police force, while a prominent political leader suggested discreetly managing the "sensitive internal matter" to avoid departmental upheaval.
 
-The State Government has issued clear directives to fast-track environmental clearances and land acquisition, citing national interest and economic growth. However, local tribal leaders, supported by environmental activists, are vehemently opposing it, highlighting potential ecological devastation, displacement, and violation of the Forest Rights Act (FRA) and PESA. Aparna is under immense pressure from the Chief Secretary to demonstrate 'administrative efficiency' and also faces passionate appeals from the tribal community for protecting their jal, jangal, zameen.
-
-The decision will directly impact thousands of tribal families, the district's ecological balance, the state's revenue goals, and potentially set a precedent for future development projects. Both swift compliance and empathetic resistance carry significant socio-economic, environmental, and political consequences for Aparna's career and the community's future.
+Manoj faces a profound ethical dilemma. His decision will directly impact the scam victims awaiting justice, the integrity and reputation of the police department, the political establishment, and potentially his own career and personal safety. Both exposing the truth and attempting to suppress it carry immense consequences for various stakeholders.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Aparna Singh? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Manoj Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
