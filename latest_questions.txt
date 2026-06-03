@@ -1,35 +1,35 @@
-Date: 02 Jun 2026
+Date: 03 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
+GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
 ========================================
 
 Q1. (10 Marks | 150 words)
-As India navigates its demographic transition, examine the intricate interplay between sustained outward migration from certain states, the challenges of harnessing the demographic dividend, and the emerging strains on social support systems for the elderly in source regions.
+Examine how the persistent digital divide in rural and tribal areas exacerbates educational exclusion, thereby perpetuating intergenerational poverty and social immobility among marginalized communities in India. Discuss specific policy interventions required to break this cycle.
 
 Q2. (10 Marks | 150 words)
-What do you understand by the concept of 'demographic resilience' in the context of India's population dynamics? Critically analyse how a holistic population policy, emphasizing skill development and social security, can foster this resilience amidst regional disparities in demographic transition.
+Critically examine whether economic growth policies primarily relying on the 'trickle-down' effect have sufficiently addressed the systemic social exclusion and income disparities faced by Scheduled Tribes and Dalits in India. Argue for the necessity of more targeted 'inclusive growth' strategies in achieving equitable development.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted implications of the 'silver tsunami' phenomenon – the rapid growth of the elderly population – on India's social fabric, economic productivity, and healthcare infrastructure. Critically analyse the gender-differentiated challenges faced by older persons, particularly in rural settings, and suggest policy interventions for dignified ageing.
+Critically analyse the limitations of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) in comprehensively addressing multidimensional poverty and chronic social exclusion for highly vulnerable groups, particularly rural women and tribal communities. Discuss its achievements and shortcomings from social, economic, and gender perspectives.
 
 ========================================
-GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
+GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by 'emotional contagion' in the context of public administration? Explain how emotionally intelligent leaders can leverage or mitigate its effects to foster a positive organizational climate and enhance team resilience during periods of intense public scrutiny.
+Explain the significance of Dr. B.R. Ambedkar's concept of 'constitutional morality' in guiding public servants to uphold the spirit of justice and equality, even when confronted with deeply ingrained societal prejudices or popular sentiments that contradict constitutional values.
 
 Q5. (10 Marks | 150 words)
-In what ways can a civil servant deploy 'social awareness' and 'relationship management', two vital components of emotional intelligence, to effectively resolve inter-departmental conflicts and build sustainable stakeholder partnerships for complex development projects?
+How can Mahatma Gandhi's principle of 'trusteeship' be practically applied by civil servants in managing public resources and delivering welfare schemes, especially in preventing corruption and ensuring equitable distribution to the most vulnerable sections of society?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Manoj Kumar, an upright and highly decorated IPS officer, was recently posted as the Superintendent of Police, heading the State Police Cyber Crime Unit in a major metropolitan city. Known for his keen investigative skills and unwavering commitment to justice, he had successfully streamlined the unit's operations, leading to several high-profile arrests in recent months.
+Divya Sharma is the District Magistrate of Harinagar, a rapidly developing district in Uttar Pradesh, known for its agricultural produce and emerging industrial zones. She is known for her integrity and efficient handling of land acquisition disputes, a frequent occurrence in the district due to infrastructure projects. Her father, Mr. Om Prakash Sharma, a respected retired government school teacher, recently decided to invest his life savings in a small plot of land for a new dairy farm business with a local entrepreneur.
 
-His unit recently uncovered a sophisticated online recruitment scam targeting thousands of unemployed youth for government positions. As the investigation deepened, preliminary evidence revealed the shocking involvement of a few mid-level officers from the state police's own recruitment wing, alongside covert support from a powerful political functionary. Manoj's immediate superior subtly advised him to proceed with extreme caution, emphasizing the potential for severe damage to public trust in the entire police force, while a prominent political leader suggested discreetly managing the "sensitive internal matter" to avoid departmental upheaval.
+A few weeks later, a major railway corridor project, sanctioned at the national level, passes through Harinagar, and Divya's office is tasked with overseeing the land acquisition process, including dispute resolution. To her shock, she discovers that the land her father recently purchased falls directly within the proposed railway alignment and is now subject to compulsory acquisition. Her father, unaware of the project details, stands to lose significant investment if the land is acquired at the current market rate, which is considerably lower than its potential future value. Local political leaders, aware of the situation, subtly pressure Divya to "expedite" the acquisition process for other plots but show "flexibility" for her father's plot, hinting at a more favorable compensation package or even an alteration in the alignment, citing "public interest adjustments." Meanwhile, her family expects her to protect their interests, and the entrepreneur is threatening legal action if the investment is lost.
 
-Manoj faces a profound ethical dilemma. His decision will directly impact the scam victims awaiting justice, the integrity and reputation of the police department, the political establishment, and potentially his own career and personal safety. Both exposing the truth and attempting to suppress it carry immense consequences for various stakeholders.
+Her decision will directly impact her father, the entrepreneur, other landowners affected by the project, the credibility of the district administration, and the timely completion of a crucial national infrastructure project. Any perception of bias could lead to public protests and accusations of corruption, while strict adherence to rules might cause personal hardship and familial discord.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Manoj Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Divya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
