@@ -1,35 +1,45 @@
-Date: 03 Jun 2026
+Date: 05 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
+GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the persistent digital divide in rural and tribal areas exacerbates educational exclusion, thereby perpetuating intergenerational poverty and social immobility among marginalized communities in India. Discuss specific policy interventions required to break this cycle.
+Examine how globalisation, while often perceived as a homogenizing force, has simultaneously facilitated the resurgence and hybridisation of local cultural expressions in India. Discuss the implications of this dynamic interplay for national identity in a digitally interconnected world.
 
 Q2. (10 Marks | 150 words)
-Critically examine whether economic growth policies primarily relying on the 'trickle-down' effect have sufficiently addressed the systemic social exclusion and income disparities faced by Scheduled Tribes and Dalits in India. Argue for the necessity of more targeted 'inclusive growth' strategies in achieving equitable development.
+Critically examine how the processes of economic globalisation have exacerbated socio-economic disparities in India, beyond mere income inequality, affecting access to opportunities and reinforcing social stratification. How can policy interventions mitigate these structural challenges?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the limitations of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) in comprehensively addressing multidimensional poverty and chronic social exclusion for highly vulnerable groups, particularly rural women and tribal communities. Discuss its achievements and shortcomings from social, economic, and gender perspectives.
+Discuss the multi-faceted impact of the burgeoning gig economy, a direct outcome of globalisation, on women in Indian society. Critically analyse how it presents both new avenues for economic empowerment and unique challenges related to labour rights, social security, and the negotiation of traditional family roles.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
+GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of Dr. B.R. Ambedkar's concept of 'constitutional morality' in guiding public servants to uphold the spirit of justice and equality, even when confronted with deeply ingrained societal prejudices or popular sentiments that contradict constitutional values.
+What do you understand by 'institutional integrity' in the context of public administration? Explain its significance in fostering public trust and ensuring probity in governance, particularly when faced with pressures that compromise transparency and accountability.
 
 Q5. (10 Marks | 150 words)
-How can Mahatma Gandhi's principle of 'trusteeship' be practically applied by civil servants in managing public resources and delivering welfare schemes, especially in preventing corruption and ensuring equitable distribution to the most vulnerable sections of society?
+Examine the ethical challenges a civil servant faces in identifying and managing potential conflicts of interest, both perceived and actual, within their official duties. How can a robust ethical framework and personal integrity help navigate these situations effectively?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Divya Sharma is the District Magistrate of Harinagar, a rapidly developing district in Uttar Pradesh, known for its agricultural produce and emerging industrial zones. She is known for her integrity and efficient handling of land acquisition disputes, a frequent occurrence in the district due to infrastructure projects. Her father, Mr. Om Prakash Sharma, a respected retired government school teacher, recently decided to invest his life savings in a small plot of land for a new dairy farm business with a local entrepreneur.
 
-A few weeks later, a major railway corridor project, sanctioned at the national level, passes through Harinagar, and Divya's office is tasked with overseeing the land acquisition process, including dispute resolution. To her shock, she discovers that the land her father recently purchased falls directly within the proposed railway alignment and is now subject to compulsory acquisition. Her father, unaware of the project details, stands to lose significant investment if the land is acquired at the current market rate, which is considerably lower than its potential future value. Local political leaders, aware of the situation, subtly pressure Divya to "expedite" the acquisition process for other plots but show "flexibility" for her father's plot, hinting at a more favorable compensation package or even an alteration in the alignment, citing "public interest adjustments." Meanwhile, her family expects her to protect their interests, and the entrepreneur is threatening legal action if the investment is lost.
+Mr. Alok Sharma, a dedicated District Social Welfare Officer in Rudrapur district, Uttarakhand, is tasked with compiling the annual impact report for 'Poshan Shakti Abhiyan', a flagship central government scheme aimed at reducing malnutrition in children and pregnant women. The scheme's performance is crucial for future funding allocations and his district's reputation.
 
-Her decision will directly impact her father, the entrepreneur, other landowners affected by the project, the credibility of the district administration, and the timely completion of a crucial national infrastructure project. Any perception of bias could lead to public protests and accusations of corruption, while strict adherence to rules might cause personal hardship and familial discord.
+The District Magistrate (DM), under implicit pressure from the local Member of Parliament (MP) who is keen to showcase scheme success before an upcoming election, instructs Alok to 'optimise' (read: inflate) the beneficiary coverage and positive impact statistics in the report. Alok's field surveys and ground realities, however, indicate significant gaps in implementation and actual outcomes, suggesting that the scheme has only met about 60% of its targets. Manipulating the data would ensure the district looks good, securing more funds and avoiding political scrutiny, but would misrepresent the true state of affairs.
+
+His decision will directly affect the malnourished beneficiaries who truly need intervention, the integrity of government reporting, future policy decisions based on flawed data, and his own conscience and career. Both compliance and defiance carry significant personal and professional risks.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Divya Sharma? Evaluate each option with its merits and demerits. (100 words)
+This case involves ethical issues of probity, transparency, accountability, and integrity in governance. It highlights the conflict between loyalty to superiors/political pressure and public interest, demanding honesty, objectivity, and courage from the civil servant in the face of misuse of authority.
+
+(b) What are the options available to Mr. Alok Sharma? Evaluate each option with its merits and demerits. (100 words)
+1. Comply and manipulate data: Merits include avoiding conflict, protecting career. Demerits involve compromising integrity, harming beneficiaries, perpetuating inefficiency, and undermining public trust and future policymaking.
+2. Submit true report: Merits include upholding probity, transparency, and public interest, ensuring accurate data for policy correction. Demerits involve facing political wrath, potential professional harassment, and perceived insubordination.
+3. Seek clarification and raise concerns internally: Merits include attempting resolution through dialogue, documenting concerns. Demerits include potential for DM to double down on pressure or perceive it as defiance.
+
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+I would recommend Alok Sharma initially pursue Option 3, seeking a face-to-face meeting with the DM. He should respectfully present the factual ground realities with supporting data, explaining how manipulated figures would severely compromise the scheme's effectiveness, misguide future policy, and erode public trust in governance. He must articulate the long-term detrimental consequences for genuine beneficiaries and the administration's credibility.
+
+If the DM insists on manipulation, Alok should politely but firmly express his inability to sign off on a false report, citing his oath of office and commitment to probity and integrity as per service rules. Simultaneously, he should meticulously document all instructions and interactions. If pressure escalates, he should be prepared to escalate the matter through appropriate official channels, such as reporting to the Chief Secretary or a higher vigilance authority, prioritizing the public interest over personal career safety compromised by unethical acts.
