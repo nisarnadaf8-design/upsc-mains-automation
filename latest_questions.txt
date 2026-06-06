@@ -1,45 +1,36 @@
-Date: 05 Jun 2026
+Date: 06 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
+GS-1 SOCIETY: Social Movements and Civil Society in India
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how globalisation, while often perceived as a homogenizing force, has simultaneously facilitated the resurgence and hybridisation of local cultural expressions in India. Discuss the implications of this dynamic interplay for national identity in a digitally interconnected world.
+Examine how the proliferation of digital platforms and social media has reshaped the strategies and efficacy of contemporary social movements in influencing public policy and fostering democratic accountability in India.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the processes of economic globalisation have exacerbated socio-economic disparities in India, beyond mere income inequality, affecting access to opportunities and reinforcing social stratification. How can policy interventions mitigate these structural challenges?
+Critically examine the internal governance challenges faced by Civil Society Organizations (CSOs) in maintaining transparency and accountability, especially when operating with substantial public or international funding. What mechanisms can foster greater self-regulation within this sector?
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted impact of the burgeoning gig economy, a direct outcome of globalisation, on women in Indian society. Critically analyse how it presents both new avenues for economic empowerment and unique challenges related to labour rights, social security, and the negotiation of traditional family roles.
+Critically analyze the persistent socio-economic and political root causes of left-wing extremism in India, going beyond mere law and order issues, and discuss its complex interplay with tribal rights, resource exploitation, and the perceived failures of state development models. Illustrate with suitable examples of the multi-faceted government response.
 
 ========================================
-GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
+GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by 'institutional integrity' in the context of public administration? Explain its significance in fostering public trust and ensuring probity in governance, particularly when faced with pressures that compromise transparency and accountability.
+Explain the significance of the Nolan Principles of Public Life, particularly 'Objectivity' and 'Accountability', in proactively preventing various forms of conflict of interest within public administration. How do these principles serve as a fundamental guide for ethical decision-making in governance?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical challenges a civil servant faces in identifying and managing potential conflicts of interest, both perceived and actual, within their official duties. How can a robust ethical framework and personal integrity help navigate these situations effectively?
+A public servant discovers systemic procedural lapses leading to significant financial irregularities in their department, yet fears severe reprisal and isolation if they report it through official channels. Examine the ethical dilemmas involved for such an individual and suggest institutional measures that can empower whistleblowers to uphold their duty to expose without jeopardizing their careers.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Mr. Alok Sharma, a dedicated District Social Welfare Officer in Rudrapur district, Uttarakhand, is tasked with compiling the annual impact report for 'Poshan Shakti Abhiyan', a flagship central government scheme aimed at reducing malnutrition in children and pregnant women. The scheme's performance is crucial for future funding allocations and his district's reputation.
+Anya Sharma, a young and idealistic IAS officer, has recently been posted as the Sub-Divisional Magistrate (SDM) in District Palwal, Haryana. Keen to make a positive impact, she is overseeing a major land acquisition project for an ambitious industrial corridor, involving significant tracts of agricultural land from numerous small farmers. This project is touted as crucial for regional economic development.
 
-The District Magistrate (DM), under implicit pressure from the local Member of Parliament (MP) who is keen to showcase scheme success before an upcoming election, instructs Alok to 'optimise' (read: inflate) the beneficiary coverage and positive impact statistics in the report. Alok's field surveys and ground realities, however, indicate significant gaps in implementation and actual outcomes, suggesting that the scheme has only met about 60% of its targets. Manipulating the data would ensure the district looks good, securing more funds and avoiding political scrutiny, but would misrepresent the true state of affairs.
+During her review, Anya discovers several discrepancies in land valuation and ownership records. Her initial investigation suggests that prime land parcels, initially designated for public infrastructure, are being subtly diverted to a powerful private real estate conglomerate at drastically undervalued rates through manipulated revenue records. This manipulation appears to involve significant kickbacks to local political figures and some senior officials. Her immediate superior, the District Collector, hints at 'expediting' the process to avoid 'unnecessary delays' that could displease the state government. A prominent local political leader also contacts her, emphasizing the 'economic benefits' of the project and subtly reminding her of her nascent career trajectory.
 
-His decision will directly affect the malnourished beneficiaries who truly need intervention, the integrity of government reporting, future policy decisions based on flawed data, and his own conscience and career. Both compliance and defiance carry significant personal and professional risks.
+The farmers stand to lose their land with inadequate compensation, the public exchequer is poised to bear significant losses, and the integrity of public administration is at stake. If Anya acts decisively, she faces potential career setbacks, a punitive transfer, or even threats. If she chooses inaction, she becomes complicit in a corrupt scheme, undermining justice and public trust.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-This case involves ethical issues of probity, transparency, accountability, and integrity in governance. It highlights the conflict between loyalty to superiors/political pressure and public interest, demanding honesty, objectivity, and courage from the civil servant in the face of misuse of authority.
-
-(b) What are the options available to Mr. Alok Sharma? Evaluate each option with its merits and demerits. (100 words)
-1. Comply and manipulate data: Merits include avoiding conflict, protecting career. Demerits involve compromising integrity, harming beneficiaries, perpetuating inefficiency, and undermining public trust and future policymaking.
-2. Submit true report: Merits include upholding probity, transparency, and public interest, ensuring accurate data for policy correction. Demerits involve facing political wrath, potential professional harassment, and perceived insubordination.
-3. Seek clarification and raise concerns internally: Merits include attempting resolution through dialogue, documenting concerns. Demerits include potential for DM to double down on pressure or perceive it as defiance.
-
+(b) What are the options available to Anya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
-I would recommend Alok Sharma initially pursue Option 3, seeking a face-to-face meeting with the DM. He should respectfully present the factual ground realities with supporting data, explaining how manipulated figures would severely compromise the scheme's effectiveness, misguide future policy, and erode public trust in governance. He must articulate the long-term detrimental consequences for genuine beneficiaries and the administration's credibility.
-
-If the DM insists on manipulation, Alok should politely but firmly express his inability to sign off on a false report, citing his oath of office and commitment to probity and integrity as per service rules. Simultaneously, he should meticulously document all instructions and interactions. If pressure escalates, he should be prepared to escalate the matter through appropriate official channels, such as reporting to the Chief Secretary or a higher vigilance authority, prioritizing the public interest over personal career safety compromised by unethical acts.
