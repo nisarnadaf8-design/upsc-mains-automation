@@ -1,36 +1,36 @@
-Date: 06 Jun 2026
+Date: 07 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Social Movements and Civil Society in India
+GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the proliferation of digital platforms and social media has reshaped the strategies and efficacy of contemporary social movements in influencing public policy and fostering democratic accountability in India.
+Examine how the National Education Policy 2020 envisions bridging long-standing socio-economic disparities in access and quality of education across India. Discuss the inherent challenges in realizing its transformational potential, particularly in resource-constrained rural and tribal regions.
 
 Q2. (10 Marks | 150 words)
-Critically examine the internal governance challenges faced by Civil Society Organizations (CSOs) in maintaining transparency and accountability, especially when operating with substantial public or international funding. What mechanisms can foster greater self-regulation within this sector?
+Critically examine the growing commercialisation within India's higher education sector, moving beyond traditional public-private partnerships. To what extent does this trend exacerbate educational inequality and compromise the quality of learning for underprivileged sections of society?
 
 Q3. (15 Marks | 250 words)
-Critically analyze the persistent socio-economic and political root causes of left-wing extremism in India, going beyond mere law and order issues, and discuss its complex interplay with tribal rights, resource exploitation, and the perceived failures of state development models. Illustrate with suitable examples of the multi-faceted government response.
+Critically analyse the complex interplay of socio-economic factors, the persistent digital divide, and prevailing gender norms contributing to continued high dropout rates among marginalized communities in India's school education system. Discuss the long-term implications of this phenomenon for intergenerational social mobility and national human capital development, suggesting specific policy refinements beyond the scope of NEP 2020.
 
 ========================================
-GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
+GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of the Nolan Principles of Public Life, particularly 'Objectivity' and 'Accountability', in proactively preventing various forms of conflict of interest within public administration. How do these principles serve as a fundamental guide for ethical decision-making in governance?
+Explain the concept of 'ethical erosion' within a bureaucratic system. How can seemingly honest civil servants gradually compromise their integrity when confronted with persistent systemic corruption and the pressure to conform, illustrating the psychological dimensions of moral decline?
 
 Q5. (10 Marks | 150 words)
-A public servant discovers systemic procedural lapses leading to significant financial irregularities in their department, yet fears severe reprisal and isolation if they report it through official channels. Examine the ethical dilemmas involved for such an individual and suggest institutional measures that can empower whistleblowers to uphold their duty to expose without jeopardizing their careers.
+While e-governance platforms offer significant potential in enhancing transparency and curbing corruption, they also introduce new ethical challenges related to data privacy, algorithmic bias, and digital exclusion. Examine these ethical dimensions and suggest practical measures to uphold integrity and equity in a technologically advanced public administration.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Anya Sharma, a young and idealistic IAS officer, has recently been posted as the Sub-Divisional Magistrate (SDM) in District Palwal, Haryana. Keen to make a positive impact, she is overseeing a major land acquisition project for an ambitious industrial corridor, involving significant tracts of agricultural land from numerous small farmers. This project is touted as crucial for regional economic development.
+Ms. Priya Sharma, a young and upright IAS officer, serves as the District Magistrate of the flood-prone district of Malgaon. In July 2026, severe monsoon floods have devastated the region, rendering thousands homeless and critically short of food, shelter, and medical supplies. Ms. Sharma is directly responsible for the immediate allocation and transparent disbursement of emergency relief funds sanctioned by the central government, amounting to ₹50 crores.
 
-During her review, Anya discovers several discrepancies in land valuation and ownership records. Her initial investigation suggests that prime land parcels, initially designated for public infrastructure, are being subtly diverted to a powerful private real estate conglomerate at drastically undervalued rates through manipulated revenue records. This manipulation appears to involve significant kickbacks to local political figures and some senior officials. Her immediate superior, the District Collector, hints at 'expediting' the process to avoid 'unnecessary delays' that could displease the state government. A prominent local political leader also contacts her, emphasizing the 'economic benefits' of the project and subtly reminding her of her nascent career trajectory.
+Amidst the chaos and urgent need, Ms. Sharma receives direct instructions from a senior political leader, the State Minister for Disaster Management, to divert 10% of the allocated funds towards rebuilding a temple in his constituency that suffered structural damage, claiming it is essential for public morale and community cohesion. Simultaneously, her immediate superior, the Divisional Commissioner, subtly advises her to prioritize specific contractors for supply tenders, hinting at 'expediting processes' given the emergency, which Ms. Sharma knows are connected to local influential individuals with a history of questionable practices. The affected populace, meanwhile, is desperate and growing increasingly restless, anticipating immediate and equitable aid.
 
-The farmers stand to lose their land with inadequate compensation, the public exchequer is poised to bear significant losses, and the integrity of public administration is at stake. If Anya acts decisively, she faces potential career setbacks, a punitive transfer, or even threats. If she chooses inaction, she becomes complicit in a corrupt scheme, undermining justice and public trust.
+Priya's decision will directly impact the lives and survival of thousands of flood victims dependent on timely and honest aid. Any diversion or delay risks exacerbating the humanitarian crisis, eroding public trust in the administration, and compromising her administrative integrity and career, while defying superiors could lead to punitive transfers or harassment.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Anya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Priya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
