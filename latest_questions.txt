@@ -1,35 +1,36 @@
-Date: 08 Jun 2026
+Date: 09 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Health: Public Health System and Social Determinants
+GS-1 SOCIETY: Tribal Communities: Issues, Rights and Constitutional Safeguards
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how effectively India's public health system addresses the intergenerational cycle of poor health outcomes perpetuated by deep-seated social determinants like nutritional insecurity, gender inequity, and caste-based discrimination. What structural reforms are necessary to foster a more equitable health landscape beyond merely providing curative services?
+Examine the efficacy of the Fifth and Sixth Schedule provisions in protecting tribal land rights and cultural autonomy against the backdrop of accelerated industrial development and resource extraction in contemporary India.
 
 Q2. (10 Marks | 150 words)
-Critically examine whether the current architecture of Ayushman Bharat effectively integrates mental health services and bridges the significant urban-rural divide in accessing comprehensive psychological care. How can policy be recalibrated to ensure mental wellbeing is prioritized as much as physical health across all demographic strata?
+Critically examine how dominant developmental paradigms influence the cultural identity and traditional governance structures of tribal communities, leading to conflicts between assimilationist and integrationist approaches.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multi-faceted challenges in combating persistent malnutrition indicators like stunting, wasting, and anaemia in India, considering their deep roots in socio-economic disparities, gendered food allocation patterns, and the effectiveness of public distribution and awareness programmes. Discuss how political commitment and community participation can significantly impact these entrenched health outcomes with suitable examples.
+Discuss the multi-faceted challenges in implementing the Forest Rights Act, 2006, in areas affected by resource conflicts and development-induced displacement. Critically analyse how unresolved issues related to land tenure and community forest management contribute to grievances that sometimes intersect with security challenges in tribal regions, citing appropriate examples.
 
 ========================================
-GS-4 ETHICS: Corporate Governance and Business Ethics
+GS-4 ETHICS: Ethics in Public and Private Relationships
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the concept of 'ethical imperative' in corporate environmental responsibility, distinguishing it from mere legal compliance or strategic Corporate Social Responsibility? Explain how a civil servant can foster an environment where industries voluntarily embrace sustainability as a core ethical value rather than a regulatory burden.
+Explain the significance of integrity and impartiality as core ethical principles for a civil servant navigating the inherent tension between personal moral convictions and the obligations of public service.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dimensions involved when a public regulatory body is tasked with balancing a corporation's pursuit of shareholder value against the broader interests of its stakeholders, particularly concerning fair consumer practices and environmental protection. What challenges might a civil servant face in upholding ethical governance in such scenarios?
+Examine the ethical dilemmas a public servant faces when expected to extend 'favours' or preferential treatment to close acquaintances or family members, particularly concerning the conflict between personal loyalty and the principle of equity in public service delivery.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Rakesh Sharma, a diligent and upright officer, was recently appointed as the District Environmental Officer in the State Pollution Control Board for the burgeoning industrial district of Hosur, Karnataka. Known for his commitment to environmental regulations, he was tasked with overseeing compliance checks for newly established industrial units, including a large textile processing plant owned by a powerful conglomerate.
 
-During a routine inspection, Rakesh's team discovered significant environmental violations, with the textile plant discharging untreated chemical waste into a local river, a crucial water source. His immediate superior, the Chief Environmental Officer, subtly advised Rakesh to exercise "discretion" and delay reporting, citing political pressure from a senior minister and hinting at career repercussions. Concurrently, the conglomerate offered a substantial "community development fund," implicitly contingent on a favourable report.
+Smt. Priya Sharma, a diligent Deputy Commissioner in District Sagar, was overseeing several large-scale infrastructure projects under the Department of Rural Development. During her review of a major government-funded rural road project, she meticulously uncovered substantial financial irregularities, involving inflated bills for raw materials and substandard construction practices. She documented all evidence thoroughly and submitted a detailed report directly to the Chief Secretary's office.
 
-Rakesh is now faced with a profound ethical dilemma. His decision will directly impact the health and livelihoods of the local farmers and fishermen, the ecological integrity of the river, the reputation and integrity of the Pollution Control Board, and his own professional future. Both strict adherence to regulations and an act of omission carry significant and far-reaching consequences.
+Immediately after her report, Smt. Sharma found herself subjected to covert threats, anonymous complaints about her own conduct circulated within the department, and an unofficial departmental inquiry initiated by a politically influential senior officer, who was reportedly implicated in the fraud. Furthermore, her family began facing indirect targeting through false allegations against a small business they operated, creating immense personal pressure and distress.
+
+Her actions have brought the integrity of the entire project and the reputation of the department into question. The local public, aware of the substandard road quality, is keenly watching the outcome, while inaction would perpetuate corruption and undermine public trust.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rakesh Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Smt. Priya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
