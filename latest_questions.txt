@@ -1,35 +1,35 @@
-Date: 10 Jun 2026
+Date: 11 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
+GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the challenges in fostering an 'affirmative secularism' that transcends mere state neutrality and actively promotes social inclusion and harmony for all minority groups in India.
+Examine how the rapid informalization of the urban economy and the increasing prevalence of precarious labour arrangements have exacerbated the challenges in identifying, rescuing, and rehabilitating victims of child labour and human trafficking in metropolitan areas.
 
 Q2. (10 Marks | 150 words)
-How have linguistic minority rights, enshrined in the Constitution, contributed to India's pluralistic identity, and what contemporary challenges persist in their equitable safeguarding amidst evolving regional dynamics?
+Critically examine the dual role of digital platforms and artificial intelligence: how do they simultaneously aid in detecting modern forms of bonded labour and human trafficking, while also creating new vulnerabilities and avenues for exploitation?
 
 Q3. (15 Marks | 250 words)
-Critically analyze the complexities involved in reforming personal laws to achieve gender justice while upholding the principles of religious freedom and maintaining social harmony in a diverse nation. Discuss the legal, social, and political dimensions of this reform.
+Discuss the multi-dimensional challenges India faces in effectively implementing international conventions on child labour and human trafficking, particularly concerning resource allocation, inter-state cooperation, and ensuring robust prosecution mechanisms, with suitable examples.
 
 ========================================
-GS-4 ETHICS: Social Influence, Persuasion and Moral Development
+GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by 'moral reasoning' in the context of public administration? Explain how a civil servant's progression through stages of moral development can influence their decision-making in upholding constitutional values.
+Explain the significance of cultivating 'intellectual humility' among civil servants, particularly when formulating and implementing public policies for diverse communities, to foster greater inclusivity and effective governance.
 
 Q5. (10 Marks | 150 words)
-In what ways can ethical persuasion be leveraged by an administrator to foster public cooperation for policy implementation, without crossing into manipulation? Examine the inherent challenges in maintaining this ethical boundary.
+How can the enduring legacy of ethical courage and self-sacrifice displayed by leaders during India's freedom struggle serve as a profound inspiration for contemporary civil servants to uphold constitutional values and resist institutional malpractices?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Rakesh Sharma, a newly appointed District Magistrate in Ramgarh, a district with significant tribal populations and rich biodiversity, is tasked with overseeing a critical national highway expansion project. The project is vital for regional connectivity and economic growth, having been a long-standing promise by the central government and a key development initiative.
+Ritesh Kumar serves as the District Education Officer in a politically sensitive district, Bikaner, within a state gearing up for assembly elections. A new centrally sponsored scheme, "Vidya Setu Yojana," aims to provide substantial scholarships to meritorious students from economically weaker sections, with strict eligibility criteria for parental income and academic performance. The scheme's implementation is crucial for the district's development indicators.
 
-A substantial segment of the proposed highway route cuts through ancestral lands, sacred groves, and a protected forest area traditionally used by the indigenous communities for sustenance and cultural practices. Despite initial consultations and environmental impact assessments, local tribal groups are now fiercely resisting land acquisition, citing violations of their forest rights and potential destruction of their unique cultural heritage. The Chief Secretary is pressing Rakesh to expedite land acquisition and ensure the project remains on schedule, while an influential local MLA is publicly championing the tribal cause, warning of widespread unrest if their demands are not met.
+Just weeks before the scholarship application deadline, Ritesh receives direct instructions from the powerful local MLA, who also holds a cabinet portfolio, to relax the eligibility norms and issue false income certificates to hundreds of students from specific constituencies, ensuring they qualify for the scheme. The MLA explicitly states this is vital for securing votes for the ruling party, hinting at serious career repercussions for Ritesh if he fails to comply. Simultaneously, a local NGO representative approaches Ritesh, alleging widespread corruption in the certificate issuance process and threatening public exposure.
 
-The decision impacts thousands of tribal families facing displacement, the regional economy dependent on the highway, and the credibility of the administration in upholding both developmental goals and community rights. Both proceeding forcefully with acquisition and stalling the project indefinitely carry significant social, economic, environmental, and political ramifications.
+Ritesh, the MLA, deserving students, undeserving beneficiaries, the Education Department, public trust in governance, and the integrity of the scholarship scheme itself are the key stakeholders. Compliance would compromise fairness and resource allocation, while defiance risks Ritesh's career and potentially public order.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rakesh Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ritesh Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
