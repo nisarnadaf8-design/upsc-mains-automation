@@ -1,35 +1,36 @@
-Date: 11 Jun 2026
+Date: 13 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
+GS-1 SOCIETY: Media, Social Media and Their Role in Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the rapid informalization of the urban economy and the increasing prevalence of precarious labour arrangements have exacerbated the challenges in identifying, rescuing, and rehabilitating victims of child labour and human trafficking in metropolitan areas.
+Examine how the increasing convergence of media ownership and technological advancements has reshaped the traditional role of media as the fourth pillar of democracy. Discuss its implications for fostering informed public discourse and holding power accountable in contemporary India.
 
 Q2. (10 Marks | 150 words)
-Critically examine the dual role of digital platforms and artificial intelligence: how do they simultaneously aid in detecting modern forms of bonded labour and human trafficking, while also creating new vulnerabilities and avenues for exploitation?
+Critically examine how the rapid proliferation of artificial intelligence in content generation and dissemination platforms is altering the landscape of misinformation. How does this challenge traditional notions of digital literacy and trust in public information in India?
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-dimensional challenges India faces in effectively implementing international conventions on child labour and human trafficking, particularly concerning resource allocation, inter-state cooperation, and ensuring robust prosecution mechanisms, with suitable examples.
+In an era marked by heightened online political mobilization and the circulation of polarising content, critically analyze the multifaceted challenges in framing a balanced legal and ethical framework for social media regulation in India. Discuss its social, political, and economic implications for promoting inclusive public spaces while safeguarding individual freedoms.
 
 ========================================
-GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
+GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of cultivating 'intellectual humility' among civil servants, particularly when formulating and implementing public policies for diverse communities, to foster greater inclusivity and effective governance.
+What do you understand by the concept of 'institutional integrity' in the context of civil services? Explain its significance in maintaining public trust and ensuring impartial governance, particularly when facing external pressures or internal ethical compromises.
 
 Q5. (10 Marks | 150 words)
-How can the enduring legacy of ethical courage and self-sacrifice displayed by leaders during India's freedom struggle serve as a profound inspiration for contemporary civil servants to uphold constitutional values and resist institutional malpractices?
+Examine the ethical dilemmas confronting a public administrator tasked with implementing an essential infrastructure project that significantly benefits the wider region but necessitates the acquisition of ancestral lands from a marginalized tribal community. How should the principles of equity, sustainability, and administrative efficiency be balanced in such a scenario?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ritesh Kumar serves as the District Education Officer in a politically sensitive district, Bikaner, within a state gearing up for assembly elections. A new centrally sponsored scheme, "Vidya Setu Yojana," aims to provide substantial scholarships to meritorious students from economically weaker sections, with strict eligibility criteria for parental income and academic performance. The scheme's implementation is crucial for the district's development indicators.
 
-Just weeks before the scholarship application deadline, Ritesh receives direct instructions from the powerful local MLA, who also holds a cabinet portfolio, to relax the eligibility norms and issue false income certificates to hundreds of students from specific constituencies, ensuring they qualify for the scheme. The MLA explicitly states this is vital for securing votes for the ruling party, hinting at serious career repercussions for Ritesh if he fails to comply. Simultaneously, a local NGO representative approaches Ritesh, alleging widespread corruption in the certificate issuance process and threatening public exposure.
+Rajesh Kumar, a dynamic young IAS officer of the 2020 batch, is currently serving as the District Magistrate of Rudrapur District, a bustling industrial hub known for its textile manufacturing units. Rajesh has been particularly proactive in promoting child welfare and ensuring the enforcement of labour laws since assuming office six months ago. His dedication has earned him both public appreciation and some resentment from industrialists who prefer lax oversight.
 
-Ritesh, the MLA, deserving students, undeserving beneficiaries, the Education Department, public trust in governance, and the integrity of the scholarship scheme itself are the key stakeholders. Compliance would compromise fairness and resource allocation, while defiance risks Ritesh's career and potentially public order.
+During an unannounced inspection of a major textile factory, ostensibly to check environmental compliance, Rajesh's team discovered a hidden section employing a significant number of children, some as young as eight, in hazardous conditions. It quickly came to light that the factory is owned by Mr. Surendra Singh, a powerful state cabinet minister and a close aide to the Chief Minister, who also wields considerable influence over local administration. Shortly after the discovery, Rajesh received an indirect call from his Divisional Commissioner suggesting that he handle the matter with extreme discretion due to "political sensitivities" and implying that any drastic action could have "unforeseen career repercussions." Simultaneously, local media has caught wind of the child labour allegations, and a prominent national child rights NGO has issued a public statement demanding immediate action and threatening a national campaign if the district administration fails to act decisively.
+
+Rajesh is fully aware that taking immediate, firm action against such a powerful political figure could not only jeopardize his promising career but also potentially lead to a political witch-hunt. Conversely, any attempt to cover up or dilute the findings would be a grave betrayal of his ethical oath, compromise the integrity of his office, and leave vulnerable children exploited. The children, their desperate families, the factory owner, the minister, the local administration, the NGO, and the public are all stakeholders whose interests and futures hang on Rajesh's decision. Both action and inaction carry severe personal and professional consequences, and the ethical choice is mired in practical complexities.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ritesh Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rajesh Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
