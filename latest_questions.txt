@@ -1,36 +1,36 @@
-Date: 13 Jun 2026
+Date: 14 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Media, Social Media and Their Role in Society
+GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the increasing convergence of media ownership and technological advancements has reshaped the traditional role of media as the fourth pillar of democracy. Discuss its implications for fostering informed public discourse and holding power accountable in contemporary India.
+Examine how the traditional social institution of caste, despite its manifest decline in certain public spheres, has paradoxically adapted and sustained itself through new forms of social capital and network mobilisation in contemporary urban India.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the rapid proliferation of artificial intelligence in content generation and dissemination platforms is altering the landscape of misinformation. How does this challenge traditional notions of digital literacy and trust in public information in India?
+Critically examine how the intersection of caste and the digital divide is creating novel forms of structural barriers, thereby limiting social mobility and exacerbating educational disparities for specific marginalized groups in the era of digital governance.
 
 Q3. (15 Marks | 250 words)
-In an era marked by heightened online political mobilization and the circulation of polarising content, critically analyze the multifaceted challenges in framing a balanced legal and ethical framework for social media regulation in India. Discuss its social, political, and economic implications for promoting inclusive public spaces while safeguarding individual freedoms.
+Critically analyze the evolving discourse around reservation policies in India, specifically examining their social impact on group identity formation, their economic implications for distributive justice, and their political influence on electoral strategies, with suitable examples of horizontal stratification.
 
 ========================================
-GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
+GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the concept of 'institutional integrity' in the context of civil services? Explain its significance in maintaining public trust and ensuring impartial governance, particularly when facing external pressures or internal ethical compromises.
+In the context of public service, what do you understand by the statement that "an awakened conscience is a civil servant's most reliable moral compass, often challenging the dictates of popular opinion or established bureaucratic norms"? Explain its significance for ethical decision-making.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemmas confronting a public administrator tasked with implementing an essential infrastructure project that significantly benefits the wider region but necessitates the acquisition of ancestral lands from a marginalized tribal community. How should the principles of equity, sustainability, and administrative efficiency be balanced in such a scenario?
+How can the principles of 'ethics of care' be practically integrated into a civil servant's decision-making process, especially when addressing issues of social welfare and equitable resource distribution, often perceived through a lens of strict rule-based application?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Rajesh Kumar, a dynamic young IAS officer of the 2020 batch, is currently serving as the District Magistrate of Rudrapur District, a bustling industrial hub known for its textile manufacturing units. Rajesh has been particularly proactive in promoting child welfare and ensuring the enforcement of labour laws since assuming office six months ago. His dedication has earned him both public appreciation and some resentment from industrialists who prefer lax oversight.
+Rahul Sharma, a newly posted District Magistrate in Sarvodaya, a rapidly developing district, is known for his unblemished integrity and meticulous adherence to administrative rules. His district is currently overseeing several significant infrastructure projects, including a major national highway expansion and related urban development. Rahul is in the midst of reviewing land acquisition files for a proposed industrial park, which requires stringent environmental clearances and public consultations.
 
-During an unannounced inspection of a major textile factory, ostensibly to check environmental compliance, Rajesh's team discovered a hidden section employing a significant number of children, some as young as eight, in hazardous conditions. It quickly came to light that the factory is owned by Mr. Surendra Singh, a powerful state cabinet minister and a close aide to the Chief Minister, who also wields considerable influence over local administration. Shortly after the discovery, Rajesh received an indirect call from his Divisional Commissioner suggesting that he handle the matter with extreme discretion due to "political sensitivities" and implying that any drastic action could have "unforeseen career repercussions." Simultaneously, local media has caught wind of the child labour allegations, and a prominent national child rights NGO has issued a public statement demanding immediate action and threatening a national campaign if the district administration fails to act decisively.
+A powerful state minister, Mr. Rakesh Verma, directly approaches Rahul, requesting him to fast-track the land acquisition for a private real estate project owned by his close associate, Mr. Khanna. This project involves a protected wetland area not designated for commercial development and would necessitate bending several environmental regulations, bypassing the mandatory public hearing process, and overlooking concerns raised by local farmer groups. Rahul's immediate superior, the Divisional Commissioner, subtly advises him to be "pragmatic" and consider the "political sensitivities" involved, while local community leaders have already started protesting against any such move. Rahul’s family, concerned for his career and safety, urges caution.
 
-Rajesh is fully aware that taking immediate, firm action against such a powerful political figure could not only jeopardize his promising career but also potentially lead to a political witch-hunt. Conversely, any attempt to cover up or dilute the findings would be a grave betrayal of his ethical oath, compromise the integrity of his office, and leave vulnerable children exploited. The children, their desperate families, the factory owner, the minister, the local administration, the NGO, and the public are all stakeholders whose interests and futures hang on Rajesh's decision. Both action and inaction carry severe personal and professional consequences, and the ethical choice is mired in practical complexities.
+The officer's decision will directly impact hundreds of marginal farmers and tribal communities who stand to lose their land and traditional livelihoods. Furthermore, the ecological balance of the region will be severely disturbed, and the integrity of the land acquisition process compromised. Both compliance and refusal carry significant consequences for Rahul, the administration, and the public trust.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rajesh Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rahul Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
