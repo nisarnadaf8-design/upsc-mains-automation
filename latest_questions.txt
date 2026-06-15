@@ -1,35 +1,34 @@
-Date: 14 Jun 2026
+Date: 15 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
+GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the traditional social institution of caste, despite its manifest decline in certain public spheres, has paradoxically adapted and sustained itself through new forms of social capital and network mobilisation in contemporary urban India.
+Examine how structural economic inequalities, exacerbated by recent technological disruptions, contribute to the persistent feminisation of poverty in India, and its intergenerational implications for social development.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the intersection of caste and the digital divide is creating novel forms of structural barriers, thereby limiting social mobility and exacerbating educational disparities for specific marginalized groups in the era of digital governance.
+Critically examine the effectiveness of the Women's Reservation Bill in addressing the multi-faceted challenges faced by women in accessing genuine political agency beyond numerical representation. How might its implementation reshape local governance paradigms?
 
 Q3. (15 Marks | 250 words)
-Critically analyze the evolving discourse around reservation policies in India, specifically examining their social impact on group identity formation, their economic implications for distributive justice, and their political influence on electoral strategies, with suitable examples of horizontal stratification.
+Discuss the complex interplay of legal reforms, persistent patriarchal social norms, and economic disparities in shaping the landscape of gender-based violence in India. How do these factors collectively impede the full realization of women's empowerment, requiring a multi-pronged approach that transcends mere legislative measures?
 
 ========================================
-GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
+GS-4 ETHICS: Attitude: Formation, Change and Social Influence
 ========================================
 
 Q4. (10 Marks | 150 words)
-In the context of public service, what do you understand by the statement that "an awakened conscience is a civil servant's most reliable moral compass, often challenging the dictates of popular opinion or established bureaucratic norms"? Explain its significance for ethical decision-making.
+Explain the concept of cognitive dissonance in the context of administrative ethics. How might a civil servant experiencing dissonance navigate the tension between personal moral convictions and perceived institutional norms or pressures, and what are the ethical consequences of their choices?
 
 Q5. (10 Marks | 150 words)
-How can the principles of 'ethics of care' be practically integrated into a civil servant's decision-making process, especially when addressing issues of social welfare and equitable resource distribution, often perceived through a lens of strict rule-based application?
+Examine how implicit biases and deeply ingrained societal stereotypes can subtly influence the decision-making process of public administrators, potentially leading to discriminatory outcomes in policy implementation. What ethical strategies can a civil servant adopt to mitigate such unconscious prejudices and ensure equitable service delivery?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Rahul Sharma, a young and earnest Sub-Divisional Magistrate (SDM) in the severely flood-affected district of Raigarh, is leading critical disaster relief and rehabilitation efforts. The recent flash floods have devastated thousands of families, leaving them without shelter, food, or medical aid. The state government has released substantial emergency funds, and Rahul is directly responsible for ensuring its transparent and efficient deployment for aid distribution.
 
-Rahul Sharma, a newly posted District Magistrate in Sarvodaya, a rapidly developing district, is known for his unblemished integrity and meticulous adherence to administrative rules. His district is currently overseeing several significant infrastructure projects, including a major national highway expansion and related urban development. Rahul is in the midst of reviewing land acquisition files for a proposed industrial park, which requires stringent environmental clearances and public consultations.
+During a routine audit of procurement records for emergency supplies, Rahul uncovers alarming discrepancies: significantly inflated bills for tents, medical kits, and food grains, along with questionable vendor choices. Evidence strongly suggests the involvement of Ms. Anjali Singh, the revered District Collector and his immediate senior, who has a reputation for integrity. Rahul is now confronted with a grave ethical dilemma: reporting this during an ongoing crisis could destabilize relief operations and damage public trust, while ignoring it means complicity in corruption that directly harms vulnerable flood victims.
 
-A powerful state minister, Mr. Rakesh Verma, directly approaches Rahul, requesting him to fast-track the land acquisition for a private real estate project owned by his close associate, Mr. Khanna. This project involves a protected wetland area not designated for commercial development and would necessitate bending several environmental regulations, bypassing the mandatory public hearing process, and overlooking concerns raised by local farmer groups. Rahul's immediate superior, the Divisional Commissioner, subtly advises him to be "pragmatic" and consider the "political sensitivities" involved, while local community leaders have already started protesting against any such move. Rahul’s family, concerned for his career and safety, urges caution.
-
-The officer's decision will directly impact hundreds of marginal farmers and tribal communities who stand to lose their land and traditional livelihoods. Furthermore, the ecological balance of the region will be severely disturbed, and the integrity of the land acquisition process compromised. Both compliance and refusal carry significant consequences for Rahul, the administration, and the public trust.
+The immediate stakeholders are the suffering flood victims whose very survival depends on the judicious use of funds, the public whose trust in governance is at stake, the integrity of the civil services, and Rahul’s own conscience and career. Both action and inaction carry severe personal and public consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
 (b) What are the options available to Rahul Sharma? Evaluate each option with its merits and demerits. (100 words)
