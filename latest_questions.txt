@@ -1,35 +1,35 @@
-Date: 15 Jun 2026
+Date: 16 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
+GS-1 SOCIETY: Communalism, Regionalism and Secularism
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how structural economic inequalities, exacerbated by recent technological disruptions, contribute to the persistent feminisation of poverty in India, and its intergenerational implications for social development.
+Examine the evolving role of digital content creation and consumption platforms in either fostering a sense of shared regional pride or accentuating divisive sub-regional identities. Discuss how this dynamic impacts the spirit of constitutional secularism in India's diverse social fabric.
 
 Q2. (10 Marks | 150 words)
-Critically examine the effectiveness of the Women's Reservation Bill in addressing the multi-faceted challenges faced by women in accessing genuine political agency beyond numerical representation. How might its implementation reshape local governance paradigms?
+Critically examine the distinction between India's 'principled distance' model of secularism and the 'strict separation' approach prevalent in some Western democracies, particularly in its implications for state intervention in religious practices. How has this unique Indian approach been challenged by contemporary forms of electoral communalism?
 
 Q3. (15 Marks | 250 words)
-Discuss the complex interplay of legal reforms, persistent patriarchal social norms, and economic disparities in shaping the landscape of gender-based violence in India. How do these factors collectively impede the full realization of women's empowerment, requiring a multi-pronged approach that transcends mere legislative measures?
+Discuss how rapid urbanization and infrastructure development projects in certain regions can paradoxically strengthen a sense of exclusive regional identity, sometimes exploited by communal forces for political gain. Critically analyse the socio-economic and political dimensions of this phenomenon, and its implications for India's cherished composite culture and syncretic traditions.
 
 ========================================
-GS-4 ETHICS: Attitude: Formation, Change and Social Influence
+GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the concept of cognitive dissonance in the context of administrative ethics. How might a civil servant experiencing dissonance navigate the tension between personal moral convictions and perceived institutional norms or pressures, and what are the ethical consequences of their choices?
+What do you understand by 'proactive integrity' in public administration, extending beyond mere adherence to rules and regulations? Explain how this concept, coupled with 'empathetic foresight', can fundamentally reorient civil service delivery towards true citizen welfare and build robust public trust.
 
 Q5. (10 Marks | 150 words)
-Examine how implicit biases and deeply ingrained societal stereotypes can subtly influence the decision-making process of public administrators, potentially leading to discriminatory outcomes in policy implementation. What ethical strategies can a civil servant adopt to mitigate such unconscious prejudices and ensure equitable service delivery?
+Examine the ethical challenges faced by a civil servant when political directives, though legally permissible, appear to undermine the principle of impartiality and long-term public service dedication. How should an officer balance personal career progression with the unwavering commitment to objective, evidence-based policy implementation?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Rahul Sharma, a young and earnest Sub-Divisional Magistrate (SDM) in the severely flood-affected district of Raigarh, is leading critical disaster relief and rehabilitation efforts. The recent flash floods have devastated thousands of families, leaving them without shelter, food, or medical aid. The state government has released substantial emergency funds, and Rahul is directly responsible for ensuring its transparent and efficient deployment for aid distribution.
+Ms. Ananya Sharma is the District Collector of Bastar district in Chhattisgarh, a region known for its rich tribal heritage and dense forest cover. A major state-approved mining project, crucial for state revenue and infrastructure development, requires the acquisition of a significant tract of forested land predominantly inhabited by the Gond tribal community, who depend on these forests for their livelihood and cultural practices. Ms. Sharma, relatively new to the district, is admired for her dedication and understanding of local issues.
 
-During a routine audit of procurement records for emergency supplies, Rahul uncovers alarming discrepancies: significantly inflated bills for tents, medical kits, and food grains, along with questionable vendor choices. Evidence strongly suggests the involvement of Ms. Anjali Singh, the revered District Collector and his immediate senior, who has a reputation for integrity. Rahul is now confronted with a grave ethical dilemma: reporting this during an ongoing crisis could destabilize relief operations and damage public trust, while ignoring it means complicity in corruption that directly harms vulnerable flood victims.
+The tribal community, fearing displacement and environmental damage, has launched widespread protests against the project, despite offers of compensation. Ms. Sharma receives direct orders from the Chief Secretary to expedite the land acquisition process, citing the project's strategic importance and national interest. Simultaneously, a prominent tribal rights activist, supported by a powerful local political leader, mobilizes intense public resistance, demanding Ms. Sharma halt proceedings and appealing to her sense of justice and empathy for the marginalized tribal population.
 
-The immediate stakeholders are the suffering flood victims whose very survival depends on the judicious use of funds, the public whose trust in governance is at stake, the integrity of the civil services, and Rahul’s own conscience and career. Both action and inaction carry severe personal and public consequences.
+Her decision will directly impact thousands of tribal families, their ancestral lands, and the region's delicate ecosystem. Delaying the project risks jeopardizing critical state development goals, incurring severe political disapproval, and potential legal ramifications, while proceeding risks widespread social unrest, displacement, and a permanent erosion of trust between the administration and the tribal community.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rahul Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
