@@ -1,35 +1,35 @@
-Date: 16 Jun 2026
+Date: 17 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Communalism, Regionalism and Secularism
+GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving role of digital content creation and consumption platforms in either fostering a sense of shared regional pride or accentuating divisive sub-regional identities. Discuss how this dynamic impacts the spirit of constitutional secularism in India's diverse social fabric.
+Examine the challenges in simultaneously leveraging India's demographic dividend and preparing for its inevitable demographic transition towards an ageing society. Discuss how internal and international migration patterns complicate this dual objective.
 
 Q2. (10 Marks | 150 words)
-Critically examine the distinction between India's 'principled distance' model of secularism and the 'strict separation' approach prevalent in some Western democracies, particularly in its implications for state intervention in religious practices. How has this unique Indian approach been challenged by contemporary forms of electoral communalism?
+Critically examine the concept of 'active ageing' and its potential to reframe India's approach to social security and elder care beyond traditional welfare models. What role can intergenerational solidarity play in this paradigm shift?
 
 Q3. (15 Marks | 250 words)
-Discuss how rapid urbanization and infrastructure development projects in certain regions can paradoxically strengthen a sense of exclusive regional identity, sometimes exploited by communal forces for political gain. Critically analyse the socio-economic and political dimensions of this phenomenon, and its implications for India's cherished composite culture and syncretic traditions.
+Examine the multi-dimensional impacts of changing rural-urban migration patterns, including reverse and circular migration, on India's socio-economic landscape. Critically analyse how these shifts affect the equitable distribution of resources, regional disparities, and the empowerment of vulnerable populations, particularly women.
 
 ========================================
-GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
+GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by 'proactive integrity' in public administration, extending beyond mere adherence to rules and regulations? Explain how this concept, coupled with 'empathetic foresight', can fundamentally reorient civil service delivery towards true citizen welfare and build robust public trust.
+Explain the ethical imperative for civil servants to cultivate 'situational self-awareness' and 'affective empathy' in public service. How do these components of Emotional Intelligence contribute to upholding integrity and fostering trust in governance?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical challenges faced by a civil servant when political directives, though legally permissible, appear to undermine the principle of impartiality and long-term public service dedication. How should an officer balance personal career progression with the unwavering commitment to objective, evidence-based policy implementation?
+In a demanding bureaucratic environment, how can civil servants effectively leverage emotional regulation techniques to prevent burnout and maintain ethical decision-making capabilities under extreme pressure? Discuss with practical examples from administrative leadership.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Ananya Sharma is the District Collector of Bastar district in Chhattisgarh, a region known for its rich tribal heritage and dense forest cover. A major state-approved mining project, crucial for state revenue and infrastructure development, requires the acquisition of a significant tract of forested land predominantly inhabited by the Gond tribal community, who depend on these forests for their livelihood and cultural practices. Ms. Sharma, relatively new to the district, is admired for her dedication and understanding of local issues.
+SP Abhishek Singh, recently transferred to Sitapur District as its Police Chief, is known for his integrity and proactive approach. During a routine internal audit and intelligence gathering exercise initiated by him to streamline department functioning, his team uncovers discrepancies in procurement records for critical police infrastructure projects over the last two years. The financial irregularities seem to indicate a systemic misappropriation of funds.
 
-The tribal community, fearing displacement and environmental damage, has launched widespread protests against the project, despite offers of compensation. Ms. Sharma receives direct orders from the Chief Secretary to expedite the land acquisition process, citing the project's strategic importance and national interest. Simultaneously, a prominent tribal rights activist, supported by a powerful local political leader, mobilizes intense public resistance, demanding Ms. Sharma halt proceedings and appealing to her sense of justice and empathy for the marginalized tribal population.
+Abhishek discovers these irregularities point to a well-entrenched network involving senior officers within the district police department, including his immediate predecessor and possibly some current colleagues. Furthermore, a highly influential local politician, known to be close to the state's ruling party, appears to have facilitated several of these dubious contracts. His immediate superior, the Inspector General (IG) of Police, advises caution, citing potential damage to the department's reputation and morale, and warns of severe political backlash that could jeopardise his own career.
 
-Her decision will directly impact thousands of tribal families, their ancestral lands, and the region's delicate ecosystem. Delaying the project risks jeopardizing critical state development goals, incurring severe political disapproval, and potential legal ramifications, while proceeding risks widespread social unrest, displacement, and a permanent erosion of trust between the administration and the tribal community.
+Exposing the scam could lead to internal turmoil, political instability, and threats to his safety, but inaction would perpetuate corruption, erode public trust, and compromise justice. Both paths carry significant personal and institutional risks.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Abhishek Singh? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
