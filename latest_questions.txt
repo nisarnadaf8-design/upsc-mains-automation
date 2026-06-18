@@ -1,35 +1,35 @@
-Date: 17 Jun 2026
+Date: 18 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
+GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the challenges in simultaneously leveraging India's demographic dividend and preparing for its inevitable demographic transition towards an ageing society. Discuss how internal and international migration patterns complicate this dual objective.
+Examine how the evolution of Multidimensional Poverty Index (MPI) frameworks challenges traditional income-centric views of poverty. Discuss its implications for reorienting social welfare policies towards truly inclusive growth.
 
 Q2. (10 Marks | 150 words)
-Critically examine the concept of 'active ageing' and its potential to reframe India's approach to social security and elder care beyond traditional welfare models. What role can intergenerational solidarity play in this paradigm shift?
+Critically examine the enduring structural barriers that perpetuate social exclusion and intergenerational immobility for Scheduled Tribes and other marginalized communities, despite various affirmative action policies.
 
 Q3. (15 Marks | 250 words)
-Examine the multi-dimensional impacts of changing rural-urban migration patterns, including reverse and circular migration, on India's socio-economic landscape. Critically analyse how these shifts affect the equitable distribution of resources, regional disparities, and the empowerment of vulnerable populations, particularly women.
+Discuss the multifaceted impact of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) on rural poverty alleviation and social empowerment. Critically analyse its successes and persistent implementation gaps across social, economic, and gender dimensions.
 
 ========================================
-GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
+GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the ethical imperative for civil servants to cultivate 'situational self-awareness' and 'affective empathy' in public service. How do these components of Emotional Intelligence contribute to upholding integrity and fostering trust in governance?
+Explain how Dr. B.R. Ambedkar's distinction between 'constitutional morality' and 'social morality' serves as a critical guiding principle for public administrators in upholding justice and equality in a diverse society.
 
 Q5. (10 Marks | 150 words)
-In a demanding bureaucratic environment, how can civil servants effectively leverage emotional regulation techniques to prevent burnout and maintain ethical decision-making capabilities under extreme pressure? Discuss with practical examples from administrative leadership.
+In what ways can the Gandhian principle of 'Sarvodaya' be practically integrated into contemporary public policy formulation and implementation to ensure equitable service delivery and genuine citizen participation, especially at the grassroots?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-SP Abhishek Singh, recently transferred to Sitapur District as its Police Chief, is known for his integrity and proactive approach. During a routine internal audit and intelligence gathering exercise initiated by him to streamline department functioning, his team uncovers discrepancies in procurement records for critical police infrastructure projects over the last two years. The financial irregularities seem to indicate a systemic misappropriation of funds.
+Mr. Alok Kumar, a highly respected District Collector known for his integrity, is currently overseeing a crucial land acquisition project for a large industrial corridor in Sargam District. This project promises significant economic development but involves complex negotiations with thousands of landowners, requiring meticulous adherence to legal and ethical guidelines.
 
-Abhishek discovers these irregularities point to a well-entrenched network involving senior officers within the district police department, including his immediate predecessor and possibly some current colleagues. Furthermore, a highly influential local politician, known to be close to the state's ruling party, appears to have facilitated several of these dubious contracts. His immediate superior, the Inspector General (IG) of Police, advises caution, citing potential damage to the department's reputation and morale, and warns of severe political backlash that could jeopardise his own career.
+A critical ethical dilemma arises when Mr. Alok discovers that a substantial parcel of land belonging to his brother-in-law, Mr. Rajesh Kumar, falls directly within the acquisition zone. Rajesh stands to receive considerable compensation, which family members, including Alok's wife, are subtly pressuring him to 'expedite' and 'optimize'. Simultaneously, the Chief Secretary has stressed the importance of absolute transparency, while local farmer unions are closely monitoring the process for any hint of favoritism or malpractice.
 
-Exposing the scam could lead to internal turmoil, political instability, and threats to his safety, but inaction would perpetuate corruption, erode public trust, and compromise justice. Both paths carry significant personal and institutional risks.
+Mr. Alok's decision will directly impact his personal reputation, family relations, the credibility of the entire district administration, the smooth progression of a vital state project, and the perception of justice among the affected landowners. Both direct intervention and perceived inaction carry severe implications for public trust and administrative efficacy.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Abhishek Singh? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Mr. Alok Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
