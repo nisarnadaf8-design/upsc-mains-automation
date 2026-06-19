@@ -1,35 +1,35 @@
-Date: 18 Jun 2026
+Date: 19 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
+GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the evolution of Multidimensional Poverty Index (MPI) frameworks challenges traditional income-centric views of poverty. Discuss its implications for reorienting social welfare policies towards truly inclusive growth.
+Examine how the 'smart' vision of urban development often overlooks or exacerbates the challenges of informal settlements and vulnerable populations in Indian cities, leading to a widening urban divide.
 
 Q2. (10 Marks | 150 words)
-Critically examine the enduring structural barriers that perpetuate social exclusion and intergenerational immobility for Scheduled Tribes and other marginalized communities, despite various affirmative action policies.
+To what extent has the 74th Constitutional Amendment truly empowered Urban Local Bodies to address the multifaceted challenges of rapid urbanisation, particularly in terms of resource mobilisation and administrative autonomy?
 
 Q3. (15 Marks | 250 words)
-Discuss the multifaceted impact of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) on rural poverty alleviation and social empowerment. Critically analyse its successes and persistent implementation gaps across social, economic, and gender dimensions.
+Critically analyse the socio-economic and environmental challenges posed by escalating urban waste in Indian cities. Discuss how effective governance and community participation can transform waste management from a liability into a sustainable urban resource.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
+GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how Dr. B.R. Ambedkar's distinction between 'constitutional morality' and 'social morality' serves as a critical guiding principle for public administrators in upholding justice and equality in a diverse society.
+Explain how Aristotle's concept of 'phronesis' (practical wisdom) combined with the cultivation of virtues can guide a civil servant in navigating complex ethical dilemmas and ensuring public trust in governance.
 
 Q5. (10 Marks | 150 words)
-In what ways can the Gandhian principle of 'Sarvodaya' be practically integrated into contemporary public policy formulation and implementation to ensure equitable service delivery and genuine citizen participation, especially at the grassroots?
+In what ways can Kant's categorical imperative provide a robust framework for ethical decision-making in public administration, particularly when balancing competing interests of various stakeholders during policy formulation?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Mr. Alok Kumar, a highly respected District Collector known for his integrity, is currently overseeing a crucial land acquisition project for a large industrial corridor in Sargam District. This project promises significant economic development but involves complex negotiations with thousands of landowners, requiring meticulous adherence to legal and ethical guidelines.
+Divya Sharma, a newly posted Sub-Divisional Magistrate in Rudrapur district, Uttar Pradesh, is known for her impeccable integrity and commitment to constitutional values. The district has recently witnessed escalating communal tensions after a minor dispute between two communities flared up, leading to several incidents of public disorder and apprehension.
 
-A critical ethical dilemma arises when Mr. Alok discovers that a substantial parcel of land belonging to his brother-in-law, Mr. Rajesh Kumar, falls directly within the acquisition zone. Rajesh stands to receive considerable compensation, which family members, including Alok's wife, are subtly pressuring him to 'expedite' and 'optimize'. Simultaneously, the Chief Secretary has stressed the importance of absolute transparency, while local farmer unions are closely monitoring the process for any hint of favoritism or malpractice.
+As the situation remains volatile, Divya receives direct instructions from a powerful state minister and her immediate superior to take swift and stringent action primarily against members of one specific community, citing 'political necessity' and 'maintaining peace at any cost'. This directive, if implemented, would involve arbitrary arrests and demolition drives targeting one side, clearly violating principles of natural justice and impartiality.
 
-Mr. Alok's decision will directly impact his personal reputation, family relations, the credibility of the entire district administration, the smooth progression of a vital state project, and the perception of justice among the affected landowners. Both direct intervention and perceived inaction carry severe implications for public trust and administrative efficacy.
+Divya is acutely aware that acceding to this demand would severely undermine the rule of law, erode public trust in the administration, and potentially exacerbate the communal divide. Conversely, defying the political directive could jeopardize her career and invite strong repercussions from powerful political figures.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Mr. Alok Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Divya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
