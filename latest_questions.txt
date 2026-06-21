@@ -1,36 +1,36 @@
-Date: 20 Jun 2026
+Date: 21 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
+GS-1 SOCIETY: Social Movements and Civil Society in India
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the intricate ways in which India's integration into the global economy has exacerbated existing socio-economic disparities while simultaneously fostering new forms of wealth concentration. Discuss the policy challenges in achieving inclusive growth amidst these trends.
+Examine how the proliferation of digital platforms and social media has fundamentally altered the strategies and impact of contemporary social movements in India, particularly in terms of public mobilisation and advocacy for accountability.
 
 Q2. (10 Marks | 150 words)
-How has the pervasive influence of digital globalisation redefined the traditional notion of 'community' and social capital in urban Indian settings? Critically analyse the implications of this shift on inter-personal relationships and civic engagement.
+Critically examine the underlying socio-economic and resource-related factors that continue to fuel discontent among tribal communities, often manifesting in localized resistance movements against development projects, despite progressive legislative frameworks.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multifaceted impact of the burgeoning gig economy on women's empowerment and labour rights in India. Discuss its implications across social mobility, economic security, and the evolving regulatory framework governing informal work.
+Discuss the multi-faceted challenges faced by non-governmental organizations in India in balancing their advocacy roles with increasing regulatory scrutiny and the imperative of securing sustainable funding, citing recent examples of their impact on policy formulation across social, economic, and legal spheres.
 
 ========================================
-GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
+GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by 'moral courage' in the context of upholding probity in public administration? Explain its significance in fostering a culture of transparency and accountability, particularly when faced with institutional resistance.
+Explain the ethical significance of 'impartiality' and 'objectivity' as foundational principles for civil servants in preventing direct and indirect conflicts of interest, thereby upholding public trust in administrative decision-making.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dimensions involved when a civil servant's personal loyalties or professional affiliations potentially conflict with their primary duty to serve the public interest. How should an officer navigate such situations to uphold the principles of impartiality and integrity?
+Examine the ethical dilemmas confronting a public servant who discovers systemic corruption within their department, especially when formal internal grievance mechanisms prove ineffective or risk-prone. What personal and institutional safeguards are crucial for such a situation?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Rahul Sharma, a dedicated District Development Officer (DDO) in the Rural Development Ministry, is posted in Rudrapur District, a region severely affected by recurring droughts. He is currently compiling the mid-term impact assessment report for the central government’s flagship “Jal-Dhanya Samriddhi Yojana,” a critical welfare scheme aimed at water conservation and agricultural productivity enhancement. His team's preliminary ground surveys, however, reveal significant discrepancies: the scheme's on-ground performance is far below expected targets, plagued by implementation gaps and suspected diversion of funds.
+Anjali Sharma, a young IAS officer serving as the Sub-Divisional Magistrate in the rapidly urbanizing district of Krishnapuram, is overseeing a crucial land acquisition process for a major highway expansion project under a public-private partnership. The project involves a prominent real estate conglomerate.
 
-As Rahul prepares the report, he faces immense pressure from the District Collector, his immediate superior, and a powerful local Member of Parliament (MP), who is a key proponent of the scheme. They insist that he inflate success metrics and manipulate key data points, arguing it is essential to secure continued funding, maintain public confidence, and avoid political embarrassment for the administration. Subtle hints about potential negative career ramifications, possibly affecting his family's stability, are also conveyed if he fails to comply.
+During her diligent review of land records and compensation assessments, Anjali uncovers glaring irregularities, including undervaluation of prime agricultural land, discrepancies in ownership documents favoring speculators, and instances where vulnerable farmers appear coerced into signing consent forms for inadequate compensation. Her initial attempts to seek clarification are met with passive resistance from junior revenue staff. Subsequently, the District Collector, her immediate superior, advises her to "expedite the process without getting bogged down in minor details," hinting at significant political pressure from a powerful state minister closely associated with the private builder. Anjali faces a profound ethical conflict between her duty to ensure justice and the explicit pressure to conform, knowing that raising formal objections could severely jeopardize her burgeoning career.
 
-Rahul's decision will directly impact thousands of impoverished farmers relying on the scheme, compromise the integrity of public data and governance, and either uphold or severely damage the credibility of his office and the government itself. Both complying with the pressure and adhering to ethical standards carry profound, long-term consequences for all involved.
+The primary stakeholders in this complex situation include the marginalized farmers facing displacement, the private developer seeking rapid project completion, local politicians with vested interests, the District Collector, and the general public whose trust in the fairness of governance is at stake. Both swift approval and courageous intervention carry significant consequences for Anjali and the community.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rahul Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
