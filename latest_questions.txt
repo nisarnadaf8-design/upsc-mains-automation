@@ -1,36 +1,36 @@
-Date: 21 Jun 2026
+Date: 22 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Social Movements and Civil Society in India
+GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the proliferation of digital platforms and social media has fundamentally altered the strategies and impact of contemporary social movements in India, particularly in terms of public mobilisation and advocacy for accountability.
+Examine the efficacy of the National Education Policy 2020 in bridging the persistent learning poverty and skill gaps exacerbated by recent global disruptions, particularly for marginalized sections of society. Discuss its potential to foster equitable access to quality education.
 
 Q2. (10 Marks | 150 words)
-Critically examine the underlying socio-economic and resource-related factors that continue to fuel discontent among tribal communities, often manifesting in localized resistance movements against development projects, despite progressive legislative frameworks.
+Critically examine how the burgeoning EdTech sector, while promising increased access, inadvertently deepens both the digital and pedagogical divides in India, thereby impacting the overall quality and equity of public education.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted challenges faced by non-governmental organizations in India in balancing their advocacy roles with increasing regulatory scrutiny and the imperative of securing sustainable funding, citing recent examples of their impact on policy formulation across social, economic, and legal spheres.
+Discuss how entrenched socio-economic barriers, coupled with gendered expectations and implementation gaps in existing welfare schemes, contribute to high dropout rates among adolescent girls and tribal communities, consequently impeding their pathways to meaningful social mobility. Provide suitable examples.
 
 ========================================
-GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
+GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the ethical significance of 'impartiality' and 'objectivity' as foundational principles for civil servants in preventing direct and indirect conflicts of interest, thereby upholding public trust in administrative decision-making.
+Explain how a weak institutional culture of accountability, combined with a gradual erosion of individual moral courage, can contribute to systemic corruption within public administration, even among otherwise well-intentioned civil servants.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemmas confronting a public servant who discovers systemic corruption within their department, especially when formal internal grievance mechanisms prove ineffective or risk-prone. What personal and institutional safeguards are crucial for such a situation?
+Examine the ethical dilemmas a civil servant faces when balancing the imperatives of bureaucratic efficiency with the principles of transparency and public trust, particularly in the context of implementing large-scale e-governance initiatives aimed at reducing corruption.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Anjali Sharma, a young IAS officer serving as the Sub-Divisional Magistrate in the rapidly urbanizing district of Krishnapuram, is overseeing a crucial land acquisition process for a major highway expansion project under a public-private partnership. The project involves a prominent real estate conglomerate.
+Manoj Kumar is serving as the District Collector of Shivpur, a district severely affected by unprecedented monsoon floods. As the nodal officer for disaster relief and rehabilitation, he is responsible for judiciously disbursing substantial government funds allocated for immediate aid to thousands of displaced and suffering citizens. The district is in a state of humanitarian crisis, with urgent needs for shelter, food, and medical supplies.
 
-During her diligent review of land records and compensation assessments, Anjali uncovers glaring irregularities, including undervaluation of prime agricultural land, discrepancies in ownership documents favoring speculators, and instances where vulnerable farmers appear coerced into signing consent forms for inadequate compensation. Her initial attempts to seek clarification are met with passive resistance from junior revenue staff. Subsequently, the District Collector, her immediate superior, advises her to "expedite the process without getting bogged down in minor details," hinting at significant political pressure from a powerful state minister closely associated with the private builder. Anjali faces a profound ethical conflict between her duty to ensure justice and the explicit pressure to conform, knowing that raising formal objections could severely jeopardize her burgeoning career.
+Amidst this crisis, Manoj faces immense pressure from the State Minister for Disaster Management, who instructs him to divert a significant portion of the relief funds to a 'special project' managed by an NGO closely associated with the Minister. The Minister argues this project is crucial for long-term rehabilitation, but it bypasses standard procurement protocols and appears designed to benefit certain contractors. He subtly warns Manoj of potential career repercussions if his directive is not followed. Simultaneously, local community leaders and ground-level volunteers are desperately appealing for immediate release of funds for urgent relief work.
 
-The primary stakeholders in this complex situation include the marginalized farmers facing displacement, the private developer seeking rapid project completion, local politicians with vested interests, the District Collector, and the general public whose trust in the fairness of governance is at stake. Both swift approval and courageous intervention carry significant consequences for Anjali and the community.
+Manoj is aware that diverting funds would severely compromise the immediate relief efforts, leaving countless flood victims without critical aid. However, defying a powerful political superior could jeopardize his career and future postings.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Manoj Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
