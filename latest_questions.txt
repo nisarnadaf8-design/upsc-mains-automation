@@ -1,36 +1,35 @@
-Date: 22 Jun 2026
+Date: 24 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
+GS-1 SOCIETY: Tribal Communities: Issues, Rights and Constitutional Safeguards
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the efficacy of the National Education Policy 2020 in bridging the persistent learning poverty and skill gaps exacerbated by recent global disruptions, particularly for marginalized sections of society. Discuss its potential to foster equitable access to quality education.
+Examine the persistent challenges in effectively implementing the spirit of the Fifth and Sixth Schedule provisions amidst evolving developmental priorities and resource demands. Discuss how these constitutional safeguards can be strengthened to better protect tribal autonomy and land rights in the contemporary context.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the burgeoning EdTech sector, while promising increased access, inadvertently deepens both the digital and pedagogical divides in India, thereby impacting the overall quality and equity of public education.
+What do you understand by the concept of 'cultural integration' for tribal communities, as opposed to forced assimilation? Critically examine how large-scale infrastructure projects and market forces challenge the distinct cultural identity and traditional livelihoods of Particularly Vulnerable Tribal Groups (PVTGs) in India.
 
 Q3. (15 Marks | 250 words)
-Discuss how entrenched socio-economic barriers, coupled with gendered expectations and implementation gaps in existing welfare schemes, contribute to high dropout rates among adolescent girls and tribal communities, consequently impeding their pathways to meaningful social mobility. Provide suitable examples.
+Critically analyse the socio-economic and legal implications of involuntary displacement for tribal communities in the pursuit of national development projects. Discuss, with suitable examples, how inadequate implementation of the Forest Rights Act 2006 exacerbates their vulnerability and often leads to an intergenerational loss of traditional knowledge and resources.
 
 ========================================
-GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
+GS-4 ETHICS: Ethics in Public and Private Relationships
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how a weak institutional culture of accountability, combined with a gradual erosion of individual moral courage, can contribute to systemic corruption within public administration, even among otherwise well-intentioned civil servants.
+Explain the significance of maintaining 'ethical distance' in public administration, particularly when personal affiliations and private interests intersect with official decision-making. How does a civil servant's commitment to personal integrity influence the perception of impartiality and trustworthiness within the bureaucracy?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemmas a civil servant faces when balancing the imperatives of bureaucratic efficiency with the principles of transparency and public trust, particularly in the context of implementing large-scale e-governance initiatives aimed at reducing corruption.
+What are the ethical challenges faced by a civil servant when dealing with requests from close family members or friends that could potentially compromise the principles of meritocracy and fairness in administrative processes? How should a civil servant navigate such situations to uphold public trust without alienating personal relationships?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ms. Anjali Sharma, a Divisional Forest Officer in Mandla District, Madhya Pradesh, recently unearthed a large-scale financial fraud involving illegal timber trade and embezzlement of funds meant for tribal welfare schemes in her division, meticulously documenting compelling evidence.
 
-Manoj Kumar is serving as the District Collector of Shivpur, a district severely affected by unprecedented monsoon floods. As the nodal officer for disaster relief and rehabilitation, he is responsible for judiciously disbursing substantial government funds allocated for immediate aid to thousands of displaced and suffering citizens. The district is in a state of humanitarian crisis, with urgent needs for shelter, food, and medical supplies.
+Upon reporting this meticulously documented complaint to her immediate superior, she found her allegations dismissed without investigation. Subsequently, she was issued a punitive transfer to an obscure, non-field posting and a departmental inquiry was initiated against her on fabricated charges of insubordination. Simultaneously, a powerful local political leader, allegedly deeply involved in the fraud, has commenced a virulent smear campaign against her through local media. Her family, gravely concerned about her safety and career prospects, is strongly urging her to retract the complaint and comply with the directives to protect her future.
 
-Amidst this crisis, Manoj faces immense pressure from the State Minister for Disaster Management, who instructs him to divert a significant portion of the relief funds to a 'special project' managed by an NGO closely associated with the Minister. The Minister argues this project is crucial for long-term rehabilitation, but it bypasses standard procurement protocols and appears designed to benefit certain contractors. He subtly warns Manoj of potential career repercussions if his directive is not followed. Simultaneously, local community leaders and ground-level volunteers are desperately appealing for immediate release of funds for urgent relief work.
-
-Manoj is aware that diverting funds would severely compromise the immediate relief efforts, leaving countless flood victims without critical aid. However, defying a powerful political superior could jeopardize his career and future postings.
+The tribal communities, for whom the welfare funds were intended, remain unaware of the underlying corruption, while the integrity of the Forest Department and public trust are at stake. Ms. Sharma's decision carries serious consequences, impacting not only her personal life and career but also justice for the defrauded communities and the moral standing of public service.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Manoj Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
