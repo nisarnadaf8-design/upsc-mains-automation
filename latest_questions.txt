@@ -1,35 +1,36 @@
-Date: 25 Jun 2026
+Date: 26 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
+GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving challenges in upholding the principles of secularism in India, particularly when balancing the protection of minority cultural rights with the state's mandate for social reform and integration.
+Examine the challenges in accurately assessing the prevalence of bonded labour and human trafficking in an increasingly informalized urban economy, and suggest innovative technological or community-led approaches to data collection and victim identification.
 
 Q2. (10 Marks | 150 words)
-How has the emphasis on linguistic identity, while constitutionally protected, contributed to both cultural preservation and occasional social fragmentation within the broader framework of Indian unity?
+Critically examine how persistent socio-cultural norms, coupled with economic precarity, perpetuate intergenerational child labour and debt bondage, despite robust legal frameworks and international commitments in India.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the complex interplay of legal reforms, diverse community practices, and gender justice principles in the ongoing discourse around personal laws in India. Discuss its social, political, and cultural implications for minority communities.
+Discuss the complex interplay of global supply chain demands, climate-induced migration, and gender vulnerabilities that exacerbate human trafficking and various forms of forced labour in India. Provide suitable examples of multi-stakeholder interventions involving government, NGOs, and corporations.
 
 ========================================
-GS-4 ETHICS: Social Influence, Persuasion and Moral Development
+GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how understanding the dynamics of moral development, including Kohlberg's stages, can equip civil servants to navigate complex ethical dilemmas and uphold public trust.
+Explain the significance of "intellectual integrity" and "moral courage" for a civil servant in upholding constitutional values and ensuring objective decision-making, especially when faced with conflicting loyalties or popular sentiments.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical boundaries between legitimate persuasion and manipulative tactics in public administration. How can a civil servant ensure that their actions influence stakeholders towards public good without compromising transparency and autonomy?
+How does the cultivation of 'humility' and 'compassion', drawn from the lives of historical figures or literary narratives, enable a civil servant to navigate ethical dilemmas involving equitable resource distribution and public grievance redressal?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Rakesh Sharma is the District Magistrate of a tribal-dominated district in a resource-rich region. He is tasked with overseeing the expedited implementation of the "Bharat Connect Highway Project," a crucial national infrastructure initiative designed to link remote areas and boost economic activity across several states. While the project promises significant national development and connectivity, a 30 km stretch of the proposed highway passes directly through a pristine forest region, affecting the ancestral lands and traditional livelihoods of the indigenous 'Vanvasi' community.
 
-The Vanvasi community, supported by local environmental and tribal rights organizations, is vehemently opposing the project, citing irreversible loss of their cultural identity, ecological degradation, and inadequate rehabilitation proposals that do not account for their unique forest-based existence. Rakesh is under immense pressure from the Chief Secretary and the State Minister for Infrastructure to ensure the project stays on schedule, as any delay would incur substantial financial penalties and political repercussions. He believes in the necessity of development but is deeply conflicted by the potential displacement and cultural disruption faced by a vulnerable community.
+Aarav Sharma, a dedicated young Sub-Divisional Magistrate (SDM) in the Revenue Department, has recently been posted to a sub-division in District Bhagalpur, Bihar. His office is critical for issuing various public certificates, including domicile, income, and caste certificates, which are essential for electoral eligibility, welfare scheme access, and educational opportunities in the run-up to imminent local body elections.
 
-The decision Rakesh makes will have profound consequences for the Vanvasi community's survival, the ecological balance of the region, the timely completion and economic viability of a national project, and his own professional integrity. Both immediate and long-term societal, environmental, and economic impacts are at stake, affecting not only the local populace but also the broader national interest.
+Aarav finds himself under intense pressure from the incumbent ruling party's local MLA, who is also a distant relative. The MLA explicitly demands the expedited issuance of a large number of domicile and income certificates to individuals who appear to lack genuine eligibility, explicitly stating these are crucial for "party loyalists" to secure voting rights and welfare benefits. The MLA subtly reminds Aarav of the implications for his career progression and potential transfers, emphasizing the need for "administrative flexibility" and "political accommodation." Simultaneously, Aarav's immediate superior, the District Collector, in a veiled conversation, advises him to "maintain cordial relations with local political leadership for smooth governance," without giving a direct order to comply. Aarav is also aware that some individuals seeking these certificates, though lacking documentation, are genuinely marginalized and may have been failed by the system previously.
+
+Aarav's decision will directly impact the fairness and integrity of the electoral process, the equitable distribution of public resources, and the public's perception of administrative impartiality. Issuing false certificates would undermine the rule of law and potentially incite social unrest, while a refusal could lead to significant professional and political repercussions, including social isolation and adverse career actions.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rakesh Sharma? Evaluate each option with its merits and demerits. (100 words)
-(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+(b) What are the options available to Aarav Sharma? Evaluate each option with its merits and demerits. (100 words)
+(c) What course of action would you recommend and why? How would you handle the pressures involved from both the political leader and your superior? (150 words)
