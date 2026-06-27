@@ -1,36 +1,36 @@
-Date: 26 Jun 2026
+Date: 27 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
+GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the challenges in accurately assessing the prevalence of bonded labour and human trafficking in an increasingly informalized urban economy, and suggest innovative technological or community-led approaches to data collection and victim identification.
+Examine the symbiotic relationship between digital inclusion initiatives and the accumulation of social capital within marginalized communities. Discuss how this interplay can either reinforce existing inequalities or foster new forms of collective action for development.
 
 Q2. (10 Marks | 150 words)
-Critically examine how persistent socio-cultural norms, coupled with economic precarity, perpetuate intergenerational child labour and debt bondage, despite robust legal frameworks and international commitments in India.
+Critically examine how recent legislative frameworks and enhanced scrutiny, particularly concerning foreign contributions, have redefined the operational autonomy and public trust of the voluntary sector in India. What implications does this hold for citizen engagement and democratic participation?
 
 Q3. (15 Marks | 250 words)
-Discuss the complex interplay of global supply chain demands, climate-induced migration, and gender vulnerabilities that exacerbate human trafficking and various forms of forced labour in India. Provide suitable examples of multi-stakeholder interventions involving government, NGOs, and corporations.
+Discuss how community-led initiatives, such as self-help groups and revived gram sabhas, contribute to inclusive development by addressing social inequalities, fostering economic resilience, and strengthening democratic accountability at the grassroots level. Illustrate with contemporary examples from rural India.
 
 ========================================
-GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
+GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of "intellectual integrity" and "moral courage" for a civil servant in upholding constitutional values and ensuring objective decision-making, especially when faced with conflicting loyalties or popular sentiments.
+Explain the ethical tension between the principle of 'Responsibility to Protect' (R2P) and the Westphalian concept of state sovereignty in addressing humanitarian crises. How does a nation's commitment to multilateralism navigate this complex moral landscape?
 
 Q5. (10 Marks | 150 words)
-How does the cultivation of 'humility' and 'compassion', drawn from the lives of historical figures or literary narratives, enable a civil servant to navigate ethical dilemmas involving equitable resource distribution and public grievance redressal?
+Examine the ethical dimensions involved when a developing nation's civil servant advocates for differentiated responsibilities in climate action on global platforms. How should they balance national development imperatives with universal environmental stewardship and intergenerational equity?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Aarav Sharma, a dedicated young Sub-Divisional Magistrate (SDM) in the Revenue Department, has recently been posted to a sub-division in District Bhagalpur, Bihar. His office is critical for issuing various public certificates, including domicile, income, and caste certificates, which are essential for electoral eligibility, welfare scheme access, and educational opportunities in the run-up to imminent local body elections.
+Mr. Alok Verma, an Under Secretary in the Strategic Planning Division of the Ministry of Defence, New Delhi, is responsible for processing sensitive information requests. His department recently oversaw the planning and initial execution of a critical dual-use infrastructure project – a major highway connecting strategic border regions.
 
-Aarav finds himself under intense pressure from the incumbent ruling party's local MLA, who is also a distant relative. The MLA explicitly demands the expedited issuance of a large number of domicile and income certificates to individuals who appear to lack genuine eligibility, explicitly stating these are crucial for "party loyalists" to secure voting rights and welfare benefits. The MLA subtly reminds Aarav of the implications for his career progression and potential transfers, emphasizing the need for "administrative flexibility" and "political accommodation." Simultaneously, Aarav's immediate superior, the District Collector, in a veiled conversation, advises him to "maintain cordial relations with local political leadership for smooth governance," without giving a direct order to comply. Aarav is also aware that some individuals seeking these certificates, though lacking documentation, are genuinely marginalized and may have been failed by the system previously.
+He has received an RTI application from a public interest researcher seeking granular details regarding the project's budget allocation, specific land acquisition processes, and the full environmental impact assessment. While his Joint Secretary strongly advises rejecting the application citing national security under Section 8(1)(a) of the RTI Act, local community organizations have publicly expressed concerns about transparency, potential environmental damage, and fair compensation for displaced families. There are also subtle signals from the Defence Minister's office about the project's classified nature and its geopolitical implications.
 
-Aarav's decision will directly impact the fairness and integrity of the electoral process, the equitable distribution of public resources, and the public's perception of administrative impartiality. Issuing false certificates would undermine the rule of law and potentially incite social unrest, while a refusal could lead to significant professional and political repercussions, including social isolation and adverse career actions.
+Alok's decision will directly impact the RTI applicant, the affected local communities, the Ministry's commitment to transparency, and potentially national security interests. Both providing the information and withholding it carry significant ethical and practical consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Aarav Sharma? Evaluate each option with its merits and demerits. (100 words)
-(c) What course of action would you recommend and why? How would you handle the pressures involved from both the political leader and your superior? (150 words)
+(b) What are the options available to Alok Verma? Evaluate each option with its merits and demerits. (100 words)
+(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
