@@ -1,36 +1,35 @@
-Date: 27 Jun 2026
+Date: 28 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
+GS-1 SOCIETY: Media, Social Media and Their Role in Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the symbiotic relationship between digital inclusion initiatives and the accumulation of social capital within marginalized communities. Discuss how this interplay can either reinforce existing inequalities or foster new forms of collective action for development.
+Analyse the challenges faced by mainstream media in upholding journalistic ethics amidst the pervasive spread of misinformation and hyper-partisan content online. Discuss how this landscape impacts public trust and the democratic discourse.
 
 Q2. (10 Marks | 150 words)
-Critically examine how recent legislative frameworks and enhanced scrutiny, particularly concerning foreign contributions, have redefined the operational autonomy and public trust of the voluntary sector in India. What implications does this hold for citizen engagement and democratic participation?
+Critically examine the concept of 'algorithmic bias' in news dissemination and its implications for public discourse and democratic participation, especially in an increasingly personalised digital environment. How does it contribute to the formation of 'echo chambers'?
 
 Q3. (15 Marks | 250 words)
-Discuss how community-led initiatives, such as self-help groups and revived gram sabhas, contribute to inclusive development by addressing social inequalities, fostering economic resilience, and strengthening democratic accountability at the grassroots level. Illustrate with contemporary examples from rural India.
+Examine the complex interplay between freedom of expression and the necessity for state regulation of online content, particularly concerning hate speech and misinformation. Discuss its social, legal, and democratic ramifications in a diverse country like India, suggesting ethical frameworks for a balanced approach.
 
 ========================================
-GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
+GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the ethical tension between the principle of 'Responsibility to Protect' (R2P) and the Westphalian concept of state sovereignty in addressing humanitarian crises. How does a nation's commitment to multilateralism navigate this complex moral landscape?
+How does the principle of 'probity in governance' influence a civil servant's decisions, particularly when confronted with ethical dilemmas involving resource allocation during crises or reporting instances of corruption? Explain its role in fostering public trust.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dimensions involved when a developing nation's civil servant advocates for differentiated responsibilities in climate action on global platforms. How should they balance national development imperatives with universal environmental stewardship and intergenerational equity?
+Examine the ethical challenges an administrator faces when tasked with implementing a highly unpopular but demonstrably necessary policy. How should they navigate public resistance while upholding principles of fairness, transparency, and the larger public interest?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ms. Anjali Sharma, a newly appointed District Magistrate of Rohanpur District, Maharashtra, is known for her diligence and commitment to social welfare programs. During a routine inspection of industrial units in an underdeveloped zone, her team discovers a mid-sized textile factory operating without proper clearances and, more alarmingly, employing several underage children in hazardous conditions.
 
-Mr. Alok Verma, an Under Secretary in the Strategic Planning Division of the Ministry of Defence, New Delhi, is responsible for processing sensitive information requests. His department recently oversaw the planning and initial execution of a critical dual-use infrastructure project – a major highway connecting strategic border regions.
+Further investigation reveals that the factory is beneficially owned by a powerful sitting Member of Parliament (MP) from the ruling party, a senior politician with significant influence at state and national levels. Her immediate superior, the Divisional Commissioner, subtly advises caution, hinting at the political sensitivities involved and potential career repercussions for Ms. Sharma. The factory owner, through intermediaries, offers a substantial 'settlement' to avoid official action and media attention.
 
-He has received an RTI application from a public interest researcher seeking granular details regarding the project's budget allocation, specific land acquisition processes, and the full environmental impact assessment. While his Joint Secretary strongly advises rejecting the application citing national security under Section 8(1)(a) of the RTI Act, local community organizations have publicly expressed concerns about transparency, potential environmental damage, and fair compensation for displaced families. There are also subtle signals from the Defence Minister's office about the project's classified nature and its geopolitical implications.
+The children employed, their impoverished families who depend on the meager income, the powerful factory owner (MP), the district administration's credibility, the general public's faith in the rule of law, and Ms. Sharma's own career and integrity are all at stake. Taking immediate, decisive action could lead to political backlash and personal victimisation, while inaction would perpetuate a grave injustice and undermine the fundamental principles of governance.
 
-Alok's decision will directly impact the RTI applicant, the affected local communities, the Ministry's commitment to transparency, and potentially national security interests. Both providing the information and withholding it carry significant ethical and practical consequences.
-
-(a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Alok Verma? Evaluate each option with its merits and demerits. (100 words)
-(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+(a) Identify and discuss the ethical issues involved in this case.
+(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits.
+(c) What course of action would you recommend and why? How would you handle the pressures involved to ensure justice?
