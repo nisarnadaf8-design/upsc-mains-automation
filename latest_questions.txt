@@ -1,35 +1,35 @@
-Date: 28 Jun 2026
+Date: 29 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Media, Social Media and Their Role in Society
+GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
 ========================================
 
 Q1. (10 Marks | 150 words)
-Analyse the challenges faced by mainstream media in upholding journalistic ethics amidst the pervasive spread of misinformation and hyper-partisan content online. Discuss how this landscape impacts public trust and the democratic discourse.
+Examine how the traditional understanding of caste as a social institution is being reconfigured by contemporary economic shifts and digital connectivity, challenging or reinforcing its structural persistence in Indian society.
 
 Q2. (10 Marks | 150 words)
-Critically examine the concept of 'algorithmic bias' in news dissemination and its implications for public discourse and democratic participation, especially in an increasingly personalised digital environment. How does it contribute to the formation of 'echo chambers'?
+Critically assess how the intersection of caste, class, and gender creates distinct and often invisible structural barriers to upward social mobility, despite widespread public welfare schemes and increasing educational access.
 
 Q3. (15 Marks | 250 words)
-Examine the complex interplay between freedom of expression and the necessity for state regulation of online content, particularly concerning hate speech and misinformation. Discuss its social, legal, and democratic ramifications in a diverse country like India, suggesting ethical frameworks for a balanced approach.
+Discuss how the evolving discourse around reservation policy in India reflects not just aspirations for social justice and equitable representation, but also complex economic disparities, political dynamics, and the ethics of inclusive development, with suitable contemporary examples.
 
 ========================================
-GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
+GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
 ========================================
 
 Q4. (10 Marks | 150 words)
-How does the principle of 'probity in governance' influence a civil servant's decisions, particularly when confronted with ethical dilemmas involving resource allocation during crises or reporting instances of corruption? Explain its role in fostering public trust.
+Explain the significance of an awakened conscience for a civil servant navigating the complexities of public administration, especially when confronted with pressures to conform to prevalent social norms or political expediency that may compromise ethical governance.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical challenges an administrator faces when tasked with implementing a highly unpopular but demonstrably necessary policy. How should they navigate public resistance while upholding principles of fairness, transparency, and the larger public interest?
+How can the 'ethics of care' framework be practically applied by civil servants to ensure more empathetic and responsive public service delivery, particularly when dealing with marginalized sections of society, rather than a purely rule-bound approach?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Anjali Sharma, a newly appointed District Magistrate of Rohanpur District, Maharashtra, is known for her diligence and commitment to social welfare programs. During a routine inspection of industrial units in an underdeveloped zone, her team discovers a mid-sized textile factory operating without proper clearances and, more alarmingly, employing several underage children in hazardous conditions.
+Divya Sharma, a diligent District Forest Officer (DFO) in the ecologically sensitive district of Suryanagar, Karnataka, has recently been tasked with overseeing the demarcation of an eco-sensitive zone (ESZ) boundary around a wildlife sanctuary. Her reputation for strict adherence to environmental regulations and fair implementation of rules is well-known.
 
-Further investigation reveals that the factory is beneficially owned by a powerful sitting Member of Parliament (MP) from the ruling party, a senior politician with significant influence at state and national levels. Her immediate superior, the Divisional Commissioner, subtly advises caution, hinting at the political sensitivities involved and potential career repercussions for Ms. Sharma. The factory owner, through intermediaries, offers a substantial 'settlement' to avoid official action and media attention.
+A powerful state minister, Mr. Sudhir Gowda, holding extensive land adjacent to the proposed ESZ, pressures Divya to re-align the boundary, excluding a significant portion of his property earmarked for a resort. The minister’s aide explicitly assures 'uninterrupted career progression' for Divya if she complies. Concurrently, her immediate superior, the Conservator of Forests, subtly advises her to ‘exercise administrative flexibility’ to avoid ‘political friction’ and maintain a harmonious working relationship with influential persons.
 
-The children employed, their impoverished families who depend on the meager income, the powerful factory owner (MP), the district administration's credibility, the general public's faith in the rule of law, and Ms. Sharma's own career and integrity are all at stake. Taking immediate, decisive action could lead to political backlash and personal victimisation, while inaction would perpetuate a grave injustice and undermine the fundamental principles of governance.
+Divya's decision will directly impact the ecological integrity of the wildlife sanctuary, public trust in environmental governance, and the livelihood of local communities. Both compliance and defiance carry serious, far-reaching consequences for her career and the broader administrative ethos.
 
-(a) Identify and discuss the ethical issues involved in this case.
-(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits.
-(c) What course of action would you recommend and why? How would you handle the pressures involved to ensure justice?
+(a) Identify and discuss the ethical issues involved in this case. (50 words)
+(b) What are the options available to Divya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
