@@ -1,35 +1,36 @@
-Date: 29 Jun 2026
+Date: 30 Jun 2026
 
 ========================================
-GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
+GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the traditional understanding of caste as a social institution is being reconfigured by contemporary economic shifts and digital connectivity, challenging or reinforcing its structural persistence in Indian society.
+Examine the evolving role of digital literacy and access to technology in mitigating the feminisation of poverty, particularly for women entrepreneurs in semi-urban and rural areas. Discuss its potential to bridge the economic gender gap.
 
 Q2. (10 Marks | 150 words)
-Critically assess how the intersection of caste, class, and gender creates distinct and often invisible structural barriers to upward social mobility, despite widespread public welfare schemes and increasing educational access.
+Critically analyse how the persistence of deeply ingrained patriarchal attitudes, despite legislative reforms like the POCSO Act, continues to challenge the effective implementation of safeguards against gender-based violence in public and private spaces.
 
 Q3. (15 Marks | 250 words)
-Discuss how the evolving discourse around reservation policy in India reflects not just aspirations for social justice and equitable representation, but also complex economic disparities, political dynamics, and the ethics of inclusive development, with suitable contemporary examples.
+Discuss the multi-dimensional challenges faced by women in achieving equitable political representation at local and state levels, beyond the aspect of reservation. Analyse the social, economic, and institutional barriers that impede their meaningful participation and leadership.
 
 ========================================
-GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
+GS-4 ETHICS: Attitude: Formation, Change and Social Influence
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of an awakened conscience for a civil servant navigating the complexities of public administration, especially when confronted with pressures to conform to prevalent social norms or political expediency that may compromise ethical governance.
+What do you understand by the concept of 'attitudinal integrity' in public service? Explain how a strong attitudinal integrity can enable an administrator to overcome personal biases and resist undue social influence in upholding ethical governance.
 
 Q5. (10 Marks | 150 words)
-How can the 'ethics of care' framework be practically applied by civil servants to ensure more empathetic and responsive public service delivery, particularly when dealing with marginalized sections of society, rather than a purely rule-bound approach?
+How should a civil servant strategically address institutional inertia and deeply entrenched prejudiced attitudes within their department that hinder the effective delivery of services to marginalised communities? Discuss the ethical leadership required for such change.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Divya Sharma, a diligent District Forest Officer (DFO) in the ecologically sensitive district of Suryanagar, Karnataka, has recently been tasked with overseeing the demarcation of an eco-sensitive zone (ESZ) boundary around a wildlife sanctuary. Her reputation for strict adherence to environmental regulations and fair implementation of rules is well-known.
 
-A powerful state minister, Mr. Sudhir Gowda, holding extensive land adjacent to the proposed ESZ, pressures Divya to re-align the boundary, excluding a significant portion of his property earmarked for a resort. The minister’s aide explicitly assures 'uninterrupted career progression' for Divya if she complies. Concurrently, her immediate superior, the Conservator of Forests, subtly advises her to ‘exercise administrative flexibility’ to avoid ‘political friction’ and maintain a harmonious working relationship with influential persons.
+Ms. Priya Singh, a newly appointed IAS officer, is serving as the Sub-Divisional Magistrate of a remote, flood-devastated region in Assam. Following a catastrophic monsoon, her primary responsibility is to oversee the distribution of emergency relief supplies and rehabilitation efforts for thousands of displaced villagers. The scale of the disaster has brought immense pressure to deliver aid swiftly and transparently.
 
-Divya's decision will directly impact the ecological integrity of the wildlife sanctuary, public trust in environmental governance, and the livelihood of local communities. Both compliance and defiance carry serious, far-reaching consequences for her career and the broader administrative ethos.
+During a surprise inspection of a relief warehouse, Priya uncovers irrefutable evidence that her immediate superior, Mr. Alok Verma, a respected and politically well-connected District Collector with whom she shares a good working relationship, is orchestrating the diversion of high-value relief materials for personal gain. Verma has built a strong network of patronage over the years, and previous complaints against him have been discreetly suppressed. Priya realises that confronting him could not only jeopardise her nascent career but also potentially disrupt the ongoing, critical relief operations, while ignoring it would mean complicity in grave corruption affecting vulnerable lives.
+
+Priya's decision will have significant repercussions for the flood victims who are dependent on the diverted aid, the morale of honest officers involved in relief work, the reputation of the administration, and her own professional integrity. Both action and inaction carry severe ethical and practical consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Divya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Priya Singh? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
