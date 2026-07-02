@@ -1,36 +1,35 @@
-Date: 01 Jul 2026
+Date: 02 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Communalism, Regionalism and Secularism
+GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how state policies, even when seemingly neutral or development-oriented, can inadvertently exacerbate regional identities or communal divisions in a diverse federal structure like India, often by shaping resource allocation or cultural narratives.
+Examine how the evolving landscape of skilling initiatives and persistent regional demographic disparities could either expedite or hinder India's optimal utilisation of its demographic dividend by 2040.
 
 Q2. (10 Marks | 150 words)
-Critically examine the resilience of India's composite culture and syncretic traditions in countering contemporary communal polarization. To what extent do these historical strengths still act as effective social stabilizers in an era of heightened identity politics and digital information warfare?
+Critically examine how the traditional intergenerational support system in India is being reconfigured by the dual pressures of accelerated rural-urban migration and the growing needs of an ageing population, particularly concerning social security provisions.
 
 Q3. (15 Marks | 250 words)
-Regionalism in India is often perceived as a challenge to national unity, yet it can also be a vehicle for articulating legitimate socio-economic grievances and fostering local development. Critically analyse the multi-faceted nature of regionalism, exploring its economic, political, and social dimensions, and its implications for both national cohesion and decentralised governance.
+Discuss the multi-dimensional challenges and opportunities presented by India's global diaspora, critically analysing their social integration, economic contributions through remittances and reverse skill transfer, and the diplomatic implications for a comprehensive national development strategy.
 
 ========================================
-GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
+GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the concept of 'integrity of purpose' for a civil servant, distinguishing it from mere procedural correctness. How does a public servant uphold integrity when facing a dilemma where the spirit of public service might diverge from strict adherence to existing rules and regulations?
+Explain the significance of 'self-regulation' as a foundational component of emotional intelligence for a civil servant in upholding ethical conduct and maintaining impartiality when faced with intense public scrutiny or political interference.
 
 Q5. (10 Marks | 150 words)
-In the context of delivering public services to marginalized communities, discuss how a civil servant can uphold impartiality while simultaneously exercising empathy. What ethical challenges arise when balancing these two core values, particularly when political narratives attempt to influence public perception or resource allocation?
+How can 'empathetic leadership', a crucial aspect of emotional intelligence, be effectively leveraged by administrators to foster an inclusive work environment and resolve inter-departmental conflicts in a large, diverse bureaucratic setup?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Rohit Sharma, a newly appointed Superintendent of Police in the State Anti-Corruption Bureau (ACB) unit in Indirapuram, has built a reputation for his uncompromising integrity and sharp investigative skills. He is currently leading a high-profile investigation into a large-scale public procurement fraud involving several infrastructure projects in the state's Public Works Department (PWD).
 
-Ms. Anjali Sharma, a dedicated and respected District Collector of Lalgiri, a tribal-majority district known for its rich biodiversity and cultural heritage, is overseeing local development projects. Her tenure has been marked by efforts to improve tribal welfare and ensure the implementation of forest rights.
+During the course of the investigation, Rohit uncovers compelling evidence suggesting that the fraud is not limited to PWD but extends to a previous investigation conducted by his own ACB unit, involving collusion between a former senior officer of the ACB and some PWD officials. This discovery puts him in a profound ethical dilemma, as exposing this truth would not only tarnish the image of the ACB but also directly implicate his former superior, now a powerful Inspector General, and potentially embarrass the state government which prides itself on its anti-corruption initiatives.
 
-Recently, the State Government issued a directive to expedite land acquisition for a critical industrial corridor project, citing urgent national economic interest and a strict six-month deadline. This project requires the diversion of significant ancestral forest land, impacting several tribal villages whose livelihoods are intrinsically linked to these forests. Ms. Sharma is now caught between the explicit orders from the state capital and the vehement protests from the tribal communities, supported by local NGOs, who highlight potential displacement, loss of traditional livelihoods, and violations of the Forest Rights Act and PESA provisions.
-
-The Chief Secretary has personally called, emphasizing the project's strategic importance and hinting at adverse career implications for any delay. A powerful local politician, with vested interests in the industrial project, is actively campaigning for its rapid execution and is trying to discredit the tribal protests. Both action and inaction by Ms. Sharma have serious consequences, impacting not only her career but also the lives of thousands of tribal people and the state's economic development trajectory.
+His decision will significantly impact public trust in law enforcement, the credibility of the ACB, the careers of many officials, and the overall fight against corruption. Both pursuing the truth and attempting to suppress it carry severe implications for justice and ethical governance.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rohit Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
