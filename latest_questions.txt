@@ -1,35 +1,36 @@
-Date: 02 Jul 2026
+Date: 03 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
+GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the evolving landscape of skilling initiatives and persistent regional demographic disparities could either expedite or hinder India's optimal utilisation of its demographic dividend by 2040.
+Examine how the persistence of social exclusion, particularly for historically marginalized communities, continues to hinder the effectiveness of targeted policies aimed at eradicating multidimensional poverty in India. Discuss the socio-economic implications of this entrenched challenge for national development goals.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the traditional intergenerational support system in India is being reconfigured by the dual pressures of accelerated rural-urban migration and the growing needs of an ageing population, particularly concerning social security provisions.
+Critically examine the argument that relying primarily on 'trickle-down economics' is insufficient to address deep-rooted structural inequalities and foster genuinely inclusive growth, especially in regions marked by chronic poverty and limited access to resources. How does this approach contrast with direct empowerment initiatives?
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-dimensional challenges and opportunities presented by India's global diaspora, critically analysing their social integration, economic contributions through remittances and reverse skill transfer, and the diplomatic implications for a comprehensive national development strategy.
+Discuss how the interwoven challenges of social exclusion based on caste and tribal identity continue to impede human capital formation and economic mobility, requiring multi-pronged interventions across social, economic, and administrative spheres for genuine inclusive development. Provide suitable examples.
 
 ========================================
-GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
+GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'self-regulation' as a foundational component of emotional intelligence for a civil servant in upholding ethical conduct and maintaining impartiality when faced with intense public scrutiny or political interference.
+Explain how Dr. B.R. Ambedkar's distinction between constitutional morality and social morality is crucial for civil servants navigating complex societal issues, especially when traditional norms and community practices conflict with fundamental rights and principles of justice.
 
 Q5. (10 Marks | 150 words)
-How can 'empathetic leadership', a crucial aspect of emotional intelligence, be effectively leveraged by administrators to foster an inclusive work environment and resolve inter-departmental conflicts in a large, diverse bureaucratic setup?
+In what ways can the Gandhian concept of 'Sarvodaya' guide a public administrator in formulating welfare policies, ensuring equitable distribution of resources and genuine empowerment rather than mere transactional service delivery? Illustrate with contemporary administrative challenges.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Rohit Sharma, a newly appointed Superintendent of Police in the State Anti-Corruption Bureau (ACB) unit in Indirapuram, has built a reputation for his uncompromising integrity and sharp investigative skills. He is currently leading a high-profile investigation into a large-scale public procurement fraud involving several infrastructure projects in the state's Public Works Department (PWD).
 
-During the course of the investigation, Rohit uncovers compelling evidence suggesting that the fraud is not limited to PWD but extends to a previous investigation conducted by his own ACB unit, involving collusion between a former senior officer of the ACB and some PWD officials. This discovery puts him in a profound ethical dilemma, as exposing this truth would not only tarnish the image of the ACB but also directly implicate his former superior, now a powerful Inspector General, and potentially embarrass the state government which prides itself on its anti-corruption initiatives.
+Anjali Sharma, a diligent and upright District Magistrate of Kalinganagar district, is known for her impeccable record in public service. Her district is grappling with rapid urbanization, necessitating significant infrastructure upgrades. Her current major responsibility involves overseeing the environmental impact assessment and granting final clearances for a crucial multi-crore highway bypass project, designed to alleviate severe traffic congestion and boost regional connectivity.
 
-His decision will significantly impact public trust in law enforcement, the credibility of the ACB, the careers of many officials, and the overall fight against corruption. Both pursuing the truth and attempting to suppress it carry severe implications for justice and ethical governance.
+A challenging situation arises when it becomes known that 'EcoBuild Corp', a leading construction firm owned by her elder brother, Rajesh Sharma, has emerged as the frontrunner for securing the bypass project contract. This project falls directly under Anjali's jurisdictional purview for various local permits and clearances. Her family exerts subtle pressure to expedite the process, while a local environmental activist group alleges potential conflict of interest and threatens public protests if due process is compromised.
+
+Her decision will significantly impact the district's development trajectory, the reputation of her office, the environmental well-being of the region, the financial interests of her family, and public trust in administration. Both acting directly or recusing herself carries weighty professional and personal consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rohit Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
