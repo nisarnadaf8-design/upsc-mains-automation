@@ -1,36 +1,36 @@
-Date: 03 Jul 2026
+Date: 04 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
+GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the persistence of social exclusion, particularly for historically marginalized communities, continues to hinder the effectiveness of targeted policies aimed at eradicating multidimensional poverty in India. Discuss the socio-economic implications of this entrenched challenge for national development goals.
+Examine the extent to which India's Smart Cities Mission has successfully moved beyond technological upgrades to foster genuinely inclusive urban planning practices that address the challenges of informal settlements and vulnerable populations.
 
 Q2. (10 Marks | 150 words)
-Critically examine the argument that relying primarily on 'trickle-down economics' is insufficient to address deep-rooted structural inequalities and foster genuinely inclusive growth, especially in regions marked by chronic poverty and limited access to resources. How does this approach contrast with direct empowerment initiatives?
+Critically examine how the 74th Constitutional Amendment's vision for decentralised urban governance has been hindered by persistent fiscal dependency of Urban Local Bodies and the lack of functional autonomy in managing critical urban services.
 
 Q3. (15 Marks | 250 words)
-Discuss how the interwoven challenges of social exclusion based on caste and tribal identity continue to impede human capital formation and economic mobility, requiring multi-pronged interventions across social, economic, and administrative spheres for genuine inclusive development. Provide suitable examples.
+Discuss the multi-faceted challenges presented by the accelerating rural-urban migration in India, analysing its socio-economic strain on existing urban infrastructure, environmental burden of waste management, and political implications for effective municipal governance.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
+GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how Dr. B.R. Ambedkar's distinction between constitutional morality and social morality is crucial for civil servants navigating complex societal issues, especially when traditional norms and community practices conflict with fundamental rights and principles of justice.
+Explain the significance of Kant's categorical imperative in guiding a civil servant's decisions, particularly when faced with policy choices that may involve conflicting interests of different community groups and the pursuit of universal justice.
 
 Q5. (10 Marks | 150 words)
-In what ways can the Gandhian concept of 'Sarvodaya' guide a public administrator in formulating welfare policies, ensuring equitable distribution of resources and genuine empowerment rather than mere transactional service delivery? Illustrate with contemporary administrative challenges.
+How should a civil servant balance the principles of utilitarianism – aiming for the 'greatest good for the greatest number' – with the imperative to protect individual rights and ensure social equity, especially in decisions concerning public resource allocation?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Anjali Sharma, a diligent and upright District Magistrate of Kalinganagar district, is known for her impeccable record in public service. Her district is grappling with rapid urbanization, necessitating significant infrastructure upgrades. Her current major responsibility involves overseeing the environmental impact assessment and granting final clearances for a crucial multi-crore highway bypass project, designed to alleviate severe traffic congestion and boost regional connectivity.
+Rakesh Kumar, a dedicated Superintendent of Police, is posted in Saharanpur, a district known for its diverse population and history of sporadic communal tensions. Recent weeks have seen escalating rhetoric and minor skirmishes following a local festival, putting the district administration on high alert for maintaining peace and order.
 
-A challenging situation arises when it becomes known that 'EcoBuild Corp', a leading construction firm owned by her elder brother, Rajesh Sharma, has emerged as the frontrunner for securing the bypass project contract. This project falls directly under Anjali's jurisdictional purview for various local permits and clearances. Her family exerts subtle pressure to expedite the process, while a local environmental activist group alleges potential conflict of interest and threatens public protests if due process is compromised.
+As tensions simmer, a significant incident of stone-pelting occurs between two communities. A powerful local MLA, with considerable political clout, directly contacts Rakesh, demanding immediate arrests of individuals exclusively from one community, irrespective of evidence, to send a 'strong message'. Simultaneously, his immediate superior, the District Magistrate, subtly advises him to consider 'political sensitivities' and avoid actions that might 'further complicate matters' with the ruling party, implying a need for compliance with the MLA's wishes.
 
-Her decision will significantly impact the district's development trajectory, the reputation of her office, the environmental well-being of the region, the financial interests of her family, and public trust in administration. Both acting directly or recusing herself carries weighty professional and personal consequences.
+Rakesh's decision will directly impact the lives of innocent citizens, the credibility of the police force, the fragile peace in the district, and his own professional integrity. Both immediate compliance and strict adherence to law carry significant, potentially volatile, consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rakesh Kumar? Evaluate each option with its merits and and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
