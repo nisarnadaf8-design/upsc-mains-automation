@@ -1,36 +1,35 @@
-Date: 04 Jul 2026
+Date: 05 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
+GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the extent to which India's Smart Cities Mission has successfully moved beyond technological upgrades to foster genuinely inclusive urban planning practices that address the challenges of informal settlements and vulnerable populations.
+Analyse how globalisation, despite concerns of cultural homogenisation, has paradoxically fostered the emergence of hybrid cultural forms and the reassertion of local identities in contemporary India.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the 74th Constitutional Amendment's vision for decentralised urban governance has been hindered by persistent fiscal dependency of Urban Local Bodies and the lack of functional autonomy in managing critical urban services.
+Critically examine how the expansion of the gig economy in India, propelled by globalisation, presents both economic opportunities and significant challenges to established concepts of labour rights and social security.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted challenges presented by the accelerating rural-urban migration in India, analysing its socio-economic strain on existing urban infrastructure, environmental burden of waste management, and political implications for effective municipal governance.
+Discuss how globalisation has presented a dual narrative for women in India, simultaneously facilitating avenues for empowerment through economic participation and exposure to new ideas, while also exposing them to new forms of exploitation and exacerbating existing social vulnerabilities. Provide suitable examples.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
+GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of Kant's categorical imperative in guiding a civil servant's decisions, particularly when faced with policy choices that may involve conflicting interests of different community groups and the pursuit of universal justice.
+Explain the ethical imperative of transparency and accountability that underpins the Right to Information (RTI) Act, and how its effective implementation strengthens democratic governance.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant balance the principles of utilitarianism – aiming for the 'greatest good for the greatest number' – with the imperative to protect individual rights and ensure social equity, especially in decisions concerning public resource allocation?
+What do you understand by 'conflict of interest' in public administration? How can a civil servant proactively identify and ethically manage situations where personal loyalties or private interests might clash with their public duty?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Riya Sharma, a young and committed District Development Officer in Palamau district, Jharkhand, is overseeing the implementation of a flagship central government welfare scheme, 'Gram Uday Yojana', aimed at improving rural livelihoods through skill development and micro-enterprise support. The scheme is in its crucial second year, and Riya is responsible for compiling the annual impact report based on ground-level data collection from various blocks.
 
-Rakesh Kumar, a dedicated Superintendent of Police, is posted in Saharanpur, a district known for its diverse population and history of sporadic communal tensions. Recent weeks have seen escalating rhetoric and minor skirmishes following a local festival, putting the district administration on high alert for maintaining peace and order.
+As the deadline for the report approaches, Riya's immediate superior, the District Collector, along with a prominent local MLA, strongly suggests that the beneficiary numbers and impact metrics be 'adjusted' upwards to show greater success, citing pressure from state headquarters and the upcoming elections. They imply that failure to meet inflated targets could jeopardise future funding for the district and Riya's own career progression, while highlighting the importance of 'teamwork' and 'administrative flexibility'.
 
-As tensions simmer, a significant incident of stone-pelting occurs between two communities. A powerful local MLA, with considerable political clout, directly contacts Rakesh, demanding immediate arrests of individuals exclusively from one community, irrespective of evidence, to send a 'strong message'. Simultaneously, his immediate superior, the District Magistrate, subtly advises him to consider 'political sensitivities' and avoid actions that might 'further complicate matters' with the ruling party, implying a need for compliance with the MLA's wishes.
-
-Rakesh's decision will directly impact the lives of innocent citizens, the credibility of the police force, the fragile peace in the district, and his own professional integrity. Both immediate compliance and strict adherence to law carry significant, potentially volatile, consequences.
+Riya knows that manipulating the data would present a misleading picture, depriving genuine beneficiaries of necessary support and misallocating public funds. Conversely, reporting the accurate, less impressive data could lead to political backlash, potential transfer to a less desirable posting, and strain her professional relationships within the district administration, potentially affecting other ongoing projects. The real impact on the ground, the public trust in governance, and the efficacy of welfare policies are at stake.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rakesh Kumar? Evaluate each option with its merits and and demerits. (100 words)
+(b) What are the options available to Riya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
