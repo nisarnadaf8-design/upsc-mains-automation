@@ -1,35 +1,43 @@
-Date: 05 Jul 2026
+Date: 06 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
+GS-1 SOCIETY: Social Movements and Civil Society in India
 ========================================
 
 Q1. (10 Marks | 150 words)
-Analyse how globalisation, despite concerns of cultural homogenisation, has paradoxically fostered the emergence of hybrid cultural forms and the reassertion of local identities in contemporary India.
+Examine the evolving role of civil society organizations in navigating the complexities of governance in India, particularly concerning public accountability in the digital age. Discuss the challenges they face in maintaining their autonomy while collaborating with state agencies.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the expansion of the gig economy in India, propelled by globalisation, presents both economic opportunities and significant challenges to established concepts of labour rights and social security.
+How have contemporary grassroots movements, driven by issues like environmental justice and gender equity, reshaped the discourse on development paradigms in India? Critically evaluate their effectiveness in influencing policy changes and fostering social inclusion.
 
 Q3. (15 Marks | 250 words)
-Discuss how globalisation has presented a dual narrative for women in India, simultaneously facilitating avenues for empowerment through economic participation and exposure to new ideas, while also exposing them to new forms of exploitation and exacerbating existing social vulnerabilities. Provide suitable examples.
+Critically analyse the persistent challenges of left-wing extremism in India, going beyond its security implications to encompass its deep-rooted socio-economic, political, and developmental dimensions. Discuss how a multi-pronged strategy integrating governance reforms and community participation can address the structural grievances fueling such movements.
 
 ========================================
-GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
+GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the ethical imperative of transparency and accountability that underpins the Right to Information (RTI) Act, and how its effective implementation strengthens democratic governance.
+Explain the conceptual distinction between 'actual' and 'perceived' conflict of interest in public administration. How does an effective mechanism for managing perceived conflicts contribute to strengthening public trust and upholding the integrity of the civil services?
 
 Q5. (10 Marks | 150 words)
-What do you understand by 'conflict of interest' in public administration? How can a civil servant proactively identify and ethically manage situations where personal loyalties or private interests might clash with their public duty?
+Examine the ethical dilemma faced by a public servant who witnesses systemic corruption within their department, balancing their duty to expose wrongdoing against concerns for personal safety and professional loyalty. Discuss the institutional mechanisms and personal courage required to act as an effective whistleblower in such situations.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Riya Sharma, a young and committed District Development Officer in Palamau district, Jharkhand, is overseeing the implementation of a flagship central government welfare scheme, 'Gram Uday Yojana', aimed at improving rural livelihoods through skill development and micro-enterprise support. The scheme is in its crucial second year, and Riya is responsible for compiling the annual impact report based on ground-level data collection from various blocks.
 
-As the deadline for the report approaches, Riya's immediate superior, the District Collector, along with a prominent local MLA, strongly suggests that the beneficiary numbers and impact metrics be 'adjusted' upwards to show greater success, citing pressure from state headquarters and the upcoming elections. They imply that failure to meet inflated targets could jeopardise future funding for the district and Riya's own career progression, while highlighting the importance of 'teamwork' and 'administrative flexibility'.
+Akshat Sharma, a newly posted Sub-Divisional Magistrate in the Mandla district, Madhya Pradesh, is known for his dedication and commitment to transparent public service. His current charge involves overseeing land acquisition processes for a proposed industrial corridor project, crucial for the region's economic development and attracting significant private investment.
 
-Riya knows that manipulating the data would present a misleading picture, depriving genuine beneficiaries of necessary support and misallocating public funds. Conversely, reporting the accurate, less impressive data could lead to political backlash, potential transfer to a less desirable posting, and strain her professional relationships within the district administration, potentially affecting other ongoing projects. The real impact on the ground, the public trust in governance, and the efficacy of welfare policies are at stake.
+During his detailed review, Akshat uncovers glaring discrepancies in land valuation reports and instances where prime land is being subtly diverted to a large private builder at undervalued rates, causing significant loss to marginal farmers. His immediate superior, the District Collector, subtly advises him to expedite clearances without "unnecessary scrutiny." An influential local political leader also pressures Akshat for the project's swift progression, hinting at severe "long-term career implications" if he obstructs it.
+
+The affected stakeholders include hundreds of marginal farmers facing displacement, the private builder poised for undue profit, and the public trust in fair governance. Akshat's decision, whether to act on the irregularities or comply with pressure, will have profound consequences for his career, the affected community, and the ethical fabric of the administration.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Riya Sharma? Evaluate each option with its merits and demerits. (100 words)
+The ethical issues are conflict of interest (private gain vs. public good), injustice to marginal farmers, lack of transparency, administrative corruption, and erosion of public trust. Akshat faces a severe dilemma between upholding integrity, fulfilling public duty, and succumbing to political and hierarchical pressure.
+
+(b) What are the options available to Akshat Sharma? Evaluate each option with its merits and demerits. (100 words)
+Akshat's options include: (1) Comply with pressure: Merits - career safety, project continuity. Demerits - sacrifices integrity, injustice to farmers, erodes public trust. (2) Report internally: Merits - follows due process, attempts resolution within system. Demerits - risks suppression, retaliation, slow action. (3) Whistleblow externally: Merits - public exposure, justice for affected. Demerits - high personal risk, career jeopardy, institutional damage. (4) Meticulously document evidence and seek legal counsel: Merits - strengthens position, protects self. Demerits - time-consuming, no guaranteed success.
+
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+I recommend Akshat Sharma meticulously document all discrepancies and formally raise concerns in writing to his immediate superior, citing specific rules and acquisition guidelines. If unaddressed, he should escalate the matter through proper hierarchical channels, like the Chief Secretary, concurrently seeking advice from trusted ethical seniors or legal counsel. This approach balances duty with self-preservation, utilizing institutional mechanisms before considering external options.
+
+To handle pressures, he must remain professional, objective, and rely strictly on facts and evidence. He should avoid direct confrontation, instead presenting reasoned arguments for ethical governance. He must prepare for potential backlash, including transfers or isolation, by ensuring all his actions are legally sound and morally defensible. His primary allegiance must remain with constitutional values and public interest, using available whistleblower protection mechanisms if escalation becomes unavoidable.
