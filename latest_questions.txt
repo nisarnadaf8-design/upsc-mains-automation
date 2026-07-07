@@ -1,43 +1,36 @@
-Date: 06 Jul 2026
+Date: 07 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Social Movements and Civil Society in India
+GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving role of civil society organizations in navigating the complexities of governance in India, particularly concerning public accountability in the digital age. Discuss the challenges they face in maintaining their autonomy while collaborating with state agencies.
+Examine how effectively the National Education Policy 2020's emphasis on vocational education and skill development addresses the twin challenges of educational quality and equitable access for students from socio-economically disadvantaged backgrounds by 2026.
 
 Q2. (10 Marks | 150 words)
-How have contemporary grassroots movements, driven by issues like environmental justice and gender equity, reshaped the discourse on development paradigms in India? Critically evaluate their effectiveness in influencing policy changes and fostering social inclusion.
+Critically analyse the role of persistent digital disparities, especially in rural and remote areas, in exacerbating dropout rates among adolescent girls and Scheduled Tribe children, thereby hindering educational equity post-NEP implementation.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the persistent challenges of left-wing extremism in India, going beyond its security implications to encompass its deep-rooted socio-economic, political, and developmental dimensions. Discuss how a multi-pronged strategy integrating governance reforms and community participation can address the structural grievances fueling such movements.
+Discuss how the increasing commercialisation of higher education in India impacts social mobility and perpetuates intergenerational poverty cycles. Critically analyse its economic, social, and policy implications for a developing nation.
 
 ========================================
-GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
+GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the conceptual distinction between 'actual' and 'perceived' conflict of interest in public administration. How does an effective mechanism for managing perceived conflicts contribute to strengthening public trust and upholding the integrity of the civil services?
+Explain how a culture of 'institutional tolerance' for minor infractions can gradually erode individual ethical conviction, leading even otherwise honest public servants to engage in systemic corruption. What role does moral disengagement play in this process?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemma faced by a public servant who witnesses systemic corruption within their department, balancing their duty to expose wrongdoing against concerns for personal safety and professional loyalty. Discuss the institutional mechanisms and personal courage required to act as an effective whistleblower in such situations.
+Examine the ethical challenges faced by an administration striving to leverage advanced data analytics and Artificial Intelligence in public service delivery to reduce corruption. How does ensuring data privacy and preventing algorithmic bias become critical in maintaining public trust?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Akshat Sharma, a newly posted Sub-Divisional Magistrate in the Mandla district, Madhya Pradesh, is known for his dedication and commitment to transparent public service. His current charge involves overseeing land acquisition processes for a proposed industrial corridor project, crucial for the region's economic development and attracting significant private investment.
+Ms. Anjali Sharma, a diligent District Collector, is posted in the flood-ravaged district of Raigarh, known for its challenging terrain and frequent natural disasters. Following unprecedented monsoon floods in July 2026 that displaced thousands and caused widespread destruction, the central and state governments released substantial relief funds. As the officer in-charge of the disaster relief and rehabilitation operations, Ms. Sharma is directly responsible for the transparent and timely disbursement of these critical funds to the affected population.
 
-During his detailed review, Akshat uncovers glaring discrepancies in land valuation reports and instances where prime land is being subtly diverted to a large private builder at undervalued rates, causing significant loss to marginal farmers. His immediate superior, the District Collector, subtly advises him to expedite clearances without "unnecessary scrutiny." An influential local political leader also pressures Akshat for the project's swift progression, hinting at severe "long-term career implications" if he obstructs it.
+During a high-level review meeting, the Chief Secretary subtly conveyed expectations to Ms. Sharma about contributing a portion of the relief funds towards an "urgent state infrastructure project" championed by the ruling party, hinting at career implications for non-compliance. Concurrently, the influential local MLA, Mr. Rajeev Mehta, openly pressed her to approve inflated tenders from specific contractors for temporary shelters, threatening public protests and her transfer if his demands were not met. Ms. Sharma also senses an unstated pressure from some subordinates, who refer to "flexible allocation practices" during previous crises.
 
-The affected stakeholders include hundreds of marginal farmers facing displacement, the private builder poised for undue profit, and the public trust in fair governance. Akshat's decision, whether to act on the irregularities or comply with pressure, will have profound consequences for his career, the affected community, and the ethical fabric of the administration.
+Ms. Sharma is acutely aware that any diversion of funds would directly deprive vulnerable flood victims of essential aid, intensifying their suffering and potentially leading to starvation or further loss of life. Her decision will significantly impact the trust citizens place in governance, the moral standing of her administration, and her personal integrity, with both compliance and defiance having severe ramifications.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-The ethical issues are conflict of interest (private gain vs. public good), injustice to marginal farmers, lack of transparency, administrative corruption, and erosion of public trust. Akshat faces a severe dilemma between upholding integrity, fulfilling public duty, and succumbing to political and hierarchical pressure.
-
-(b) What are the options available to Akshat Sharma? Evaluate each option with its merits and demerits. (100 words)
-Akshat's options include: (1) Comply with pressure: Merits - career safety, project continuity. Demerits - sacrifices integrity, injustice to farmers, erodes public trust. (2) Report internally: Merits - follows due process, attempts resolution within system. Demerits - risks suppression, retaliation, slow action. (3) Whistleblow externally: Merits - public exposure, justice for affected. Demerits - high personal risk, career jeopardy, institutional damage. (4) Meticulously document evidence and seek legal counsel: Merits - strengthens position, protects self. Demerits - time-consuming, no guaranteed success.
-
+(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
-I recommend Akshat Sharma meticulously document all discrepancies and formally raise concerns in writing to his immediate superior, citing specific rules and acquisition guidelines. If unaddressed, he should escalate the matter through proper hierarchical channels, like the Chief Secretary, concurrently seeking advice from trusted ethical seniors or legal counsel. This approach balances duty with self-preservation, utilizing institutional mechanisms before considering external options.
-
-To handle pressures, he must remain professional, objective, and rely strictly on facts and evidence. He should avoid direct confrontation, instead presenting reasoned arguments for ethical governance. He must prepare for potential backlash, including transfers or isolation, by ensuring all his actions are legally sound and morally defensible. His primary allegiance must remain with constitutional values and public interest, using available whistleblower protection mechanisms if escalation becomes unavoidable.
