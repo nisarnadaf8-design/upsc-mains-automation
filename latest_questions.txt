@@ -1,36 +1,36 @@
-Date: 07 Jul 2026
+Date: 08 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
+GS-1 SOCIETY: Health: Public Health System and Social Determinants
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how effectively the National Education Policy 2020's emphasis on vocational education and skill development addresses the twin challenges of educational quality and equitable access for students from socio-economically disadvantaged backgrounds by 2026.
+Examine how the intersectionality of caste, gender, and economic status perpetuates intergenerational health inequities in India, despite advancements in public health infrastructure and programmatic interventions.
 
 Q2. (10 Marks | 150 words)
-Critically analyse the role of persistent digital disparities, especially in rural and remote areas, in exacerbating dropout rates among adolescent girls and Scheduled Tribe children, thereby hindering educational equity post-NEP implementation.
+Critically examine the extent to which India’s current public health system, particularly post-Ayushman Bharat, has integrated mental health services and addressed the persistent urban-rural disparity in access to psychological well-being support.
 
 Q3. (15 Marks | 250 words)
-Discuss how the increasing commercialisation of higher education in India impacts social mobility and perpetuates intergenerational poverty cycles. Critically analyse its economic, social, and policy implications for a developing nation.
+Discuss the multifaceted challenges India faces in eradicating persistent malnutrition, particularly stunting and anaemia among women and children. Critically analyse how socio-economic disparities, food security policies, and gendered access to resources contribute to these outcomes, suggesting comprehensive policy shifts required by 2030.
 
 ========================================
-GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
+GS-4 ETHICS: Corporate Governance and Business Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how a culture of 'institutional tolerance' for minor infractions can gradually erode individual ethical conviction, leading even otherwise honest public servants to engage in systemic corruption. What role does moral disengagement play in this process?
+What do you understand by the concept of 'ethical corporate citizenship'? Explain its significance for regulatory bodies and civil servants in fostering a culture of accountability beyond mere legal compliance in India’s corporate sector.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical challenges faced by an administration striving to leverage advanced data analytics and Artificial Intelligence in public service delivery to reduce corruption. How does ensuring data privacy and preventing algorithmic bias become critical in maintaining public trust?
+Examine the ethical challenges a civil servant faces when balancing the imperatives of promoting industrial growth with the need to uphold strict environmental standards, particularly concerning nascent technologies and their unforeseen ecological impacts.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Ms. Anjali Sharma, a diligent District Collector, is posted in the flood-ravaged district of Raigarh, known for its challenging terrain and frequent natural disasters. Following unprecedented monsoon floods in July 2026 that displaced thousands and caused widespread destruction, the central and state governments released substantial relief funds. As the officer in-charge of the disaster relief and rehabilitation operations, Ms. Sharma is directly responsible for the transparent and timely disbursement of these critical funds to the affected population.
+Rajesh Kumar, a diligent officer known for his integrity, recently took charge as the District Environment Officer in a rapidly developing industrial hub of a coastal state. His department, the State Pollution Control Board, is crucial for monitoring industrial compliance. A new, state-of-the-art textile processing unit, GreenWeave Textiles, has just commenced operations, heralded as a major foreign investment promising significant local employment.
 
-During a high-level review meeting, the Chief Secretary subtly conveyed expectations to Ms. Sharma about contributing a portion of the relief funds towards an "urgent state infrastructure project" championed by the ruling party, hinting at career implications for non-compliance. Concurrently, the influential local MLA, Mr. Rajeev Mehta, openly pressed her to approve inflated tenders from specific contractors for temporary shelters, threatening public protests and her transfer if his demands were not met. Ms. Sharma also senses an unstated pressure from some subordinates, who refer to "flexible allocation practices" during previous crises.
+During a routine inspection, Rajesh’s team discovered clear evidence of GreenWeave Textiles bypassing its effluent treatment plant, discharging untreated dyes and chemicals into a nearby river, a lifeline for several downstream villages. As Rajesh prepared to issue a show-cause notice, he received a call from his Chief Engineer, suggesting a "pragmatic approach" given the unit's economic importance and political backing. Shortly after, the local MLA personally intervened, highlighting the unit's employment generation and the negative impact of any immediate punitive action on investor sentiment. A representative from the industry even subtly offered "expedited processing" for future approvals and "personal consideration" for Rajesh.
 
-Ms. Sharma is acutely aware that any diversion of funds would directly deprive vulnerable flood victims of essential aid, intensifying their suffering and potentially leading to starvation or further loss of life. Her decision will significantly impact the trust citizens place in governance, the moral standing of her administration, and her personal integrity, with both compliance and defiance having severe ramifications.
+Rajesh’s decision will directly impact the health and livelihoods of the downstream communities, the ecological balance of the river, and the long-term credibility of the State Pollution Control Board. It also carries significant implications for GreenWeave Textiles' operations, local employment, and future industrial investments in the region, while also shaping Rajesh’s own professional integrity and career trajectory.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rajesh Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
