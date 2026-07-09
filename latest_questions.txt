@@ -1,36 +1,35 @@
-Date: 08 Jul 2026
+Date: 09 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Health: Public Health System and Social Determinants
+GS-1 SOCIETY: Tribal Communities: Issues, Rights and Constitutional Safeguards
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the intersectionality of caste, gender, and economic status perpetuates intergenerational health inequities in India, despite advancements in public health infrastructure and programmatic interventions.
+Examine the extent to which the constitutional safeguards for tribal communities, particularly under the Fifth and Sixth Schedules, have effectively protected their traditional rights and cultural autonomy amidst rapid economic development and resource extraction in the 21st century. Discuss the inherent tension between developmental imperatives and the spirit of self-governance in scheduled areas.
 
 Q2. (10 Marks | 150 words)
-Critically examine the extent to which India’s current public health system, particularly post-Ayushman Bharat, has integrated mental health services and addressed the persistent urban-rural disparity in access to psychological well-being support.
+Critically examine how the implementation of the Forest Rights Act (FRA), 2006, has influenced not just the land tenure security but also the assertion of cultural identity and the traditional governance structures of tribal communities in areas facing ecological degradation. What challenges persist in realizing its full potential for self-determination and sustainable resource management?
 
 Q3. (15 Marks | 250 words)
-Discuss the multifaceted challenges India faces in eradicating persistent malnutrition, particularly stunting and anaemia among women and children. Critically analyse how socio-economic disparities, food security policies, and gendered access to resources contribute to these outcomes, suggesting comprehensive policy shifts required by 2030.
+Discuss how large-scale displacement of tribal populations due to infrastructure projects and conservation efforts has exacerbated grievances, contributing to socio-economic marginalization and, in some regions, fueling movements challenging state authority. Critically analyse the multi-faceted challenges in balancing development, security, and the constitutional rights of these communities, offering a comprehensive strategy that prioritizes equitable rehabilitation and empowerment while addressing underlying causes of dissent.
 
 ========================================
-GS-4 ETHICS: Corporate Governance and Business Ethics
+GS-4 ETHICS: Ethics in Public and Private Relationships
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the concept of 'ethical corporate citizenship'? Explain its significance for regulatory bodies and civil servants in fostering a culture of accountability beyond mere legal compliance in India’s corporate sector.
+What do you understand by the 'perception of conflict of interest' in public service, especially when personal friendships and loyalties intersect with administrative decision-making? Explain how maintaining strict impartiality, even when no direct personal benefit is derived, is crucial for upholding public trust and institutional integrity in a democratic setup.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical challenges a civil servant faces when balancing the imperatives of promoting industrial growth with the need to uphold strict environmental standards, particularly concerning nascent technologies and their unforeseen ecological impacts.
+How should a civil servant navigate situations where strong family expectations, such as providing employment opportunities to relatives or accepting traditional gifts that exceed prescribed limits, potentially conflict with the ethical principles of meritocracy, transparency, and integrity in public office? Examine the ethical dilemmas inherent in balancing personal relationships with professional duty.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Arjun Singh, an Additional Secretary in the Ministry of Finance, was known for his diligent work ethic and commitment to financial propriety. Stationed in a crucial department overseeing infrastructure project funding, he recently uncovered significant irregularities amounting to several crores in a public-private partnership project, involving inflated invoices and diverted funds that had been approved in the previous financial year.
 
-Rajesh Kumar, a diligent officer known for his integrity, recently took charge as the District Environment Officer in a rapidly developing industrial hub of a coastal state. His department, the State Pollution Control Board, is crucial for monitoring industrial compliance. A new, state-of-the-art textile processing unit, GreenWeave Textiles, has just commenced operations, heralded as a major foreign investment promising significant local employment.
+Upon reporting this financial fraud internally to his immediate superior and initiating a preliminary inquiry, Arjun found himself facing severe professional backlash. His superior subtly suggested dropping the matter, citing potential political ramifications and the 'reputation' of a senior political leader whose family business had indirect links to the implicated firm. Soon after, Arjun received an anonymous threat, hinting at fabricated charges against his own career if he pursued the investigation further, creating immense pressure to retract his initial findings.
 
-During a routine inspection, Rajesh’s team discovered clear evidence of GreenWeave Textiles bypassing its effluent treatment plant, discharging untreated dyes and chemicals into a nearby river, a lifeline for several downstream villages. As Rajesh prepared to issue a show-cause notice, he received a call from his Chief Engineer, suggesting a "pragmatic approach" given the unit's economic importance and political backing. Shortly after, the local MLA personally intervened, highlighting the unit's employment generation and the negative impact of any immediate punitive action on investor sentiment. A representative from the industry even subtly offered "expedited processing" for future approvals and "personal consideration" for Rajesh.
-
-Rajesh’s decision will directly impact the health and livelihoods of the downstream communities, the ecological balance of the river, and the long-term credibility of the State Pollution Control Board. It also carries significant implications for GreenWeave Textiles' operations, local employment, and future industrial investments in the region, while also shaping Rajesh’s own professional integrity and career trajectory.
+His decision affects not only his personal safety and career but also the integrity of the Ministry, the reputation of the government, public funds, and the morale of other honest officers. Both proceeding with the investigation and retracting have profound consequences for accountability and trust in public administration.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rajesh Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Arjun Singh? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
