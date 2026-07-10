@@ -1,35 +1,36 @@
-Date: 09 Jul 2026
+Date: 10 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Tribal Communities: Issues, Rights and Constitutional Safeguards
+GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the extent to which the constitutional safeguards for tribal communities, particularly under the Fifth and Sixth Schedules, have effectively protected their traditional rights and cultural autonomy amidst rapid economic development and resource extraction in the 21st century. Discuss the inherent tension between developmental imperatives and the spirit of self-governance in scheduled areas.
+Examine the evolving nature of secularism in India, moving beyond mere separation of state and religion to a more active role in ensuring equitable social harmony. Discuss its implications for minority rights in a diverse society.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the implementation of the Forest Rights Act (FRA), 2006, has influenced not just the land tenure security but also the assertion of cultural identity and the traditional governance structures of tribal communities in areas facing ecological degradation. What challenges persist in realizing its full potential for self-determination and sustainable resource management?
+Critically examine how the absence of a universally accepted 'minority' definition impacts policy formulation and the effective implementation of protective measures for various religious and linguistic groups in India. What are the associated challenges in safeguarding their distinct identities?
 
 Q3. (15 Marks | 250 words)
-Discuss how large-scale displacement of tribal populations due to infrastructure projects and conservation efforts has exacerbated grievances, contributing to socio-economic marginalization and, in some regions, fueling movements challenging state authority. Critically analyse the multi-faceted challenges in balancing development, security, and the constitutional rights of these communities, offering a comprehensive strategy that prioritizes equitable rehabilitation and empowerment while addressing underlying causes of dissent.
+Critically analyse the multi-faceted challenges faced by the Indian state in fostering genuine social harmony amidst increasing assertions of distinct identities and socio-political polarization. Discuss the legal, administrative, and educational strategies that can be employed to strengthen national cohesion while respecting cultural diversity.
 
 ========================================
-GS-4 ETHICS: Ethics in Public and Private Relationships
+GS-4 ETHICS: Social Influence, Persuasion and Moral Development
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the 'perception of conflict of interest' in public service, especially when personal friendships and loyalties intersect with administrative decision-making? Explain how maintaining strict impartiality, even when no direct personal benefit is derived, is crucial for upholding public trust and institutional integrity in a democratic setup.
+Explain the significance of developing post-conventional moral reasoning among civil servants, as outlined by Kohlberg, for fostering ethical governance and resisting undue social influence. How can institutional mechanisms encourage this higher stage of moral development?
 
 Q5. (10 Marks | 150 words)
-How should a civil servant navigate situations where strong family expectations, such as providing employment opportunities to relatives or accepting traditional gifts that exceed prescribed limits, potentially conflict with the ethical principles of meritocracy, transparency, and integrity in public office? Examine the ethical dilemmas inherent in balancing personal relationships with professional duty.
+Examine the ethical boundaries between legitimate persuasion and manipulative tactics employed by administrators to secure public compliance for policy implementation. How can a civil servant ensure transparency and uphold public trust while striving for effective governance outcomes?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Arjun Singh, an Additional Secretary in the Ministry of Finance, was known for his diligent work ethic and commitment to financial propriety. Stationed in a crucial department overseeing infrastructure project funding, he recently uncovered significant irregularities amounting to several crores in a public-private partnership project, involving inflated invoices and diverted funds that had been approved in the previous financial year.
 
-Upon reporting this financial fraud internally to his immediate superior and initiating a preliminary inquiry, Arjun found himself facing severe professional backlash. His superior subtly suggested dropping the matter, citing potential political ramifications and the 'reputation' of a senior political leader whose family business had indirect links to the implicated firm. Soon after, Arjun received an anonymous threat, hinting at fabricated charges against his own career if he pursued the investigation further, creating immense pressure to retract his initial findings.
+Ms. Anjali Sharma, District Magistrate of the remote tribal district of Garhwalpur, is overseeing the acquisition of land for a crucial segment of the proposed National High-Speed Rail Corridor. This project is touted as a game-changer for regional connectivity and economic development, with significant national implications. The identified route passes through several villages predominantly inhabited by the indigenous Bhil community, recognized for their unique cultural heritage and traditional forest-dwelling lifestyle.
 
-His decision affects not only his personal safety and career but also the integrity of the Ministry, the reputation of the government, public funds, and the morale of other honest officers. Both proceeding with the investigation and retracting have profound consequences for accountability and trust in public administration.
+While the project promises economic benefits, the Bhil community leaders have staunchly opposed it, citing displacement, loss of ancestral land, disruption of their spiritual sites, and irreversible damage to their forest-based livelihoods. They argue that the compensation package offered is inadequate and fails to account for their cultural and ecological losses. Ms. Sharma's superior, the Divisional Commissioner, is pressuring her to expedite land acquisition, emphasizing the project's strategic national importance and strict deadlines, while a powerful local MLA is mobilizing the community, accusing the administration of bulldozing tribal rights.
+
+The decision Ms. Sharma takes will directly impact the lives and cultural continuity of thousands of Bhil tribals, the economic trajectory of the entire region, and the national prestige associated with the project's timely completion. Failure to act decisively could stall a vital national project, while forceful acquisition risks serious social unrest, legal challenges, and a deep erosion of trust between the state and its most vulnerable citizens.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Arjun Singh? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
