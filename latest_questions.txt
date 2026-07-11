@@ -1,36 +1,35 @@
-Date: 10 Jul 2026
+Date: 11 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
+GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving nature of secularism in India, moving beyond mere separation of state and religion to a more active role in ensuring equitable social harmony. Discuss its implications for minority rights in a diverse society.
+Examine how the informalization of the economy and the intricate supply chains often render child labour invisible, making its eradication a persistent challenge despite India's robust legal architecture.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the absence of a universally accepted 'minority' definition impacts policy formulation and the effective implementation of protective measures for various religious and linguistic groups in India. What are the associated challenges in safeguarding their distinct identities?
+Critically examine how the vulnerabilities induced by climate change and forced migration patterns are creating new forms of economic coercion, blurring the lines of traditional bonded labour and complicating rehabilitation efforts in contemporary India.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multi-faceted challenges faced by the Indian state in fostering genuine social harmony amidst increasing assertions of distinct identities and socio-political polarization. Discuss the legal, administrative, and educational strategies that can be employed to strengthen national cohesion while respecting cultural diversity.
+Discuss the multi-dimensional challenges in combating human trafficking, especially concerning its increasing digital footprints and transnational organized networks. Analyse how India's response needs to integrate robust legal provisions, international collaboration, and socio-economic empowerment to protect vulnerable populations.
 
 ========================================
-GS-4 ETHICS: Social Influence, Persuasion and Moral Development
+GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of developing post-conventional moral reasoning among civil servants, as outlined by Kohlberg, for fostering ethical governance and resisting undue social influence. How can institutional mechanisms encourage this higher stage of moral development?
+Explain the ethical significance of cultivating both intellectual humility and proactive empathy in a civil servant for effective policy formulation and responsive public service delivery, particularly in addressing complex societal challenges.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical boundaries between legitimate persuasion and manipulative tactics employed by administrators to secure public compliance for policy implementation. How can a civil servant ensure transparency and uphold public trust while striving for effective governance outcomes?
+How can a civil servant draw upon the narratives of ethical leadership and moral dilemmas presented in Indian classical literature and historical accounts to navigate contemporary pressures and uphold public service values?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Anjali Sharma, a diligent District Revenue Officer (DRO) in Mandla, Madhya Pradesh, has built a reputation for her integrity and adherence to rules since her recent posting. Her department is crucial for issuing various domicile, income, and caste certificates, which are often prerequisites for accessing government welfare schemes and electoral rolls.
 
-Ms. Anjali Sharma, District Magistrate of the remote tribal district of Garhwalpur, is overseeing the acquisition of land for a crucial segment of the proposed National High-Speed Rail Corridor. This project is touted as a game-changer for regional connectivity and economic development, with significant national implications. The identified route passes through several villages predominantly inhabited by the indigenous Bhil community, recognized for their unique cultural heritage and traditional forest-dwelling lifestyle.
+With state assembly elections approaching, the powerful local MLA, Mr. Rajendra Singh, from the ruling party, approaches Anjali. He requests her to expedite and even backdate numerous income and residence certificates for his party's supporters, subtly implying these are crucial for their eligibility in upcoming government schemes designed to boost electoral prospects. Simultaneously, her immediate superior, a senior IAS officer, informally advises her to "maintain pragmatic relations" with political representatives for smooth district administration, hinting at potential career hurdles if she antagonizes them.
 
-While the project promises economic benefits, the Bhil community leaders have staunchly opposed it, citing displacement, loss of ancestral land, disruption of their spiritual sites, and irreversible damage to their forest-based livelihoods. They argue that the compensation package offered is inadequate and fails to account for their cultural and ecological losses. Ms. Sharma's superior, the Divisional Commissioner, is pressuring her to expedite land acquisition, emphasizing the project's strategic national importance and strict deadlines, while a powerful local MLA is mobilizing the community, accusing the administration of bulldozing tribal rights.
-
-The decision Ms. Sharma takes will directly impact the lives and cultural continuity of thousands of Bhil tribals, the economic trajectory of the entire region, and the national prestige associated with the project's timely completion. Failure to act decisively could stall a vital national project, while forceful acquisition risks serious social unrest, legal challenges, and a deep erosion of trust between the state and its most vulnerable citizens.
+Anjali's decision will directly impact genuine beneficiaries, the fairness of electoral processes, public trust in the administration, her own professional integrity, and potentially the political stability of the region. Both compliance and refusal carry significant personal and systemic ramifications.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
