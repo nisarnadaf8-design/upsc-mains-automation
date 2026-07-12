@@ -1,35 +1,36 @@
-Date: 11 Jul 2026
+Date: 12 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
+GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the informalization of the economy and the intricate supply chains often render child labour invisible, making its eradication a persistent challenge despite India's robust legal architecture.
+Examine how the proliferation of digital platforms and virtual communities is reshaping the traditional understanding and formation of social capital in contemporary Indian society. Discuss its implications for civic engagement and local governance initiatives.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the vulnerabilities induced by climate change and forced migration patterns are creating new forms of economic coercion, blurring the lines of traditional bonded labour and complicating rehabilitation efforts in contemporary India.
+Critically examine the evolving role of Non-Governmental Organizations in policy advocacy and service delivery, particularly in light of enhanced regulatory frameworks. How do these dynamics impact the collaborative ecosystem between the state and citizens in addressing persistent developmental challenges?
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-dimensional challenges in combating human trafficking, especially concerning its increasing digital footprints and transnational organized networks. Analyse how India's response needs to integrate robust legal provisions, international collaboration, and socio-economic empowerment to protect vulnerable populations.
+Discuss the multi-faceted potential of indigenous community-based structures, such as Self-Help Groups and Gram Sabhas, along with the cooperative movement, in fostering inclusive rural development. Critically analyse their role in enhancing economic equity, promoting gender empowerment, and strengthening democratic decentralization, providing suitable contemporary examples from India.
 
 ========================================
-GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
+GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the ethical significance of cultivating both intellectual humility and proactive empathy in a civil servant for effective policy formulation and responsive public service delivery, particularly in addressing complex societal challenges.
+What do you understand by the ethical dilemma of particularism versus universalism in public policy formulation? Explain its significance for a civil servant tasked with recommending decisions that balance national interests with broader global ethical responsibilities.
 
 Q5. (10 Marks | 150 words)
-How can a civil servant draw upon the narratives of ethical leadership and moral dilemmas presented in Indian classical literature and historical accounts to navigate contemporary pressures and uphold public service values?
+Examine the ethical dimensions involved in India's pursuit of climate justice on the global stage, especially concerning historical responsibilities and equitable burden-sharing. How should a civil servant navigate the complexities of advocating for national developmental aspirations while upholding principles of intergenerational equity and global ecological sustainability?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Anjali Sharma, a diligent District Revenue Officer (DRO) in Mandla, Madhya Pradesh, has built a reputation for her integrity and adherence to rules since her recent posting. Her department is crucial for issuing various domicile, income, and caste certificates, which are often prerequisites for accessing government welfare schemes and electoral rolls.
 
-With state assembly elections approaching, the powerful local MLA, Mr. Rajendra Singh, from the ruling party, approaches Anjali. He requests her to expedite and even backdate numerous income and residence certificates for his party's supporters, subtly implying these are crucial for their eligibility in upcoming government schemes designed to boost electoral prospects. Simultaneously, her immediate superior, a senior IAS officer, informally advises her to "maintain pragmatic relations" with political representatives for smooth district administration, hinting at potential career hurdles if she antagonizes them.
+Ms. Anjali Sharma, District Project Director in the Rural Development Agency of a drought-prone district, is overseeing a major irrigation infrastructure project crucial for regional water security and agricultural productivity. The project has recently faced some local protests regarding land acquisition compensation, although the process was meticulously followed as per government guidelines.
 
-Anjali's decision will directly impact genuine beneficiaries, the fairness of electoral processes, public trust in the administration, her own professional integrity, and potentially the political stability of the region. Both compliance and refusal carry significant personal and systemic ramifications.
+A local activist and RTI applicant has filed a request demanding detailed project files, including strategic cost estimates, internal feasibility reports, and proposed contractor evaluation metrics. Ms. Sharma understands the public's right to information but is also aware that releasing specific, highly sensitive financial and strategic details could prematurely escalate land compensation demands, jeopardize ongoing negotiations, or even create security risks for potential contractors by revealing their detailed profiles. Her superior, the District Magistrate, has advised caution, citing the paramount 'public interest' in ensuring the project's timely and cost-effective completion. Simultaneously, a prominent local political leader has warned against revealing data that could be exploited by vested interests, while the RTI applicant threatens widespread public agitation if the information is withheld.
+
+Ms. Sharma recognizes that her decision will have far-reaching implications. Releasing the sensitive information could lead to significant project cost overruns, legal entanglements, and unwarranted delays, ultimately harming the very communities the project intends to serve. Conversely, withholding the information entirely could be perceived as a lack of transparency, erode public trust, and ignite further social unrest, potentially stalling the project altogether.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
