@@ -1,36 +1,36 @@
-Date: 12 Jul 2026
+Date: 13 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
+GS-1 SOCIETY: Media, Social Media and Their Role in Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the proliferation of digital platforms and virtual communities is reshaping the traditional understanding and formation of social capital in contemporary Indian society. Discuss its implications for civic engagement and local governance initiatives.
+Examine how the algorithm-driven content curation on social media platforms is reshaping traditional notions of journalistic objectivity and public trust in information dissemination.
 
 Q2. (10 Marks | 150 words)
-Critically examine the evolving role of Non-Governmental Organizations in policy advocacy and service delivery, particularly in light of enhanced regulatory frameworks. How do these dynamics impact the collaborative ecosystem between the state and citizens in addressing persistent developmental challenges?
+Beyond mere access, critically examine how the 'digital engagement gap' on social media platforms perpetuates existing socio-economic disparities and influences civic participation in a diverse society like India.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted potential of indigenous community-based structures, such as Self-Help Groups and Gram Sabhas, along with the cooperative movement, in fostering inclusive rural development. Critically analyse their role in enhancing economic equity, promoting gender empowerment, and strengthening democratic decentralization, providing suitable contemporary examples from India.
+Critically analyse the complex interplay between the imperative for platform accountability, the protection of free speech, and the proliferation of deepfakes and AI-generated misinformation, in the context of maintaining social cohesion and democratic governance in India. Discuss with suitable examples.
 
 ========================================
-GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
+GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the ethical dilemma of particularism versus universalism in public policy formulation? Explain its significance for a civil servant tasked with recommending decisions that balance national interests with broader global ethical responsibilities.
+What do you understand by 'ethical absolutism' versus 'situational ethics' in public administration? Explain how a civil servant can navigate the tension between these approaches while upholding the foundational values of integrity and impartiality under political pressure.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dimensions involved in India's pursuit of climate justice on the global stage, especially concerning historical responsibilities and equitable burden-sharing. How should a civil servant navigate the complexities of advocating for national developmental aspirations while upholding principles of intergenerational equity and global ecological sustainability?
+Examine the ethical considerations involved when a public policy, though aimed at long-term societal benefit, disproportionately impacts vulnerable sections in the short term. How can a civil servant ensure justice and empathy in its implementation while adhering to administrative directives?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Ms. Anjali Sharma, District Project Director in the Rural Development Agency of a drought-prone district, is overseeing a major irrigation infrastructure project crucial for regional water security and agricultural productivity. The project has recently faced some local protests regarding land acquisition compensation, although the process was meticulously followed as per government guidelines.
+IAS Officer Kavita Sharma, a dedicated Sub-Divisional Magistrate (SDM) in the Revenue Department, was recently posted to the industrially developing district of Haritpur. Known for her integrity and proactive approach, she initiated a comprehensive drive to ensure compliance with labor and environmental standards across local factories. During one such routine inspection, her team identified a large manufacturing unit, 'Prosperity Textiles', for a follow-up.
 
-A local activist and RTI applicant has filed a request demanding detailed project files, including strategic cost estimates, internal feasibility reports, and proposed contractor evaluation metrics. Ms. Sharma understands the public's right to information but is also aware that releasing specific, highly sensitive financial and strategic details could prematurely escalate land compensation demands, jeopardize ongoing negotiations, or even create security risks for potential contractors by revealing their detailed profiles. Her superior, the District Magistrate, has advised caution, citing the paramount 'public interest' in ensuring the project's timely and cost-effective completion. Simultaneously, a prominent local political leader has warned against revealing data that could be exploited by vested interests, while the RTI applicant threatens widespread public agitation if the information is withheld.
+During the unannounced follow-up inspection at 'Prosperity Textiles', Kavita's team uncovered irrefutable evidence of child labor, with several underage children working in hazardous conditions. Further investigation revealed the factory is beneficially owned by Mr. Rajesh Verma, a powerful sitting state minister and a key figure in the ruling party. Immediately, the District Collector advised a 'discreet and pragmatic handling' of the issue, citing political sensitivities, while an anonymous call from the Minister's office subtly hinted at significant career implications if the matter proceeded officially.
 
-Ms. Sharma recognizes that her decision will have far-reaching implications. Releasing the sensitive information could lead to significant project cost overruns, legal entanglements, and unwarranted delays, ultimately harming the very communities the project intends to serve. Conversely, withholding the information entirely could be perceived as a lack of transparency, erode public trust, and ignite further social unrest, potentially stalling the project altogether.
+Kavita's decision will directly impact the exploited child laborers, the minister's political career and reputation, the factory's operations, and public trust in the administration. Both decisive action and cautious inaction carry severe consequences for her professional integrity, the rule of law, and the welfare of the most vulnerable.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Kavita Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
