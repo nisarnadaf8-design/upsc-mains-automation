@@ -1,36 +1,36 @@
-Date: 13 Jul 2026
+Date: 14 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Media, Social Media and Their Role in Society
+GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the algorithm-driven content curation on social media platforms is reshaping traditional notions of journalistic objectivity and public trust in information dissemination.
+Examine how the traditional structures of caste manifest in contemporary urban social interactions and economic opportunities, despite legal prohibitions and increasing professional mobility. Discuss whether the process of 'deterritorialisation' truly dilutes caste identity or merely reconfigures its expressions.
 
 Q2. (10 Marks | 150 words)
-Beyond mere access, critically examine how the 'digital engagement gap' on social media platforms perpetuates existing socio-economic disparities and influences civic participation in a diverse society like India.
+Critically examine the concept of 'aspirational mobility' among historically marginalized communities in India. How has the interplay of state-sponsored affirmative action and the evolving dynamics of Westernisation both facilitated and constrained their upward social trajectory?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the complex interplay between the imperative for platform accountability, the protection of free speech, and the proliferation of deepfakes and AI-generated misinformation, in the context of maintaining social cohesion and democratic governance in India. Discuss with suitable examples.
+Critically analyse the intersection of caste, class, and gender in shaping access to digital literacy and online opportunities for rural women in India. Discuss how technological advancements, while offering potential for empowerment, can simultaneously reinforce existing social, economic, and patriarchal barriers.
 
 ========================================
-GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
+GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by 'ethical absolutism' versus 'situational ethics' in public administration? Explain how a civil servant can navigate the tension between these approaches while upholding the foundational values of integrity and impartiality under political pressure.
+Explain the significance of cultivating an informed and empathetic conscience for a civil servant in navigating situations where deeply entrenched cultural practices or local traditions might conflict with universal ethical principles of human dignity and equal justice. How does this internal moral compass guide impartial decision-making?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical considerations involved when a public policy, though aimed at long-term societal benefit, disproportionately impacts vulnerable sections in the short term. How can a civil servant ensure justice and empathy in its implementation while adhering to administrative directives?
+How can the 'ethics of care' framework be practically applied by public administrators to ensure empathy and responsiveness in public service delivery, particularly when dealing with vulnerable sections of society whose needs might not be fully captured by rigid rules? Examine the challenges in integrating this perspective within a predominantly rules-based bureaucratic system.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-IAS Officer Kavita Sharma, a dedicated Sub-Divisional Magistrate (SDM) in the Revenue Department, was recently posted to the industrially developing district of Haritpur. Known for her integrity and proactive approach, she initiated a comprehensive drive to ensure compliance with labor and environmental standards across local factories. During one such routine inspection, her team identified a large manufacturing unit, 'Prosperity Textiles', for a follow-up.
+Rajesh Kumar, a diligent and upright District Collector in Shanti Nagar, has consistently upheld procedural integrity in all administrative decisions. His office is currently processing bids for a major public infrastructure project – the expansion of the regional bus terminus – crucial for improving connectivity and reducing congestion in the rapidly urbanizing district.
 
-During the unannounced follow-up inspection at 'Prosperity Textiles', Kavita's team uncovered irrefutable evidence of child labor, with several underage children working in hazardous conditions. Further investigation revealed the factory is beneficially owned by Mr. Rajesh Verma, a powerful sitting state minister and a key figure in the ruling party. Immediately, the District Collector advised a 'discreet and pragmatic handling' of the issue, citing political sensitivities, while an anonymous call from the Minister's office subtly hinted at significant career implications if the matter proceeded officially.
+A powerful state cabinet minister, Hon'ble Smt. Meena Devi, who wields significant influence, has personally called Rajesh, insisting that he ensure the tender for the bus terminus project is awarded to a specific construction company, 'Apex Buildtech'. She implicitly suggests that non-compliance could negatively impact Rajesh’s future career prospects and cooperation from the state government for other district initiatives. Apex Buildtech's bid, while technically qualified, is not the most competitive and has a history of minor compliance issues in previous projects, though none were officially substantiated. The local MLA, a close associate of the minister, also reiterates this 'request' during an official meeting, adding to the pressure.
 
-Kavita's decision will directly impact the exploited child laborers, the minister's political career and reputation, the factory's operations, and public trust in the administration. Both decisive action and cautious inaction carry severe consequences for her professional integrity, the rule of law, and the welfare of the most vulnerable.
+Rajesh's decision will directly affect the financial health of the district exchequer, the quality and timely completion of a vital public asset, the morale of his subordinates, and his own professional integrity. Awarding the tender unfairly could lead to public mistrust, potential legal challenges, and sub-standard infrastructure, while refusing might invite political retribution and hinder other essential development projects in the district.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Kavita Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rajesh Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
