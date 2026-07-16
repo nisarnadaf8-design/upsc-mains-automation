@@ -1,36 +1,36 @@
-Date: 15 Jul 2026
+Date: 16 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
+GS-1 SOCIETY: Communalism, Regionalism and Secularism
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the paradoxical relationship between increasing women's workforce participation and their persistent vulnerability to various forms of violence within both public and private spheres. Discuss the underlying socio-cultural factors that contribute to this dichotomy, moving beyond mere economic indicators.
+Examine how the proliferation of digital echo chambers and targeted messaging on social media platforms is reshaping the dynamics of communal mobilisation in India's electoral democracy. Discuss its implications for social cohesion and the integrity of public discourse.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the current discourse on achieving 33% political representation for women often overlooks the deeper structural barriers that limit their effective agency and impact within legislative bodies and political parties. What steps are needed to ensure substantive representation beyond numerical quotas?
+What do you understand by India's distinctive approach to secularism, often described as 'principled distance', in contrast to the 'wall of separation' model? How does this approach seek to accommodate and strengthen the nation's composite cultural fabric amidst diverse religious practices?
 
 Q3. (15 Marks | 250 words)
-Discuss how the intergenerational transmission of feminized poverty is exacerbated by inadequate legal redressal mechanisms against economic exploitation and property disinheritance, especially for marginalized women. Critically analyze the potential of grassroots initiatives like Self Help Groups to break this cycle, considering their social, economic, and legal empowerment dimensions with suitable examples.
+Critically analyse the economic, political, and social consequences of increasingly assertive regional identities and demands on India's federal structure and national integration. Discuss whether these aspirations primarily pose a threat or present an opportunity for a more balanced and inclusive development model.
 
 ========================================
-GS-4 ETHICS: Attitude: Formation, Change and Social Influence
+GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by 'moral dissonance' in public administration, and how does it manifest when an administrator's personal ethical standards clash with institutional norms or political directives? Explain its implications for maintaining integrity and accountability in governance.
+Explain the significance of integrity for a civil servant extending beyond mere adherence to rules and regulations, encompassing a commitment to the spirit of public service. How does this 'spirit over letter' approach foster public trust and ethical governance in complex administrative scenarios?
 
 Q5. (10 Marks | 150 words)
-How can a civil servant effectively challenge deeply ingrained prejudiced attitudes and implicit biases within their team and the broader department to foster a more inclusive and equitable service delivery system? Discuss the ethical leadership qualities required to initiate such a cultural shift.
+In the context of evidence-based policy making, examine the ethical challenges a civil servant faces in maintaining impartiality and objectivity when confronted with strong political directives that may contradict expert recommendations or demonstrable public interest.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Dr. Rhea Sharma, a proactive District Magistrate in Rudrapur district, Uttarakhand, was overseeing critical flood relief operations following unprecedented torrential rains. Her team was tirelessly working to provide essential supplies, temporary shelters, and medical aid to thousands displaced by the disaster. The situation demanded immediate and transparent resource allocation to prevent further loss of life and suffering.
+Ms. Riya Sharma, a young and dedicated IAS officer, is serving as the District Collector of Kamalnagar, a district rich in forest resources and predominantly inhabited by indigenous tribal communities in a central Indian state. Her tenure has been marked by efforts to implement welfare schemes and resolve land-related issues for the vulnerable tribal population, earning her trust among them.
 
-During a routine audit of supply chains, Dr. Sharma unearthed strong evidence of a major diversion of relief materials, including food grains, medicines, and tarpaulins, intended for the worst-affected villages. The evidence pointed directly to her immediate superior, the Divisional Commissioner, who had previously warned her against "unnecessary scrutiny" to maintain operational speed. A local political leader, whose constituency was meant to receive some of the diverted aid, also subtly hinted at "cooperation" to avoid disrupting the fragile relief efforts.
+Recently, the State Government has fast-tracked a large-scale industrial project, promising significant investment and employment, which requires the immediate acquisition of several hundred acres of land. This land, crucial for the project, includes sacred groves and agricultural fields belonging to a particularly vulnerable tribal group, traditionally protected under the Forest Rights Act. Riya has received explicit orders from the Chief Secretary to ensure swift land acquisition, bypassing some standard consultative procedures, citing urgent economic development. However, tribal representatives have approached her with petitions detailing the potential displacement, loss of livelihood, and irreversible cultural damage without proper rehabilitation.
 
-Dr. Sharma's decision will directly impact the lives of thousands of vulnerable flood victims who desperately await aid, potentially leading to widespread suffering and loss of life if resources are not received. Her actions could either expose corruption, potentially saving lives and ensuring justice, or shield a powerful official, leading to further suffering and eroding public trust in governance during a critical humanitarian crisis.
+Her decision will directly impact thousands of tribal families, the state's economic development trajectory, and her career prospects. Both strict adherence to government orders and prioritising tribal welfare carry serious repercussions, ranging from legal challenges and widespread public protests to potential disciplinary action for insubordination and hampering state development.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Dr. Rhea Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Riya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
