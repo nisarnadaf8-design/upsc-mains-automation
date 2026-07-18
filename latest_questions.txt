@@ -1,36 +1,45 @@
-Date: 17 Jul 2026
+Date: 18 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
+GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the critical role of adaptive education and skill development policies in realizing India's demographic dividend amidst evolving global economic shifts and increasing automation by 2030.
+Examine how the emphasis on multidimensional poverty indices necessitates a paradigm shift in inclusive growth strategies, moving beyond traditional income-centric approaches to address deep-rooted structural inequalities. Discuss the challenges in implementing such a holistic framework at the grassroots level.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the burgeoning challenges of an ageing population necessitate a paradigm shift in India's social security framework, moving beyond traditional pension schemes to encompass comprehensive elder care and intergenerational support systems.
+What do you understand by the concept of 'intergenerational social immobility' in the context of persistent social exclusion? How has historical discrimination against Scheduled Tribes and certain Dalit communities perpetuated educational backwardness, thereby limiting their socio-economic mobility despite constitutional safeguards?
 
 Q3. (15 Marks | 250 words)
-Discuss the socio-economic and gendered dimensions of internal rural-to-urban migration in India, particularly focusing on the challenges faced by women migrants and the policy interventions required to ensure their welfare and integration into urban informal economies.
+Critically analyse the role of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) in fostering inclusive growth in rural India. Discuss its multi-dimensional impact on socio-economic empowerment, gender equity, and local governance, while also identifying the continuing gaps that hinder its full potential for poverty alleviation.
 
 ========================================
-GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
+GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'self-regulation' as a core component of emotional intelligence for a civil servant in upholding ethical standards and maintaining impartiality in public decision-making, especially during politically charged circumstances.
+Explain the significance of Mahatma Gandhi's concept of 'Sarvodaya' in guiding a public administrator towards truly equitable and inclusive governance, particularly in resource distribution. How does this principle, when integrated with his idea of 'trusteeship', influence ethical decision-making beyond mere utilitarian considerations?
 
 Q5. (10 Marks | 150 words)
-How can the effective application of 'empathy' transform a civil servant's approach to public grievance redressal and policy implementation, especially when dealing with marginalized communities, fostering trust and ensuring equitable service delivery?
+How should a civil servant navigate the complex ethical dilemma arising from the tension between upholding constitutional morality, as envisioned by Dr. B.R. Ambedkar, and confronting deeply entrenched societal prejudices and social morality in policy implementation? Discuss with reference to reforms aimed at dismantling caste-based discrimination.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Rajesh Kumar, a dedicated and upright District Collector in the remote tribal-dominated Banswara district of Rajasthan, is overseeing the crucial land acquisition process for the ambitious "Solar Shakti Grid" project. This project promises to bring significant economic development and renewable energy infrastructure to a region historically marked by poverty and underdevelopment.
 
-Rajesh Sharma, a highly regarded IPS officer with a stellar record of integrity and public service, has recently taken charge as the Senior Superintendent of Police (SSP) in Durjanpur District, a region grappling with persistent law and order issues. Known for his methodical approach, he initiated a comprehensive review of past cases and departmental procurement processes within weeks of his posting.
+As the final list of land parcels for acquisition is being prepared, Rajesh discovers that a significant plot, strategically vital for the project's main substation, belongs to his maternal uncle, who has a history of litigious behaviour. His uncle, aware of Rajesh's position, has explicitly conveyed through family channels that he expects a substantially higher compensation than market rates, threatening to stall the project through legal means if his demands are not met. Rajesh's superior is pressing for expedited land acquisition to meet central government deadlines, while local politicians are urging swift resolution to avoid public discontent among other farmers.
 
-During this review, Sharma uncovered irrefutable evidence of a sophisticated procurement scam involving ghost firms and inflated invoices for police equipment, siphoning off significant public funds. The investigation unequivocally pointed towards the involvement of a powerful sitting MLA and shockingly, a former Inspector General of Police (IGP) who was his direct senior and mentor earlier in his career. His current Director General of Police (DGP) subtly advised him to 'handle the matter discreetly' to avoid 'unnecessary departmental embarrassment' and hinted at potential 'career repercussions' if he proceeded with full transparency.
+The decision will directly impact thousands of local farmers awaiting fair compensation, the timely completion of a vital public infrastructure project, the state exchequer, and critically, Rajesh's reputation for impartiality and the public's trust in the administration. Both yielding to family pressure and strictly adhering to rules have serious consequences.
 
-Rajesh now faces a profound ethical dilemma. His decision will significantly impact the victims of the scam (taxpayers), the morale and public trust in the entire police force, the careers of implicated officers, his own professional future, and potentially the stability of the state government. Both exposing the truth and suppressing it carry serious and far-reaching consequences.
+(a) Identify and discuss the ethical issues involved in this case.
+Ethical issues include conflict of interest, nepotism/favouritism, integrity vs. family loyalty, misuse of public office for private gain, and maintaining impartiality. These threaten public trust, administrative fairness, and project efficiency, undermining the principles of good governance.
 
-(a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rajesh Sharma? Evaluate each option with its merits and demerits. (100 words)
-(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+(b) What are the options available to Rajesh Kumar? Evaluate each option with its merits and demerits.
+1. Recuse himself: Merits - Upholds integrity, avoids conflict. Demerits - May delay project, transfer burden.
+2. Direct subordinates to handle impartially: Merits - Maintains control, ensures fair process. Demerits - Perceived influence risk remains.
+3. Strictly enforce rules on compensation: Merits - Upholds law, prevents favouritism. Demerits - Uncle may still cause legal delays, family strife.
+4. Attempt mediation with uncle for fair resolution: Merits - Could resolve amicably. Demerits - May be seen as inappropriate personal intervention.
+
+(c) What course of action would you recommend and why? How would you handle the pressures involved?
+I would recommend Rajesh Kumar to formally declare the conflict of interest to his superior and recuse himself from direct involvement in his uncle's land acquisition. He should request that the matter be handled by another competent officer or committee to ensure objective evaluation and adherence to rules. Simultaneously, he must unequivocally communicate to his family, especially his uncle, that no special favour can be granted, and the process will be purely legally compliant.
+
+To handle pressures, he should document all communications regarding the conflict and recusal. He would professionally explain to his superior the necessity of recusal to maintain institutional integrity and avoid future legal challenges to the project. For political leaders and the public, he would emphasize transparency, fairness, and the equal application of law to all landowners, ensuring the project's long-term success and public trust.
