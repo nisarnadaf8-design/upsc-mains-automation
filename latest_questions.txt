@@ -1,35 +1,35 @@
-Date: 19 Jul 2026
+Date: 20 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
+GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the Smart Cities Mission has, despite its technological ambitions, struggled to address the persistent challenges of social equity and environmental sustainability in rapidly expanding Indian urban centres.
+Examine how global cultural flows, while promoting certain universalistic trends, have paradoxically led to a resurgence and re-interpretation of local cultural identities and expressions within Indian society. Discuss with suitable examples.
 
 Q2. (10 Marks | 150 words)
-Critically examine the extent to which the 74th Constitutional Amendment has genuinely empowered Urban Local Bodies to effectively tackle slum proliferation and improve basic urban services, considering the financial and administrative constraints they often face.
+What do you understand by the 'gigification' of labour in the context of globalisation? How has this phenomenon challenged traditional notions of social security and labour rights, particularly for vulnerable segments of the Indian workforce?
 
 Q3. (15 Marks | 250 words)
-Discuss the interconnected challenges posed by continuous rural-urban migration on the social fabric, economic resilience, and environmental health of Indian megacities, particularly focusing on the strains on urban infrastructure, housing, and waste management systems.
+Critically analyse the multi-faceted impact of accelerated digital globalisation on Indian society, particularly focusing on its implications for social cohesion, individual agency, and the evolving dynamics of governance. Discuss with suitable examples across social, economic, and ethical dimensions.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
+GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by Aristotle's concept of virtue ethics? Explain its significance in cultivating a culture of integrity and ethical decision-making among public administrators today.
+Explain the ethical significance of proactively embracing transparency in public administration, beyond mere compliance with the Right to Information Act. How does such a proactive approach foster public trust and strengthen democratic accountability?
 
 Q5. (10 Marks | 150 words)
-How would an ethical dilemma concerning public policy implementation be approached differently from the perspective of Kant's categorical imperative versus a utilitarian framework? Illustrate with a suitable administrative example.
+How should a civil servant navigate potential conflicts of interest when their personal investments or familial associations intersect with policy decisions within their department? Examine the ethical principles and safeguards required to uphold integrity in such situations.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Divya Sharma, a newly appointed Sub-Divisional Magistrate in the culturally sensitive Rampur sub-division of District Avantika, is facing her first major challenge. A minor altercation during a local festival has quickly flared into widespread communal tension, with small-scale skirmishes and incendiary social media posts creating a volatile atmosphere in several localities. The District Collector has entrusted her with restoring peace and order.
+Anjali Sharma, District Project Director for the flagship 'Gramin Utthan Yojana' in Shantipur District, has spent months meticulously overseeing the scheme's implementation. Her team has compiled a detailed report, indicating significant ground-level challenges and an achievement rate slightly below the ambitious targets due to genuine local issues like monsoon disruptions and supply chain bottlenecks.
 
-As Divya attempts to gather objective ground reports and implement impartial measures, she receives a direct call from the powerful local MLA, Mr. Rakesh Verma. He insists that she must immediately take strict action against a particular community, accusing them solely of instigating the violence, and suggests detaining specific individuals without due process. Mr. Verma explicitly warns her that non-compliance would lead to her swift transfer and career difficulties, asserting that "public sentiment demands decisive action." Meanwhile, local intelligence indicates that the conflict is more nuanced, involving provocations from multiple sides.
+However, just days before the report is due to be submitted to the state government, Ms. Sharma is called by her immediate superior, the Divisional Commissioner, who conveys "strong suggestions" from a powerful political minister. The minister expects the report to show 100% target achievement to ensure continued central funding and project expansion in the region. Ms. Sharma is subtly informed that failure to "adjust" the figures could jeopardize her career progression and even lead to a transfer to a less desirable posting. Simultaneously, some local activists, aware of the ground realities, are threatening to expose any falsification of data.
 
-Divya's decision will directly impact the lives and safety of thousands of citizens, the credibility of the district administration, and the future communal harmony of Rampur. Failing to act impartially could escalate the conflict into widespread violence and undermine the rule of law, while upholding her ethical duty risks her professional standing and relationship with political masters.
+The decision Ms. Sharma makes will profoundly affect thousands of genuine beneficiaries who might be deprived of further aid based on manipulated data, the credibility of the government's welfare initiatives, and the integrity of her office. Both complying and refusing have serious personal and professional repercussions.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Divya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
