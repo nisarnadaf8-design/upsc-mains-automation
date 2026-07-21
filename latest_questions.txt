@@ -1,35 +1,36 @@
-Date: 20 Jul 2026
+Date: 21 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
+GS-1 SOCIETY: Social Movements and Civil Society in India
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how global cultural flows, while promoting certain universalistic trends, have paradoxically led to a resurgence and re-interpretation of local cultural identities and expressions within Indian society. Discuss with suitable examples.
+Examine the evolving role of civil society organizations in navigating the dual pressures of increasing state regulation and maintaining public trust, while continuing their advocacy for social justice and accountability in contemporary India.
 
 Q2. (10 Marks | 150 words)
-What do you understand by the 'gigification' of labour in the context of globalisation? How has this phenomenon challenged traditional notions of social security and labour rights, particularly for vulnerable segments of the Indian workforce?
+How have the accelerating pace of infrastructure development and growing environmental consciousness shaped the emergence and strategies of new social movements focused on land rights and sustainable livelihoods across different regions of India?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multi-faceted impact of accelerated digital globalisation on Indian society, particularly focusing on its implications for social cohesion, individual agency, and the evolving dynamics of governance. Discuss with suitable examples across social, economic, and ethical dimensions.
+Critically analyse the persistent challenges in addressing the root causes of left-wing extremism, considering its socio-economic origins, the effectiveness of various government interventions, and the evolving role of local communities and civil society in fostering sustainable peace and development in affected regions.
 
 ========================================
-GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
+GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the ethical significance of proactively embracing transparency in public administration, beyond mere compliance with the Right to Information Act. How does such a proactive approach foster public trust and strengthen democratic accountability?
+Explain how the 'Principle of Selflessness', as outlined in the Nolan Principles, guides public officials in making decisions that prioritize public interest over personal gain, especially when faced with potential conflicts of interest arising from past associations or future prospects in the private sector.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant navigate potential conflicts of interest when their personal investments or familial associations intersect with policy decisions within their department? Examine the ethical principles and safeguards required to uphold integrity in such situations.
+In what ways can a robust internal grievance mechanism and a culture of organizational integrity mitigate the ethical dilemma faced by a civil servant contemplating whistleblowing, balancing their duty to expose wrongdoing against concerns for self-preservation and institutional loyalty?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Anjali Sharma, District Project Director for the flagship 'Gramin Utthan Yojana' in Shantipur District, has spent months meticulously overseeing the scheme's implementation. Her team has compiled a detailed report, indicating significant ground-level challenges and an achievement rate slightly below the ambitious targets due to genuine local issues like monsoon disruptions and supply chain bottlenecks.
 
-However, just days before the report is due to be submitted to the state government, Ms. Sharma is called by her immediate superior, the Divisional Commissioner, who conveys "strong suggestions" from a powerful political minister. The minister expects the report to show 100% target achievement to ensure continued central funding and project expansion in the region. Ms. Sharma is subtly informed that failure to "adjust" the figures could jeopardize her career progression and even lead to a transfer to a less desirable posting. Simultaneously, some local activists, aware of the ground realities, are threatening to expose any falsification of data.
+Mr. Ankit Sharma, a relatively young and idealistic IAS officer from the 2023 batch, is currently posted as the Sub-Divisional Magistrate (SDM) in the rapidly urbanizing Mandpur District. Known for his commitment to public service and strict adherence to rules, he has recently been tasked with overseeing several crucial land acquisition processes for an ambitious infrastructure corridor project that promises to transform the district's connectivity.
 
-The decision Ms. Sharma makes will profoundly affect thousands of genuine beneficiaries who might be deprived of further aid based on manipulated data, the credibility of the government's welfare initiatives, and the integrity of her office. Both complying and refusing have serious personal and professional repercussions.
+During his review of the land records and compensation proposals, Ankit uncovers disturbing evidence of significant irregularities. Key agricultural lands, originally earmarked for acquisition, have been re-classified as barren or industrial plots at the behest of powerful local politicians, drastically reducing compensation for farmers while simultaneously increasing the valuation of adjacent parcels owned by a prominent private real estate developer, 'Zenith InfraCorp'. His immediate superior, the District Collector, subtly advises him to "expedite the process without getting bogged down in minor details," while a local MLA, a known associate of Zenith InfraCorp, has directly called Ankit, hinting at "future career opportunities" if he cooperates. He also faces immense pressure from the affected farmers who frequently visit his office, pleading for fair compensation and justice.
+
+Ankit's decision will directly impact hundreds of marginal farmers and landless laborers who stand to lose their only source of livelihood, potentially triggering social unrest. It will also affect the integrity of the public administration, the credibility of the infrastructure project, and the financial interests of the private builder and connected political figures. Both taking action and remaining silent carry significant personal and professional risks for him.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Mr. Ankit Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
