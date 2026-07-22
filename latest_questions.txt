@@ -1,36 +1,48 @@
-Date: 21 Jul 2026
+Date: 22 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Social Movements and Civil Society in India
+GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving role of civil society organizations in navigating the dual pressures of increasing state regulation and maintaining public trust, while continuing their advocacy for social justice and accountability in contemporary India.
+Examine the extent to which the uneven digital infrastructure development across India challenges the National Education Policy 2020's vision of ensuring equitable access to quality education for all. Discuss the policy interventions required to bridge this digital divide effectively in a post-pandemic learning environment.
 
 Q2. (10 Marks | 150 words)
-How have the accelerating pace of infrastructure development and growing environmental consciousness shaped the emergence and strategies of new social movements focused on land rights and sustainable livelihoods across different regions of India?
+Critically examine how the increasing commercialisation of higher education in India impacts the educational aspirations and retention rates of students from marginalized communities. How can robust regulatory frameworks balance private investment with the imperative of ensuring quality and equity in this evolving landscape?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the persistent challenges in addressing the root causes of left-wing extremism, considering its socio-economic origins, the effectiveness of various government interventions, and the evolving role of local communities and civil society in fostering sustainable peace and development in affected regions.
+Discuss the potential of the National Education Policy 2020 to act as a catalyst for enhanced social mobility and breaking intergenerational poverty cycles in India. Critically analyze this potential, considering the existing socio-economic disparities, gender-specific challenges, and the efficacy of vocational education reforms introduced by the policy.
 
 ========================================
-GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
+GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how the 'Principle of Selflessness', as outlined in the Nolan Principles, guides public officials in making decisions that prioritize public interest over personal gain, especially when faced with potential conflicts of interest arising from past associations or future prospects in the private sector.
+What do you understand by 'moral dissonance' in public administration? Explain how systemic pressures and a prevailing culture of 'expedient pragmatism' within institutions can erode the ethical resolve of individual civil servants, even those initially committed to integrity and public service.
 
 Q5. (10 Marks | 150 words)
-In what ways can a robust internal grievance mechanism and a culture of organizational integrity mitigate the ethical dilemma faced by a civil servant contemplating whistleblowing, balancing their duty to expose wrongdoing against concerns for self-preservation and institutional loyalty?
+Examine the ethical dimensions involved in deploying advanced technologies like artificial intelligence and big data analytics for corruption detection and prevention in public services. How should a civil servant balance the imperative of surveillance capabilities with individual privacy and the potential for algorithmic bias in such systems?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ms. Aditi Sharma, District Project Coordinator for the Disaster Management Unit in Sundergarh, Odisha, is overseeing the distribution of crucial relief funds following unprecedented monsoon floods. The allocated funds, amounting to several crores, are earmarked for immediate shelter, food, and medical supplies for thousands of displaced families in remote, inaccessible villages. Her team has been working tirelessly to ensure fair and timely disbursement.
 
-Mr. Ankit Sharma, a relatively young and idealistic IAS officer from the 2023 batch, is currently posted as the Sub-Divisional Magistrate (SDM) in the rapidly urbanizing Mandpur District. Known for his commitment to public service and strict adherence to rules, he has recently been tasked with overseeing several crucial land acquisition processes for an ambitious infrastructure corridor project that promises to transform the district's connectivity.
+Amidst the crisis, Ms. Sharma receives an urgent call from a senior political leader from the ruling party, requesting a significant portion of the relief funds be immediately diverted to a constituency not directly affected by the floods but crucial for an upcoming by-election. Simultaneously, her immediate superior subtly advises her to 'cooperate' for the sake of 'smoother operations' and her career progression. Delay in relief would exacerbate the suffering in Sundergarh, while defiance risks political backlash and potential administrative harassment.
 
-During his review of the land records and compensation proposals, Ankit uncovers disturbing evidence of significant irregularities. Key agricultural lands, originally earmarked for acquisition, have been re-classified as barren or industrial plots at the behest of powerful local politicians, drastically reducing compensation for farmers while simultaneously increasing the valuation of adjacent parcels owned by a prominent private real estate developer, 'Zenith InfraCorp'. His immediate superior, the District Collector, subtly advises him to "expedite the process without getting bogged down in minor details," while a local MLA, a known associate of Zenith InfraCorp, has directly called Ankit, hinting at "future career opportunities" if he cooperates. He also faces immense pressure from the affected farmers who frequently visit his office, pleading for fair compensation and justice.
-
-Ankit's decision will directly impact hundreds of marginal farmers and landless laborers who stand to lose their only source of livelihood, potentially triggering social unrest. It will also affect the integrity of the public administration, the credibility of the infrastructure project, and the financial interests of the private builder and connected political figures. Both taking action and remaining silent carry significant personal and professional risks for him.
+The primary stakeholders are the flood-affected victims of Sundergarh who face starvation and disease if funds are diverted, and the public whose trust in governance would erode. Diverting funds would also benefit political expediency, while refusal could lead to negative consequences for Ms. Sharma's career and potentially disrupt critical disaster response efforts.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Mr. Ankit Sharma? Evaluate each option with its merits and demerits. (100 words)
+The core ethical issues are public interest versus political pressure, integrity versus careerism, duty of care towards vulnerable citizens, transparency in public funds, and maintaining administrative impartiality in a crisis situation.
+
+(b) What are the options available to Ms. Aditi Sharma? Evaluate each option with its merits and demerits. (100 words)
+1. Divert funds as requested: Merits - avoids political wrath, potential for career advancement. Demerits - profound ethical violation, illegal, causes immense suffering for victims, betrays public trust.
+2. Refuse and inform superior formally: Merits - upholds integrity, protects public funds. Demerits - potential for transfer, stalled career, political pressure, administrative backlash, and potential for the superior to still proceed.
+3. Report the matter to higher authorities/vigilance: Merits - promotes systemic accountability, protects victims and rule of law. Demerits - risk to personal safety, isolation, prolonged investigation, potential for political vendetta against her.
+4. Seek written orders for fund diversion: Merits - creates a paper trail, formalizes accountability. Demerits - might not be issued, still involves a potentially illegal act, could delay legitimate relief.
+
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+I would recommend Ms. Sharma unequivocally refuse to divert the funds. Her primary duty is to the flood victims and the principles of public service, integrity, and rule of law.
+To handle the intense pressures, she should:
+1. Document everything: Request the diversion order in writing from both the political leader and her superior, stating the specific reasons for denial (e.g., legal framework for disaster funds).
+2. Uphold rules: Firmly state that the funds are allocated by law for specific relief purposes and diversion is illegal and unethical, citing relevant rules.
+3. Consult and inform: Discreetly seek advice from trusted senior colleagues or legal experts within the administration. If pressure persists, she must escalate the matter to the Chief Secretary or the state vigilance department, providing documented evidence.
+4. Transparency: If internal channels fail and her position becomes untenable, she could consider making the issue public to ensure accountability and protect the funds, but only as a last resort. This approach protects her integrity and ensures justice for the victims.
