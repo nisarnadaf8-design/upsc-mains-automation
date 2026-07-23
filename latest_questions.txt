@@ -1,48 +1,36 @@
-Date: 22 Jul 2026
+Date: 23 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
+GS-1 SOCIETY: Health: Public Health System and Social Determinants
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the extent to which the uneven digital infrastructure development across India challenges the National Education Policy 2020's vision of ensuring equitable access to quality education for all. Discuss the policy interventions required to bridge this digital divide effectively in a post-pandemic learning environment.
+Examine how the interwoven nature of social determinants like educational attainment, housing quality, and digital access structurally impedes the effectiveness of public health interventions in achieving equitable health outcomes across India.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the increasing commercialisation of higher education in India impacts the educational aspirations and retention rates of students from marginalized communities. How can robust regulatory frameworks balance private investment with the imperative of ensuring quality and equity in this evolving landscape?
+Critically evaluate the extent to which India's flagship health insurance schemes, particularly Ayushman Bharat, have succeeded in mitigating the urban-rural disparity in healthcare access and addressing the indirect financial burden of mental health support.
 
 Q3. (15 Marks | 250 words)
-Discuss the potential of the National Education Policy 2020 to act as a catalyst for enhanced social mobility and breaking intergenerational poverty cycles in India. Critically analyze this potential, considering the existing socio-economic disparities, gender-specific challenges, and the efficacy of vocational education reforms introduced by the policy.
+Discuss the multi-faceted challenges in tackling the persistent burden of malnutrition and mental health issues among marginalized communities in India, considering their socio-economic vulnerabilities, gendered impacts, and the current policy implementation gaps in public health infrastructure.
 
 ========================================
-GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
+GS-4 ETHICS: Corporate Governance and Business Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by 'moral dissonance' in public administration? Explain how systemic pressures and a prevailing culture of 'expedient pragmatism' within institutions can erode the ethical resolve of individual civil servants, even those initially committed to integrity and public service.
+What do you understand by the concept of "ethical corporate citizenship" in contrast to mere compliance with Corporate Social Responsibility mandates? Explain its significance for fostering public trust and long-term sustainable governance.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dimensions involved in deploying advanced technologies like artificial intelligence and big data analytics for corruption detection and prevention in public services. How should a civil servant balance the imperative of surveillance capabilities with individual privacy and the potential for algorithmic bias in such systems?
+Examine the ethical challenges a civil servant faces when balancing the imperative of promoting industrial growth with ensuring stringent corporate accountability for environmental degradation, especially when large corporations are significant employers in a region.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Aditi Sharma, District Project Coordinator for the Disaster Management Unit in Sundergarh, Odisha, is overseeing the distribution of crucial relief funds following unprecedented monsoon floods. The allocated funds, amounting to several crores, are earmarked for immediate shelter, food, and medical supplies for thousands of displaced families in remote, inaccessible villages. Her team has been working tirelessly to ensure fair and timely disbursement.
 
-Amidst the crisis, Ms. Sharma receives an urgent call from a senior political leader from the ruling party, requesting a significant portion of the relief funds be immediately diverted to a constituency not directly affected by the floods but crucial for an upcoming by-election. Simultaneously, her immediate superior subtly advises her to 'cooperate' for the sake of 'smoother operations' and her career progression. Delay in relief would exacerbate the suffering in Sundergarh, while defiance risks political backlash and potential administrative harassment.
+Smita Sharma, a newly appointed District Environmental Officer in the State Pollution Control Board, has been posted to Rajnagar, a rapidly industrializing district known for its chemical and textile manufacturing units. Smita is known for her integrity and dedication to environmental protection. Her primary responsibility involves enforcing environmental regulations and ensuring industries comply with pollution control norms.
 
-The primary stakeholders are the flood-affected victims of Sundergarh who face starvation and disease if funds are diverted, and the public whose trust in governance would erode. Diverting funds would also benefit political expediency, while refusal could lead to negative consequences for Ms. Sharma's career and potentially disrupt critical disaster response efforts.
+During a routine inspection, her team discovers that "Green Harvest Ltd.," a major food processing company and a significant employer in the district, is regularly discharging untreated chemical waste into the local river, affecting the drinking water supply of several downstream villages. Her immediate superior, Mr. Rajesh Kumar, advises her to exercise "discretion" given the company's contribution to the local economy and its strong political connections. A local political leader also contacts her, emphasizing the potential job losses and social unrest if strict action is taken.
+
+Smita is aware that the untreated discharge poses serious health risks to the villagers and harms the river ecosystem, but also recognizes the potential economic fallout if the factory is shut down or heavily penalized. She feels a strong duty to uphold the law and protect public health, yet the pressures to compromise are immense and multi-directional.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-The core ethical issues are public interest versus political pressure, integrity versus careerism, duty of care towards vulnerable citizens, transparency in public funds, and maintaining administrative impartiality in a crisis situation.
-
-(b) What are the options available to Ms. Aditi Sharma? Evaluate each option with its merits and demerits. (100 words)
-1. Divert funds as requested: Merits - avoids political wrath, potential for career advancement. Demerits - profound ethical violation, illegal, causes immense suffering for victims, betrays public trust.
-2. Refuse and inform superior formally: Merits - upholds integrity, protects public funds. Demerits - potential for transfer, stalled career, political pressure, administrative backlash, and potential for the superior to still proceed.
-3. Report the matter to higher authorities/vigilance: Merits - promotes systemic accountability, protects victims and rule of law. Demerits - risk to personal safety, isolation, prolonged investigation, potential for political vendetta against her.
-4. Seek written orders for fund diversion: Merits - creates a paper trail, formalizes accountability. Demerits - might not be issued, still involves a potentially illegal act, could delay legitimate relief.
-
+(b) What are the options available to Smita Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
-I would recommend Ms. Sharma unequivocally refuse to divert the funds. Her primary duty is to the flood victims and the principles of public service, integrity, and rule of law.
-To handle the intense pressures, she should:
-1. Document everything: Request the diversion order in writing from both the political leader and her superior, stating the specific reasons for denial (e.g., legal framework for disaster funds).
-2. Uphold rules: Firmly state that the funds are allocated by law for specific relief purposes and diversion is illegal and unethical, citing relevant rules.
-3. Consult and inform: Discreetly seek advice from trusted senior colleagues or legal experts within the administration. If pressure persists, she must escalate the matter to the Chief Secretary or the state vigilance department, providing documented evidence.
-4. Transparency: If internal channels fail and her position becomes untenable, she could consider making the issue public to ensure accountability and protect the funds, but only as a last resort. This approach protects her integrity and ensures justice for the victims.
