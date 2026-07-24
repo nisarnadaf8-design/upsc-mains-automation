@@ -1,36 +1,36 @@
-Date: 23 Jul 2026
+Date: 24 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Health: Public Health System and Social Determinants
+GS-1 SOCIETY: Tribal Communities: Issues, Rights and Constitutional Safeguards
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the interwoven nature of social determinants like educational attainment, housing quality, and digital access structurally impedes the effectiveness of public health interventions in achieving equitable health outcomes across India.
+Examine the effectiveness of the Fifth and Sixth Schedule provisions in balancing tribal self-governance with national development imperatives amidst increasing resource extraction activities. Discuss the inherent tension between these objectives and potential pathways for greater synergy.
 
 Q2. (10 Marks | 150 words)
-Critically evaluate the extent to which India's flagship health insurance schemes, particularly Ayushman Bharat, have succeeded in mitigating the urban-rural disparity in healthcare access and addressing the indirect financial burden of mental health support.
+Critically examine how the implementation of the Forest Rights Act 2006 has intersected with the challenges of preserving unique tribal cultural identities, particularly in regions prone to ecological shifts and external resource demands. How does this interplay influence the sustainable livelihood options for these communities?
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted challenges in tackling the persistent burden of malnutrition and mental health issues among marginalized communities in India, considering their socio-economic vulnerabilities, gendered impacts, and the current policy implementation gaps in public health infrastructure.
+Critically analyse the socio-economic and political dimensions behind the persistence of tribal grievances, examining how these factors challenge the 'developmental vs security' dichotomy in addressing Naxalism and influencing the integration versus assimilation debate for indigenous communities. Discuss with suitable contemporary examples.
 
 ========================================
-GS-4 ETHICS: Corporate Governance and Business Ethics
+GS-4 ETHICS: Ethics in Public and Private Relationships
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the concept of "ethical corporate citizenship" in contrast to mere compliance with Corporate Social Responsibility mandates? Explain its significance for fostering public trust and long-term sustainable governance.
+Explain the ethical implications when a civil servant's personal loyalty to a peer conflicts with the foundational principles of impartiality and meritocracy in administrative decisions. How can such conflicts be navigated without compromising institutional integrity?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical challenges a civil servant faces when balancing the imperative of promoting industrial growth with ensuring stringent corporate accountability for environmental degradation, especially when large corporations are significant employers in a region.
+Examine the ethical challenges a civil servant faces when their personal family obligations demand actions that might compromise the confidentiality or objectivity required by their public office. What measures can reinforce their commitment to public duty in such situations?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Smita Sharma, a newly appointed District Environmental Officer in the State Pollution Control Board, has been posted to Rajnagar, a rapidly industrializing district known for its chemical and textile manufacturing units. Smita is known for her integrity and dedication to environmental protection. Her primary responsibility involves enforcing environmental regulations and ensuring industries comply with pollution control norms.
+Anjali Sharma, a diligent Deputy Commissioner in the State Treasury Department of Karnataka, recently uncovered a complex web of financial irregularities amounting to several crores in a public infrastructure project. Following due protocol, she meticulously documented her findings and officially reported the fraud to the Chief Secretary’s office, providing irrefutable evidence.
 
-During a routine inspection, her team discovers that "Green Harvest Ltd.," a major food processing company and a significant employer in the district, is regularly discharging untreated chemical waste into the local river, affecting the drinking water supply of several downstream villages. Her immediate superior, Mr. Rajesh Kumar, advises her to exercise "discretion" given the company's contribution to the local economy and its strong political connections. A local political leader also contacts her, emphasizing the potential job losses and social unrest if strict action is taken.
+Soon after her report, Anjali began facing subtle but increasing retaliation. Her immediate superior, a close associate of a powerful political leader implicated in the scam, started assigning her to irrelevant tasks, isolating her, and initiating a dubious internal inquiry against her for alleged procedural lapses. Simultaneously, veiled threats concerning her family's safety reached her through anonymous channels, creating immense psychological pressure. She feels cornered between her duty to expose corruption and the severe risks to her personal life and family.
 
-Smita is aware that the untreated discharge poses serious health risks to the villagers and harms the river ecosystem, but also recognizes the potential economic fallout if the factory is shut down or heavily penalized. She feels a strong duty to uphold the law and protect public health, yet the pressures to compromise are immense and multi-directional.
+Anjali’s dilemma involves her personal safety, her family's well-being, her career trajectory, and the larger public interest in combating corruption. Her decision will have significant consequences for the integrity of the administration, the future of whistleblowers, and public trust in governance.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Smita Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
