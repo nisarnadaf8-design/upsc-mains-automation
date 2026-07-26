@@ -1,36 +1,35 @@
-Date: 25 Jul 2026
+Date: 26 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
+GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the contemporary challenges faced by India's constitutional secularism in balancing the protection of minority cultural rights with the principles of gender justice within personal laws. Discuss how this interplay affects social cohesion.
+Examine the evolving socio-economic complexities that sustain child labour in the informal sector, particularly in the context of increasing gig economy penetration and fragmented supply chains. Discuss the challenges in effective policy implementation given these dynamics.
 
 Q2. (10 Marks | 150 words)
-Critically analyse the role of the state in proactively fostering communal harmony, moving beyond reactive crisis management, especially in an era of heightened social media polarization. What specific measures are imperative to build lasting trust among diverse communities?
+Critically examine how the traditional understanding of bonded labour has expanded to encompass new forms of exploitation, often masked as contractual arrangements or debt traps. How effectively do India's existing legal and institutional frameworks address these evolving manifestations of modern slavery?
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-dimensional impact of population shifts and regional economic disparities on the assertion of linguistic minority rights under Article 29 and 30 of the Constitution. Critically analyse its legal, social, and political ramifications for national integration.
+Discuss the multi-faceted challenges in combating human trafficking in India, particularly considering its links with climate-induced displacement and the increasing use of digital platforms for recruitment. Critically analyse the effectiveness of legal provisions, socio-economic rehabilitation programs, and cross-border cooperation mechanisms in addressing this complex issue.
 
 ========================================
-GS-4 ETHICS: Social Influence, Persuasion and Moral Development
+GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of fostering post-conventional moral reasoning among civil servants, as per Kohlberg's stages of moral development. How can institutional mechanisms promote decision-making based on universal ethical principles rather than mere rule adherence or self-interest?
+Explain the significance of cultivating intellectual humility and empathetic tolerance as foundational values for a civil servant navigating policy formulation in a diverse and often polarized democratic society. How do these values contribute to inclusive governance and public trust?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical imperative for a civil servant to distinguish between legitimate persuasion and subtle manipulation when communicating public policy to diverse stakeholders. How can a strong moral compass help navigate groupthink and maintain objectivity in administrative decision-making?
+Drawing lessons from historical examples of ethical courage during the Indian freedom struggle, how can a contemporary civil servant cultivate and demonstrate similar moral fortitude when faced with systemic corruption or undue political interference? Discuss the practical challenges and strategies involved.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Rohan Sharma, a relatively new recruit to the Indian Administrative Service, serves as the District Project Officer for the State Skill Development Mission in Chandpur, a remote and underdeveloped district. He has been diligently working to implement a crucial government initiative aimed at providing vocational training and employment opportunities to thousands of marginalized youth, earning him respect among the local populace and his team.
 
-Ms. Ananya Sharma is the District Magistrate of Sargam, a tribal-dominated district in a resource-rich state, overseeing land acquisition for a critical national infrastructure project – a major dam and power plant, designated as a Project of National Importance. Her district is central to the project's success, which promises significant economic benefits and energy security for the nation.
+Just weeks before the crucial state assembly elections, Rohan is approached by the powerful local MLA, Mr. Ashok Verma, and his immediate superior, the District Collector. They exert immense pressure on him to issue 'skill completion' certificates to over 500 individuals who are known party workers but have not actually completed the prescribed training modules. The MLA explicitly states this is crucial for the party's election narrative, while the Collector hints at severe career repercussions, including adverse performance appraisals and punitive transfers, if Rohan fails to comply.
 
-The local Gond tribal communities, who have inhabited the project area for generations, are vehemently opposing the acquisition, asserting their ancestral rights over the forest land based on cultural sanctity and unique ecological dependence. They are demanding rehabilitation in equivalent forest land within the same region and a share in the project's benefits, which far exceeds the standard compensation package and poses a significant budgetary challenge. The Principal Secretary has issued a strict directive to Ms. Sharma to expedite the process, warning against any delays that could inflate project costs, while a powerful local political leader is actively instigating protests, accusing the administration of anti-tribal policies.
+Rohan’s decision will profoundly impact the credibility of the Skill Development Mission, the future of genuine trainees who are competing for limited opportunities, and the integrity of the electoral process. Compliance would betray public trust and his professional ethics, while refusal could jeopardize his career and personal well-being.
 
-Her decision will directly affect the lives and livelihoods of thousands of tribal families, the financial viability of a strategic national project, and the perception of the state's commitment to both development and tribal welfare. Both immediate forceful action and prolonged indecision carry severe social, economic, and political consequences for the region and the nation.
-
-(a) Identify and discuss the ethical issues involved in this case.
-(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits.
-(c) What course of action would you recommend and why? How would you handle the pressures involved?
+(a) Identify and discuss the ethical issues involved in this case. (50 words)
+(b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
+(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
