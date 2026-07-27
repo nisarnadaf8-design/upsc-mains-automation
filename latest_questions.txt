@@ -1,35 +1,36 @@
-Date: 26 Jul 2026
+Date: 27 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
+GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving socio-economic complexities that sustain child labour in the informal sector, particularly in the context of increasing gig economy penetration and fragmented supply chains. Discuss the challenges in effective policy implementation given these dynamics.
+Examine how the proliferation of digital networks and the rise of personalized communication might be redefining the formation and utility of social capital within contemporary urban settings in India. Discuss its implications for community cohesion and public service delivery.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the traditional understanding of bonded labour has expanded to encompass new forms of exploitation, often masked as contractual arrangements or debt traps. How effectively do India's existing legal and institutional frameworks address these evolving manifestations of modern slavery?
+Critically examine the shifting landscape of the voluntary sector in India, particularly its increasing engagement with corporate social responsibility initiatives. How does this evolving relationship impact the independence, funding models, and grassroot reach of non-governmental organizations?
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted challenges in combating human trafficking in India, particularly considering its links with climate-induced displacement and the increasing use of digital platforms for recruitment. Critically analyse the effectiveness of legal provisions, socio-economic rehabilitation programs, and cross-border cooperation mechanisms in addressing this complex issue.
+The success of community-led initiatives like Self-Help Groups (SHGs) and water user committees hinges on effective collective action. Critically analyse how these models strengthen local social capital, foster economic empowerment among women, and enhance democratic governance at the village level. Discuss with suitable examples.
 
 ========================================
-GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
+GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of cultivating intellectual humility and empathetic tolerance as foundational values for a civil servant navigating policy formulation in a diverse and often polarized democratic society. How do these values contribute to inclusive governance and public trust?
+What do you understand by the concept of 'intergenerational equity' in the context of global environmental governance? Explain its ethical significance for a civil servant involved in policy formulation concerning long-term resource management and sustainable development.
 
 Q5. (10 Marks | 150 words)
-Drawing lessons from historical examples of ethical courage during the Indian freedom struggle, how can a contemporary civil servant cultivate and demonstrate similar moral fortitude when faced with systemic corruption or undue political interference? Discuss the practical challenges and strategies involved.
+An administrative officer is tasked with advising on a national policy framework regarding the ethical obligations towards climate refugees. Examine the challenges of balancing national sovereignty and security interests with universal humanitarian principles and the principle of common but differentiated responsibilities.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Rohan Sharma, a relatively new recruit to the Indian Administrative Service, serves as the District Project Officer for the State Skill Development Mission in Chandpur, a remote and underdeveloped district. He has been diligently working to implement a crucial government initiative aimed at providing vocational training and employment opportunities to thousands of marginalized youth, earning him respect among the local populace and his team.
 
-Just weeks before the crucial state assembly elections, Rohan is approached by the powerful local MLA, Mr. Ashok Verma, and his immediate superior, the District Collector. They exert immense pressure on him to issue 'skill completion' certificates to over 500 individuals who are known party workers but have not actually completed the prescribed training modules. The MLA explicitly states this is crucial for the party's election narrative, while the Collector hints at severe career repercussions, including adverse performance appraisals and punitive transfers, if Rohan fails to comply.
+Ms. Ananya Sharma is the District Collector of Jalgaon, a drought-prone district in Maharashtra, known for her integrity and efficiency. Recently, a major state-funded water conservation project, 'Jal Sanjeevani Abhiyan,' was implemented in her district to construct check dams and deepen water bodies, involving substantial public funds and several private contractors. The project is critical for ensuring water security in the region and has directly benefited thousands of farmers.
 
-Rohan’s decision will profoundly impact the credibility of the Skill Development Mission, the future of genuine trainees who are competing for limited opportunities, and the integrity of the electoral process. Compliance would betray public trust and his professional ethics, while refusal could jeopardize his career and personal well-being.
+An active citizen's group, "Jal Shakti Manch," led by a prominent activist, Mr. Rajesh Mehta, files a detailed Right to Information (RTI) application seeking comprehensive project records, including contractor selection criteria, payment schedules, quality audit reports, and internal correspondence related to specific technical specifications. While Ms. Sharma firmly believes in transparency and accountability, her Divisional Commissioner has privately advised her to withhold certain details, particularly those related to preliminary internal inquiries into alleged irregularities and confidential contractual clauses, citing "public interest" to prevent disruption of ongoing work and potential legal challenges. A local political leader has also subtly pressured her to delay full disclosure, emphasizing the need for 'administrative stability' and avoiding 'unnecessary controversy' that could undermine the government's efforts.
+
+Ms. Sharma's decision will directly impact the RTI applicant's trust, the public's perception of accountability, the morale of her team, and the integrity of future government projects. Both granting full information, potentially revealing sensitive ongoing investigations or proprietary contractor details, and invoking official secrecy could have significant legal, political, and social ramifications, affecting either public trust or administrative efficacy.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
