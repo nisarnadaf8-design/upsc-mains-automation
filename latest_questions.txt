@@ -1,36 +1,35 @@
-Date: 27 Jul 2026
+Date: 28 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
+GS-1 SOCIETY: Media, Social Media and Their Role in Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the proliferation of digital networks and the rise of personalized communication might be redefining the formation and utility of social capital within contemporary urban settings in India. Discuss its implications for community cohesion and public service delivery.
+Examine the evolving role of digital content creators and online influencers in shaping societal norms and consumer behaviour, distinguishing their potential for positive social change from the risks of commercial manipulation and the erosion of journalistic standards.
 
 Q2. (10 Marks | 150 words)
-Critically examine the shifting landscape of the voluntary sector in India, particularly its increasing engagement with corporate social responsibility initiatives. How does this evolving relationship impact the independence, funding models, and grassroot reach of non-governmental organizations?
+Critically analyse how the proliferation of hyper-partisan media ecosystems on social platforms contributes to social fragmentation and challenges the foundational principles of objective public discourse in a pluralistic democracy.
 
 Q3. (15 Marks | 250 words)
-The success of community-led initiatives like Self-Help Groups (SHGs) and water user committees hinges on effective collective action. Critically analyse how these models strengthen local social capital, foster economic empowerment among women, and enhance democratic governance at the village level. Discuss with suitable examples.
+Discuss the multi-faceted implications of the 'right to be forgotten' in the digital age, considering its legal enforceability, ethical challenges related to public interest and historical record, and its potential impact on journalistic freedom and individual privacy across different societal strata.
 
 ========================================
-GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
+GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the concept of 'intergenerational equity' in the context of global environmental governance? Explain its ethical significance for a civil servant involved in policy formulation concerning long-term resource management and sustainable development.
+What do you understand by the 'principle of disinterestedness' in public service? Explain its significance in maintaining impartiality and preventing conflicts of interest for a civil servant in a politically charged environment.
 
 Q5. (10 Marks | 150 words)
-An administrative officer is tasked with advising on a national policy framework regarding the ethical obligations towards climate refugees. Examine the challenges of balancing national sovereignty and security interests with universal humanitarian principles and the principle of common but differentiated responsibilities.
+How should a civil servant uphold the ethical imperative of 'compassion' when faced with bureaucratic procedures that inadvertently cause hardship to vulnerable sections of society? Discuss the challenges and possible administrative innovations.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ms. Anjali Sharma, a diligent IAS officer serving as the Sub-Divisional Magistrate in Bhopal, Madhya Pradesh, was renowned for her commitment to social welfare initiatives. During a routine inspection of local industries following a surge in school dropouts in a specific area, her team received a tip-off about a garment factory.
 
-Ms. Ananya Sharma is the District Collector of Jalgaon, a drought-prone district in Maharashtra, known for her integrity and efficiency. Recently, a major state-funded water conservation project, 'Jal Sanjeevani Abhiyan,' was implemented in her district to construct check dams and deepen water bodies, involving substantial public funds and several private contractors. The project is critical for ensuring water security in the region and has directly benefited thousands of farmers.
+Upon a surprise visit, Ms. Sharma's team discovered multiple underage children working in hazardous conditions at 'Shakti Garments'. Further investigation revealed the factory was owned by Mr. Devendra Singh, a powerful local MLA known for his political clout and close ties to the state's ruling party. Soon after the discovery, Ms. Sharma received a discreet call from the Chief Secretary's office, advising "prudence" and "political sensitivity" in the matter, followed by an indirect warning from Mr. Singh's office about potential career repercussions.
 
-An active citizen's group, "Jal Shakti Manch," led by a prominent activist, Mr. Rajesh Mehta, files a detailed Right to Information (RTI) application seeking comprehensive project records, including contractor selection criteria, payment schedules, quality audit reports, and internal correspondence related to specific technical specifications. While Ms. Sharma firmly believes in transparency and accountability, her Divisional Commissioner has privately advised her to withhold certain details, particularly those related to preliminary internal inquiries into alleged irregularities and confidential contractual clauses, citing "public interest" to prevent disruption of ongoing work and potential legal challenges. A local political leader has also subtly pressured her to delay full disclosure, emphasizing the need for 'administrative stability' and avoiding 'unnecessary controversy' that could undermine the government's efforts.
-
-Ms. Sharma's decision will directly impact the RTI applicant's trust, the public's perception of accountability, the morale of her team, and the integrity of future government projects. Both granting full information, potentially revealing sensitive ongoing investigations or proprietary contractor details, and invoking official secrecy could have significant legal, political, and social ramifications, affecting either public trust or administrative efficacy.
+The children, their families, and the integrity of the administrative system are direct stakeholders. Acting against the factory risks political backlash, transfer, or stalled career prospects for Ms. Sharma, while inaction would perpetuate child exploitation, violate human rights, and severely compromise her ethical standing and public trust in governance.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
