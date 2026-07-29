@@ -1,35 +1,35 @@
-Date: 28 Jul 2026
+Date: 29 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Media, Social Media and Their Role in Society
+GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving role of digital content creators and online influencers in shaping societal norms and consumer behaviour, distinguishing their potential for positive social change from the risks of commercial manipulation and the erosion of journalistic standards.
+Examine how the persistence of caste as a deeply embedded social institution simultaneously fuels and challenges its utility as a tool for political mobilisation in contemporary Indian society. Discuss the implications for social cohesion.
 
 Q2. (10 Marks | 150 words)
-Critically analyse how the proliferation of hyper-partisan media ecosystems on social platforms contributes to social fragmentation and challenges the foundational principles of objective public discourse in a pluralistic democracy.
+Critically examine how intersectional barriers arising from caste, class, and gender perpetuate immobility and restrict genuine social equity despite outward signs of progress in certain sections of Indian society.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted implications of the 'right to be forgotten' in the digital age, considering its legal enforceability, ethical challenges related to public interest and historical record, and its potential impact on journalistic freedom and individual privacy across different societal strata.
+Critically analyse the effectiveness of reservation policies in achieving comprehensive social justice in India, considering its socio-economic, political, and ethical dimensions. Discuss alternative and complementary strategies required to address historical disadvantages and promote genuine equality of opportunity.
 
 ========================================
-GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
+GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the 'principle of disinterestedness' in public service? Explain its significance in maintaining impartiality and preventing conflicts of interest for a civil servant in a politically charged environment.
+Explain the inherent tension between a civil servant's individual conscience and the pressure to conform to prevailing organisational or societal norms, especially when facing morally ambiguous situations in a pluralistic administrative environment. How can this tension be constructively resolved?
 
 Q5. (10 Marks | 150 words)
-How should a civil servant uphold the ethical imperative of 'compassion' when faced with bureaucratic procedures that inadvertently cause hardship to vulnerable sections of society? Discuss the challenges and possible administrative innovations.
+How can a civil servant integrate the principles of an 'ethics of care' approach into public policy formulation and implementation, particularly when dealing with vulnerable sections of society? Discuss its potential to humanise governance beyond purely utilitarian considerations.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Anjali Sharma, a diligent IAS officer serving as the Sub-Divisional Magistrate in Bhopal, Madhya Pradesh, was renowned for her commitment to social welfare initiatives. During a routine inspection of local industries following a surge in school dropouts in a specific area, her team received a tip-off about a garment factory.
+Ms. Ananya Sharma, a recently appointed Assistant Collector in the Revenue Department of Rudrapur District, is known for her diligence and integrity. She is currently overseeing the land acquisition process for a crucial state highway bypass project aimed at easing traffic congestion and boosting regional commerce. Her team has meticulously surveyed the proposed route and identified all affected plots as per statutory guidelines.
 
-Upon a surprise visit, Ms. Sharma's team discovered multiple underage children working in hazardous conditions at 'Shakti Garments'. Further investigation revealed the factory was owned by Mr. Devendra Singh, a powerful local MLA known for his political clout and close ties to the state's ruling party. Soon after the discovery, Ms. Sharma received a discreet call from the Chief Secretary's office, advising "prudence" and "political sensitivity" in the matter, followed by an indirect warning from Mr. Singh's office about potential career repercussions.
+A powerful senior MLA from the ruling party, Mr. Virendra Singh, owns a significant commercial property that falls directly in the original proposed path of the highway bypass. He has directly approached Ms. Sharma, demanding an immediate and substantial deviation in the highway alignment to save his property, even though such a change would violate existing engineering norms and significantly inflate project costs by affecting additional private lands unnecessarily. Ms. Sharma's immediate superior, the District Collector, has subtly advised her to "explore flexible options" given the political sensitivity and the urgency to complete the project without political roadblocks. Local public enthusiasm for the project is high, but the potential for public resentment due to rule-bending is also significant.
 
-The children, their families, and the integrity of the administrative system are direct stakeholders. Acting against the factory risks political backlash, transfer, or stalled career prospects for Ms. Sharma, while inaction would perpetuate child exploitation, violate human rights, and severely compromise her ethical standing and public trust in governance.
+Ms. Sharma is faced with the dilemma of upholding the rule of law and her personal integrity versus yielding to political pressure to ensure project continuity and avoid potential career repercussions. Her decision will impact the fairness of the land acquisition process, the public exchequer, the credibility of the administration, and her own professional future.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
