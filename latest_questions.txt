@@ -1,35 +1,35 @@
-Date: 29 Jul 2026
+Date: 30 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
+GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the persistence of caste as a deeply embedded social institution simultaneously fuels and challenges its utility as a tool for political mobilisation in contemporary Indian society. Discuss the implications for social cohesion.
+Examine the complex interplay between persistent gender gaps in workforce participation and the heightened vulnerability of women to various forms of violence, hindering their holistic empowerment. Discuss how economic marginalization can perpetuate cycles of disempowerment.
 
 Q2. (10 Marks | 150 words)
-Critically examine how intersectional barriers arising from caste, class, and gender perpetuate immobility and restrict genuine social equity despite outward signs of progress in certain sections of Indian society.
+Critically examine how the mere provision of reservation for women in political bodies may not automatically translate into effective representation or substantive policy changes beneficial for women, in the absence of deeper socio-cultural shifts and capacity building.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the effectiveness of reservation policies in achieving comprehensive social justice in India, considering its socio-economic, political, and ethical dimensions. Discuss alternative and complementary strategies required to address historical disadvantages and promote genuine equality of opportunity.
+Discuss how traditional patriarchal attitudes, coupled with economic disparities and inadequate enforcement of legal safeguards, collectively impede the journey towards true women's empowerment in India. Illustrate with examples from social, economic, and political spheres how these multi-dimensional challenges often intersect and perpetuate cycles of gender inequality and violence.
 
 ========================================
-GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
+GS-4 ETHICS: Attitude: Formation, Change and Social Influence
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the inherent tension between a civil servant's individual conscience and the pressure to conform to prevailing organisational or societal norms, especially when facing morally ambiguous situations in a pluralistic administrative environment. How can this tension be constructively resolved?
+Explain how continuous exposure to professional ethical codes and values within the civil services can proactively shape an administrator's attitude, acting as a bulwark against the subtle pressures of social influence and informal institutional norms that may compromise impartiality.
 
 Q5. (10 Marks | 150 words)
-How can a civil servant integrate the principles of an 'ethics of care' approach into public policy formulation and implementation, particularly when dealing with vulnerable sections of society? Discuss its potential to humanise governance beyond purely utilitarian considerations.
+How should a civil servant cultivate the moral courage required to challenge deeply ingrained organizational prejudices and societal stereotypes that impede equitable service delivery and unbiased policy implementation? Discuss the ethical rationale for such proactive intervention.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Ananya Sharma, a recently appointed Assistant Collector in the Revenue Department of Rudrapur District, is known for her diligence and integrity. She is currently overseeing the land acquisition process for a crucial state highway bypass project aimed at easing traffic congestion and boosting regional commerce. Her team has meticulously surveyed the proposed route and identified all affected plots as per statutory guidelines.
+Divya Sharma, a newly appointed District Magistrate in the disaster-prone district of Rudraprayag, Uttarakhand, is spearheading critical relief and rehabilitation efforts following unprecedented monsoon floods and landslides. The situation is dire, with thousands displaced, infrastructure severely damaged, and immediate aid crucial for survival. She is working tirelessly, coordinating various agencies and aid deliveries to remote areas.
 
-A powerful senior MLA from the ruling party, Mr. Virendra Singh, owns a significant commercial property that falls directly in the original proposed path of the highway bypass. He has directly approached Ms. Sharma, demanding an immediate and substantial deviation in the highway alignment to save his property, even though such a change would violate existing engineering norms and significantly inflate project costs by affecting additional private lands unnecessarily. Ms. Sharma's immediate superior, the District Collector, has subtly advised her to "explore flexible options" given the political sensitivity and the urgency to complete the project without political roadblocks. Local public enthusiasm for the project is high, but the potential for public resentment due to rule-bending is also significant.
+During a routine audit of emergency procurement records, Divya uncovers irregularities indicating that her immediate superior, the Divisional Commissioner, Mr. Rakesh Verma, has approved inflated invoices for relief material from certain contractors. Further investigation reveals a significant portion of these funds has been siphoned off. Mr. Verma is politically well-connected and has hinted at 'flexible accounting' being necessary for 'smooth operations' in the past. Reporting him could jeopardize the ongoing relief work, invite political retaliation, and potentially damage her own career, while inaction would allow the embezzlement to continue, directly impacting the suffering population.
 
-Ms. Sharma is faced with the dilemma of upholding the rule of law and her personal integrity versus yielding to political pressure to ensure project continuity and avoid potential career repercussions. Her decision will impact the fairness of the land acquisition process, the public exchequer, the credibility of the administration, and her own professional future.
+The primary stakeholders are the disaster-affected population, who are being denied essential aid, and the public's trust in governance. Divya's colleagues, the administration's integrity, and her personal career also stand to be gravely affected. Both immediate action and continued silence carry severe and far-reaching consequences for human lives and ethical governance.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Divya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
