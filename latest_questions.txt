@@ -1,35 +1,36 @@
-Date: 30 Jul 2026
+Date: 31 Jul 2026
 
 ========================================
-GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
+GS-1 SOCIETY: Communalism, Regionalism and Secularism
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the complex interplay between persistent gender gaps in workforce participation and the heightened vulnerability of women to various forms of violence, hindering their holistic empowerment. Discuss how economic marginalization can perpetuate cycles of disempowerment.
+Examine how the democratisation of digital content creation and dissemination platforms, particularly short-form video and instant messaging applications, has reshaped the discourse on secularism and communal harmony in India. Discuss the unique challenges this poses for maintaining social cohesion and distinguishing between genuine cultural expression and targeted communal narratives.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the mere provision of reservation for women in political bodies may not automatically translate into effective representation or substantive policy changes beneficial for women, in the absence of deeper socio-cultural shifts and capacity building.
+What do you understand by 'ethno-regionalism' and how does it differ from traditional linguistic regionalism? Critically examine how identity politics, fueled by historical grievances and economic disparities, has influenced the rise of new regional aspirations and their potential implications for national integration in recent years.
 
 Q3. (15 Marks | 250 words)
-Discuss how traditional patriarchal attitudes, coupled with economic disparities and inadequate enforcement of legal safeguards, collectively impede the journey towards true women's empowerment in India. Illustrate with examples from social, economic, and political spheres how these multi-dimensional challenges often intersect and perpetuate cycles of gender inequality and violence.
+Critically analyse the efficacy of India's constitutional secularism and the ingrained composite culture in countering the increasing politicisation of religious identities and resultant communal polarisation. Discuss its impacts across the social fabric, electoral dynamics, and educational curricula, providing suitable examples.
 
 ========================================
-GS-4 ETHICS: Attitude: Formation, Change and Social Influence
+GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how continuous exposure to professional ethical codes and values within the civil services can proactively shape an administrator's attitude, acting as a bulwark against the subtle pressures of social influence and informal institutional norms that may compromise impartiality.
+Explain the significance of 'intellectual impartiality' for a civil servant in upholding evidence-based policy making and ensuring transparent governance. How does this value extend beyond personal neutrality to influence institutional decision-making, particularly when confronted with populist pressures or entrenched departmental biases?
 
 Q5. (10 Marks | 150 words)
-How should a civil servant cultivate the moral courage required to challenge deeply ingrained organizational prejudices and societal stereotypes that impede equitable service delivery and unbiased policy implementation? Discuss the ethical rationale for such proactive intervention.
+How should a civil servant navigate the ethical dilemma of dedicating themselves to public service while also managing personal career aspirations and professional growth within a hierarchical administration? Examine the moral imperative to prioritise citizen welfare when personal advancement might demand compromise on ethical principles or adherence to suboptimal directives.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Divya Sharma, a newly appointed District Magistrate in the disaster-prone district of Rudraprayag, Uttarakhand, is spearheading critical relief and rehabilitation efforts following unprecedented monsoon floods and landslides. The situation is dire, with thousands displaced, infrastructure severely damaged, and immediate aid crucial for survival. She is working tirelessly, coordinating various agencies and aid deliveries to remote areas.
 
-During a routine audit of emergency procurement records, Divya uncovers irregularities indicating that her immediate superior, the Divisional Commissioner, Mr. Rakesh Verma, has approved inflated invoices for relief material from certain contractors. Further investigation reveals a significant portion of these funds has been siphoned off. Mr. Verma is politically well-connected and has hinted at 'flexible accounting' being necessary for 'smooth operations' in the past. Reporting him could jeopardize the ongoing relief work, invite political retaliation, and potentially damage her own career, while inaction would allow the embezzlement to continue, directly impacting the suffering population.
+Ms. Anya Sharma, a diligent District Collector in the resource-rich but socio-economically underdeveloped district of Rudraprayag, has always prioritised community welfare. Her office has been lauded for its empathetic approach to public grievances. The state government, eager to boost industrialisation and employment, recently signed a Memorandum of Understanding with a major mining corporation for a massive bauxite extraction project in the district.
 
-The primary stakeholders are the disaster-affected population, who are being denied essential aid, and the public's trust in governance. Divya's colleagues, the administration's integrity, and her personal career also stand to be gravely affected. Both immediate action and continued silence carry severe and far-reaching consequences for human lives and ethical governance.
+The project, deemed strategically important by the Chief Secretary, requires the immediate displacement of a cluster of three tribal villages, whose inhabitants have lived in harmony with the forest for generations. While the government order promises a generous rehabilitation package, local tribal leaders and a prominent tribal rights activist have approached Ms. Sharma, presenting compelling evidence that the proposed compensation is inadequate, culturally insensitive, and ignores their customary land rights under existing tribal welfare laws. The Chief Minister's office has conveyed through the local MLA the urgency of expediting land acquisition, citing potential loss of investment if there are delays.
+
+Any swift action to acquire land without due process could spark widespread protests, potentially leading to social unrest and human rights violations, further alienating the vulnerable tribal population. Conversely, delaying the project could invite disciplinary action against Ms. Sharma, jeopardise her career, and be seen as obstructionist by the state leadership, leading to a loss of development opportunity as projected by the government.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Divya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Anya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
