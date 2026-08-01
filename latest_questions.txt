@@ -1,36 +1,36 @@
-Date: 31 Jul 2026
+Date: 01 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Communalism, Regionalism and Secularism
+GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the democratisation of digital content creation and dissemination platforms, particularly short-form video and instant messaging applications, has reshaped the discourse on secularism and communal harmony in India. Discuss the unique challenges this poses for maintaining social cohesion and distinguishing between genuine cultural expression and targeted communal narratives.
+Examine the adequacy of India's current policy frameworks in effectively harnessing its evolving demographic dividend, particularly concerning skill development pathways and comprehensive employment generation strategies for its burgeoning youth population amidst global economic shifts.
 
 Q2. (10 Marks | 150 words)
-What do you understand by 'ethno-regionalism' and how does it differ from traditional linguistic regionalism? Critically examine how identity politics, fueled by historical grievances and economic disparities, has influenced the rise of new regional aspirations and their potential implications for national integration in recent years.
+What do you understand by the emerging 'intergenerational contract' challenges in India, where an increasingly mobile and younger workforce supports a growing elderly population? How does unchecked urbanisation and reverse migration influence the financial and social security burdens on families and public systems?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the efficacy of India's constitutional secularism and the ingrained composite culture in countering the increasing politicisation of religious identities and resultant communal polarisation. Discuss its impacts across the social fabric, electoral dynamics, and educational curricula, providing suitable examples.
+Critically analyse the multifaceted socio-economic and environmental implications of accelerating intra-state migration trends in India, beyond the traditional rural-urban paradigm. Discuss its impact on regional disparities, urban infrastructure strain, resource allocation, and the demographic profile of both source and destination areas, with suitable examples.
 
 ========================================
-GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
+GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'intellectual impartiality' for a civil servant in upholding evidence-based policy making and ensuring transparent governance. How does this value extend beyond personal neutrality to influence institutional decision-making, particularly when confronted with populist pressures or entrenched departmental biases?
+What do you understand by the concept of 'emotional resilience' in public service, and how does a civil servant's capacity for self-regulation and impulse control contribute to maintaining objectivity and ethical conduct during periods of intense political or public scrutiny?
 
 Q5. (10 Marks | 150 words)
-How should a civil servant navigate the ethical dilemma of dedicating themselves to public service while also managing personal career aspirations and professional growth within a hierarchical administration? Examine the moral imperative to prioritise citizen welfare when personal advancement might demand compromise on ethical principles or adherence to suboptimal directives.
+How should a senior administrator leverage empathetic communication and active listening skills to build trust and ensure equitable resolution during complex inter-departmental conflicts, especially when diverse professional cultures or competing bureaucratic priorities are involved?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Ms. Anya Sharma, a diligent District Collector in the resource-rich but socio-economically underdeveloped district of Rudraprayag, has always prioritised community welfare. Her office has been lauded for its empathetic approach to public grievances. The state government, eager to boost industrialisation and employment, recently signed a Memorandum of Understanding with a major mining corporation for a massive bauxite extraction project in the district.
+SP Vikram Singh, a diligent and upright Indian Police Service officer of the 2015 batch, currently serves as the Deputy Commissioner of Police (DCP) in the Anti-Corruption Bureau (ACB) of the State Police in the bustling capital city of 'Vardhaman'. Known for his integrity and investigative acumen, he has recently spearheaded several high-profile arrests, significantly boosting public confidence in the agency.
 
-The project, deemed strategically important by the Chief Secretary, requires the immediate displacement of a cluster of three tribal villages, whose inhabitants have lived in harmony with the forest for generations. While the government order promises a generous rehabilitation package, local tribal leaders and a prominent tribal rights activist have approached Ms. Sharma, presenting compelling evidence that the proposed compensation is inadequate, culturally insensitive, and ignores their customary land rights under existing tribal welfare laws. The Chief Minister's office has conveyed through the local MLA the urgency of expediting land acquisition, citing potential loss of investment if there are delays.
+During a routine review of an ongoing investigation into irregularities in public infrastructure tenders, Vikram uncovers a disturbing trail of evidence indicating a sophisticated network of kickbacks. To his shock, the evidence points towards direct involvement of several senior officers within his own ACB unit, including individuals close to the Director General of Police (DGP), in collusion with a powerful construction conglomerate. He faces immense pressure from a political heavyweight, subtly conveyed through a high-ranking official, to 'manage' the information and avoid an internal scandal that could destabilize the government.
 
-Any swift action to acquire land without due process could spark widespread protests, potentially leading to social unrest and human rights violations, further alienating the vulnerable tribal population. Conversely, delaying the project could invite disciplinary action against Ms. Sharma, jeopardise her career, and be seen as obstructionist by the state leadership, leading to a loss of development opportunity as projected by the government.
+Vikram's decision will directly affect the integrity of the state police, the faith of the common citizen in governance, the financial health of public projects, and his own career and moral standing. Both exposing and suppressing the evidence carry profound and far-reaching implications for public trust and accountability.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to SP Vikram Singh? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
