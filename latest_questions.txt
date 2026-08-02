@@ -1,36 +1,36 @@
-Date: 01 Aug 2026
+Date: 02 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
+GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the adequacy of India's current policy frameworks in effectively harnessing its evolving demographic dividend, particularly concerning skill development pathways and comprehensive employment generation strategies for its burgeoning youth population amidst global economic shifts.
+Examine how a holistic approach to measuring multidimensional poverty, beyond mere income metrics, can provide a more accurate understanding of societal deprivations and inform targeted policy interventions for achieving truly inclusive growth.
 
 Q2. (10 Marks | 150 words)
-What do you understand by the emerging 'intergenerational contract' challenges in India, where an increasingly mobile and younger workforce supports a growing elderly population? How does unchecked urbanisation and reverse migration influence the financial and social security burdens on families and public systems?
+Critically examine the persistent challenges faced by Scheduled Tribes and Dalits in overcoming structural barriers to social mobility and economic integration, despite affirmative action policies. How do these barriers contribute to their continued exclusion from mainstream development?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multifaceted socio-economic and environmental implications of accelerating intra-state migration trends in India, beyond the traditional rural-urban paradigm. Discuss its impact on regional disparities, urban infrastructure strain, resource allocation, and the demographic profile of both source and destination areas, with suitable examples.
+Discuss the effectiveness of India's social security architecture, particularly through schemes like MGNREGA, in fostering equitable development and reducing intergenerational poverty. Analyse its impact on rural livelihoods, access to education for vulnerable groups, and women's economic empowerment, citing relevant examples.
 
 ========================================
-GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
+GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the concept of 'emotional resilience' in public service, and how does a civil servant's capacity for self-regulation and impulse control contribute to maintaining objectivity and ethical conduct during periods of intense political or public scrutiny?
+Explain the enduring relevance of Dr. B.R. Ambedkar's concept of 'constitutional morality' for fostering an ethical and just public administration in contemporary India. How does this concept guide civil servants in balancing individual rights with collective well-being amidst societal pressures?
 
 Q5. (10 Marks | 150 words)
-How should a senior administrator leverage empathetic communication and active listening skills to build trust and ensure equitable resolution during complex inter-departmental conflicts, especially when diverse professional cultures or competing bureaucratic priorities are involved?
+In an era of rapid technological change and increasing socio-economic disparities, critically examine how Mahatma Gandhi's principle of 'Trusteeship' can be adapted by public sector leaders to ensure responsible resource management and mitigate wealth concentration for the greater public good.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-SP Vikram Singh, a diligent and upright Indian Police Service officer of the 2015 batch, currently serves as the Deputy Commissioner of Police (DCP) in the Anti-Corruption Bureau (ACB) of the State Police in the bustling capital city of 'Vardhaman'. Known for his integrity and investigative acumen, he has recently spearheaded several high-profile arrests, significantly boosting public confidence in the agency.
+Rajesh Kumar, a diligent and upright District Collector in the resource-rich district of Kolar, is known for his commitment to transparent governance. His current responsibilities include overseeing various infrastructure projects, particularly those related to renewable energy and land acquisition for industrial development, ensuring compliance with environmental norms and fair compensation.
 
-During a routine review of an ongoing investigation into irregularities in public infrastructure tenders, Vikram uncovers a disturbing trail of evidence indicating a sophisticated network of kickbacks. To his shock, the evidence points towards direct involvement of several senior officers within his own ACB unit, including individuals close to the Director General of Police (DGP), in collusion with a powerful construction conglomerate. He faces immense pressure from a political heavyweight, subtly conveyed through a high-ranking official, to 'manage' the information and avoid an internal scandal that could destabilize the government.
+A major solar park project, crucial for the state's energy goals, is under review in Rajesh's office for final environmental clearances and land valuation approvals. Allegations have surfaced from local villagers and NGOs regarding irregularities in the land acquisition process and inadequate environmental impact assessments. To Rajesh's dismay, he discovers that a key contractor company, 'Sunbeam Renewables', involved in the project, is owned by his brother-in-law, Jitendra Singh. Jitendra contacts Rajesh directly, appealing for swift approval, citing project deadlines and significant financial implications, while a prominent local political leader also pressures Rajesh to expedite the clearances for "developmental progress". Simultaneously, reports of intensified protests by affected farmers demanding a re-evaluation of land compensation are reaching his office.
 
-Vikram's decision will directly affect the integrity of the state police, the faith of the common citizen in governance, the financial health of public projects, and his own career and moral standing. Both exposing and suppressing the evidence carry profound and far-reaching implications for public trust and accountability.
+Rajesh's decision will directly affect his professional integrity, his family relationships, the welfare of hundreds of villagers, the project's viability, the credibility of the district administration, and potentially lead to legal challenges. Both an immediate approval and a prolonged investigation carry severe personal and institutional consequences.
 
-(a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to SP Vikram Singh? Evaluate each option with its merits and demerits. (100 words)
-(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+(a) Identify and discuss the ethical issues involved in this case.
+(b) What are the options available to Rajesh Kumar? Evaluate each option with its merits and demerits.
+(c) What course of action would you recommend and why? How would you handle the pressures involved?
