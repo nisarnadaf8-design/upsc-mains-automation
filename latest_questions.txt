@@ -1,35 +1,36 @@
-Date: 03 Aug 2026
+Date: 04 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
+GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the extent to which the 'Smart City' paradigm, often driven by technological solutions, has effectively addressed the deep-seated structural issues of urban exclusion and inequity in India, particularly concerning informal settlements.
+Examine how the pervasive digital sphere, fueled by globalisation, is reshaping indigenous cultural practices and fostering new forms of identity expression, particularly among India's youth. Discuss the inherent tension between cultural preservation and digital assimilation in this context.
 
 Q2. (10 Marks | 150 words)
-What do you understand by the term 'participatory urban governance'? Critically evaluate how the implementation of the 74th Constitutional Amendment has shaped the capacity of Urban Local Bodies to sustainably manage essential services and infrastructure in rapidly growing Indian cities.
+Critically examine the concept of 'glocalised' work patterns in India. How has the rise of platform-based services, driven by global economic forces, altered traditional employment relationships and social security nets for the urban and rural workforce?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multi-faceted challenges posed by rapid rural-urban migration to the ecological sustainability and social cohesion of India's metropolitan areas. Discuss its implications for urban planning, resource management, and the administrative capacity of municipal corporations, citing suitable contemporary examples.
+Discuss the multi-faceted impact of accelerated globalisation on the social and economic landscape of Indian women. Analyse its implications concerning their agency within traditional family structures, participation in the formal and informal economies, and the evolving legal protections available to them.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
+GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by Kautilya's concept of 'Dharma-rajya' and its emphasis on ethical statecraft? Explain its significance in fostering a culture of accountability and public trust among civil servants in contemporary Indian administration.
+Explain the inherent ethical tension between administrative efficiency and absolute transparency in public governance. How does the principle of 'proportionality' help navigate this dilemma for civil servants striving to maintain probity?
 
 Q5. (10 Marks | 150 words)
-How should a civil servant uphold the 'categorical imperative' in their day-to-day administrative decisions, especially when faced with conflicting loyalties or pressure to act expediently? Discuss with specific reference to universalizability and treating humanity as an end.
+In the context of evolving digital governance initiatives, examine the ethical challenges a public servant faces in upholding the 'right to be forgotten' for individuals while simultaneously ensuring the principles of transparency and public accountability for governmental actions.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Divya Sharma, a newly appointed Sub-Divisional Magistrate (SDM) in the district town of Rudrapur, a bustling urban center with a history of communal sensitivities, is facing her first major challenge. A minor altercation during a religious procession has rapidly escalated, leading to widespread tension and sporadic clashes between two prominent communities. The situation threatens to spiral out of control, demanding immediate and impartial administrative intervention to restore peace and order.
 
-As Divya prepares to deploy forces and initiate peace talks, she receives an insistent call from the powerful local Member of Legislative Assembly (MLA), who also holds a significant ministerial portfolio. The MLA explicitly instructs her to take stringent action, including arrests, primarily against individuals from one specific community, claiming it's crucial for maintaining 'order' and "political stability." He subtly warns of severe repercussions on her career if his 'guidance' is not followed. Simultaneously, the District Superintendent of Police, while personally advocating for a balanced approach, hints at the immense political pressure he is also under.
+Ms. Anjali Singh, a diligent District Welfare Officer in Ayodhya District, Uttar Pradesh, is overseeing the implementation of the Pradhan Mantri Awas Yojana (Gramin) for the current financial year. Her department is tasked with preparing a comprehensive report on the scheme's progress, detailing the number of completed housing units and beneficiaries, which is crucial for further fund disbursements and annual performance reviews.
 
-Divya's decision will directly impact the lives and fundamental rights of many citizens, the fragile communal harmony of Rudrapur, and the integrity of the district administration. Upholding impartiality could invite political wrath and potential career setbacks, while succumbing to pressure risks exacerbating violence, undermining justice, and eroding public faith in the rule of law.
+As the deadline for the report submission approaches, Ms. Singh is subjected to intense pressure from Mr. Rajiv Shukla, the influential local MLA, and subtly, from her immediate superior, the District Magistrate, Mr. Alok Verma. Both indicate the necessity to present a significantly higher completion rate and beneficiary coverage than the actual ground reality, citing "political sensitivities" and the need to showcase "exemplary progress" ahead of upcoming state elections. Anjali knows this would involve manipulating data, as many units are either incomplete or incorrectly tagged. A junior officer, frustrated by similar pressures, has discreetly warned her that such falsification would undermine public trust and might lead to future scrutiny.
+
+Ms. Singh's decision will directly impact the legitimate beneficiaries awaiting housing, the credibility of the government scheme, public faith in administration, and her own professional integrity and career. Compliance risks a cover-up and systemic fraud, while defiance could lead to professional repercussions and strained working relationships within the district administration.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Divya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Anjali Singh? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
