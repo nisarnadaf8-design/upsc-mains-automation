@@ -1,35 +1,35 @@
-Date: 05 Aug 2026
+Date: 06 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Social Movements and Civil Society in India
+GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the integration of digital tools and online activism has reshaped the nature and influence of social movements in India, particularly in strengthening democratic accountability. Discuss the new challenges this presents for traditional civil society engagement.
+Examine how the National Education Policy 2020 endeavors to foster multidisciplinary learning and critical thinking, moving beyond rote memorization. Discuss its implications for preparing students for a rapidly evolving global job market and nurturing innovation.
 
 Q2. (10 Marks | 150 words)
-Critically examine the evolving relationship between the Indian state and civil society organizations, particularly concerning issues of funding, regulation, and perceived political alignment. How has this dynamic affected the space for dissent and advocacy in a democracy?
+Critically examine the growing phenomenon of 'shadow education' and its implications for equitable access to quality learning outcomes in India. How does the increasing reliance on private tutoring exacerbate socio-economic disparities within the education system?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the persistent challenges posed by left-wing extremism in India, considering its deep socio-economic roots and political ramifications. Discuss how such movements impact local governance, tribal rights, and regional development, suggesting a multi-dimensional strategy for effective resolution.
+The persistent high dropout rates among girls and children from Scheduled Caste and Scheduled Tribe communities reflect deep-seated structural inequalities in India's education system. Critically analyse the socio-economic, cultural, and institutional factors contributing to this challenge, and suggest multi-pronged strategies for enhancing retention and promoting inclusive educational attainment.
 
 ========================================
-GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
+GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of the Nolan Principles of 'Integrity' and 'Objectivity' for maintaining public trust in civil services. How do these principles serve as a bulwark against potential conflicts of interest, both perceived and actual, in public decision-making?
+Explain the concept of 'moral licensing' and its relevance in understanding why public officials, despite having a strong ethical track record, might sometimes engage in minor corrupt practices. How can institutions foster a culture that mitigates such cognitive biases?
 
 Q5. (10 Marks | 150 words)
-What are the ethical challenges faced by a civil servant contemplating whistleblowing in an administrative setup characterized by patronage and opacity? Discuss how the values of courage and accountability become critical in upholding ethical governance amidst such pressures.
+Examine the ethical challenges faced by civil servants in balancing strict adherence to rules and regulations with the need for compassionate administration, especially when dealing with vulnerable sections of society. How can an ethical framework guide discretion without compromising accountability?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ananya Sharma, a bright and idealistic young IAS officer, was recently posted as the Sub-Divisional Magistrate (SDM) in Vikas Nagar, a district earmarked for a major industrial corridor. Her initial months involved overseeing a crucial land acquisition process for a new expressway project, which promised significant economic growth and connectivity to the region.
+Rajesh Kumar is the District Disaster Management Officer in the flood-prone district of Mahanagar. Following unprecedented monsoon rains, the district has been severely hit by floods, displacing thousands and causing widespread destruction. He has been tasked with overseeing the distribution of critical relief funds and materials to the affected population. His reputation for honesty and efficiency is well-known.
 
-During her review of land records and compensation assessments, Ananya noticed a pattern of irregularities: certain plots, mysteriously acquired by a prominent private builder just months prior, were being disproportionately overvalued, while compensation for genuinely poor farmers’ land was being undervalued. Her immediate superior, the District Collector, subtly advised her to expedite clearances, hinting at 'political sensitivities' and 'project deadlines'. A local MLA also made an informal visit, emphasizing the builder's 'crucial role' in regional development and subtly implying career consequences if the process was stalled.
+As Rajesh mobilizes resources, he receives a direct order from the powerful local MLA, Mr. Sharma, to divert a significant portion of the allocated relief funds towards a specific 'reconstruction project' in his own constituency, which is less severely affected. Simultaneously, Rajesh's immediate superior, the District Collector, hints that cooperation with influential political figures is crucial for 'smooth functioning' and future career prospects, indirectly endorsing the MLA's demand. The local media has also begun questioning the transparency of the relief operations, increasing public scrutiny.
 
-Ananya's decision will directly impact thousands of marginalized farmers who stand to lose their only source of livelihood, the public exchequer facing undue financial burden, and the credibility of the administration. Both proceeding with the irregularities or exposing them carry significant professional and personal ramifications for her.
+The primary stakeholders are the genuinely flood-affected populace, who desperately need aid for survival and rehabilitation. Diverting funds would directly deprive them of essential support, leading to potential loss of life, prolonged suffering, and social unrest. Refusing the MLA and Collector could jeopardize Rajesh's career and potentially lead to his transfer or ostracization, hindering future public service effectiveness.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rajesh Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
