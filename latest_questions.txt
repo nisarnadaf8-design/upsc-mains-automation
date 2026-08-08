@@ -1,35 +1,37 @@
-Date: 07 Aug 2026
+Date: 08 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Health: Public Health System and Social Determinants
+GS-1 SOCIETY: Tribal Communities: Issues, Rights and Constitutional Safeguards
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the pervasive influence of deep-rooted socio-cultural norms and power dynamics, rather than merely economic factors, in exacerbating health disparities and hindering the effective implementation of public health initiatives across diverse Indian communities.
+Examine the evolving challenges to the constitutional safeguards enshrined in the Fifth and Sixth Schedules, particularly in balancing tribal autonomy with national development imperatives and resource extraction policies. Discuss how these schedules can be strengthened to better adapt to contemporary economic pressures and environmental concerns impacting tribal lands.
 
 Q2. (10 Marks | 150 words)
-What do you understand by the concept of 'health equity' in the context of India's evolving healthcare landscape? Critically assess how far national health programs are succeeding in narrowing the urban-rural divide and ensuring equitable access to comprehensive care, including mental health services.
+Critically examine how the implementation of the Forest Rights Act, 2006, has shaped the socio-economic empowerment and political agency of diverse tribal communities. To what extent has the Act succeeded in resolving long-standing conflicts over forest resources while preserving traditional knowledge systems?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the complex interlinkages between gender, nutrition, and economic productivity in perpetuating cycles of poverty and ill-health in India, as evidenced by recent national health surveys. Discuss the social, economic, and policy interventions required to foster intergenerational well-being and break these cycles.
+Critically analyse the multi-dimensional impact of involuntary displacement of tribal communities due to mega-infrastructure projects on their social fabric, economic livelihoods, and cultural identity. Discuss how existing rehabilitation and resettlement policies often fall short, inadvertently contributing to grievances that can fuel dissent and conflict in vulnerable regions.
 
 ========================================
-GS-4 ETHICS: Corporate Governance and Business Ethics
+GS-4 ETHICS: Ethics in Public and Private Relationships
 ========================================
 
 Q4. (10 Marks | 150 words)
-What constitutes 'ethical corporate stewardship' in an era of globalized markets and heightened environmental concerns? Discuss its significance in fostering long-term stakeholder value beyond mere shareholder returns, especially for Public Sector Undertakings.
+What do you understand by the concept of "impersonal objectivity" in public administration, and why is it considered fundamental for a civil servant navigating the complexities of personal relationships? Explain how it helps in upholding the principles of fairness and equity in governance.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical challenges faced by a civil servant tasked with regulating businesses involved in potentially exploitative advertising or marketing practices targeting vulnerable consumer segments. How can a robust ethical framework guide decision-making in such situations?
+A civil servant often encounters situations where deeply ingrained social obligations or familial expectations might clash with their official duty to act solely in the public interest. Examine the ethical dilemmas involved when private loyalties or reciprocity potentially compromise impartiality in decision-making and resource allocation.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Anjali Sharma, a dedicated District Environmental Officer with the State Pollution Control Board in the rapidly industrializing district of Sunderpur, has consistently upheld environmental regulations. Her office is currently reviewing the expansion application of 'EcoTech Industries', a major employer and taxpayer in the region, known for its political connections.
 
-During her team's inspection, significant non-compliance and unmitigated effluent discharge exceeding permissible limits were discovered at EcoTech's existing plant. However, her immediate superior, under subtle pressure from a powerful state minister and with veiled threats of departmental reshuffle, has instructed Anjali to expedite the approval by overlooking these violations. Simultaneously, local community groups have started protesting against the alleged pollution.
+Paragraph 1: Ms. Anjali Singh, a diligent Deputy Secretary in a major Public Sector Undertaking (PSU) under the Ministry of Finance, working in a bustling metropolitan city, has always maintained an impeccable record of integrity and professionalism. Recently, while scrutinizing procurement documents for a high-value infrastructure project, she uncovered substantial evidence of financial irregularities amounting to large-scale fraud, potentially involving several senior officials within the PSU. She meticulously documented her findings and, adhering strictly to protocol, reported the matter confidentially to the Chief Vigilance Officer (CVO).
 
-Anjali's decision will directly impact the health of thousands of residents, the local ecosystem, EcoTech's operations, her career, and the integrity of the regulatory body. Both approving the expansion or strictly enforcing regulations carry severe and far-reaching consequences.
+Paragraph 2: Within days of her report, Ms. Singh experienced significant professional backlash. Her annual performance appraisal, previously outstanding, was abruptly downgraded without substantive reasons. Access to critical project files was restricted, hampering her current assignments. Her immediate superior, known to have close ties with some implicated officials, subtly advised her to "prioritize institutional harmony" and warned of adverse career consequences, including a punitive transfer to a remote posting, if she continued to pursue the matter. Simultaneously, a powerful political leader, with alleged links to the beneficiary conglomerate of the fraudulent tender, initiated veiled threats through public statements and instigated local media to circulate defamatory articles questioning Ms. Singh's personal character. Her family, deeply concerned about her safety, reputation, and career prospects, has implored her to reconsider her actions or withdraw the complaint to avoid further trouble.
 
+Paragraph 3: Ms. Singh's decision in this situation will profoundly impact not only her own career and personal life but also the credibility of the PSU, the morale of honest officers, public trust in administrative accountability, and the broader fight against systemic corruption. Both pursuing the truth and succumbing to pressure carry severe, far-reaching consequences for all involved stakeholders.
+
+Sub-questions:
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Anjali Singh? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
