@@ -1,37 +1,46 @@
-Date: 08 Aug 2026
+Date: 09 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Tribal Communities: Issues, Rights and Constitutional Safeguards
+GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving challenges to the constitutional safeguards enshrined in the Fifth and Sixth Schedules, particularly in balancing tribal autonomy with national development imperatives and resource extraction policies. Discuss how these schedules can be strengthened to better adapt to contemporary economic pressures and environmental concerns impacting tribal lands.
+Examine the evolving nature of India's secularism from 'equal respect for all religions' to a 'principled distance' approach. Discuss the challenges this shift poses for ensuring equitable state engagement with diverse religious minorities and maintaining social cohesion in a pluralistic society.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the implementation of the Forest Rights Act, 2006, has shaped the socio-economic empowerment and political agency of diverse tribal communities. To what extent has the Act succeeded in resolving long-standing conflicts over forest resources while preserving traditional knowledge systems?
+Critically examine how the digital sphere has reshaped both the advocacy for minority rights and the propagation of communal narratives in India. What role can effective governance play in harnessing digital tools for social harmony while mitigating risks of polarization?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multi-dimensional impact of involuntary displacement of tribal communities due to mega-infrastructure projects on their social fabric, economic livelihoods, and cultural identity. Discuss how existing rehabilitation and resettlement policies often fall short, inadvertently contributing to grievances that can fuel dissent and conflict in vulnerable regions.
+Discuss how the ongoing discourse surrounding a Uniform Civil Code necessitates a delicate balance between achieving gender justice, safeguarding the cultural autonomy of diverse communities, and upholding the federal principles of legislative competence. Illustrate with recent examples.
 
 ========================================
-GS-4 ETHICS: Ethics in Public and Private Relationships
+GS-4 ETHICS: Social Influence, Persuasion and Moral Development
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the concept of "impersonal objectivity" in public administration, and why is it considered fundamental for a civil servant navigating the complexities of personal relationships? Explain how it helps in upholding the principles of fairness and equity in governance.
+Explain the significance of fostering post-conventional moral reasoning among civil servants to navigate complex ethical dilemmas and resist institutional pressures in public administration. How does this align with the ideals of a transparent and accountable governance system?
 
 Q5. (10 Marks | 150 words)
-A civil servant often encounters situations where deeply ingrained social obligations or familial expectations might clash with their official duty to act solely in the public interest. Examine the ethical dilemmas involved when private loyalties or reciprocity potentially compromise impartiality in decision-making and resource allocation.
+How should a civil servant ethically leverage persuasion to foster collective action and citizen participation in developmental projects, without resorting to manipulation or undermining individual autonomy? Examine the inherent challenges in maintaining this ethical boundary amidst diverse community interests.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Paragraph 1: Ms. Anjali Singh, a diligent Deputy Secretary in a major Public Sector Undertaking (PSU) under the Ministry of Finance, working in a bustling metropolitan city, has always maintained an impeccable record of integrity and professionalism. Recently, while scrutinizing procurement documents for a high-value infrastructure project, she uncovered substantial evidence of financial irregularities amounting to large-scale fraud, potentially involving several senior officials within the PSU. She meticulously documented her findings and, adhering strictly to protocol, reported the matter confidentially to the Chief Vigilance Officer (CVO).
+Ms. Ananya Sharma, the newly appointed District Magistrate of Sundergarh, Odisha, is overseeing the acquisition of land for a proposed 2 GW solar power park, deemed a project of national strategic importance. The project site encompasses several tribal villages and a dense patch of community forest critical for their sustenance and cultural practices.
 
-Paragraph 2: Within days of her report, Ms. Singh experienced significant professional backlash. Her annual performance appraisal, previously outstanding, was abruptly downgraded without substantive reasons. Access to critical project files was restricted, hampering her current assignments. Her immediate superior, known to have close ties with some implicated officials, subtly advised her to "prioritize institutional harmony" and warned of adverse career consequences, including a punitive transfer to a remote posting, if she continued to pursue the matter. Simultaneously, a powerful political leader, with alleged links to the beneficiary conglomerate of the fraudulent tender, initiated veiled threats through public statements and instigated local media to circulate defamatory articles questioning Ms. Singh's personal character. Her family, deeply concerned about her safety, reputation, and career prospects, has implored her to reconsider her actions or withdraw the complaint to avoid further trouble.
+The local Adivasi communities, traditionally dependent on the forest and land, are fiercely resisting displacement, citing violations of their constitutional rights under PESA and Forest Rights Act. A powerful state minister is publicly pressuring Ms. Sharma to expedite land acquisition, emphasizing the project's economic benefits and national security implications. Meanwhile, several NGOs have mobilized, threatening widespread protests and legal action if community consent is not genuinely obtained.
 
-Paragraph 3: Ms. Singh's decision in this situation will profoundly impact not only her own career and personal life but also the credibility of the PSU, the morale of honest officers, public trust in administrative accountability, and the broader fight against systemic corruption. Both pursuing the truth and succumbing to pressure carry severe, far-reaching consequences for all involved stakeholders.
+Her decision will directly impact the lives and cultural heritage of thousands of tribal villagers, the timely execution of a strategic national project, and the credibility of the district administration. Failure to act decisively could lead to social unrest, legal battles, and project stagnation, while forceful acquisition could ignite a humanitarian crisis and irreversible damage to community trust.
 
-Sub-questions:
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anjali Singh? Evaluate each option with its merits and demerits. (100 words)
+Ethical issues include conflicting duties (national interest vs. community rights), fairness, justice, accountability, transparency, environmental ethics, and upholding constitutional principles (PESA, FRA) against political pressure and potential human rights violations.
+
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
+1. Proceed with forceful acquisition: Merits - Meets political pressure, speeds project. Demerits - Violates rights, social unrest, legal challenges, ethical compromise.
+2. Halt project/insist on full compliance: Merits - Upholds rights, rule of law. Demerits - Project delay, political backlash, economic loss, seen as obstructionist.
+3. Initiate rigorous dialogue and impact assessment: Merits - Seeks informed consent, explores alternatives, builds trust, long-term sustainability. Demerits - Time-consuming, requires extensive effort, may not satisfy all stakeholders.
+4. Propose alternative site or modified plan: Merits - Protects community, explores win-win. Demerits - Project cost increase, technical feasibility issues, political resistance.
+
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+I recommend Ms. Sharma immediately halt forceful acquisition and initiate a transparent, inclusive dialogue with tribal communities, strictly adhering to PESA and FRA. Concurrently, commission an independent socio-environmental impact assessment, exploring project redesign or less impactful alternative sites.
+
+To handle pressures, she must meticulously document all decisions, citing legal frameworks and ground realities to superiors, emphasizing long-term sustainable development. She should clearly communicate legal obligations and risks of non-compliance to political leadership. With community representatives, she must build trust through transparency, seeking support from relevant departments (Forest, Tribal Welfare) and expert panels to mediate and find equitable solutions. Her focus must be on upholding constitutional rights and achieving national goals ethically.
