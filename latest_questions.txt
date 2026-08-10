@@ -1,46 +1,35 @@
-Date: 09 Aug 2026
+Date: 10 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
+GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving nature of India's secularism from 'equal respect for all religions' to a 'principled distance' approach. Discuss the challenges this shift poses for ensuring equitable state engagement with diverse religious minorities and maintaining social cohesion in a pluralistic society.
+Examine the socio-economic factors that perpetuate the continuum from vulnerable child labour to entrenched bonded labour, often disguised in modern contractual arrangements, despite robust legal frameworks in India.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the digital sphere has reshaped both the advocacy for minority rights and the propagation of communal narratives in India. What role can effective governance play in harnessing digital tools for social harmony while mitigating risks of polarization?
+Critically examine the efficacy of existing educational and skill development programs in truly rehabilitating survivors of human trafficking and preventing their re-victimization in India's complex socio-economic landscape.
 
 Q3. (15 Marks | 250 words)
-Discuss how the ongoing discourse surrounding a Uniform Civil Code necessitates a delicate balance between achieving gender justice, safeguarding the cultural autonomy of diverse communities, and upholding the federal principles of legislative competence. Illustrate with recent examples.
+Critically analyze the socio-economic, legal, and political complexities that hinder effective eradication of human trafficking, especially concerning internal migration patterns and the rehabilitation challenges faced by specific gender and age groups. Illustrate with suitable examples.
 
 ========================================
-GS-4 ETHICS: Social Influence, Persuasion and Moral Development
+GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of fostering post-conventional moral reasoning among civil servants to navigate complex ethical dilemmas and resist institutional pressures in public administration. How does this align with the ideals of a transparent and accountable governance system?
+Explain how an appreciation for diverse narratives from literature and historical accounts can foster humility and empathy in a civil servant, critical for inclusive governance in a pluralistic society.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant ethically leverage persuasion to foster collective action and citizen participation in developmental projects, without resorting to manipulation or undermining individual autonomy? Examine the inherent challenges in maintaining this ethical boundary amidst diverse community interests.
+How should a civil servant draw lessons on ethical courage and principled decision-making from historical figures of the Indian freedom struggle when facing pressures to compromise integrity for short-term political gains?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ranjit Kumar, a dedicated IAS officer, serves as the District Magistrate of 'Nalanda' district, a region recently designated as a Special Economic Zone (SEZ). He is known for his strict adherence to rules and transparent administration, which has earned him respect but also some adversaries. The state elections are merely three months away.
 
-Ms. Ananya Sharma, the newly appointed District Magistrate of Sundergarh, Odisha, is overseeing the acquisition of land for a proposed 2 GW solar power park, deemed a project of national strategic importance. The project site encompasses several tribal villages and a dense patch of community forest critical for their sustenance and cultural practices.
+The ruling political party's influential local MLA approaches Ranjit with a demand to fast-track the issuance of land ownership certificates to certain individuals and entities, many of whom do not fully meet the eligibility criteria. The MLA explicitly states that these beneficiaries are crucial to the party's election campaign and any delay or refusal would be seen as an act against the party's interests, with veiled threats regarding Ranjit's career progression. His immediate superior, the Divisional Commissioner, subtly advises him to "manage the situation pragmatically" to avoid political friction.
 
-The local Adivasi communities, traditionally dependent on the forest and land, are fiercely resisting displacement, citing violations of their constitutional rights under PESA and Forest Rights Act. A powerful state minister is publicly pressuring Ms. Sharma to expedite land acquisition, emphasizing the project's economic benefits and national security implications. Meanwhile, several NGOs have mobilized, threatening widespread protests and legal action if community consent is not genuinely obtained.
-
-Her decision will directly impact the lives and cultural heritage of thousands of tribal villagers, the timely execution of a strategic national project, and the credibility of the district administration. Failure to act decisively could lead to social unrest, legal battles, and project stagnation, while forceful acquisition could ignite a humanitarian crisis and irreversible damage to community trust.
+Ranjit's decision will impact not only his personal integrity and career but also the legitimate landowners, the credibility of the district administration, the rule of law, and potentially the outcome of the elections and future development of the SEZ. Both compliance and defiance carry significant and complex ramifications.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-Ethical issues include conflicting duties (national interest vs. community rights), fairness, justice, accountability, transparency, environmental ethics, and upholding constitutional principles (PESA, FRA) against political pressure and potential human rights violations.
-
-(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
-1. Proceed with forceful acquisition: Merits - Meets political pressure, speeds project. Demerits - Violates rights, social unrest, legal challenges, ethical compromise.
-2. Halt project/insist on full compliance: Merits - Upholds rights, rule of law. Demerits - Project delay, political backlash, economic loss, seen as obstructionist.
-3. Initiate rigorous dialogue and impact assessment: Merits - Seeks informed consent, explores alternatives, builds trust, long-term sustainability. Demerits - Time-consuming, requires extensive effort, may not satisfy all stakeholders.
-4. Propose alternative site or modified plan: Merits - Protects community, explores win-win. Demerits - Project cost increase, technical feasibility issues, political resistance.
-
+(b) What are the options available to Ranjit Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
-I recommend Ms. Sharma immediately halt forceful acquisition and initiate a transparent, inclusive dialogue with tribal communities, strictly adhering to PESA and FRA. Concurrently, commission an independent socio-environmental impact assessment, exploring project redesign or less impactful alternative sites.
-
-To handle pressures, she must meticulously document all decisions, citing legal frameworks and ground realities to superiors, emphasizing long-term sustainable development. She should clearly communicate legal obligations and risks of non-compliance to political leadership. With community representatives, she must build trust through transparency, seeking support from relevant departments (Forest, Tribal Welfare) and expert panels to mediate and find equitable solutions. Her focus must be on upholding constitutional rights and achieving national goals ethically.
