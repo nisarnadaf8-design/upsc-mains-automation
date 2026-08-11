@@ -1,35 +1,36 @@
-Date: 10 Aug 2026
+Date: 11 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
+GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the socio-economic factors that perpetuate the continuum from vulnerable child labour to entrenched bonded labour, often disguised in modern contractual arrangements, despite robust legal frameworks in India.
+Examine the potential of digital platforms and social media to foster inclusive social capital, bridging traditional divides of caste, class, and geography in contemporary Indian society. Discuss how these tools can both strengthen and fragment community bonds.
 
 Q2. (10 Marks | 150 words)
-Critically examine the efficacy of existing educational and skill development programs in truly rehabilitating survivors of human trafficking and preventing their re-victimization in India's complex socio-economic landscape.
+Critically evaluate the assertion that the increasing reliance on the voluntary sector for service delivery often leads to a dilution of the state's welfare responsibilities, particularly for marginalized populations. How does this impact the accountability framework?
 
 Q3. (15 Marks | 250 words)
-Critically analyze the socio-economic, legal, and political complexities that hinder effective eradication of human trafficking, especially concerning internal migration patterns and the rehabilitation challenges faced by specific gender and age groups. Illustrate with suitable examples.
+Analyse the evolving role of cooperative models beyond agriculture, such as in housing, digital services, and urban informal sectors, in promoting grassroots economic empowerment and social cohesion in India. Discuss the challenges they face in scaling up their operations and ensuring democratic governance, providing suitable examples.
 
 ========================================
-GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
+GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how an appreciation for diverse narratives from literature and historical accounts can foster humility and empathy in a civil servant, critical for inclusive governance in a pluralistic society.
+What ethical principles should guide a civil servant when advising on foreign policy decisions that involve a conflict between national economic interests and the universal moral imperative to address global environmental degradation? Explain the significance of intergenerational equity in this context.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant draw lessons on ethical courage and principled decision-making from historical figures of the Indian freedom struggle when facing pressures to compromise integrity for short-term political gains?
+How should a civil servant reconcile the principle of national sovereignty with the ethical demands of humanitarian intervention in situations involving severe human rights violations within another state? Examine the moral dilemmas associated with the 'Responsibility to Protect' doctrine from an administrative perspective.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ranjit Kumar, a dedicated IAS officer, serves as the District Magistrate of 'Nalanda' district, a region recently designated as a Special Economic Zone (SEZ). He is known for his strict adherence to rules and transparent administration, which has earned him respect but also some adversaries. The state elections are merely three months away.
 
-The ruling political party's influential local MLA approaches Ranjit with a demand to fast-track the issuance of land ownership certificates to certain individuals and entities, many of whom do not fully meet the eligibility criteria. The MLA explicitly states that these beneficiaries are crucial to the party's election campaign and any delay or refusal would be seen as an act against the party's interests, with veiled threats regarding Ranjit's career progression. His immediate superior, the Divisional Commissioner, subtly advises him to "manage the situation pragmatically" to avoid political friction.
+Ms. Aparna Singh, a diligent Deputy Secretary in the Ministry of Defence, based in New Delhi, is tasked with overseeing procurement files for critical defence equipment. Her department is currently under public scrutiny regarding certain past acquisitions, particularly a deal signed five years ago for a advanced missile defence system.
 
-Ranjit's decision will impact not only his personal integrity and career but also the legitimate landowners, the credibility of the district administration, the rule of law, and potentially the outcome of the elections and future development of the SEZ. Both compliance and defiance carry significant and complex ramifications.
+An RTI application from a renowned investigative journalist seeks detailed financial records, internal audit reports, and correspondence related to this high-profile missile system acquisition, alleging significant cost overruns and procedural irregularities. Releasing these specific details could potentially expose sensitive national security information, compromise ongoing diplomatic relations with the supplier nation, and jeopardize future strategic partnerships. Her immediate superior, the Joint Secretary, has informally but firmly advised her to withhold certain portions of the information citing 'national security implications' and 'strategic confidentiality', while a prominent opposition leader has publicly called for full transparency, threatening legal action and public protests if the information is denied.
+
+The decision Ms. Singh makes will directly impact the RTI applicant's quest for information, the Ministry's reputation for integrity, national security interests, and potentially her own career prospects. Both full disclosure and complete withholding of information carry significant risks and potential backlash from different quarters.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ranjit Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Aparna Singh? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
