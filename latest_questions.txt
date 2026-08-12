@@ -1,36 +1,36 @@
-Date: 11 Aug 2026
+Date: 12 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
+GS-1 SOCIETY: Media, Social Media and Their Role in Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the potential of digital platforms and social media to foster inclusive social capital, bridging traditional divides of caste, class, and geography in contemporary Indian society. Discuss how these tools can both strengthen and fragment community bonds.
+Examine the evolving role of hyperlocal digital platforms in fostering community engagement and strengthening democratic participation, while also considering their potential for fragmenting public discourse.
 
 Q2. (10 Marks | 150 words)
-Critically evaluate the assertion that the increasing reliance on the voluntary sector for service delivery often leads to a dilution of the state's welfare responsibilities, particularly for marginalized populations. How does this impact the accountability framework?
+What do you understand by "information pollution" in the context of India's digital landscape? Critically analyse how this phenomenon impacts public health communication and emergency response during crises.
 
 Q3. (15 Marks | 250 words)
-Analyse the evolving role of cooperative models beyond agriculture, such as in housing, digital services, and urban informal sectors, in promoting grassroots economic empowerment and social cohesion in India. Discuss the challenges they face in scaling up their operations and ensuring democratic governance, providing suitable examples.
+Critically analyse the multifaceted implications of Artificial Intelligence-driven content generation and personalization algorithms on journalistic ethics, media economics, and the diversity of public opinion in India. Discuss with suitable examples.
 
 ========================================
-GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
+GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
 ========================================
 
 Q4. (10 Marks | 150 words)
-What ethical principles should guide a civil servant when advising on foreign policy decisions that involve a conflict between national economic interests and the universal moral imperative to address global environmental degradation? Explain the significance of intergenerational equity in this context.
+Explain the significance of 'moral courage' as a foundational virtue for civil servants, particularly when confronted with situations demanding a choice between personal integrity and institutional loyalty.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant reconcile the principle of national sovereignty with the ethical demands of humanitarian intervention in situations involving severe human rights violations within another state? Examine the moral dilemmas associated with the 'Responsibility to Protect' doctrine from an administrative perspective.
+How should a civil servant navigate the ethical complexities arising from a legitimate public demand that conflicts with the established protocols and efficiency metrics of bureaucratic administration? Examine with relevant administrative examples.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Ms. Aparna Singh, a diligent Deputy Secretary in the Ministry of Defence, based in New Delhi, is tasked with overseeing procurement files for critical defence equipment. Her department is currently under public scrutiny regarding certain past acquisitions, particularly a deal signed five years ago for a advanced missile defence system.
+Ritu Sharma, a dynamic young District Magistrate of Kolar, a mineral-rich district, has a reputation for integrity and efficiency. She is new to the district but has been actively engaging with local communities and businesses to understand ground realities. Her recent focus has been on ensuring compliance with labour laws in the region's burgeoning manufacturing sector, especially following media reports of poor working conditions.
 
-An RTI application from a renowned investigative journalist seeks detailed financial records, internal audit reports, and correspondence related to this high-profile missile system acquisition, alleging significant cost overruns and procedural irregularities. Releasing these specific details could potentially expose sensitive national security information, compromise ongoing diplomatic relations with the supplier nation, and jeopardize future strategic partnerships. Her immediate superior, the Joint Secretary, has informally but firmly advised her to withhold certain portions of the information citing 'national security implications' and 'strategic confidentiality', while a prominent opposition leader has publicly called for full transparency, threatening legal action and public protests if the information is denied.
+During a routine, unannounced inspection of a textile manufacturing unit, "Glorious Garments," Ritu's team uncovers clear evidence of child labour, with minors aged 10-14 working in hazardous and unregulated conditions. Further confidential investigations reveal that the factory is clandestinely owned by Prakash Singh, a powerful state cabinet minister from the ruling party, who also happens to be a close confidante of the Chief Minister. Ritu's immediate superior, the Divisional Commissioner, hints at "political sensitivities" and advises extreme caution, suggesting a "less confrontational" approach to avoid embarrassment to the government.
 
-The decision Ms. Singh makes will directly impact the RTI applicant's quest for information, the Ministry's reputation for integrity, national security interests, and potentially her own career prospects. Both full disclosure and complete withholding of information carry significant risks and potential backlash from different quarters.
+The children and their families, the factory workers, the minister, the district administration's credibility, the ruling party's image, and the larger issue of child labour enforcement are all profoundly affected. Any decision Ritu takes will have significant repercussions, both personal and professional for her, and for the cause of justice in the district.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Aparna Singh? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ritu Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
