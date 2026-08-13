@@ -1,36 +1,35 @@
-Date: 12 Aug 2026
+Date: 13 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Media, Social Media and Their Role in Society
+GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving role of hyperlocal digital platforms in fostering community engagement and strengthening democratic participation, while also considering their potential for fragmenting public discourse.
+Examine how the socio-economic transformations in contemporary India have reshaped the traditional ritualistic hierarchy of caste into a dynamic force for political mobilisation, particularly evident in the electoral processes of urban centres.
 
 Q2. (10 Marks | 150 words)
-What do you understand by "information pollution" in the context of India's digital landscape? Critically analyse how this phenomenon impacts public health communication and emergency response during crises.
+Critically examine the concept of 'Sanskritisation' as a pathway for social mobility in a rapidly globalising India, considering its inherent limitations in challenging the structural barriers to true egalitarianism.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multifaceted implications of Artificial Intelligence-driven content generation and personalization algorithms on journalistic ethics, media economics, and the diversity of public opinion in India. Discuss with suitable examples.
+Discuss the complex interplay of reservation policies with the evolving dynamics of class and gender, and their combined impact on fostering inclusive growth and challenging traditional power structures across various sectors in India. Provide suitable examples.
 
 ========================================
-GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
+GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'moral courage' as a foundational virtue for civil servants, particularly when confronted with situations demanding a choice between personal integrity and institutional loyalty.
+Explain the significance of cultivating a robust 'ethics of universalism' in public administration, particularly when civil servants are confronted with the moral relativism often stemming from deeply entrenched cultural or regional norms.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant navigate the ethical complexities arising from a legitimate public demand that conflicts with the established protocols and efficiency metrics of bureaucratic administration? Examine with relevant administrative examples.
+How should a civil servant reconcile the 'ethics of care' with the principle of impartiality while addressing the needs of vulnerable sections of society, ensuring both empathy and procedural fairness in governance?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ms. Anjali Sharma is the District Magistrate of Hoshangabad, a rapidly developing district in Madhya Pradesh. She is known for her impeccable integrity and efficiency. Currently, she is overseeing a flagship state project for large-scale public housing intended for economically weaker sections (EWS) on a substantial plot of land clearly designated for public utility in the city's master plan, with construction already underway.
 
-Ritu Sharma, a dynamic young District Magistrate of Kolar, a mineral-rich district, has a reputation for integrity and efficiency. She is new to the district but has been actively engaging with local communities and businesses to understand ground realities. Her recent focus has been on ensuring compliance with labour laws in the region's burgeoning manufacturing sector, especially following media reports of poor working conditions.
+A powerful State Cabinet Minister, Mr. Rajendra Singh, whose private land parcel is adjacent to the EWS housing site, approaches Ms. Sharma. He expresses his desire to acquire a significant portion of the public utility land for a nominal sum, stating it is for the "expansion of his educational trust's campus." This acquisition would necessitate an alteration to the approved master plan and the displacement of a substantial number of future EWS beneficiaries, causing considerable delays to the crucial housing project. Mr. Singh directly calls Ms. Sharma, subtly hinting at potential adverse career repercussions if she does not comply. Concurrently, her Principal Secretary advises her to "find a pragmatic way" to accommodate the minister, citing "higher political considerations." Meanwhile, rumours of the proposed land alteration have reached local community leaders, who are beginning to mobilise public opinion and threaten widespread protests if the EWS project is compromised.
 
-During a routine, unannounced inspection of a textile manufacturing unit, "Glorious Garments," Ritu's team uncovers clear evidence of child labour, with minors aged 10-14 working in hazardous and unregulated conditions. Further confidential investigations reveal that the factory is clandestinely owned by Prakash Singh, a powerful state cabinet minister from the ruling party, who also happens to be a close confidante of the Chief Minister. Ritu's immediate superior, the Divisional Commissioner, hints at "political sensitivities" and advises extreme caution, suggesting a "less confrontational" approach to avoid embarrassment to the government.
+Ms. Sharma’s decision will significantly impact not only the fate of the EWS housing project and its beneficiaries but also the credibility of public administration. Both acceding to the pressure and outright refusal carry serious consequences for the project, her career, and public trust.
 
-The children and their families, the factory workers, the minister, the district administration's credibility, the ruling party's image, and the larger issue of child labour enforcement are all profoundly affected. Any decision Ritu takes will have significant repercussions, both personal and professional for her, and for the cause of justice in the district.
-
-(a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ritu Sharma? Evaluate each option with its merits and demerits. (100 words)
-(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+(a) Identify and discuss the ethical issues involved in this case.
+(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits.
+(c) What course of action would you recommend and why? How would you handle the pressures involved?
