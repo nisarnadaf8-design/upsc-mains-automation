@@ -1,35 +1,36 @@
-Date: 13 Aug 2026
+Date: 14 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
+GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the socio-economic transformations in contemporary India have reshaped the traditional ritualistic hierarchy of caste into a dynamic force for political mobilisation, particularly evident in the electoral processes of urban centres.
+Examine the role of access to digital public infrastructure and targeted financial literacy initiatives in mitigating the intergenerational impact of the 'feminisation of poverty' among women in India's informal economy.
 
 Q2. (10 Marks | 150 words)
-Critically examine the concept of 'Sanskritisation' as a pathway for social mobility in a rapidly globalising India, considering its inherent limitations in challenging the structural barriers to true egalitarianism.
+Critically examine how the evolving landscape of grassroots politics and the strategic deployment of social capital have shaped the efficacy of women-led Self Help Groups as instruments for genuine political representation, beyond mere economic empowerment.
 
 Q3. (15 Marks | 250 words)
-Discuss the complex interplay of reservation policies with the evolving dynamics of class and gender, and their combined impact on fostering inclusive growth and challenging traditional power structures across various sectors in India. Provide suitable examples.
+Discuss the intricate interplay of entrenched patriarchal societal attitudes, challenges in legislative enforcement, and the evolving role of public awareness campaigns in addressing the persistent issues of domestic violence and sexual abuse against women and children. Suggest concrete measures for building a more resilient protective ecosystem.
 
 ========================================
-GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
+GS-4 ETHICS: Attitude: Formation, Change and Social Influence
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of cultivating a robust 'ethics of universalism' in public administration, particularly when civil servants are confronted with the moral relativism often stemming from deeply entrenched cultural or regional norms.
+What do you understand by 'ethical elasticity' in administrative attitudes, and how can its unchecked prevalence compromise institutional integrity and public trust, particularly in times of significant societal upheaval or crisis?
 
 Q5. (10 Marks | 150 words)
-How should a civil servant reconcile the 'ethics of care' with the principle of impartiality while addressing the needs of vulnerable sections of society, ensuring both empathy and procedural fairness in governance?
+Examine the ethical challenges faced by a civil servant in maintaining impartiality and delivering equitable services when confronted with deeply ingrained prejudicial attitudes prevalent both within certain sections of the administrative machinery and the community they serve.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Anjali Sharma is the District Magistrate of Hoshangabad, a rapidly developing district in Madhya Pradesh. She is known for her impeccable integrity and efficiency. Currently, she is overseeing a flagship state project for large-scale public housing intended for economically weaker sections (EWS) on a substantial plot of land clearly designated for public utility in the city's master plan, with construction already underway.
 
-A powerful State Cabinet Minister, Mr. Rajendra Singh, whose private land parcel is adjacent to the EWS housing site, approaches Ms. Sharma. He expresses his desire to acquire a significant portion of the public utility land for a nominal sum, stating it is for the "expansion of his educational trust's campus." This acquisition would necessitate an alteration to the approved master plan and the displacement of a substantial number of future EWS beneficiaries, causing considerable delays to the crucial housing project. Mr. Singh directly calls Ms. Sharma, subtly hinting at potential adverse career repercussions if she does not comply. Concurrently, her Principal Secretary advises her to "find a pragmatic way" to accommodate the minister, citing "higher political considerations." Meanwhile, rumours of the proposed land alteration have reached local community leaders, who are beginning to mobilise public opinion and threaten widespread protests if the EWS project is compromised.
+Smt. Kavya Sharma, a young and earnest IAS officer of the 2023 batch, was serving as the District Magistrate of Sagar District in Uttar Pradesh. The district had been severely hit by unprecedented floods in July 2026, leading to widespread displacement, significant loss of livelihoods, and damage to critical infrastructure. Kavya was personally overseeing the procurement and distribution of emergency relief supplies, including crucial medical equipment, temporary shelters, and essential food items for thousands of affected families.
 
-Ms. Sharma’s decision will significantly impact not only the fate of the EWS housing project and its beneficiaries but also the credibility of public administration. Both acceding to the pressure and outright refusal carry serious consequences for the project, her career, and public trust.
+During a routine, unannounced inspection of a major relief godown, Kavya uncovered glaring discrepancies in the procurement documents for high-value medical supplies. Further discreet but thorough investigation confirmed that her immediate superior, Shri Alok Kumar, a seasoned Principal Secretary in the state administration, had colluded with a specific vendor to siphon off a significant portion of the relief funds. This was achieved by approving substandard goods at highly inflated prices. The crucial supplies meant for the flood victims were severely compromised in quantity and quality, directly impacting the effectiveness of aid reaching the suffering populace and putting lives at risk.
 
-(a) Identify and discuss the ethical issues involved in this case.
-(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits.
-(c) What course of action would you recommend and why? How would you handle the pressures involved?
+Kavya is now caught in a profound ethical dilemma. Exposing her influential senior colleague could jeopardize her nascent career, potentially leading to institutional backlash, transfers, and personal threats, while remaining silent would be a gross compromise of her integrity, a betrayal of public trust, and would directly endanger the lives and well-being of thousands of flood-affected citizens who depend on unadulterated, timely relief.
+
+(a) Identify and discuss the ethical issues involved in this case. (50 words)
+(b) What are the options available to Smt. Kavya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
