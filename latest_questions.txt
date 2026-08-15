@@ -1,36 +1,35 @@
-Date: 14 Aug 2026
+Date: 15 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
+GS-1 SOCIETY: Communalism, Regionalism and Secularism
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the role of access to digital public infrastructure and targeted financial literacy initiatives in mitigating the intergenerational impact of the 'feminisation of poverty' among women in India's informal economy.
+Examine how the proliferation of digital echo chambers and transnational cultural influences poses contemporary challenges to the practical manifestation of India's unique model of constitutional secularism, requiring re-evaluation of its institutional safeguards.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the evolving landscape of grassroots politics and the strategic deployment of social capital have shaped the efficacy of women-led Self Help Groups as instruments for genuine political representation, beyond mere economic empowerment.
+What do you understand by 'developmental regionalism'? Critically examine how socio-economic disparities and perceived historical injustices often fuel exclusionary regionalistic tendencies, despite regionalism's potential to drive sub-national development and enrich national diversity.
 
 Q3. (15 Marks | 250 words)
-Discuss the intricate interplay of entrenched patriarchal societal attitudes, challenges in legislative enforcement, and the evolving role of public awareness campaigns in addressing the persistent issues of domestic violence and sexual abuse against women and children. Suggest concrete measures for building a more resilient protective ecosystem.
+Critically analyse the socio-political implications of using communal polarisation as an electoral strategy in a diverse democracy like India. Discuss how such tactics undermine the nation's composite culture and traditional syncretic traditions, while examining the economic costs and societal fragmentation they engender.
 
 ========================================
-GS-4 ETHICS: Attitude: Formation, Change and Social Influence
+GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by 'ethical elasticity' in administrative attitudes, and how can its unchecked prevalence compromise institutional integrity and public trust, particularly in times of significant societal upheaval or crisis?
+Explain the significance of 'moral courage' as an essential facet of integrity for a civil servant, distinguishing it from mere adherence to rules and regulations. How does upholding integrity in its truest spirit contribute to sustaining public trust in governance?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical challenges faced by a civil servant in maintaining impartiality and delivering equitable services when confronted with deeply ingrained prejudicial attitudes prevalent both within certain sections of the administrative machinery and the community they serve.
+How should a civil servant reconcile the often-conflicting demands of impartiality in decision-making with the imperative of demonstrating empathy towards vulnerable sections of society? Examine this challenge in the context of implementing welfare schemes where 'one-size-fits-all' approaches may prove inadequate.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Mr. Alok Verma, District Collector of Bastar district in Chhattisgarh, is overseeing a critical infrastructure project. The State Government has approved a large-scale bauxite mining venture, touted as vital for economic growth and employment generation, slated to commence in a region traditionally inhabited by the particularly vulnerable Pondo tribal community, whose livelihoods are intrinsically linked to the forest ecosystem.
 
-Smt. Kavya Sharma, a young and earnest IAS officer of the 2023 batch, was serving as the District Magistrate of Sagar District in Uttar Pradesh. The district had been severely hit by unprecedented floods in July 2026, leading to widespread displacement, significant loss of livelihoods, and damage to critical infrastructure. Kavya was personally overseeing the procurement and distribution of emergency relief supplies, including crucial medical equipment, temporary shelters, and essential food items for thousands of affected families.
+Mr. Verma receives explicit directives from the Chief Secretary to expedite land acquisition and displacement procedures, ensuring no delays to the mining project. Concurrently, tribal elders and local community activists present him with compelling evidence of grave environmental damage, cultural disruption, and inadequate rehabilitation plans that severely undermine their ancestral rights and traditional way of life, leading to widespread protests. The local MLA also pressures him to demonstrate visible progress for state-level political gains.
 
-During a routine, unannounced inspection of a major relief godown, Kavya uncovered glaring discrepancies in the procurement documents for high-value medical supplies. Further discreet but thorough investigation confirmed that her immediate superior, Shri Alok Kumar, a seasoned Principal Secretary in the state administration, had colluded with a specific vendor to siphon off a significant portion of the relief funds. This was achieved by approving substandard goods at highly inflated prices. The crucial supplies meant for the flood victims were severely compromised in quantity and quality, directly impacting the effectiveness of aid reaching the suffering populace and putting lives at risk.
-
-Kavya is now caught in a profound ethical dilemma. Exposing her influential senior colleague could jeopardize her nascent career, potentially leading to institutional backlash, transfers, and personal threats, while remaining silent would be a gross compromise of her integrity, a betrayal of public trust, and would directly endanger the lives and well-being of thousands of flood-affected citizens who depend on unadulterated, timely relief.
+His decision will directly impact the survival and cultural integrity of the Pondo tribal community, the economic ambitions of the state and the mining company, and the region's delicate ecological balance. Both forceful implementation and outright defiance carry significant social, political, and personal ramifications for Mr. Verma and his administration.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Smt. Kavya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Mr. Alok Verma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
