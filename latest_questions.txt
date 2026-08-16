@@ -1,35 +1,36 @@
-Date: 15 Aug 2026
+Date: 16 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Communalism, Regionalism and Secularism
+GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the proliferation of digital echo chambers and transnational cultural influences poses contemporary challenges to the practical manifestation of India's unique model of constitutional secularism, requiring re-evaluation of its institutional safeguards.
+Examine the policy imperative for India to strategically invest in its working-age population today, recognizing the dual challenge of harnessing the demographic dividend while simultaneously preparing for an inevitable demographic winter and its associated socio-economic burdens.
 
 Q2. (10 Marks | 150 words)
-What do you understand by 'developmental regionalism'? Critically examine how socio-economic disparities and perceived historical injustices often fuel exclusionary regionalistic tendencies, despite regionalism's potential to drive sub-national development and enrich national diversity.
+Critically examine how the evolving patterns of internal migration, both rural-to-urban and intra-state, profoundly shape regional developmental disparities and contribute to varied challenges in both demographic dividend realization and urban infrastructure planning in India.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the socio-political implications of using communal polarisation as an electoral strategy in a diverse democracy like India. Discuss how such tactics undermine the nation's composite culture and traditional syncretic traditions, while examining the economic costs and societal fragmentation they engender.
+Beyond fertility control, discuss how India's holistic population policy must now integrate strategies addressing the social, economic, and gender dimensions of an ageing workforce, alongside leveraging the skilled diaspora for national development, with suitable examples.
 
 ========================================
-GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
+GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'moral courage' as an essential facet of integrity for a civil servant, distinguishing it from mere adherence to rules and regulations. How does upholding integrity in its truest spirit contribute to sustaining public trust in governance?
+Explain the ethical significance of self-awareness and self-regulation as foundational components of emotional intelligence for a civil servant in fostering transparent and accountable governance. How do these traits contribute to upholding impartiality and integrity?
 
 Q5. (10 Marks | 150 words)
-How should a civil servant reconcile the often-conflicting demands of impartiality in decision-making with the imperative of demonstrating empathy towards vulnerable sections of society? Examine this challenge in the context of implementing welfare schemes where 'one-size-fits-all' approaches may prove inadequate.
+In what ways can an administrator, possessing high emotional intelligence, leverage empathy and social skills to effectively navigate public dissent or grievances during sensitive policy implementation? Discuss the challenges in balancing responsiveness with administrative efficacy.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Mr. Alok Verma, District Collector of Bastar district in Chhattisgarh, is overseeing a critical infrastructure project. The State Government has approved a large-scale bauxite mining venture, touted as vital for economic growth and employment generation, slated to commence in a region traditionally inhabited by the particularly vulnerable Pondo tribal community, whose livelihoods are intrinsically linked to the forest ecosystem.
 
-Mr. Verma receives explicit directives from the Chief Secretary to expedite land acquisition and displacement procedures, ensuring no delays to the mining project. Concurrently, tribal elders and local community activists present him with compelling evidence of grave environmental damage, cultural disruption, and inadequate rehabilitation plans that severely undermine their ancestral rights and traditional way of life, leading to widespread protests. The local MLA also pressures him to demonstrate visible progress for state-level political gains.
+Amit Sharma, a diligent and upright IPS officer, has recently taken charge as Superintendent of Police (SP) of a sensitive district in a rapidly urbanizing state. His mandate includes modernizing police infrastructure and tackling organized crime. During an internal audit of procurement for new surveillance equipment, anomalies were flagged.
 
-His decision will directly impact the survival and cultural integrity of the Pondo tribal community, the economic ambitions of the state and the mining company, and the region's delicate ecological balance. Both forceful implementation and outright defiance carry significant social, political, and personal ramifications for Mr. Verma and his administration.
+Amit's investigation, initially into minor discrepancies, uncovers a significant procurement scam involving kickbacks and substandard equipment. Disturbingly, the evidence points towards involvement of several senior officers within his own department, including a powerful Deputy Inspector General (DIG) known to be close to a prominent state minister. Amit is pressured by his immediate superior to 'manage' the report to avoid embarrassment for the department and potential political fallout, while a local RTI activist group has also hinted at knowledge of irregularities and is demanding transparency.
+
+Exposing the scam could lead to departmental upheaval, political backlash, threats to his career and personal safety, but upholding integrity would restore public faith and ensure justice. Covering it up would compromise his ethics, betray public trust, and perpetuate corruption, while also potentially being exposed later with severe consequences for his credibility.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Mr. Alok Verma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Amit Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
