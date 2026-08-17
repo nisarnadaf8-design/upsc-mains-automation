@@ -1,36 +1,36 @@
-Date: 16 Aug 2026
+Date: 17 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
+GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the policy imperative for India to strategically invest in its working-age population today, recognizing the dual challenge of harnessing the demographic dividend while simultaneously preparing for an inevitable demographic winter and its associated socio-economic burdens.
+Examine how the evolving understanding of multidimensional poverty challenges the traditional 'trickle-down' approach to economic development in India. Discuss the imperative for policy shifts towards more targeted and comprehensive inclusive growth strategies that address non-income deprivations.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the evolving patterns of internal migration, both rural-to-urban and intra-state, profoundly shape regional developmental disparities and contribute to varied challenges in both demographic dividend realization and urban infrastructure planning in India.
+Critically examine the persistent intergenerational social immobility faced by certain historically marginalized communities in India, despite targeted welfare interventions. How does this cycle relate to educational deprivation, lack of access to quality healthcare, and systemic exclusion from economic opportunities?
 
 Q3. (15 Marks | 250 words)
-Beyond fertility control, discuss how India's holistic population policy must now integrate strategies addressing the social, economic, and gender dimensions of an ageing workforce, alongside leveraging the skilled diaspora for national development, with suitable examples.
+Discuss how intersecting vulnerabilities — social, economic, and political — perpetuate the exclusion of Scheduled Tribes and other minority groups from the benefits of India's rapid economic growth narrative. Analyse the policy and institutional reforms required to foster genuine inclusive growth for these communities, moving beyond mere welfare provision.
 
 ========================================
-GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
+GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the ethical significance of self-awareness and self-regulation as foundational components of emotional intelligence for a civil servant in fostering transparent and accountable governance. How do these traits contribute to upholding impartiality and integrity?
+Explain the relevance of Dr. B.R. Ambedkar's concept of 'constitutional morality' for a civil servant navigating the complexities of public administration in a diverse society. How does it guide actions when faced with prevailing social prejudices or demands inconsistent with the spirit of the Constitution?
 
 Q5. (10 Marks | 150 words)
-In what ways can an administrator, possessing high emotional intelligence, leverage empathy and social skills to effectively navigate public dissent or grievances during sensitive policy implementation? Discuss the challenges in balancing responsiveness with administrative efficacy.
+Examine the ethical challenges faced by public administrators in fostering true social justice and equality, drawing insights from the visions of both Mahatma Gandhi's Sarvodaya and Dr. B.R. Ambedkar's radical social reforms. How can these seemingly distinct approaches inform policy implementation today to bridge societal divides?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Amit Sharma, a diligent and upright IPS officer, has recently taken charge as Superintendent of Police (SP) of a sensitive district in a rapidly urbanizing state. His mandate includes modernizing police infrastructure and tackling organized crime. During an internal audit of procurement for new surveillance equipment, anomalies were flagged.
+Manoj Kumar, an upright and highly respected District Collector of Aridpur District, is overseeing a critical land acquisition process for the national express highway project. Aridpur is known for its complex land records and significant socio-economic disparities, making this project particularly sensitive. Manoj has a reputation for meticulous adherence to rules and public welfare, and his department is under scrutiny to ensure fair and transparent proceedings.
 
-Amit's investigation, initially into minor discrepancies, uncovers a significant procurement scam involving kickbacks and substandard equipment. Disturbingly, the evidence points towards involvement of several senior officers within his own department, including a powerful Deputy Inspector General (DIG) known to be close to a prominent state minister. Amit is pressured by his immediate superior to 'manage' the report to avoid embarrassment for the department and potential political fallout, while a local RTI activist group has also hinted at knowledge of irregularities and is demanding transparency.
+During the final verification phase, Manoj discovers that a substantial parcel of land, recently purchased by a proxy for his estranged elder brother, Akash Kumar, falls directly within the high-compensation zone of the project. Akash, known for his speculative land dealings, subtly contacts Manoj, appealing to family ties and expecting favorable valuation beyond standard procedures. Simultaneously, a powerful local MLA, who is close to Akash, hints at the importance of "expediting" this particular land parcel's compensation without undue scrutiny.
 
-Exposing the scam could lead to departmental upheaval, political backlash, threats to his career and personal safety, but upholding integrity would restore public faith and ensure justice. Covering it up would compromise his ethics, betray public trust, and perpetuate corruption, while also potentially being exposed later with severe consequences for his credibility.
+The primary stakeholders include the genuinely displaced farmers, the state government (representing public interest and funds), the national express highway project, Manoj's own integrity, and his family. A wrong decision could lead to allegations of corruption, public outcry, jeopardizing the project, or compromising Manoj's ethical standing and the trust placed in his office.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Amit Sharma? Evaluate each option with its merits and demerits. (100 words)
-(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+(b) What are the options available to Manoj Kumar? Evaluate each option with its merits and demerits. (100 words)
+(c) What course of action would you recommend and why? How would you handle the pressures involved from his brother and the local MLA? (150 words)
