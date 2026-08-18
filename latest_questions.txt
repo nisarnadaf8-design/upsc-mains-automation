@@ -1,36 +1,35 @@
-Date: 17 Aug 2026
+Date: 18 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
+GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the evolving understanding of multidimensional poverty challenges the traditional 'trickle-down' approach to economic development in India. Discuss the imperative for policy shifts towards more targeted and comprehensive inclusive growth strategies that address non-income deprivations.
+Examine how the 'smart' interventions under the Smart Cities Mission have, in some instances, exacerbated existing urban inequalities rather than creating truly inclusive urban spaces. Discuss the challenges in achieving equitable urban development through technology-centric approaches.
 
 Q2. (10 Marks | 150 words)
-Critically examine the persistent intergenerational social immobility faced by certain historically marginalized communities in India, despite targeted welfare interventions. How does this cycle relate to educational deprivation, lack of access to quality healthcare, and systemic exclusion from economic opportunities?
+Critically examine the extent to which the 74th Constitutional Amendment Act has empowered Urban Local Bodies to effectively address persistent challenges like solid waste management and equitable water distribution. What institutional reforms are still needed for truly decentralized urban governance?
 
 Q3. (15 Marks | 250 words)
-Discuss how intersecting vulnerabilities — social, economic, and political — perpetuate the exclusion of Scheduled Tribes and other minority groups from the benefits of India's rapid economic growth narrative. Analyse the policy and institutional reforms required to foster genuine inclusive growth for these communities, moving beyond mere welfare provision.
+Analyse the complex interplay of rural-urban migration, inadequate urban infrastructure, and governance failures that perpetuate the growth of informal settlements and severe environmental degradation in major Indian cities. Discuss the socio-economic and ecological consequences of such unsustainable urbanisation patterns.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
+GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the relevance of Dr. B.R. Ambedkar's concept of 'constitutional morality' for a civil servant navigating the complexities of public administration in a diverse society. How does it guide actions when faced with prevailing social prejudices or demands inconsistent with the spirit of the Constitution?
+What do you understand by Aristotle's concept of 'Phronesis' or practical wisdom? Explain its contemporary relevance for a civil servant navigating ethical dilemmas and making just decisions in public administration.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical challenges faced by public administrators in fostering true social justice and equality, drawing insights from the visions of both Mahatma Gandhi's Sarvodaya and Dr. B.R. Ambedkar's radical social reforms. How can these seemingly distinct approaches inform policy implementation today to bridge societal divides?
+How should a civil servant reconcile the Kantian emphasis on universal moral duties and the Kautilyan focus on achieving state welfare through pragmatic means when implementing policies that may have varied impacts on different sections of society? Discuss with suitable examples.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Anjali Sharma, a diligent District Magistrate, is posted in Ratanpur, a district with a history of communal sensitivities. Ahead of a major religious procession, a minor altercation between two community groups has quickly escalated, creating palpable tension and fear across the region. As the lead administrator, Anjali is responsible for maintaining peace and ensuring law and order.
 
-Manoj Kumar, an upright and highly respected District Collector of Aridpur District, is overseeing a critical land acquisition process for the national express highway project. Aridpur is known for its complex land records and significant socio-economic disparities, making this project particularly sensitive. Manoj has a reputation for meticulous adherence to rules and public welfare, and his department is under scrutiny to ensure fair and transparent proceedings.
+Amidst this volatile situation, a powerful local political leader from the ruling party approaches Anjali, demanding that FIRs be selectively filed against members of one community and that permissions for the upcoming procession be withheld for the other. The leader explicitly states that compliance would ensure her smooth career progression, while defiance could lead to an immediate punitive transfer. Her immediate superior also subtly advises her to 'handle the political sensitivities with care'.
 
-During the final verification phase, Manoj discovers that a substantial parcel of land, recently purchased by a proxy for his estranged elder brother, Akash Kumar, falls directly within the high-compensation zone of the project. Akash, known for his speculative land dealings, subtly contacts Manoj, appealing to family ties and expecting favorable valuation beyond standard procedures. Simultaneously, a powerful local MLA, who is close to Akash, hints at the importance of "expediting" this particular land parcel's compensation without undue scrutiny.
-
-The primary stakeholders include the genuinely displaced farmers, the state government (representing public interest and funds), the national express highway project, Manoj's own integrity, and his family. A wrong decision could lead to allegations of corruption, public outcry, jeopardizing the project, or compromising Manoj's ethical standing and the trust placed in his office.
+Anjali's decision will directly impact the safety, trust, and fundamental rights of both communities, the integrity of the district administration, and the rule of law. Both acting on the political demands or strictly upholding impartiality carry severe immediate and long-term consequences for the district and her career.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Manoj Kumar? Evaluate each option with its merits and demerits. (100 words)
-(c) What course of action would you recommend and why? How would you handle the pressures involved from his brother and the local MLA? (150 words)
+(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
