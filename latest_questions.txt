@@ -1,35 +1,36 @@
-Date: 19 Aug 2026
+Date: 20 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
+GS-1 SOCIETY: Social Movements and Civil Society in India
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how local cultural expressions in India adapt and assert their distinctiveness amidst the homogenizing pressures of globalization, rather than being entirely subsumed. Discuss with contemporary examples that reflect a dynamic interplay between global influences and indigenous traditions.
+Examine how the pervasive influence of digital platforms and hyper-connected citizen networks has transformed the landscape of public participation and oversight by civil society in India, beyond traditional modes of activism. Discuss its implications for democratic accountability.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the rise of the gig economy, fueled by global digital platforms, has reshaped the traditional notions of employment and social security in urban India. Discuss the resultant socio-economic challenges for workers beyond formal labour rights.
+Critically examine the concept of "intersectionality" within new social movements in India, particularly in addressing issues related to environmental justice, gender equality, and tribal autonomy. How does this integrated approach enhance or complicate their advocacy?
 
 Q3. (15 Marks | 250 words)
-Globalisation has often been presented as an emancipatory force for women. Critically analyse the dual impact of globalisation on Indian women, examining both the avenues for empowerment through increased economic opportunities and autonomy, as well as the emergence of new forms of exploitation and vulnerabilities in social and economic spheres. Discuss with suitable examples.
+"While the state often views Naxalism primarily as a law and order challenge, its persistence is deeply rooted in unresolved socio-economic grievances and systemic governance failures." Critically analyze this statement, discussing its implications for policy formulation concerning marginalized communities, land rights, and regional development in affected areas.
 
 ========================================
-GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
+GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the term 'ethical governance' in the context of public administration? Explain how robust transparency and accountability mechanisms, beyond mere legal compliance, are indispensable for fostering public trust and enhancing the legitimacy of democratic institutions.
+What do you understand by the "revolving door" phenomenon in public administration? Explain how it can lead to direct and indirect conflicts of interest, potentially undermining public trust and the impartiality of governance, particularly in a developing economy context.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemma a civil servant faces when an institutional directive, though legally sound, appears to contradict the larger public interest or principles of natural justice. How should a conscientious officer navigate the conflict between duty to the institution and loyalty to the public good, while upholding probity?
+In an era of increasing data transparency demands and complex public-private partnerships, how should a civil servant balance the duty to uphold institutional loyalty with the ethical imperative to expose corruption or systemic irregularities? Discuss the practical challenges and the role of internal accountability mechanisms.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Rajeev Kumar, a diligent District Project Officer in Fatehpur District, Uttar Pradesh, is responsible for overseeing the implementation and reporting of the 'Gramin Uday' welfare scheme, aimed at providing essential services to remote villages. He has just completed a comprehensive ground-level survey for the half-yearly progress report, which reveals significant discrepancies and underperformance in service delivery in several key areas.
 
-As Rajeev prepares to submit the accurate report, he receives an urgent call from his immediate superior, the District Collector, who, under political pressure from a local MLA, instructs him to inflate the achievement figures and gloss over the deficiencies to present a more favorable picture to the State Ministry. Rajeev understands that fabricating data would secure immediate approval and prevent departmental scrutiny, but would also betray the trust of the vulnerable beneficiaries and mask systemic issues.
+Ms. Aditi Singh, a probationary IAS officer of the 2024 batch, is posted as the Sub-Divisional Magistrate (SDM) in the rapidly urbanizing district of Sunderpur. Her primary responsibility includes overseeing land acquisition processes for various infrastructure projects, a key focus for the state government aiming for rapid industrial growth and urban expansion.
 
-This decision involves multiple stakeholders including the villagers, the district administration, the political leadership, and ultimately the integrity of public service. Both compliance and defiance carry significant personal and professional consequences for Rajeev, and will profoundly impact the effectiveness of future welfare initiatives.
+During a review of a major land acquisition file for a proposed satellite city project, Aditi discovers glaring discrepancies. Compensation rates for fertile agricultural land belonging to small farmers are drastically undervalued, while strategically located adjacent barren plots, recently acquired by a prominent private builder, 'Harmony Developers,' show inflated valuations. Her immediate superior, the District Collector, Mr. Rajeev Mehta, advises her to expedite the file, subtly hinting at political pressure from a powerful state minister and the builder lobby to avoid 'unnecessary delays' that could impact her career trajectory.
+
+The decision will directly affect hundreds of marginalized farmers, the credibility of the district administration, the financial interests of 'Harmony Developers,' and the integrity of the land acquisition process. Both approving the flawed acquisition and raising objections carry significant consequences for public trust and Aditi's professional future.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rajeev Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Aditi Singh? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
