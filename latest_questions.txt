@@ -1,36 +1,36 @@
-Date: 20 Aug 2026
+Date: 21 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Social Movements and Civil Society in India
+GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the pervasive influence of digital platforms and hyper-connected citizen networks has transformed the landscape of public participation and oversight by civil society in India, beyond traditional modes of activism. Discuss its implications for democratic accountability.
+Examine the potential of blended learning models to fundamentally reshape educational access and equity in India, moving beyond the traditional digital divide towards inclusive learning environments.
 
 Q2. (10 Marks | 150 words)
-Critically examine the concept of "intersectionality" within new social movements in India, particularly in addressing issues related to environmental justice, gender equality, and tribal autonomy. How does this integrated approach enhance or complicate their advocacy?
+What do you understand by the concept of 'invisible dropouts' in the Indian education system? How do systemic factors contribute to this phenomenon, particularly among marginalized communities and girls?
 
 Q3. (15 Marks | 250 words)
-"While the state often views Naxalism primarily as a law and order challenge, its persistence is deeply rooted in unresolved socio-economic grievances and systemic governance failures." Critically analyze this statement, discussing its implications for policy formulation concerning marginalized communities, land rights, and regional development in affected areas.
+Critically analyse the multi-faceted challenges in the effective implementation of NEP 2020, considering its implications for the federal structure, funding mechanisms, and skill development outcomes across diverse regions of India.
 
 ========================================
-GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
+GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the "revolving door" phenomenon in public administration? Explain how it can lead to direct and indirect conflicts of interest, potentially undermining public trust and the impartiality of governance, particularly in a developing economy context.
+What do you understand by the concept of 'institutional moral hazard' in public administration? Explain its role in perpetuating systemic corruption, even when individual officers possess strong personal ethical values.
 
 Q5. (10 Marks | 150 words)
-In an era of increasing data transparency demands and complex public-private partnerships, how should a civil servant balance the duty to uphold institutional loyalty with the ethical imperative to expose corruption or systemic irregularities? Discuss the practical challenges and the role of internal accountability mechanisms.
+Examine the ethical challenges faced by civil servants in leveraging artificial intelligence and big data analytics for corruption prevention, ensuring privacy and preventing algorithmic bias in governance.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Ms. Aditi Singh, a probationary IAS officer of the 2024 batch, is posted as the Sub-Divisional Magistrate (SDM) in the rapidly urbanizing district of Sunderpur. Her primary responsibility includes overseeing land acquisition processes for various infrastructure projects, a key focus for the state government aiming for rapid industrial growth and urban expansion.
+Rajesh Kumar serves as the Sub-Divisional Magistrate (SDM) in the Revenue Department of Barmer District, a region particularly susceptible to flash floods in Rajasthan. Following an unprecedented cloudburst and subsequent inundation, Rajesh has been designated as the nodal officer for managing and distributing emergency relief funds and materials to thousands of displaced families. His immediate task involves ensuring timely provision of food, shelter, medical aid, and initial rehabilitation grants, with public expectations soaring for transparent and efficient delivery.
 
-During a review of a major land acquisition file for a proposed satellite city project, Aditi discovers glaring discrepancies. Compensation rates for fertile agricultural land belonging to small farmers are drastically undervalued, while strategically located adjacent barren plots, recently acquired by a prominent private builder, 'Harmony Developers,' show inflated valuations. Her immediate superior, the District Collector, Mr. Rajeev Mehta, advises her to expedite the file, subtly hinting at political pressure from a powerful state minister and the builder lobby to avoid 'unnecessary delays' that could impact her career trajectory.
+Amidst the chaos and critical need, Rajesh receives a discreet but firm instruction from the Chief Minister's Office, implicitly conveyed through his District Collector. The instruction suggests diverting a significant portion of the allocated flood relief funds towards a long-pending infrastructure project in a politically influential leader's constituency, which is comparatively less affected by the current floods. The Collector advises Rajesh to be "pragmatic" and understand the "political realities" for the sake of smooth administrative functioning and his future career prospects. Adding to his dilemma, his widowed mother recently expressed her concerns about his slow career growth and the increasing financial burden on their family, indirectly urging him to avoid confrontation with powerful figures.
 
-The decision will directly affect hundreds of marginalized farmers, the credibility of the district administration, the financial interests of 'Harmony Developers,' and the integrity of the land acquisition process. Both approving the flawed acquisition and raising objections carry significant consequences for public trust and Aditi's professional future.
+The district's flood victims are still grappling with immense losses and require every rupee of the allocated funds for survival and recovery. Diverting these resources would directly compromise their well-being, potentially leading to further suffering, unrest, and a significant loss of public faith in government institutions.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Aditi Singh? Evaluate each option with its merits and demerits. (100 words)
-(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+(b) What are the options available to Rajesh Kumar? Evaluate each option with its merits and demerits. (100 words)
+(c) What course of action would you recommend and why? How would you handle the pressures involved from the Chief Minister's Office, the District Collector, and his family? (150 words)
