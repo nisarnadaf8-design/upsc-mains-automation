@@ -1,35 +1,35 @@
-Date: 22 Aug 2026
+Date: 23 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Health: Public Health System and Social Determinants
+GS-1 SOCIETY: Tribal Communities: Issues, Rights and Constitutional Safeguards
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the persistent structural inequalities rooted in caste, class, and gender critically undermine the effective delivery and equitable access to public health services, particularly for vulnerable populations in remote and peri-urban areas.
+Examine the inherent limitations of the Fifth and Sixth Schedule provisions in addressing the evolving demands for greater autonomy and self-determination among various tribal communities in resource-rich regions, despite their foundational intent.
 
 Q2. (10 Marks | 150 words)
-Critically examine the extent to which India's current public health financing models adequately address the complex interplay between chronic non-communicable diseases, mental health challenges, and the rising out-of-pocket expenditure, especially in the context of an aging population.
+What do you understand by the concept of "development-induced precarity" experienced by tribal communities, and how has the implementation of the Forest Rights Act, 2006, sometimes fallen short in mitigating this precariousness, especially in critical mineral exploitation zones?
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-dimensional challenges in addressing the burden of malnutrition, encompassing stunting, wasting, and anaemia, across India's diverse socio-economic landscape. Examine how the urban-rural divide exacerbates these challenges, considering its social, economic, and programmatic implications on policy design and delivery mechanisms, with suitable examples.
+Critically analyze how the interplay of resource exploitation, land alienation, and the slow pace of implementing constitutional safeguards exacerbates the socio-economic and political marginalisation of tribal communities, often leading to deep-seated grievances. Discuss the implications for maintaining their distinct cultural identity and preventing further radicalization.
 
 ========================================
-GS-4 ETHICS: Corporate Governance and Business Ethics
+GS-4 ETHICS: Ethics in Public and Private Relationships
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the 'stewardship principle' in corporate governance? Explain its ethical significance for regulatory bodies and public sector undertakings in ensuring long-term sustainability and public trust beyond mere profit maximization.
+Explain the significance of moral autonomy for a civil servant in navigating the inevitable conflict between personal ethical convictions and institutional loyalties. How does this autonomy strengthen public trust and accountability?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemmas faced by a civil servant responsible for urban planning when an influential real estate developer seeks relaxed environmental clearances for a project promising significant local employment. How can the civil servant uphold environmental ethics while considering socio-economic development needs?
+How should a civil servant ethically manage the demands arising from familial obligations or close friendships when these come into direct conflict with the principles of impartiality, meritocracy, and public interest in administrative decision-making?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Alok Sharma, a diligent District Environmental Officer with the State Pollution Control Board in Bharatpur, has recently taken charge. Known for his principled stance, he is eager to ensure compliance with environmental norms in this district, which is experiencing significant industrial growth and hosts several large manufacturing units. His initial reports indicate increasing pollution levels in local water bodies.
+Mr. Alok Verma, a Deputy Secretary in the Department of Economic Affairs, Ministry of Finance, New Delhi, recently uncovered significant financial irregularities and kickbacks amounting to several hundred crores in a large national infrastructure project. He formally reported this detailed information, with irrefutable evidence, to the Central Vigilance Commission (CVC).
 
-During a routine inspection, Alok's team discovers serious violations by "IndusCo Pvt. Ltd.," a major industrial player and the largest employer in the region, related to the untreated discharge of industrial effluents into the nearby river, affecting downstream agricultural lands and villages. Before Alok can initiate legal action, his immediate superior, the Director, subtly advises him to adopt a "pragmatic approach" given IndusCo's economic footprint. Concurrently, a powerful local MLA contacts Alok, emphasizing the company's contribution to employment and warning against any action that could "disrupt development," hinting at potential career hurdles.
+Upon reporting, Alok has been immediately transferred to a remote, non-critical post in a distant state, his performance appraisals are being reviewed negatively, and his family is receiving anonymous threats, creating immense personal stress. His superior, the Joint Secretary, informally advised him to withdraw his complaint for the sake of his career and family’s safety, while a local political leader indirectly warned him against tarnishing the project’s reputation and causing public panic.
 
-Alok faces immense pressure as local villagers and environmental activists are preparing for protests, citing severe health issues and agricultural losses. His decision will significantly impact the health and livelihoods of thousands, the reputation of the State Pollution Control Board, the local economy, and his own professional integrity.
+Alok now faces immense pressure from all sides. If he continues, he fears severe career damage and real threats to his family. If he retracts, public funds remain siphoned, the corrupt go unpunished, and his own integrity is compromised, eroding public trust in the system.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Alok Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Mr. Alok Verma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
