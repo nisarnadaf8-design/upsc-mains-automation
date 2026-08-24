@@ -1,35 +1,36 @@
-Date: 23 Aug 2026
+Date: 24 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Tribal Communities: Issues, Rights and Constitutional Safeguards
+GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the inherent limitations of the Fifth and Sixth Schedule provisions in addressing the evolving demands for greater autonomy and self-determination among various tribal communities in resource-rich regions, despite their foundational intent.
+Examine how the evolving interpretation of 'positive secularism' in India attempts to balance the state's intervention for social reform with the constitutional protection of religious freedom and minority cultural rights.
 
 Q2. (10 Marks | 150 words)
-What do you understand by the concept of "development-induced precarity" experienced by tribal communities, and how has the implementation of the Forest Rights Act, 2006, sometimes fallen short in mitigating this precariousness, especially in critical mineral exploitation zones?
+Critically examine the challenges faced by linguistic minorities in India in preserving their unique identity and cultural heritage amidst increasing pressures of assimilation and the dominance of majoritarian languages.
 
 Q3. (15 Marks | 250 words)
-Critically analyze how the interplay of resource exploitation, land alienation, and the slow pace of implementing constitutional safeguards exacerbates the socio-economic and political marginalisation of tribal communities, often leading to deep-seated grievances. Discuss the implications for maintaining their distinct cultural identity and preventing further radicalization.
+Discuss how the ongoing discourse surrounding a potential Uniform Civil Code engages with competing claims of gender justice, individual autonomy, and the protection of distinct community-specific personal laws, presenting its potential socio-legal ramifications.
 
 ========================================
-GS-4 ETHICS: Ethics in Public and Private Relationships
+GS-4 ETHICS: Social Influence, Persuasion and Moral Development
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of moral autonomy for a civil servant in navigating the inevitable conflict between personal ethical convictions and institutional loyalties. How does this autonomy strengthen public trust and accountability?
+Explain the significance of cultivating ethical leadership and fostering a culture of moral exemplars within public administration to counter the effects of institutional lethargy and promote proactive good governance.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant ethically manage the demands arising from familial obligations or close friendships when these come into direct conflict with the principles of impartiality, meritocracy, and public interest in administrative decision-making?
+How should a civil servant distinguish between legitimate persuasion aimed at public good and manipulative tactics employed by vested interests when designing and implementing community welfare schemes?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Mr. Alok Verma, a Deputy Secretary in the Department of Economic Affairs, Ministry of Finance, New Delhi, recently uncovered significant financial irregularities and kickbacks amounting to several hundred crores in a large national infrastructure project. He formally reported this detailed information, with irrefutable evidence, to the Central Vigilance Commission (CVC).
 
-Upon reporting, Alok has been immediately transferred to a remote, non-critical post in a distant state, his performance appraisals are being reviewed negatively, and his family is receiving anonymous threats, creating immense personal stress. His superior, the Joint Secretary, informally advised him to withdraw his complaint for the sake of his career and family’s safety, while a local political leader indirectly warned him against tarnishing the project’s reputation and causing public panic.
+Arjun Sharma, a District Magistrate in a tribal-dominated district of Chhattisgarh, has been tasked with overseeing the land acquisition process for a crucial national green energy corridor project. The project promises significant economic growth and energy security for the state, but requires the acquisition of ancestral lands from several indigenous communities who rely on forest resources for their livelihood.
 
-Alok now faces immense pressure from all sides. If he continues, he fears severe career damage and real threats to his family. If he retracts, public funds remain siphoned, the corrupt go unpunished, and his own integrity is compromised, eroding public trust in the system.
+Local community leaders, asserting their rights under PESA and Forest Rights Act, are vehemently opposing the acquisition, citing displacement, loss of cultural heritage, and inadequate rehabilitation packages. Arjun's superiors are pressing him to expedite the process, warning of severe project delays and cost escalations if he fails. Simultaneously, a powerful local political leader, with vested interests in the land deal, is subtly manipulating community sentiments against the project, while offering 'support' to Arjun in clearing hurdles if he concedes to certain demands.
+
+Arjun's decision will directly affect the livelihoods and cultural identity of thousands of indigenous people, the strategic national interest of energy security, the district's economic future, and his own professional integrity. Both forceful acquisition and indefinite delay carry serious, far-reaching socio-economic and political consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Mr. Alok Verma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Arjun Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
