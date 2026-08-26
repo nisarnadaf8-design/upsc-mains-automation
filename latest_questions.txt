@@ -1,53 +1,36 @@
-Date: 25 Aug 2026
+Date: 26 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
+GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the intricate linkage between the informalization of labour markets and the persistent challenges in eradicating child labour, especially among migrant populations in India, despite a strong legal framework.
+Examine the challenges in fostering robust social capital within rapidly urbanizing Indian societies, considering the erosion of traditional community structures and increasing individualization. Discuss how these challenges impact collective action and local governance initiatives.
 
 Q2. (10 Marks | 150 words)
-Critically evaluate the efficacy of national and international legal instruments in preventing and prosecuting bonded labour, considering the evolving tactics of perpetrators and the systemic vulnerabilities of marginalized communities.
+Critically examine how the evolving regulatory framework for the voluntary sector in India has influenced the autonomy and operational capacity of non-governmental organizations in recent years. What implications does this hold for their role in democratic accountability?
 
 Q3. (15 Marks | 250 words)
-Analyse how digital technologies, while offering new avenues for combating human trafficking, simultaneously create novel challenges and exploitation mechanisms. Discuss this phenomenon considering social, economic, and law enforcement dimensions.
+Discuss with suitable examples how community-led initiatives, such as self-help groups and cooperative models, contribute to multi-dimensional rural development. Encompass their impact on economic empowerment, social cohesion, and women's agency in the context of sustainable local livelihoods.
 
 ========================================
-GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
+GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
 ========================================
 
 Q4. (10 Marks | 150 words)
-Discuss how the value of 'tolerance for ambiguity' is critical for a civil servant operating in a politically charged environment, ensuring impartiality and ethical decision-making amidst conflicting demands.
+What do you understand by the concept of 'ethical universalism' in global governance? Explain its significance for a civil servant involved in formulating India's foreign policy, particularly concerning human rights and humanitarian aid.
 
 Q5. (10 Marks | 150 words)
-Drawing lessons from the lives of prominent figures in India's struggle for independence, how can contemporary civil servants cultivate resilience and ethical fortitude when confronted with pressures that compromise public interest and institutional integrity?
+Examine the ethical dilemmas faced by national policy makers when balancing sovereign economic interests with humanitarian obligations during a global supply chain crisis impacting essential goods. How should a nation navigate such complex moral trade-offs?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Ms. Aditi Sharma, an accomplished IAS officer, currently serves as the District Election Officer (DEO) for Rudrapur District in Uttarakhand. With the impending general elections, her primary responsibility involves the meticulous preparation of accurate electoral rolls and the legitimate issuance of various official certificates essential for candidate eligibility. She is widely respected for her uprightness and commitment to due process.
+Baldev Singh, an experienced Joint Secretary in the Ministry of Infrastructure Development, New Delhi, is overseeing a critical national highway expansion project. This project involves extensive land acquisition and significant public-private partnerships, vital for national connectivity and economic growth.
 
-A few weeks before the nomination deadline, Ms. Sharma receives an implicit instruction, conveyed through her immediate superior, to prioritize and issue domicile certificates for a group of individuals whose residential claims are highly dubious. These individuals are reportedly influential political workers of the incumbent party, needing these specific certificates to qualify for contesting from constituencies where their genuine domicile is questionable. Her superior subtly communicated that compliance would ensure smooth career progression, while non-compliance could lead to administrative hurdles.
+An RTI applicant, a prominent civil society activist, has sought comprehensive financial records, internal feasibility studies, and detailed vendor negotiation minutes related to the project's land acquisition phase. While releasing all information would uphold transparency, Baldev's superior, the Secretary, has strongly advised against full disclosure, citing potential compromises to national strategic interests due to the project's sensitive locations and ongoing confidential commercial negotiations that could impact future public investments. Baldev also faces pressure from local media highlighting alleged irregularities, demanding greater accountability.
 
-Ms. Sharma is now facing a significant ethical dilemma. Upholding electoral integrity and the rule of law demands a thorough verification process, which might disqualify these candidates. However, refusing the directive risks antagonizing powerful political entities, potentially leading to professional retaliation or undeserved transfers. Conversely, issuing false certificates would compromise her personal integrity, violate electoral norms, and undermine public faith in the democratic process.
+The decision will affect the public's right to information, the integrity of government processes, the financial viability of future strategic projects, and Baldev's professional reputation. Both full disclosure and complete denial carry significant ethical, economic, and political consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-The core ethical issues are upholding electoral integrity, impartiality, and the rule of law against political pressure. It involves potential abuse of power, conflict of interest, compromise of a civil servant's honesty and dedication to public service, and the erosion of public trust in democratic institutions.
-
-(b) What are the options available to Ms. Aditi Sharma? Evaluate each option with its merits and demerits. (100 words)
-1. Comply and issue certificates:
-   Merits: Avoid immediate political confrontation, potentially secure career.
-   Demerits: Violates law, personal integrity, undermines elections, potential legal action, loss of public trust.
-
-2. Outright refusal:
-   Merits: Upholds law, integrity, strengthens democratic process.
-   Demerits: Faces political wrath, career stagnation, potential harassment/transfer, isolation.
-
-3. Document process, seek clarification/guidance from ECI:
-   Merits: Follows due process, seeks institutional protection, upholds integrity, creates accountability trail.
-   Demerits: May delay process, potentially escalate conflict, might not guarantee full protection.
-
+(b) What are the options available to Baldev Singh? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
-I would recommend Ms. Sharma adopt a course of action combining option 3 with meticulous documentation. She should politely but firmly communicate her inability to bypass established legal procedures for issuing domicile certificates, citing relevant election rules and statutes. Simultaneously, she must document all communications, formal and informal, related to the pressure. She should then seek urgent guidance from the Election Commission of India (ECI) through official channels, highlighting the potential violation of electoral norms without naming individuals directly initially, focusing on process integrity.
-
-To handle pressures, she should maintain a professional demeanour, avoid emotional reactions, and consistently refer to rules and regulations. By involving the ECI early, she creates an institutional shield against political retribution. Building a factual, documented case would provide her with a strong defence against any attempts to victimize her professionally, reinforcing transparency and accountability.
