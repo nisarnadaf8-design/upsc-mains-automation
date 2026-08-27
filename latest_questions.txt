@@ -1,36 +1,36 @@
-Date: 26 Aug 2026
+Date: 27 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
+GS-1 SOCIETY: Media, Social Media and Their Role in Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the challenges in fostering robust social capital within rapidly urbanizing Indian societies, considering the erosion of traditional community structures and increasing individualization. Discuss how these challenges impact collective action and local governance initiatives.
+Examine the evolving nature of media's responsibility in shaping public discourse in the age of algorithmic content curation. How does this shift impact its traditional role as the fourth pillar of democracy?
 
 Q2. (10 Marks | 150 words)
-Critically examine how the evolving regulatory framework for the voluntary sector in India has influenced the autonomy and operational capacity of non-governmental organizations in recent years. What implications does this hold for their role in democratic accountability?
+What do you understand by the term 'echo chambers' and 'filter bubbles' in the context of social media? Critically discuss their implications for fostering a truly informed citizenry and achieving social harmony in a diverse society.
 
 Q3. (15 Marks | 250 words)
-Discuss with suitable examples how community-led initiatives, such as self-help groups and cooperative models, contribute to multi-dimensional rural development. Encompass their impact on economic empowerment, social cohesion, and women's agency in the context of sustainable local livelihoods.
+Critically analyse the multifaceted challenges involved in regulating misinformation and hate speech on digital platforms in India. Discuss its social, legal, and political ramifications, especially in balancing freedom of expression with public order and national security.
 
 ========================================
-GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
+GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the concept of 'ethical universalism' in global governance? Explain its significance for a civil servant involved in formulating India's foreign policy, particularly concerning human rights and humanitarian aid.
+What do you understand by 'institutional integrity' in the context of public service? Explain its significance in fostering trust and accountability within the bureaucratic structure, particularly when civil servants face external pressures.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemmas faced by national policy makers when balancing sovereign economic interests with humanitarian obligations during a global supply chain crisis impacting essential goods. How should a nation navigate such complex moral trade-offs?
+Examine the ethical considerations for a civil servant in implementing policies that, while unpopular with a significant section of the population, are deemed essential for long-term public welfare and sustainable development. How should one balance empathy with objective decision-making?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Baldev Singh, an experienced Joint Secretary in the Ministry of Infrastructure Development, New Delhi, is overseeing a critical national highway expansion project. This project involves extensive land acquisition and significant public-private partnerships, vital for national connectivity and economic growth.
+Ms. Anjali Sharma, a young and upright Sub-Divisional Magistrate (SDM) in District Rudrapur, is known for her proactive approach to governance and strict adherence to administrative norms. During a routine inspection of industrial units in her sub-division aimed at assessing compliance with labour laws and environmental regulations, her team visited a garment manufacturing factory.
 
-An RTI applicant, a prominent civil society activist, has sought comprehensive financial records, internal feasibility studies, and detailed vendor negotiation minutes related to the project's land acquisition phase. While releasing all information would uphold transparency, Baldev's superior, the Secretary, has strongly advised against full disclosure, citing potential compromises to national strategic interests due to the project's sensitive locations and ongoing confidential commercial negotiations that could impact future public investments. Baldev also faces pressure from local media highlighting alleged irregularities, demanding greater accountability.
+To her dismay, she found clear evidence of child labour, with several underage children working in hazardous conditions. Further investigation revealed that the factory is owned by a powerful state cabinet minister, Mr. Rakesh Kumar, who also holds significant influence within the ruling party. Her immediate superior, the District Collector, subtly advised her to proceed cautiously, citing the political sensitivity and potential repercussions on her career, while the local media has started speculating about child labour in the region generally.
 
-The decision will affect the public's right to information, the integrity of government processes, the financial viability of future strategic projects, and Baldev's professional reputation. Both full disclosure and complete denial carry significant ethical, economic, and political consequences.
+Anjali's decision will directly impact the exploited children, the factory owner, her career, the integrity of the administration, and public trust in the system. Both rigorous enforcement and selective leniency carry significant ethical and practical consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Baldev Singh? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
