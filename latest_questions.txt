@@ -1,35 +1,34 @@
-Date: 27 Aug 2026
+Date: 28 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Media, Social Media and Their Role in Society
+GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving nature of media's responsibility in shaping public discourse in the age of algorithmic content curation. How does this shift impact its traditional role as the fourth pillar of democracy?
+Examine how traditional caste structures, despite modern legal frameworks and social reforms, continue to influence patterns of social mobility and access to resources in contemporary Indian society. Discuss the mechanisms through which these historical hierarchies manifest in new forms.
 
 Q2. (10 Marks | 150 words)
-What do you understand by the term 'echo chambers' and 'filter bubbles' in the context of social media? Critically discuss their implications for fostering a truly informed citizenry and achieving social harmony in a diverse society.
+Critically examine the concept of 'Sanskritisation' in the context of increasing aspirations for upward social mobility among historically marginalised communities. To what extent does this process inadvertently reinforce existing hierarchies, especially when viewed through the lens of intersectionality, encompassing class and gender dynamics?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multifaceted challenges involved in regulating misinformation and hate speech on digital platforms in India. Discuss its social, legal, and political ramifications, especially in balancing freedom of expression with public order and national security.
+Discuss how the politicisation of caste identity has transformed its role from a traditional social institution into a tool for mobilising electoral support in democratic India. Critically analyse its multi-dimensional impacts on social cohesion, economic development policies, and the representation of diverse gender identities within the political landscape.
 
 ========================================
-GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
+GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by 'institutional integrity' in the context of public service? Explain its significance in fostering trust and accountability within the bureaucratic structure, particularly when civil servants face external pressures.
+What do you understand by the 'conscience' as a moral compass for a public servant? Explain the ethical dilemmas that arise when a civil servant’s personal conscience dictates a course of action that conflicts with prevailing organizational norms or directives, especially in situations demanding adherence to rules versus a compassionate response.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical considerations for a civil servant in implementing policies that, while unpopular with a significant section of the population, are deemed essential for long-term public welfare and sustainable development. How should one balance empathy with objective decision-making?
+How can the 'Ethics of Care' framework be effectively integrated into the policy formulation and implementation processes within public administration, particularly when addressing the needs of vulnerable populations? Examine the practical challenges an administrator might face in balancing this approach with principles of impartiality and bureaucratic efficiency.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Anjali Sharma, a diligent District Magistrate in the urban development department of Zilla Nagar, is overseeing the tendering process for a critical urban housing project aimed at resettling slum dwellers. The project, valued at several hundred crores, is crucial for the city's infrastructure and the welfare of thousands of impoverished families. Strict environmental clearance and quality control standards have been stipulated in the tender documents to ensure sustainable development and safety.
 
-Ms. Anjali Sharma, a young and upright Sub-Divisional Magistrate (SDM) in District Rudrapur, is known for her proactive approach to governance and strict adherence to administrative norms. During a routine inspection of industrial units in her sub-division aimed at assessing compliance with labour laws and environmental regulations, her team visited a garment manufacturing factory.
+Just as the final bids are being reviewed, Anjali receives a direct call from the Chief Secretary, who, under veiled pressure from a powerful state minister, strongly suggests that a particular construction firm, 'MegaBuild Enterprises,' should be awarded the contract. MegaBuild's bid, however, falls short on environmental compliance and uses substandard materials according to internal technical assessments. The minister has publicly endorsed MegaBuild, and local media have already begun speculating about potential political interference, while resident welfare associations are closely monitoring the project's transparency.
 
-To her dismay, she found clear evidence of child labour, with several underage children working in hazardous conditions. Further investigation revealed that the factory is owned by a powerful state cabinet minister, Mr. Rakesh Kumar, who also holds significant influence within the ruling party. Her immediate superior, the District Collector, subtly advised her to proceed cautiously, citing the political sensitivity and potential repercussions on her career, while the local media has started speculating about child labour in the region generally.
-
-Anjali's decision will directly impact the exploited children, the factory owner, her career, the integrity of the administration, and public trust in the system. Both rigorous enforcement and selective leniency carry significant ethical and practical consequences.
+Anjali's decision will directly impact thousands of slum dwellers awaiting housing, the reputation of her department and the entire administration, the financial integrity of the project, and her own career. Awarding the contract to MegaBuild could lead to an environmental disaster and unsafe dwellings, while refusing could invite severe political retaliation and potential career setbacks.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
 (b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
