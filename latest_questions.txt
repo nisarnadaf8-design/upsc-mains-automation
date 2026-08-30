@@ -1,35 +1,36 @@
-Date: 29 Aug 2026
+Date: 30 Aug 2026
 
 ========================================
-GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
+GS-1 SOCIETY: Communalism, Regionalism and Secularism
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how persistent socio-cultural norms and market-driven structural barriers perpetuate the feminisation of poverty, creating an intergenerational cycle of economic vulnerability for women. Discuss the implications for national development and gender equity.
+Examine the evolving challenges to India's composite culture and syncretic traditions in a digitally interconnected society. Discuss how these inherent strengths can be reinforced amidst identity-based mobilizations.
 
 Q2. (10 Marks | 150 words)
-What do you understand by 'political informalisation' in the context of women's empowerment? How have grassroots initiatives like Self Help Groups (SHGs) shaped women's agency and participation in local governance, despite limited formal political representation?
+Critically examine how the principles of an electoral democracy, while empowering citizens, can also be exploited to foster communal divisions for political gains. What systemic safeguards are crucial to counter this trend?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the effectiveness of legal safeguards, such as the Protection of Women from Domestic Violence Act, 2005, in addressing the pervasive issue of gender-based violence in India. Discuss how societal attitudes, economic dependence, and gaps in institutional support systems collectively impede the full realization of justice and protection for women.
+Critically analyse the complex interplay of socio-economic disparities and political rhetoric in shaping regionalism, often transforming it from a legitimate demand for development into a challenge to national integration. Discuss its implications across social, economic, and political spheres with suitable examples.
 
 ========================================
-GS-4 ETHICS: Attitude: Formation, Change and Social Influence
+GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of an administrator's pre-existing attitudes in the formation of ethical decisions, particularly when confronted with situations demanding impartiality and adherence to public trust. How can cognitive biases stemming from deeply entrenched attitudes compromise administrative integrity?
+Explain how 'integrity beyond legal compliance' for a civil servant extends to upholding the spirit of public service, even when existing rules may not explicitly cover an ethical grey area. Illustrate its significance in fostering public trust.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant, committed to equitable service delivery, address prevalent organizational attitudes rooted in prejudice and stereotyping that adversely affect vulnerable sections of society? Examine the role of moral courage in challenging such ingrained institutional biases.
+A civil servant's dedication to public service often demands prioritizing collective welfare over personal career advancement. Discuss the ethical challenges involved in navigating such dilemmas and how a commitment to objectivity and evidence-based decision-making can guide choices.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ananya Sharma, a diligent Sub-Divisional Magistrate posted in the disaster-prone district of Rupnagar, was spearheading the relief operations following devastating floods. Her responsibilities included coordinating the distribution of essential supplies, managing temporary shelters, and overseeing the procurement of emergency equipment for the affected communities. The scale of the calamity demanded swift and transparent action.
 
-During a routine audit of procurement records, Ananya uncovered discrepancies suggesting large-scale siphoning of relief funds and substandard supplies by a cartel involving local contractors and, disturbingly, her immediate superior, the District Collector, Mr. Ramesh Kumar. Mr. Kumar, a well-connected officer nearing retirement, subtly reminded her of loyalty and career implications, while the local MLA privately cautioned her against "disrupting stability" during a crisis. The affected public, already desperate, began voicing suspicions about the quality of aid.
+Ms. Anjali Sharma, a diligent District Collector in the Surajpur district, a region primarily inhabited by the indigenous 'Gond' tribal community, has been overseeing several developmental projects. The state government has recently approved a major industrial corridor project, touted as a game-changer for economic growth and employment generation, slated to pass through a substantial portion of ancestral tribal land.
 
-Ananya's decision will directly impact thousands of flood victims, the integrity of the administration, and public trust in governance. Both exposing the corruption and remaining silent carry severe personal and professional consequences, potentially jeopardizing her career or perpetuating the suffering of the most vulnerable.
+The Chief Minister's Office has conveyed an urgent directive to Ms. Sharma to expedite land acquisition, bypassing certain environmental and social impact assessments to meet an aggressive project deadline. However, Ms. Sharma's preliminary assessment, supported by local activists and community leaders, indicates that the project, if implemented as per the revised plan, would lead to irreversible displacement of thousands of tribal families, destroy their traditional livelihoods, and desecrate their sacred spiritual sites, potentially violating their constitutional rights. She faces intense pressure from the Chief Secretary to comply swiftly, while tribal representatives are appealing to her for justice and protection of their heritage.
+
+Key stakeholders include the tribal community, the state government, prospective industries, local political leaders, and environmental advocacy groups. A hurried decision could lead to widespread social unrest, ecological damage, and prolonged legal challenges, while non-compliance might result in severe disciplinary action against Ms. Sharma and a significant setback to a project considered vital for state revenue.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
