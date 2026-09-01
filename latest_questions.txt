@@ -1,36 +1,36 @@
-Date: 31 Aug 2026
+Date: 01 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
+GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how widening regional disparities in human capital development and access to economic opportunities could jeopardize India's potential to fully realize its demographic dividend over the next two decades.
+Examine the persistent challenge of intergenerational poverty in India, focusing on how systemic barriers within education and employment perpetuate cycles of deprivation in both rural and increasingly vulnerable urban settings.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the evolving patterns of internal migration and the increasing nuclearisation of families are reshaping the traditional social support structures for India’s growing elderly population.
+How has the accelerated adoption of digital technologies in public services in India inadvertently created new forms of social exclusion for digitally illiterate or infrastructurally disadvantaged populations, undermining the goal of inclusive growth?
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted challenges and opportunities posed by India's complex internal and international migration dynamics for formulating a truly holistic and inclusive national population policy, specifically examining its social, economic, and gendered implications.
+Critically analyse the effectiveness of current policy frameworks in addressing the multifaceted social exclusion faced by Denotified and Nomadic Tribes in India, considering their unique challenges across socio-economic, political representation, and legal recognition dimensions.
 
 ========================================
-GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
+GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of self-awareness and self-regulation not merely as individual traits, but as foundational ethical competencies for ensuring integrity and impartial decision-making within public administration.
+What do you understand by Dr. B.R. Ambedkar's concept of 'social democracy' and how is its realization dependent on transcending mere political equality to establish fraternity and economic justice in governance?
 
 Q5. (10 Marks | 150 words)
-How can a civil servant effectively leverage empathy as a strategic tool to foster responsive governance, mediate diverse stakeholder interests, and build public trust, especially in areas marked by social friction or policy resistance?
+Explain how the Gandhian ideal of 'Sarvodaya' can inspire public administrators to adopt a 'last mile first' approach in policy design and implementation, ensuring that the benefits of development reach the most marginalized without exception.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Officer Rohit Sharma, an upright IPS officer of the 2015 batch, is currently serving as the Superintendent of Police in the Anti-Corruption Bureau (ACB) of a major metropolitan city. For the past six months, his team has been meticulously investigating a large-scale land allotment scam involving illicit gains by a powerful real estate cartel. The investigation has progressed significantly, unearthing substantial evidence and public pressure for swift action is mounting.
+Rajesh Kumar is the District Magistrate of Kolar district, known for his integrity and proactive administrative approach. He is currently overseeing a crucial multi-departmental investigation into a major land encroachment scandal involving several prominent local figures and a large tract of forest land. This investigation has garnered significant public attention and political scrutiny due to its sensitive nature.
 
-During the final stages of compiling the evidence, Rohit discovers irrefutable proof that a few senior officers within his own police department, including his immediate superior, the Inspector General (IG) of ACB, have actively facilitated the scam through deliberate inaction and sharing of confidential information for personal enrichment. Exposing this would not only bring down his superiors but also severely tarnish the reputation and public trust in the police force he serves, creating immense pressure from within the department to bury the findings. A powerful state minister is also subtly hinting at adverse career consequences if the investigation proceeds in this direction.
+During the ongoing investigation, Rajesh discovers that a distant cousin, who is part of a large joint family, is implicated in one of the land encroachment cases within his jurisdiction. The cousin, aware of Rajesh's position, discreetly approaches him through a common family acquaintance, requesting leniency and suggesting that publicizing his involvement might bring disrepute to the entire family. Simultaneously, the Chief Minister's office has conveyed an urgent directive to expedite the investigation and ensure that no individual, however influential, is spared, given the high-profile nature of the case.
 
-His decision will profoundly impact the integrity of the police force, the public's faith in justice, the careers of his colleagues and superiors, and his own professional future. Both exposing and concealing the truth carry severe, far-reaching social, moral, and administrative ramifications.
+The local media is closely following every development, and public trust in the administration’s ability to act impartially is at stake. Rajesh’s decision will not only impact his career but also set a precedent for future handling of similar high-stakes cases in the district.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rohit Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rajesh Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
