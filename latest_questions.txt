@@ -1,36 +1,36 @@
-Date: 01 Sep 2026
+Date: 02 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
+GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the persistent challenge of intergenerational poverty in India, focusing on how systemic barriers within education and employment perpetuate cycles of deprivation in both rural and increasingly vulnerable urban settings.
+Examine how the evolving dynamics of urban informality and the pursuit of 'smart city' technologies present a unique challenge to inclusive urban governance in India. Discuss whether current administrative structures are adequately equipped to bridge this development paradox.
 
 Q2. (10 Marks | 150 words)
-How has the accelerated adoption of digital technologies in public services in India inadvertently created new forms of social exclusion for digitally illiterate or infrastructurally disadvantaged populations, undermining the goal of inclusive growth?
+Critically analyze the role of the 74th Constitutional Amendment Act in empowering Urban Local Bodies to effectively manage contemporary challenges like climate resilience and sustainable mobility, beyond their traditional service delivery mandates. How far has decentralisation progressed in these critical areas?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the effectiveness of current policy frameworks in addressing the multifaceted social exclusion faced by Denotified and Nomadic Tribes in India, considering their unique challenges across socio-economic, political representation, and legal recognition dimensions.
+Discuss the multi-dimensional stress that unchecked rural-to-urban migration places on metropolitan infrastructure, public health, and social cohesion. Propose innovative policy interventions that integrate economic opportunities, environmental sustainability, and equitable access to services to transform urban centres into inclusive hubs.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
+GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by Dr. B.R. Ambedkar's concept of 'social democracy' and how is its realization dependent on transcending mere political equality to establish fraternity and economic justice in governance?
+What do you understand by Kautilya's concept of 'Matsyanyaya' and how does the ethical imperative of a virtuous ruler, as envisioned by Aristotle, offer a robust counter-narrative for maintaining order and justice in modern governance?
 
 Q5. (10 Marks | 150 words)
-Explain how the Gandhian ideal of 'Sarvodaya' can inspire public administrators to adopt a 'last mile first' approach in policy design and implementation, ensuring that the benefits of development reach the most marginalized without exception.
+How should a civil servant navigate a situation where adhering strictly to Kant's categorical imperative of universalizable principles might appear to cause immediate distress to a vulnerable section of society, while a utilitarian approach might suggest a 'greater good' outcome with potential long-term harm?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Rajesh Kumar is the District Magistrate of Kolar district, known for his integrity and proactive administrative approach. He is currently overseeing a crucial multi-departmental investigation into a major land encroachment scandal involving several prominent local figures and a large tract of forest land. This investigation has garnered significant public attention and political scrutiny due to its sensitive nature.
+Abhishek Sharma, a young and upright Sub-Divisional Magistrate (SDM) in the district of Rudraprayag, has been lauded for his diligent work in recent flood relief operations. His jurisdiction covers a diverse population with a history of peaceful coexistence, though underlying communal fault lines have occasionally surfaced over resource allocation. With local municipal elections just three months away, the political climate is increasingly charged.
 
-During the ongoing investigation, Rajesh discovers that a distant cousin, who is part of a large joint family, is implicated in one of the land encroachment cases within his jurisdiction. The cousin, aware of Rajesh's position, discreetly approaches him through a common family acquaintance, requesting leniency and suggesting that publicizing his involvement might bring disrepute to the entire family. Simultaneously, the Chief Minister's office has conveyed an urgent directive to expedite the investigation and ensure that no individual, however influential, is spared, given the high-profile nature of the case.
+A minor dispute over the usage of a public ground, used for religious processions by one community and as a weekly market by another, escalates into widespread communal tension following inflammatory speeches by local political leaders. As SDM, Abhishek is tasked with restoring order. His immediate superior, the District Magistrate, has instructed him to maintain absolute neutrality and enforce the rule of law without prejudice. However, the powerful local MLA, whose party relies heavily on the vote bank of one of the communities, directly contacts Abhishek. The MLA explicitly demands that Abhishek take biased action by arresting key individuals from the opposing community and imposing restrictions that disproportionately affect them, ensuring a 'favourable' outcome for the upcoming elections. The MLA subtly reminds Abhishek of potential career repercussions if his 'requests' are not met.
 
-The local media is closely following every development, and public trust in the administration’s ability to act impartially is at stake. Rajesh’s decision will not only impact his career but also set a precedent for future handling of similar high-stakes cases in the district.
+The situation on the ground is volatile, with social media amplifying rumours and a large crowd gathering, ready to react to the administration's decision. Abhishek knows that any biased action will permanently damage his credibility and the public’s trust in the administration, while defying the MLA might lead to political reprisal and potentially prolonged agitation if the MLA instigates further.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rajesh Kumar? Evaluate each option with its merits and demerits. (100 words)
-(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+(b) What are the options available to Abhishek Sharma? Evaluate each option with its merits and demerits. (100 words)
+(c) What course of action would you recommend and why? How would you handle the pressures involved from the political master while upholding your duties? (150 words)
