@@ -1,36 +1,35 @@
-Date: 02 Sep 2026
+Date: 03 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
+GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the evolving dynamics of urban informality and the pursuit of 'smart city' technologies present a unique challenge to inclusive urban governance in India. Discuss whether current administrative structures are adequately equipped to bridge this development paradox.
+Examine how the proliferation of global digital platforms and content consumption patterns has contributed to a nuanced interplay between cultural homogenisation and the assertion of regional identities in contemporary India. Discuss the implications for social cohesion.
 
 Q2. (10 Marks | 150 words)
-Critically analyze the role of the 74th Constitutional Amendment Act in empowering Urban Local Bodies to effectively manage contemporary challenges like climate resilience and sustainable mobility, beyond their traditional service delivery mandates. How far has decentralisation progressed in these critical areas?
+Critically examine the dual impact of globalisation on women's economic participation and empowerment in India. How has it created both new opportunities for professional advancement and simultaneously introduced new vulnerabilities or forms of exploitation?
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-dimensional stress that unchecked rural-to-urban migration places on metropolitan infrastructure, public health, and social cohesion. Propose innovative policy interventions that integrate economic opportunities, environmental sustainability, and equitable access to services to transform urban centres into inclusive hubs.
+Discuss the multi-dimensional challenges posed by the gig economy, spurred by global technological advancements, for India's traditional labour market and social security architecture. Critically analyse its implications for worker rights, income security, and the evolving employer-employee relationship in the next decade.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
+GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by Kautilya's concept of 'Matsyanyaya' and how does the ethical imperative of a virtuous ruler, as envisioned by Aristotle, offer a robust counter-narrative for maintaining order and justice in modern governance?
+Explain the foundational significance of probity as an ethical cornerstone for public service, particularly in maintaining citizen trust and promoting good governance. How does a lack of probity erode the legitimacy of administrative actions?
 
 Q5. (10 Marks | 150 words)
-How should a civil servant navigate a situation where adhering strictly to Kant's categorical imperative of universalizable principles might appear to cause immediate distress to a vulnerable section of society, while a utilitarian approach might suggest a 'greater good' outcome with potential long-term harm?
+What are the ethical complexities a civil servant faces when identifying and managing potential conflicts of interest in their official duties, especially in a culturally diverse society like India? Discuss strategies for upholding impartiality and public interest.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ms. Priya Singh, a recently appointed Joint Secretary in the Ministry of Rural Development, has been tasked with compiling the national progress report for the 'Gramin Rozgar Awas Yojana', a significant housing-cum-employment welfare scheme. Her preliminary analysis of ground data from several states reveals serious discrepancies and underperformance, indicating that official targets are far from being met and funds might have been misutilised.
 
-Abhishek Sharma, a young and upright Sub-Divisional Magistrate (SDM) in the district of Rudraprayag, has been lauded for his diligent work in recent flood relief operations. His jurisdiction covers a diverse population with a history of peaceful coexistence, though underlying communal fault lines have occasionally surfaced over resource allocation. With local municipal elections just three months away, the political climate is increasingly charged.
+Just as Ms. Singh prepares to draft an honest report reflecting these realities, she receives an informal yet firm directive from the Political Advisor to the Minister, subtly suggesting that the report should highlight successes and project an optimistic picture, hinting at potential repercussions for the Ministry's image and future fund allocations if negative data is presented. Simultaneously, local media outlets have begun reporting on the plight of genuine beneficiaries who have not received aid, putting pressure on the Ministry for transparency.
 
-A minor dispute over the usage of a public ground, used for religious processions by one community and as a weekly market by another, escalates into widespread communal tension following inflammatory speeches by local political leaders. As SDM, Abhishek is tasked with restoring order. His immediate superior, the District Magistrate, has instructed him to maintain absolute neutrality and enforce the rule of law without prejudice. However, the powerful local MLA, whose party relies heavily on the vote bank of one of the communities, directly contacts Abhishek. The MLA explicitly demands that Abhishek take biased action by arresting key individuals from the opposing community and imposing restrictions that disproportionately affect them, ensuring a 'favourable' outcome for the upcoming elections. The MLA subtly reminds Abhishek of potential career repercussions if his 'requests' are not met.
-
-The situation on the ground is volatile, with social media amplifying rumours and a large crowd gathering, ready to react to the administration's decision. Abhishek knows that any biased action will permanently damage his credibility and the public’s trust in the administration, while defying the MLA might lead to political reprisal and potentially prolonged agitation if the MLA instigates further.
+Ms. Singh's decision will have widespread repercussions, affecting not only the beneficiaries of the scheme but also the credibility of government reporting and the allocation of future resources for genuine development. Presenting a falsified report might appease her superiors and protect the Ministry's image in the short term, but risks perpetuating inefficiencies and undermining public trust in governance.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Abhishek Sharma? Evaluate each option with its merits and demerits. (100 words)
-(c) What course of action would you recommend and why? How would you handle the pressures involved from the political master while upholding your duties? (150 words)
+(b) What are the options available to Ms. Priya Singh? Evaluate each option with its merits and demerits. (100 words)
+(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
