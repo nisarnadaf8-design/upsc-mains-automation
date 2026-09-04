@@ -1,35 +1,36 @@
-Date: 03 Sep 2026
+Date: 04 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
+GS-1 SOCIETY: Social Movements and Civil Society in India
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the proliferation of global digital platforms and content consumption patterns has contributed to a nuanced interplay between cultural homogenisation and the assertion of regional identities in contemporary India. Discuss the implications for social cohesion.
+Examine the evolving role of civil society organizations in navigating the complexities of digital governance and misinformation, and their impact on democratic accountability in contemporary India.
 
 Q2. (10 Marks | 150 words)
-Critically examine the dual impact of globalisation on women's economic participation and empowerment in India. How has it created both new opportunities for professional advancement and simultaneously introduced new vulnerabilities or forms of exploitation?
+Critically examine how localized, issue-specific social movements, particularly those related to environmental conservation and tribal land rights, are reshaping the discourse on sustainable development and resource allocation in India.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-dimensional challenges posed by the gig economy, spurred by global technological advancements, for India's traditional labour market and social security architecture. Critically analyse its implications for worker rights, income security, and the evolving employer-employee relationship in the next decade.
+Critically analyse the multifaceted challenges posed by Naxalism as a persistent socio-economic problem in India, examining its political implications, developmental gaps it exposes, and the ethical dilemmas inherent in state responses aimed at conflict resolution and rehabilitation.
 
 ========================================
-GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
+GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the foundational significance of probity as an ethical cornerstone for public service, particularly in maintaining citizen trust and promoting good governance. How does a lack of probity erode the legitimacy of administrative actions?
+Explain the significance of 'impartiality' and 'objectivity' as foundational Nolan Principles, and how their consistent application by civil servants can effectively mitigate potential conflicts of interest in public administration.
 
 Q5. (10 Marks | 150 words)
-What are the ethical complexities a civil servant faces when identifying and managing potential conflicts of interest in their official duties, especially in a culturally diverse society like India? Discuss strategies for upholding impartiality and public interest.
+Examine the ethical challenges faced by public sector organizations in fostering a culture that encourages whistleblowing while simultaneously protecting institutional integrity and ensuring due process against malicious complaints.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Priya Singh, a recently appointed Joint Secretary in the Ministry of Rural Development, has been tasked with compiling the national progress report for the 'Gramin Rozgar Awas Yojana', a significant housing-cum-employment welfare scheme. Her preliminary analysis of ground data from several states reveals serious discrepancies and underperformance, indicating that official targets are far from being met and funds might have been misutilised.
 
-Just as Ms. Singh prepares to draft an honest report reflecting these realities, she receives an informal yet firm directive from the Political Advisor to the Minister, subtly suggesting that the report should highlight successes and project an optimistic picture, hinting at potential repercussions for the Ministry's image and future fund allocations if negative data is presented. Simultaneously, local media outlets have begun reporting on the plight of genuine beneficiaries who have not received aid, putting pressure on the Ministry for transparency.
+Rohan Sharma, a bright young IAS officer, was recently posted as Sub-Divisional Magistrate in the bustling industrial district of Rudrapur, Uttarakhand. Enthusiastic about public service, he began his tenure by meticulously reviewing major ongoing infrastructure projects, particularly those involving large-scale land acquisitions for urban development.
 
-Ms. Singh's decision will have widespread repercussions, affecting not only the beneficiaries of the scheme but also the credibility of government reporting and the allocation of future resources for genuine development. Presenting a falsified report might appease her superiors and protect the Ministry's image in the short term, but risks perpetuating inefficiencies and undermining public trust in governance.
+During his review, Rohan uncovered glaring irregularities in the acquisition process for a proposed 'Smart City Township' project, primarily benefiting a consortium of private builders with political connections. Agricultural lands were undervalued, environmental clearances appeared fast-tracked without proper due diligence, and resettlement plans for affected farmers were vague. His immediate superior, the District Collector, subtly advised him to expedite pending clearances, citing "urgent state interest." Simultaneously, a powerful local politician publicly lauded the project, cautioning against any 'bureaucratic hurdles'.
+
+Rohan is torn between his duty to uphold the law and the immense pressures to conform. Farmers stand to lose their ancestral lands and livelihoods without fair compensation, while the public stands to suffer from environmental degradation and a loss of public trust in governance. Any action he takes could jeopardize his nascent career, but inaction would make him complicit in a potentially large-scale scam.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Priya Singh? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
