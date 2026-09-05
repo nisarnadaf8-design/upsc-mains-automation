@@ -1,36 +1,36 @@
-Date: 04 Sep 2026
+Date: 05 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Social Movements and Civil Society in India
+GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving role of civil society organizations in navigating the complexities of digital governance and misinformation, and their impact on democratic accountability in contemporary India.
+Examine how the transformative goals of the National Education Policy 2020 are being re-evaluated in light of persistent digital infrastructure gaps across India, particularly concerning equitable access to quality higher education and skill development for rural youth.
 
 Q2. (10 Marks | 150 words)
-Critically examine how localized, issue-specific social movements, particularly those related to environmental conservation and tribal land rights, are reshaping the discourse on sustainable development and resource allocation in India.
+Critically examine the phenomenon of 'ed-tech' commercialisation and its potential to exacerbate educational inequalities, particularly in accessing quality learning outcomes, despite its promised reach and innovative pedagogies.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multifaceted challenges posed by Naxalism as a persistent socio-economic problem in India, examining its political implications, developmental gaps it exposes, and the ethical dilemmas inherent in state responses aimed at conflict resolution and rehabilitation.
+Beyond economic factors, discuss how ingrained socio-cultural barriers and insufficient institutional support continue to fuel high dropout rates among adolescent girls and Scheduled Tribe communities in aspirational districts. Critically analyse its long-term ramifications on social mobility, gender parity, and regional development.
 
 ========================================
-GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
+GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'impartiality' and 'objectivity' as foundational Nolan Principles, and how their consistent application by civil servants can effectively mitigate potential conflicts of interest in public administration.
+Explain how the concept of 'moral disengagement' can rationalize unethical behavior within a bureaucratic system, allowing individuals to participate in corrupt practices without perceiving themselves as morally culpable. Discuss its implications for fostering integrity in public administration.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical challenges faced by public sector organizations in fostering a culture that encourages whistleblowing while simultaneously protecting institutional integrity and ensuring due process against malicious complaints.
+Examine the ethical challenges faced by civil servants in ensuring transparency and accountability in public service delivery, even with the widespread adoption of e-governance initiatives. How can a culture of proactive integrity be institutionalized to supplement technological solutions?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Rohan Sharma, a bright young IAS officer, was recently posted as Sub-Divisional Magistrate in the bustling industrial district of Rudrapur, Uttarakhand. Enthusiastic about public service, he began his tenure by meticulously reviewing major ongoing infrastructure projects, particularly those involving large-scale land acquisitions for urban development.
+Officer Arjun Sharma, a diligent and upright District Disaster Management Officer in Rudraprayag District, Uttarakhand, is currently overseeing critical relief operations following unprecedented monsoon floods. The disaster has devastated numerous villages, displaced thousands, and led to a severe humanitarian crisis requiring immediate provision of food, shelter, and medical supplies from the allocated substantial relief funds.
 
-During his review, Rohan uncovered glaring irregularities in the acquisition process for a proposed 'Smart City Township' project, primarily benefiting a consortium of private builders with political connections. Agricultural lands were undervalued, environmental clearances appeared fast-tracked without proper due diligence, and resettlement plans for affected farmers were vague. His immediate superior, the District Collector, subtly advised him to expedite pending clearances, citing "urgent state interest." Simultaneously, a powerful local politician publicly lauded the project, cautioning against any 'bureaucratic hurdles'.
+Amidst the chaos and urgent need, Arjun faces immense pressure. The District Collector, his immediate superior, hints at a 'political directive' to divert a significant portion of the allocated flood relief funds towards a long-pending, non-emergency infrastructure project in a politically sensitive constituency, citing 'future flood prevention' as a pretext. Simultaneously, a powerful local MLA directly pressures Arjun, suggesting that his career progression hinges on his compliance with this diversion. Arjun knows that any diversion will directly jeopardize the lives and recovery of the most vulnerable flood victims.
 
-Rohan is torn between his duty to uphold the law and the immense pressures to conform. Farmers stand to lose their ancestral lands and livelihoods without fair compensation, while the public stands to suffer from environmental degradation and a loss of public trust in governance. Any action he takes could jeopardize his nascent career, but inaction would make him complicit in a potentially large-scale scam.
+The lives of thousands of flood-affected citizens hang in the balance, dependent on these relief funds. Arjun's decision will not only impact their immediate survival and rehabilitation but also the credibility of the district administration and the public's trust in governance. Both compliance and defiance carry severe personal and professional consequences for him.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Arjun Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
