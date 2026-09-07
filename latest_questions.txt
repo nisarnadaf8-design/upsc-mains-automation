@@ -1,36 +1,35 @@
-Date: 05 Sep 2026
+Date: 07 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
+GS-1 SOCIETY: Tribal Communities: Issues, Rights and Constitutional Safeguards
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the transformative goals of the National Education Policy 2020 are being re-evaluated in light of persistent digital infrastructure gaps across India, particularly concerning equitable access to quality higher education and skill development for rural youth.
+Examine how the constitutional frameworks of the Fifth and Sixth Schedules, despite their protective intent, struggle to effectively address contemporary challenges like climate change-induced migration and large-scale digital data collection in tribal areas.
 
 Q2. (10 Marks | 150 words)
-Critically examine the phenomenon of 'ed-tech' commercialisation and its potential to exacerbate educational inequalities, particularly in accessing quality learning outcomes, despite its promised reach and innovative pedagogies.
+Critically examine the paradigm of 'development at all costs' concerning tribal regions and assess its impact on the erosion of traditional knowledge systems and the marginalization of indigenous self-governance institutions.
 
 Q3. (15 Marks | 250 words)
-Beyond economic factors, discuss how ingrained socio-cultural barriers and insufficient institutional support continue to fuel high dropout rates among adolescent girls and Scheduled Tribe communities in aspirational districts. Critically analyse its long-term ramifications on social mobility, gender parity, and regional development.
+Discuss the multi-faceted challenges in realizing the true spirit of the Forest Rights Act 2006, considering the intertwined issues of administrative apathy, land-use conflicts with state projects, and the persistent vulnerability of tribal women to socio-economic exploitation.
 
 ========================================
-GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
+GS-4 ETHICS: Ethics in Public and Private Relationships
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how the concept of 'moral disengagement' can rationalize unethical behavior within a bureaucratic system, allowing individuals to participate in corrupt practices without perceiving themselves as morally culpable. Discuss its implications for fostering integrity in public administration.
+Explain the significance of an internalized ethical compass for a civil servant in navigating the often blurred lines between personal convictions and the objective demands of public service, especially when faced with societal expectations from close acquaintances.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical challenges faced by civil servants in ensuring transparency and accountability in public service delivery, even with the widespread adoption of e-governance initiatives. How can a culture of proactive integrity be institutionalized to supplement technological solutions?
+How should a civil servant ethically manage situations where personal loyalty to a long-standing friend or relative conflicts directly with the principles of meritocracy and transparency required in public appointments or contractual decisions?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Arjun Kumar, a diligent Deputy Secretary in the Ministry of Rural Development, recently uncovered significant financial irregularities involving a large-scale rural housing scheme. His department is responsible for ensuring transparent allocation and utilization of funds across several states. Arjun meticulously documented the fraud, which involved inflated costs and siphoning off funds meant for vulnerable beneficiaries in remote districts, and submitted a detailed report to the Vigilance Section of his Ministry.
 
-Officer Arjun Sharma, a diligent and upright District Disaster Management Officer in Rudraprayag District, Uttarakhand, is currently overseeing critical relief operations following unprecedented monsoon floods. The disaster has devastated numerous villages, displaced thousands, and led to a severe humanitarian crisis requiring immediate provision of food, shelter, and medical supplies from the allocated substantial relief funds.
+Instead of immediate action, Arjun finds himself isolated. His immediate superior, who was perceived to be close to some implicated contractors, subtly warns him to 'not rock the boat' and questions his judgment. Simultaneously, a senior political functionary, whose constituency would be affected by a probe, starts orchestrating a smear campaign against Arjun through anonymous leaks to the media, questioning his integrity and motives, and subtly hinting at a transfer to an insignificant post. His family is also distressed by the public scrutiny and potential career repercussions.
 
-Amidst the chaos and urgent need, Arjun faces immense pressure. The District Collector, his immediate superior, hints at a 'political directive' to divert a significant portion of the allocated flood relief funds towards a long-pending, non-emergency infrastructure project in a politically sensitive constituency, citing 'future flood prevention' as a pretext. Simultaneously, a powerful local MLA directly pressures Arjun, suggesting that his career progression hinges on his compliance with this diversion. Arjun knows that any diversion will directly jeopardize the lives and recovery of the most vulnerable flood victims.
-
-The lives of thousands of flood-affected citizens hang in the balance, dependent on these relief funds. Arjun's decision will not only impact their immediate survival and rehabilitation but also the credibility of the district administration and the public's trust in governance. Both compliance and defiance carry severe personal and professional consequences for him.
+The key stakeholders are the defrauded rural beneficiaries, the integrity of the Ministry, the public's trust in governance, and Arjun's career and family well-being. Both pursuing the truth and backing down carry severe consequences for public accountability, personal reputation, and the welfare of many.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Arjun Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Arjun Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
