@@ -1,35 +1,36 @@
-Date: 07 Sep 2026
+Date: 08 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Tribal Communities: Issues, Rights and Constitutional Safeguards
+GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the constitutional frameworks of the Fifth and Sixth Schedules, despite their protective intent, struggle to effectively address contemporary challenges like climate change-induced migration and large-scale digital data collection in tribal areas.
+Examine the evolving role of civil society organizations in sustaining India's pluralistic secular fabric amidst contemporary socio-political shifts.
 
 Q2. (10 Marks | 150 words)
-Critically examine the paradigm of 'development at all costs' concerning tribal regions and assess its impact on the erosion of traditional knowledge systems and the marginalization of indigenous self-governance institutions.
+How have judicial interpretations shaped the contours of protection afforded to linguistic minorities under Articles 29 and 30, and what new challenges have emerged in the digital age?
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted challenges in realizing the true spirit of the Forest Rights Act 2006, considering the intertwined issues of administrative apathy, land-use conflicts with state projects, and the persistent vulnerability of tribal women to socio-economic exploitation.
+Critically analyse the multi-faceted challenges arising from allegations of coercive religious conversions, considering their impact on social cohesion, individual autonomy, and the legal framework governing religious freedom in India.
 
 ========================================
-GS-4 ETHICS: Ethics in Public and Private Relationships
+GS-4 ETHICS: Social Influence, Persuasion and Moral Development
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of an internalized ethical compass for a civil servant in navigating the often blurred lines between personal convictions and the objective demands of public service, especially when faced with societal expectations from close acquaintances.
+Explain the significance of cultivating 'moral imagination' among civil servants for navigating complex ethical dilemmas and fostering public trust.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant ethically manage situations where personal loyalty to a long-standing friend or relative conflicts directly with the principles of meritocracy and transparency required in public appointments or contractual decisions?
+How should a civil servant ethically employ persuasive communication to garner public support for challenging policy reforms, distinguishing it from manipulative tactics?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Arjun Kumar, a diligent Deputy Secretary in the Ministry of Rural Development, recently uncovered significant financial irregularities involving a large-scale rural housing scheme. His department is responsible for ensuring transparent allocation and utilization of funds across several states. Arjun meticulously documented the fraud, which involved inflated costs and siphoning off funds meant for vulnerable beneficiaries in remote districts, and submitted a detailed report to the Vigilance Section of his Ministry.
 
-Instead of immediate action, Arjun finds himself isolated. His immediate superior, who was perceived to be close to some implicated contractors, subtly warns him to 'not rock the boat' and questions his judgment. Simultaneously, a senior political functionary, whose constituency would be affected by a probe, starts orchestrating a smear campaign against Arjun through anonymous leaks to the media, questioning his integrity and motives, and subtly hinting at a transfer to an insignificant post. His family is also distressed by the public scrutiny and potential career repercussions.
+Aarav Sharma is the District Collector of a remote, hilly district in a state known for its rich biodiversity and indigenous tribal communities. His current priority is the land acquisition for a critical National Highway expansion project, aimed at improving strategic connectivity and boosting regional economic development. The project, sanctioned by the central government, is under immense pressure for timely completion.
 
-The key stakeholders are the defrauded rural beneficiaries, the integrity of the Ministry, the public's trust in governance, and Arjun's career and family well-being. Both pursuing the truth and backing down carry severe consequences for public accountability, personal reputation, and the welfare of many.
+However, the proposed alignment of the highway passes through several ancestral tribal villages and dense forest patches, which are crucial for the livelihood and cultural identity of the local Munda tribe. The community has expressed strong resistance, citing irreversible damage to their sacred groves, displacement, and inadequate rehabilitation plans, garnering significant media attention and support from environmental activists. The Chief Secretary has conveyed the state government’s unequivocal commitment to the project, hinting at severe repercussions for any delay, while the local MLA is actively supporting the tribal community, threatening large-scale protests if their demands are not met.
+
+Aarav finds himself at a crossroads where national strategic imperatives clash with deeply entrenched community rights and environmental concerns. Both swift action to clear the path and delaying tactics to accommodate community demands carry serious consequences for the district, the project, and his own career.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Arjun Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Aarav Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
