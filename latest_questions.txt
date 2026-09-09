@@ -1,36 +1,35 @@
-Date: 08 Sep 2026
+Date: 09 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
+GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving role of civil society organizations in sustaining India's pluralistic secular fabric amidst contemporary socio-political shifts.
+Examine the intricate linkages between evolving informal economic structures, internal migration patterns, and the persistent challenges in eradicating child and bonded labour in India, particularly in urbanizing regions.
 
 Q2. (10 Marks | 150 words)
-How have judicial interpretations shaped the contours of protection afforded to linguistic minorities under Articles 29 and 30, and what new challenges have emerged in the digital age?
+Critically examine how global supply chain complexities and digital platforms have reshaped the landscape of human trafficking, particularly concerning vulnerable populations, demanding a re-evaluation of traditional enforcement mechanisms.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multi-faceted challenges arising from allegations of coercive religious conversions, considering their impact on social cohesion, individual autonomy, and the legal framework governing religious freedom in India.
+Discuss the multi-faceted challenges in effectively implementing anti-trafficking legislation, considering the interplay of socio-cultural norms, economic disparities, and political will, in ensuring victim rehabilitation and prosecution of perpetrators.
 
 ========================================
-GS-4 ETHICS: Social Influence, Persuasion and Moral Development
+GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of cultivating 'moral imagination' among civil servants for navigating complex ethical dilemmas and fostering public trust.
+Explain how the concept of 'moral imagination', drawing lessons from historical figures who navigated complex ethical dilemmas, is crucial for fostering proactive and value-driven decision-making among civil servants today.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant ethically employ persuasive communication to garner public support for challenging policy reforms, distinguishing it from manipulative tactics?
+In an increasingly polarized administrative landscape, discuss how inculcating values of empathy and impartial reasoning, inspired by literary narratives, can enhance a civil servant's capacity for just and inclusive governance.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ms. Anjali Sharma is the District Welfare Officer in Palampur, a rural district grappling with significant socio-economic disparities. Known for her impeccable integrity and efficiency, she leads the Social Justice Department, responsible for verifying eligibility for various government welfare schemes, including a newly launched 'Gram Uday Yojana' aimed at poverty alleviation.
 
-Aarav Sharma is the District Collector of a remote, hilly district in a state known for its rich biodiversity and indigenous tribal communities. His current priority is the land acquisition for a critical National Highway expansion project, aimed at improving strategic connectivity and boosting regional economic development. The project, sanctioned by the central government, is under immense pressure for timely completion.
+During a rapid verification drive for the 'Gram Uday Yojana', Ms. Anjali is subjected to intense pressure from Mr. Rajeev Singh, the influential local MLA, and subtly, from her immediate superior, Mr. Kumar, the District Collector. They 'advise' her to fast-track approvals for a list of beneficiaries from politically crucial villages, many of whom clearly do not meet the scheme's stringent eligibility criteria. Anjali is reminded that her career progression and future postings hinge on her 'cooperation' in ensuring the scheme's 'success' in these areas.
 
-However, the proposed alignment of the highway passes through several ancestral tribal villages and dense forest patches, which are crucial for the livelihood and cultural identity of the local Munda tribe. The community has expressed strong resistance, citing irreversible damage to their sacred groves, displacement, and inadequate rehabilitation plans, garnering significant media attention and support from environmental activists. The Chief Secretary has conveyed the state government’s unequivocal commitment to the project, hinting at severe repercussions for any delay, while the local MLA is actively supporting the tribal community, threatening large-scale protests if their demands are not met.
-
-Aarav finds himself at a crossroads where national strategic imperatives clash with deeply entrenched community rights and environmental concerns. Both swift action to clear the path and delaying tactics to accommodate community demands carry serious consequences for the district, the project, and his own career.
+Ms. Anjali realizes that issuing false certificates would divert crucial public funds from genuine, needy recipients to ineligible political supporters, thereby undermining the scheme's very purpose. Her decision will have far-reaching consequences for her professional standing, the trust placed in public administration, and the welfare of the district's most vulnerable citizens.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Aarav Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
