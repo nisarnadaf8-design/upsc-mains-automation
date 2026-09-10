@@ -1,35 +1,36 @@
-Date: 09 Sep 2026
+Date: 10 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
+GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the intricate linkages between evolving informal economic structures, internal migration patterns, and the persistent challenges in eradicating child and bonded labour in India, particularly in urbanizing regions.
+Examine how the proliferation of digital platforms and online communities has transformed the formation and utilization of social capital in diverse Indian socio-economic contexts. Discuss the implications for collective action and public service delivery.
 
 Q2. (10 Marks | 150 words)
-Critically examine how global supply chain complexities and digital platforms have reshaped the landscape of human trafficking, particularly concerning vulnerable populations, demanding a re-evaluation of traditional enforcement mechanisms.
+What challenges do Non-Governmental Organizations face in maintaining their operational autonomy and effectiveness while navigating contemporary regulatory frameworks in India? Critically examine their capacity to remain a vital bridge between state and citizen.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted challenges in effectively implementing anti-trafficking legislation, considering the interplay of socio-cultural norms, economic disparities, and political will, in ensuring victim rehabilitation and prosecution of perpetrators.
+Critically analyse the multi-faceted success of the cooperative movement, as exemplified by Amul, in fostering rural socio-economic empowerment and gender equity. Discuss the political, economic, and social lessons that can be drawn for sustainable inclusive development in other sectors.
 
 ========================================
-GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
+GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how the concept of 'moral imagination', drawing lessons from historical figures who navigated complex ethical dilemmas, is crucial for fostering proactive and value-driven decision-making among civil servants today.
+What do you understand by the concept of 'shared but differentiated responsibilities' in the context of global climate action? Explain how this ethical principle influences a civil servant's approach to national policy formulation and resource allocation.
 
 Q5. (10 Marks | 150 words)
-In an increasingly polarized administrative landscape, discuss how inculcating values of empathy and impartial reasoning, inspired by literary narratives, can enhance a civil servant's capacity for just and inclusive governance.
+Examine the ethical dimensions a civil servant must consider when implementing national policies that intersect with international refugee laws, particularly concerning the balance between national security and humanitarian obligations. What challenges arise in ensuring human dignity in such situations?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Anjali Sharma is the District Welfare Officer in Palampur, a rural district grappling with significant socio-economic disparities. Known for her impeccable integrity and efficiency, she leads the Social Justice Department, responsible for verifying eligibility for various government welfare schemes, including a newly launched 'Gram Uday Yojana' aimed at poverty alleviation.
 
-During a rapid verification drive for the 'Gram Uday Yojana', Ms. Anjali is subjected to intense pressure from Mr. Rajeev Singh, the influential local MLA, and subtly, from her immediate superior, Mr. Kumar, the District Collector. They 'advise' her to fast-track approvals for a list of beneficiaries from politically crucial villages, many of whom clearly do not meet the scheme's stringent eligibility criteria. Anjali is reminded that her career progression and future postings hinge on her 'cooperation' in ensuring the scheme's 'success' in these areas.
+Rajesh Kumar, an Under Secretary in the Ministry of Environment, Forest and Climate Change, New Delhi, is tasked with handling various public information requests. Recently, his department received an RTI application seeking extensive details, including internal communication logs and specific file notings, related to the environmental clearance granted to a large-scale infrastructure project in an ecologically sensitive zone. The project, inaugurated by a senior political leader, is nearing completion.
 
-Ms. Anjali realizes that issuing false certificates would divert crucial public funds from genuine, needy recipients to ineligible political supporters, thereby undermining the scheme's very purpose. Her decision will have far-reaching consequences for her professional standing, the trust placed in public administration, and the welfare of the district's most vulnerable citizens.
+The RTI applicant, a prominent environmental activist, alleges procedural irregularities and potential conflict of interest in the clearance process. While some information is publicly available, a significant portion of the requested details falls under 'cabinet papers' or 'commercial confidence' as per the Official Secrets Act and specific RTI exemptions. Rajesh's immediate superior, a Joint Secretary, has instructed him to release only the bare minimum public information, citing potential diplomatic implications and investment uncertainty if sensitive details are divulged. However, the activist has publicly threatened to expose perceived governmental opacity and malfeasance if full disclosure is not made.
+
+Rajesh's decision will directly impact the activist's perception of government transparency, the credibility of the Ministry, the reputation of the involved political leader and investors, and potentially ignite further public debate on environmental governance. Non-disclosure might fuel public distrust, while full disclosure could trigger legal challenges, political backlash, and a loss of confidentiality essential for future policy discussions.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rajesh Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
