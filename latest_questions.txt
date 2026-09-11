@@ -1,36 +1,50 @@
-Date: 10 Sep 2026
+Date: 11 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
+GS-1 SOCIETY: Media, Social Media and Their Role in Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the proliferation of digital platforms and online communities has transformed the formation and utilization of social capital in diverse Indian socio-economic contexts. Discuss the implications for collective action and public service delivery.
+Examine how the proliferation of diverse digital platforms challenges the traditional understanding of media as the fourth pillar of democracy. Discuss the new dimensions of responsibility and accountability that emerge for both content creators and consumers in this evolving landscape.
 
 Q2. (10 Marks | 150 words)
-What challenges do Non-Governmental Organizations face in maintaining their operational autonomy and effectiveness while navigating contemporary regulatory frameworks in India? Critically examine their capacity to remain a vital bridge between state and citizen.
+Critically examine how the deepening digital divide in India exacerbates the spread and impact of misinformation, leading to social fragmentation. How can a multi-pronged strategy effectively address both access and information literacy gaps simultaneously?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multi-faceted success of the cooperative movement, as exemplified by Amul, in fostering rural socio-economic empowerment and gender equity. Discuss the political, economic, and social lessons that can be drawn for sustainable inclusive development in other sectors.
+Critically analyse the complex challenge of regulating social media content in India, particularly concerning the delicate balance between safeguarding free speech and curbing hate speech. Discuss its implications for political mobilisation, social cohesion, and the legal framework, citing relevant contemporary examples.
 
 ========================================
-GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
+GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the concept of 'shared but differentiated responsibilities' in the context of global climate action? Explain how this ethical principle influences a civil servant's approach to national policy formulation and resource allocation.
+Explain the significance of 'moral courage' for a civil servant operating in an environment frequently marked by political pressures and ethical dilemmas. How does this virtue contribute to upholding the principles of good governance and public trust?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dimensions a civil servant must consider when implementing national policies that intersect with international refugee laws, particularly concerning the balance between national security and humanitarian obligations. What challenges arise in ensuring human dignity in such situations?
+Examine the ethical considerations a public servant must weigh when faced with a directive from a superior that appears to contravene established rules or public interest. How should one balance duty to hierarchy with one's moral obligations and the principle of 'probity in governance'?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Rajesh Kumar, an Under Secretary in the Ministry of Environment, Forest and Climate Change, New Delhi, is tasked with handling various public information requests. Recently, his department received an RTI application seeking extensive details, including internal communication logs and specific file notings, related to the environmental clearance granted to a large-scale infrastructure project in an ecologically sensitive zone. The project, inaugurated by a senior political leader, is nearing completion.
+Meena Sharma, a diligent and upright IAS officer, serves as the District Magistrate of Rudrapur, a district known for its rapidly expanding industrial sector. Her administration is focused on promoting industrial growth while ensuring social welfare and strict adherence to labour laws.
 
-The RTI applicant, a prominent environmental activist, alleges procedural irregularities and potential conflict of interest in the clearance process. While some information is publicly available, a significant portion of the requested details falls under 'cabinet papers' or 'commercial confidence' as per the Official Secrets Act and specific RTI exemptions. Rajesh's immediate superior, a Joint Secretary, has instructed him to release only the bare minimum public information, citing potential diplomatic implications and investment uncertainty if sensitive details are divulged. However, the activist has publicly threatened to expose perceived governmental opacity and malfeasance if full disclosure is not made.
+During a routine inspection by her labour department team, severe instances of child labour are discovered in a prominent textile factory, 'Rudrapur Looms'. This factory is owned by Mr. Rajendra Pratap, a powerful state cabinet minister and a key political figure in the region. Meena is immediately contacted by the Minister's office, subtly advising her to downplay the report due to its potential "unnecessary political ramifications" and impact on "industrial investment sentiments." Her immediate superior, the Divisional Commissioner, also hints at the sensitivity of the matter, urging caution.
 
-Rajesh's decision will directly impact the activist's perception of government transparency, the credibility of the Ministry, the reputation of the involved political leader and investors, and potentially ignite further public debate on environmental governance. Non-disclosure might fuel public distrust, while full disclosure could trigger legal challenges, political backlash, and a loss of confidentiality essential for future policy discussions.
+The children involved, their families, the factory's other employees, the Minister's political career, and the integrity of the district administration are all at stake. Both strict action and a lenient approach carry significant consequences for justice, public trust, and Meena's own career.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rajesh Kumar? Evaluate each option with its merits and demerits. (100 words)
+The case involves child labour (violation of fundamental human rights), political interference, conflict of interest, integrity versus hierarchical obedience, rule of law, and the maintenance of public trust in administration. Meena faces a critical dilemma between upholding justice and succumbing to pressure.
+
+(b) What are the options available to Meena Sharma? Evaluate each option with its merits and demerits. (100 words)
+1. Initiate full legal action against the factory: Merits – Upholds law, protects vulnerable children, reinforces administrative integrity. Demerits – Faces intense political backlash, potential career repercussions, social unrest.
+2. Order minimal penalties/warnings without full closure: Merits – Avoids immediate confrontation, may preserve political goodwill. Demerits – Compromises justice, encourages impunity, erodes public trust and her own moral authority.
+3. Seek an internal inquiry with strategic delays: Merits – Buys time, allows for discreet information gathering. Demerits – Could be perceived as stalling, risks evidence tampering, might be seen as lacking resolve.
+4. Report the matter confidentially to higher central authorities: Merits – Shares responsibility, seeks institutional support. Demerits – May be seen as insubordination, support is not guaranteed, risks being sidelined.
+
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+I would recommend initiating full legal action against 'Rudrapur Looms' for severe child labour violations, ensuring immediate rescue and rehabilitation for the affected children. This course of action is paramount to uphold the rule of law, protect vulnerable populations, and maintain the integrity and credibility of the civil services.
+
+To handle the immense pressures, I would:
+1. Meticulously document all evidence of child labour and all communications regarding political interference, creating an irrefutable case.
+2. Formally inform the Chief Secretary and relevant child protection commissions about the situation and the pressures, seeking their guidance and institutional support to ensure transparency and accountability.
+3. Collaborate with NGOs and legal aid bodies to ensure effective rehabilitation for the children and support for their families.
+4. Prepare for potential transfers or other retaliatory measures, steadfastly defending my actions based on legal principles and ethical governance, while maintaining a clear and factual public stance if necessary.
