@@ -1,50 +1,35 @@
-Date: 11 Sep 2026
+Date: 12 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Media, Social Media and Their Role in Society
+GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the proliferation of diverse digital platforms challenges the traditional understanding of media as the fourth pillar of democracy. Discuss the new dimensions of responsibility and accountability that emerge for both content creators and consumers in this evolving landscape.
+Examine how the increasing political instrumentalization of caste identities in contemporary India has both challenged and reinforced its traditional social stratification, impacting the discourse of social justice.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the deepening digital divide in India exacerbates the spread and impact of misinformation, leading to social fragmentation. How can a multi-pronged strategy effectively address both access and information literacy gaps simultaneously?
+Critically examine how the processes of 'Sanskritisation' and 'Westernisation', as conceptualized by M.N. Srinivas, manifest in modern Indian society amidst rapid urbanization and digital proliferation. Do these frameworks adequately explain contemporary forms of social mobility?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the complex challenge of regulating social media content in India, particularly concerning the delicate balance between safeguarding free speech and curbing hate speech. Discuss its implications for political mobilisation, social cohesion, and the legal framework, citing relevant contemporary examples.
+Discuss the complex interplay of caste, class, and gender in shaping access to opportunities and social mobility in India. Critically analyze how affirmative action policies, primarily designed to address caste-based disparities, navigate these intersectional disadvantages and the challenges in achieving equitable outcomes.
 
 ========================================
-GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
+GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'moral courage' for a civil servant operating in an environment frequently marked by political pressures and ethical dilemmas. How does this virtue contribute to upholding the principles of good governance and public trust?
+How does a civil servant balance the imperatives of personal conscience with the demands of institutional integrity and diverse cultural norms prevalent in public service delivery? Explain the significance of upholding universal ethical principles in such a context.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical considerations a public servant must weigh when faced with a directive from a superior that appears to contravene established rules or public interest. How should one balance duty to hierarchy with one's moral obligations and the principle of 'probity in governance'?
+Examine the ethical dimensions of adopting an 'ethics of care' framework, distinct from a purely rule-based approach, for a civil servant dealing with vulnerable and marginalized sections of society. How can this approach enhance trust and effective public service?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Smita Sharma, a young and upright District Magistrate in the industrially developing district of Rampur, has initiated a rigorous drive to clear illegal encroachments on government land earmarked for a public park and community center. The project is crucial for the city's green spaces and social infrastructure, and she is known for her strict adherence to rules.
 
-Meena Sharma, a diligent and upright IAS officer, serves as the District Magistrate of Rudrapur, a district known for its rapidly expanding industrial sector. Her administration is focused on promoting industrial growth while ensuring social welfare and strict adherence to labour laws.
+A powerful state minister, Mr. Rakesh Verma, who has significant political influence in the region, personally calls Smita. He insists that a particular encroachment, owned by a close associate of his who is also a major party funder, be exempted from the demolition drive, citing 'humanitarian grounds' and 'minor deviation'. Her immediate superior, the Divisional Commissioner, subtly advises her to 'handle the situation pragmatically' to avoid unnecessary political friction, hinting at potential career repercussions.
 
-During a routine inspection by her labour department team, severe instances of child labour are discovered in a prominent textile factory, 'Rudrapur Looms'. This factory is owned by Mr. Rajendra Pratap, a powerful state cabinet minister and a key political figure in the region. Meena is immediately contacted by the Minister's office, subtly advising her to downplay the report due to its potential "unnecessary political ramifications" and impact on "industrial investment sentiments." Her immediate superior, the Divisional Commissioner, also hints at the sensitivity of the matter, urging caution.
-
-The children involved, their families, the factory's other employees, the Minister's political career, and the integrity of the district administration are all at stake. Both strict action and a lenient approach carry significant consequences for justice, public trust, and Meena's own career.
+Smita's decision will directly affect the public's trust in governance, the environmental future of the city, and the principle of rule of law. Bending the rules could lead to further encroachments and loss of public land, while upholding them could jeopardize her career and invite political backlash.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-The case involves child labour (violation of fundamental human rights), political interference, conflict of interest, integrity versus hierarchical obedience, rule of law, and the maintenance of public trust in administration. Meena faces a critical dilemma between upholding justice and succumbing to pressure.
-
-(b) What are the options available to Meena Sharma? Evaluate each option with its merits and demerits. (100 words)
-1. Initiate full legal action against the factory: Merits – Upholds law, protects vulnerable children, reinforces administrative integrity. Demerits – Faces intense political backlash, potential career repercussions, social unrest.
-2. Order minimal penalties/warnings without full closure: Merits – Avoids immediate confrontation, may preserve political goodwill. Demerits – Compromises justice, encourages impunity, erodes public trust and her own moral authority.
-3. Seek an internal inquiry with strategic delays: Merits – Buys time, allows for discreet information gathering. Demerits – Could be perceived as stalling, risks evidence tampering, might be seen as lacking resolve.
-4. Report the matter confidentially to higher central authorities: Merits – Shares responsibility, seeks institutional support. Demerits – May be seen as insubordination, support is not guaranteed, risks being sidelined.
-
+(b) What are the options available to Smita Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
-I would recommend initiating full legal action against 'Rudrapur Looms' for severe child labour violations, ensuring immediate rescue and rehabilitation for the affected children. This course of action is paramount to uphold the rule of law, protect vulnerable populations, and maintain the integrity and credibility of the civil services.
-
-To handle the immense pressures, I would:
-1. Meticulously document all evidence of child labour and all communications regarding political interference, creating an irrefutable case.
-2. Formally inform the Chief Secretary and relevant child protection commissions about the situation and the pressures, seeking their guidance and institutional support to ensure transparency and accountability.
-3. Collaborate with NGOs and legal aid bodies to ensure effective rehabilitation for the children and support for their families.
-4. Prepare for potential transfers or other retaliatory measures, steadfastly defending my actions based on legal principles and ethical governance, while maintaining a clear and factual public stance if necessary.
