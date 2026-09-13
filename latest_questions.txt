@@ -1,35 +1,35 @@
-Date: 12 Sep 2026
+Date: 13 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
+GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the increasing political instrumentalization of caste identities in contemporary India has both challenged and reinforced its traditional social stratification, impacting the discourse of social justice.
+Examine the pervasive impact of gendered economic precarity on the prevalence and perpetuation of domestic violence in Indian households, hindering women's comprehensive well-being and development. Discuss how this nexus impedes their full empowerment across various spheres.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the processes of 'Sanskritisation' and 'Westernisation', as conceptualized by M.N. Srinivas, manifest in modern Indian society amidst rapid urbanization and digital proliferation. Do these frameworks adequately explain contemporary forms of social mobility?
+What do you understand by 'grassroots political empowerment' for women, beyond mere numerical representation? Discuss how Self-Help Groups can effectively bridge the gap between economic agency and meaningful political participation, especially in rural areas.
 
 Q3. (15 Marks | 250 words)
-Discuss the complex interplay of caste, class, and gender in shaping access to opportunities and social mobility in India. Critically analyze how affirmative action policies, primarily designed to address caste-based disparities, navigate these intersectional disadvantages and the challenges in achieving equitable outcomes.
+Critically analyse the persistent gender gap in India's formal workforce participation, considering its socio-economic ramifications and the interplay of existing legal frameworks with ingrained societal attitudes. Provide specific examples of how this phenomenon impedes national development and women's rights.
 
 ========================================
-GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
+GS-4 ETHICS: Attitude: Formation, Change and Social Influence
 ========================================
 
 Q4. (10 Marks | 150 words)
-How does a civil servant balance the imperatives of personal conscience with the demands of institutional integrity and diverse cultural norms prevalent in public service delivery? Explain the significance of upholding universal ethical principles in such a context.
+Explain the concepts of 'moral licensing' and 'ethical fading' in the context of bureaucratic functioning. How might these psychological biases manifest in an administrator's attitude towards public service, potentially undermining integrity and impartiality?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dimensions of adopting an 'ethics of care' framework, distinct from a purely rule-based approach, for a civil servant dealing with vulnerable and marginalized sections of society. How can this approach enhance trust and effective public service?
+In what ways can a civil servant's personal attitudes, shaped by societal prejudices and stereotypes, inadvertently create barriers to effective and inclusive service delivery? Discuss the strategies for fostering an unbiased and empathetic administrative outlook amidst diverse social influences.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Smita Sharma, a young and upright District Magistrate in the industrially developing district of Rampur, has initiated a rigorous drive to clear illegal encroachments on government land earmarked for a public park and community center. The project is crucial for the city's green spaces and social infrastructure, and she is known for her strict adherence to rules.
+Ms. Ananya Sharma is serving as the District Collector of a coastal district in Odisha, a region frequently battered by natural calamities. Following a devastating super cyclone 'Varun' that recently hit the district, she has been tirelessly leading large-scale disaster relief operations, overseeing the distribution of emergency aid, food, and the setup of temporary shelters. The public expectation for efficient and ethical relief is immense.
 
-A powerful state minister, Mr. Rakesh Verma, who has significant political influence in the region, personally calls Smita. He insists that a particular encroachment, owned by a close associate of his who is also a major party funder, be exempted from the demolition drive, citing 'humanitarian grounds' and 'minor deviation'. Her immediate superior, the Divisional Commissioner, subtly advises her to 'handle the situation pragmatically' to avoid unnecessary political friction, hinting at potential career repercussions.
+During a routine internal audit and based on credible ground intelligence, Ms. Sharma uncovers alarming evidence suggesting that her immediate superior, the Divisional Commissioner Mr. Rajesh Verma, has been systematically siphoning off a significant portion of the allocated relief funds and diverting essential supplies like tarpaulins, medicines, and food grains. These resources are reportedly being channeled to his favored contractors and personal contacts, gravely compromising the integrity and effectiveness of the entire relief effort. Mr. Verma is known for his political connections and an intimidating work style, and he expects Ms. Sharma's unquestioning compliance and subtle cooperation in certain matters. Meanwhile, the vulnerable populations are suffering due to delayed and insufficient aid.
 
-Smita's decision will directly affect the public's trust in governance, the environmental future of the city, and the principle of rule of law. Bending the rules could lead to further encroachments and loss of public land, while upholding them could jeopardize her career and invite political backlash.
+The affected citizens, particularly the poor and marginalized, are directly impacted by the pilferage of funds and supplies, leading to immense hardship and loss of lives. The integrity of the disaster management system, the public trust in the administration, and Ms. Sharma's career and personal safety are significantly at stake. Both reporting and ignoring this corruption have severe, far-reaching consequences.
 
-(a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Smita Sharma? Evaluate each option with its merits and demerits. (100 words)
-(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+(a) Identify and discuss the ethical issues involved in this case.
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits.
+(c) What course of action would you recommend and why? How would you handle the pressures involved from various stakeholders?
