@@ -1,35 +1,36 @@
-Date: 13 Sep 2026
+Date: 14 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
+GS-1 SOCIETY: Communalism, Regionalism and Secularism
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the pervasive impact of gendered economic precarity on the prevalence and perpetuation of domestic violence in Indian households, hindering women's comprehensive well-being and development. Discuss how this nexus impedes their full empowerment across various spheres.
+Examine how India's model of constitutional secularism uniquely positions it to mitigate the challenges posed by identity-based political mobilization in a diverse society.
 
 Q2. (10 Marks | 150 words)
-What do you understand by 'grassroots political empowerment' for women, beyond mere numerical representation? Discuss how Self-Help Groups can effectively bridge the gap between economic agency and meaningful political participation, especially in rural areas.
+How has the strengthening of regional identities in India influenced the evolution of its composite culture, and does this present more of an opportunity or a challenge for national cohesion?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the persistent gender gap in India's formal workforce participation, considering its socio-economic ramifications and the interplay of existing legal frameworks with ingrained societal attitudes. Provide specific examples of how this phenomenon impedes national development and women's rights.
+Critically analyse the socio-economic and political ramifications of the instrumentalization of regional and communal identities for electoral gains in contemporary India. Discuss the specific role of digital platforms in this phenomenon.
 
 ========================================
-GS-4 ETHICS: Attitude: Formation, Change and Social Influence
+GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the concepts of 'moral licensing' and 'ethical fading' in the context of bureaucratic functioning. How might these psychological biases manifest in an administrator's attitude towards public service, potentially undermining integrity and impartiality?
+Explain the significance of upholding intellectual integrity and objectivity for a civil servant, particularly when policy decisions involve competing stakeholder interests and divergent value systems.
 
 Q5. (10 Marks | 150 words)
-In what ways can a civil servant's personal attitudes, shaped by societal prejudices and stereotypes, inadvertently create barriers to effective and inclusive service delivery? Discuss the strategies for fostering an unbiased and empathetic administrative outlook amidst diverse social influences.
+In what ways can a civil servant reconcile the demands of bureaucratic impartiality with the imperative of empathetic public service delivery, especially when facing political pressure for preferential treatment?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Ananya Sharma is serving as the District Collector of a coastal district in Odisha, a region frequently battered by natural calamities. Following a devastating super cyclone 'Varun' that recently hit the district, she has been tirelessly leading large-scale disaster relief operations, overseeing the distribution of emergency aid, food, and the setup of temporary shelters. The public expectation for efficient and ethical relief is immense.
 
-During a routine internal audit and based on credible ground intelligence, Ms. Sharma uncovers alarming evidence suggesting that her immediate superior, the Divisional Commissioner Mr. Rajesh Verma, has been systematically siphoning off a significant portion of the allocated relief funds and diverting essential supplies like tarpaulins, medicines, and food grains. These resources are reportedly being channeled to his favored contractors and personal contacts, gravely compromising the integrity and effectiveness of the entire relief effort. Mr. Verma is known for his political connections and an intimidating work style, and he expects Ms. Sharma's unquestioning compliance and subtle cooperation in certain matters. Meanwhile, the vulnerable populations are suffering due to delayed and insufficient aid.
+Mr. Alok Kumar, the newly appointed District Collector of Rudrapradesh, a tribal-majority district rich in mineral resources, is grappling with the implementation of a state-sanctioned large-scale hydroelectric project. The project promises significant economic growth for the state, but is set to displace several indigenous tribal communities from their ancestral lands and traditional forest-based livelihoods.
 
-The affected citizens, particularly the poor and marginalized, are directly impacted by the pilferage of funds and supplies, leading to immense hardship and loss of lives. The integrity of the disaster management system, the public trust in the administration, and Ms. Sharma's career and personal safety are significantly at stake. Both reporting and ignoring this corruption have severe, far-reaching consequences.
+He has received clear directives from the Chief Secretary to expedite land acquisition and resettlement processes to meet stringent project deadlines, emphasizing the state's development priorities. However, a recent survey by local tribal rights activists and his own ground visits reveal severe inadequacies in the proposed compensation and rehabilitation package, threatening irreversible damage to the tribal culture and ecosystem. The local MLA is also pressuring him to comply with the state's orders due to political stakes.
 
-(a) Identify and discuss the ethical issues involved in this case.
-(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits.
-(c) What course of action would you recommend and why? How would you handle the pressures involved from various stakeholders?
+His decision will directly impact thousands of tribal families, the state's economic progress, and his own administrative credibility. Proceeding hastily risks social unrest and human rights violations, while delaying could lead to severe penalties from the state government and project cost escalations.
+
+(a) Identify and discuss the ethical issues involved in this case. (50 words)
+(b) What are the options available to Mr. Alok Kumar? Evaluate each option with its merits and demerits. (100 words)
+(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
