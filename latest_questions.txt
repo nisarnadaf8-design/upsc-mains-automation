@@ -1,36 +1,35 @@
-Date: 14 Sep 2026
+Date: 15 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Communalism, Regionalism and Secularism
+GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how India's model of constitutional secularism uniquely positions it to mitigate the challenges posed by identity-based political mobilization in a diverse society.
+Examine how persistent regional and gender disparities in education, skill development, and employment opportunities threaten India's ability to fully harness its demographic dividend.
 
 Q2. (10 Marks | 150 words)
-How has the strengthening of regional identities in India influenced the evolution of its composite culture, and does this present more of an opportunity or a challenge for national cohesion?
+Critically examine how significant inter-state and intra-state migration patterns are exacerbating the challenges of an ageing population in specific regions while simultaneously creating labour deficits elsewhere.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the socio-economic and political ramifications of the instrumentalization of regional and communal identities for electoral gains in contemporary India. Discuss the specific role of digital platforms in this phenomenon.
+Discuss how India's evolving population policy needs to integrate strategies for managing skilled migration (both inward and outward), leveraging the diaspora, and adapting to automation, moving beyond mere fertility control to achieve sustainable human resource development.
 
 ========================================
-GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
+GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of upholding intellectual integrity and objectivity for a civil servant, particularly when policy decisions involve competing stakeholder interests and divergent value systems.
+Explain the significance of emotional self-awareness as a foundational component of ethical leadership, particularly for civil servants navigating complex public policy decisions and personal integrity dilemmas.
 
 Q5. (10 Marks | 150 words)
-In what ways can a civil servant reconcile the demands of bureaucratic impartiality with the imperative of empathetic public service delivery, especially when facing political pressure for preferential treatment?
+How can an administrator effectively leverage empathy to foster trust and facilitate consensus among diverse community stakeholders, especially during the implementation of potentially contentious public projects or reforms?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+SP Avinash Sharma, a newly transferred officer renowned for his impeccable integrity, has taken charge of the Anti-Corruption Unit (ACU) in the bustling metropolis of Indraprastha. His department has been under intense public scrutiny due to a history of low conviction rates and allegations of political interference in high-profile cases. The public’s trust in the police force is at an all-time low, with widespread perception of deep-seated corruption.
 
-Mr. Alok Kumar, the newly appointed District Collector of Rudrapradesh, a tribal-majority district rich in mineral resources, is grappling with the implementation of a state-sanctioned large-scale hydroelectric project. The project promises significant economic growth for the state, but is set to displace several indigenous tribal communities from their ancestral lands and traditional forest-based livelihoods.
+During a routine, yet thorough, review of past investigations and internal audit reports, Avinash uncovers irrefutable evidence pointing to a meticulously organized bribery and protection racket operating within the city's Traffic Department. The evidence strongly implicates several senior officers, including a few who had been his mentors during his early career, and indicates possible complicity extending to higher echelons, potentially even reaching the Police Commissioner's office. His immediate superior, who has always championed his career, subtly advises extreme caution, citing the potential for departmental disrepute and the adverse impact on his promising career. Concurrently, an influential political leader's office discreetly conveys a message suggesting that the matter be handled "internally and with utmost discretion" to avoid public panic and political embarrassment.
 
-He has received clear directives from the Chief Secretary to expedite land acquisition and resettlement processes to meet stringent project deadlines, emphasizing the state's development priorities. However, a recent survey by local tribal rights activists and his own ground visits reveal severe inadequacies in the proposed compensation and rehabilitation package, threatening irreversible damage to the tribal culture and ecosystem. The local MLA is also pressuring him to comply with the state's orders due to political stakes.
-
-His decision will directly impact thousands of tribal families, the state's economic progress, and his own administrative credibility. Proceeding hastily risks social unrest and human rights violations, while delaying could lead to severe penalties from the state government and project cost escalations.
+Exposing the scam would undoubtedly lead to massive departmental upheaval, a potential public relations nightmare, and significant personal risk to Avinash's career. However, suppressing or downplaying the findings would gravely undermine the rule of law, erode the already fragile public trust, and compromise his personal integrity and the credibility of the ACU.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Mr. Alok Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to SP Avinash Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
