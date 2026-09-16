@@ -1,35 +1,35 @@
-Date: 15 Sep 2026
+Date: 16 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
+GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how persistent regional and gender disparities in education, skill development, and employment opportunities threaten India's ability to fully harness its demographic dividend.
+Examine how the growing emphasis on multidimensional poverty, beyond mere income metrics, necessitates a fundamental shift in designing and evaluating India's poverty alleviation strategies. Discuss the policy implications of integrating social deprivations and access to basic services into comprehensive poverty frameworks.
 
 Q2. (10 Marks | 150 words)
-Critically examine how significant inter-state and intra-state migration patterns are exacerbating the challenges of an ageing population in specific regions while simultaneously creating labour deficits elsewhere.
+Critically examine the concept of 'structural social exclusion' as a perpetuator of intergenerational poverty, particularly among Scheduled Tribes and Dalits. How do persistent educational disparities and limited access to formal institutions reinforce this cycle of deprivation, hindering upward social mobility?
 
 Q3. (15 Marks | 250 words)
-Discuss how India's evolving population policy needs to integrate strategies for managing skilled migration (both inward and outward), leveraging the diaspora, and adapting to automation, moving beyond mere fertility control to achieve sustainable human resource development.
+Critically analyse the role of flagship rural employment guarantee programs, like MGNREGA, in fostering inclusive growth and mitigating economic inequalities in India. Discuss its effectiveness not just in terms of income generation, but also its social, gender, and environmental impacts, citing examples of both successes and systemic challenges.
 
 ========================================
-GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
+GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of emotional self-awareness as a foundational component of ethical leadership, particularly for civil servants navigating complex public policy decisions and personal integrity dilemmas.
+Explain the significance of Mahatma Gandhi's concept of 'Sarvodaya' in shaping an equitable and people-centric model of public administration. How can civil servants today integrate the principle of welfare for all, including the most marginalized, into their decision-making processes and resource allocation?
 
 Q5. (10 Marks | 150 words)
-How can an administrator effectively leverage empathy to foster trust and facilitate consensus among diverse community stakeholders, especially during the implementation of potentially contentious public projects or reforms?
+Ambedkar emphasized constitutional morality over social morality. How should a civil servant navigate situations where deeply entrenched social customs or community expectations conflict with the principles of equality, liberty, and justice enshrined in the Constitution? Discuss with suitable examples.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-SP Avinash Sharma, a newly transferred officer renowned for his impeccable integrity, has taken charge of the Anti-Corruption Unit (ACU) in the bustling metropolis of Indraprastha. His department has been under intense public scrutiny due to a history of low conviction rates and allegations of political interference in high-profile cases. The public’s trust in the police force is at an all-time low, with widespread perception of deep-seated corruption.
+Rajesh Kumar, a diligent and upright IAS officer, serves as the District Magistrate of Shivpur, a rural district known for its complex land records and agrarian disputes. He has a reputation for impartial decision-making and strict adherence to administrative norms, having effectively resolved several contentious land-related issues during his tenure. His younger brother, Suresh, operates a medium-sized agricultural business in the district.
 
-During a routine, yet thorough, review of past investigations and internal audit reports, Avinash uncovers irrefutable evidence pointing to a meticulously organized bribery and protection racket operating within the city's Traffic Department. The evidence strongly implicates several senior officers, including a few who had been his mentors during his early career, and indicates possible complicity extending to higher echelons, potentially even reaching the Police Commissioner's office. His immediate superior, who has always championed his career, subtly advises extreme caution, citing the potential for departmental disrepute and the adverse impact on his promising career. Concurrently, an influential political leader's office discreetly conveys a message suggesting that the matter be handled "internally and with utmost discretion" to avoid public panic and political embarrassment.
+Recently, a long-standing land dispute involving Suresh and a group of marginalized farmers from a neighboring village reached Rajesh's office for adjudication, as it involves revenue records and alleged encroachment. Suresh has personally approached Rajesh, appealing to family loyalty and arguing his innocence, while a local political leader, who is also a distant relative, has discreetly pressured Rajesh to 'expedite a favorable outcome' for his brother. The farmers' collective has also submitted a petition, emphasizing their vulnerability and demanding a fair and transparent resolution.
 
-Exposing the scam would undoubtedly lead to massive departmental upheaval, a potential public relations nightmare, and significant personal risk to Avinash's career. However, suppressing or downplaying the findings would gravely undermine the rule of law, erode the already fragile public trust, and compromise his personal integrity and the credibility of the ACU.
+Rajesh's decision will directly affect his brother's financial standing and reputation, the livelihoods of the marginalized farmers, and the perception of justice in the district. Both a perceived biased action or a strictly impartial one could lead to public distrust, political backlash, or family alienation, gravely impacting his professional integrity and personal life.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to SP Avinash Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rajesh Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
