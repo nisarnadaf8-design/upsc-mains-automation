@@ -1,35 +1,35 @@
-Date: 16 Sep 2026
+Date: 17 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
+GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the growing emphasis on multidimensional poverty, beyond mere income metrics, necessitates a fundamental shift in designing and evaluating India's poverty alleviation strategies. Discuss the policy implications of integrating social deprivations and access to basic services into comprehensive poverty frameworks.
+Examine the symbiotic relationship between inadequately planned urban infrastructure development and the proliferation of informal settlements in rapidly urbanizing Indian cities. To what extent does this reflect a deeper governance deficit?
 
 Q2. (10 Marks | 150 words)
-Critically examine the concept of 'structural social exclusion' as a perpetuator of intergenerational poverty, particularly among Scheduled Tribes and Dalits. How do persistent educational disparities and limited access to formal institutions reinforce this cycle of deprivation, hindering upward social mobility?
+Critically examine the extent to which the Smart Cities Mission has truly empowered urban local bodies, as envisioned by the 74th Constitutional Amendment, in achieving sustainable and inclusive urban development across India.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the role of flagship rural employment guarantee programs, like MGNREGA, in fostering inclusive growth and mitigating economic inequalities in India. Discuss its effectiveness not just in terms of income generation, but also its social, gender, and environmental impacts, citing examples of both successes and systemic challenges.
+Discuss the multi-faceted challenges in urban solid waste management in India, particularly concerning plastic and e-waste. How do the social, economic, and environmental ramifications of these challenges impact the quality of life and future sustainability of urban agglomerations?
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
+GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of Mahatma Gandhi's concept of 'Sarvodaya' in shaping an equitable and people-centric model of public administration. How can civil servants today integrate the principle of welfare for all, including the most marginalized, into their decision-making processes and resource allocation?
+Explain how Kant's categorical imperative, specifically the principle of universalizability, can guide an administrator in formulating policies that uphold justice and fairness for all citizens, irrespective of their background.
 
 Q5. (10 Marks | 150 words)
-Ambedkar emphasized constitutional morality over social morality. How should a civil servant navigate situations where deeply entrenched social customs or community expectations conflict with the principles of equality, liberty, and justice enshrined in the Constitution? Discuss with suitable examples.
+Plato's ideal of the 'Philosopher King' and Kautilya's emphasis on 'Dharma' in statecraft both underscore the necessity of wisdom and virtue in leadership. Discuss the contemporary relevance of these ancient ideals for cultivating ethical governance and responsible administration in a democratic setup.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Rajesh Kumar, a diligent and upright IAS officer, serves as the District Magistrate of Shivpur, a rural district known for its complex land records and agrarian disputes. He has a reputation for impartial decision-making and strict adherence to administrative norms, having effectively resolved several contentious land-related issues during his tenure. His younger brother, Suresh, operates a medium-sized agricultural business in the district.
+Ms. Ananya Sharma is the District Magistrate (DM) of Rudraprayag, a district with a sensitive social fabric. Recently, a minor local dispute was amplified on social media, leading to communal tension and isolated incidents of violence. The district is now on edge, requiring careful administrative handling.
 
-Recently, a long-standing land dispute involving Suresh and a group of marginalized farmers from a neighboring village reached Rajesh's office for adjudication, as it involves revenue records and alleged encroachment. Suresh has personally approached Rajesh, appealing to family loyalty and arguing his innocence, while a local political leader, who is also a distant relative, has discreetly pressured Rajesh to 'expedite a favorable outcome' for his brother. The farmers' collective has also submitted a petition, emphasizing their vulnerability and demanding a fair and transparent resolution.
+In the midst of this volatile situation, Ms. Sharma receives an informal directive from the Chief Minister’s office. She is instructed to take a visibly stern and punitive action, predominantly targeting one community, as this approach is believed to appease a powerful political constituency and secure "stability." Her immediate superior, the Divisional Commissioner, has also subtly advised compliance, hinting at potential adverse career repercussions if she defies the political will. However, confidential intelligence reports suggest that any biased action would only inflame passions, leading to widespread communal violence and significant loss of life and property.
 
-Rajesh's decision will directly affect his brother's financial standing and reputation, the livelihoods of the marginalized farmers, and the perception of justice in the district. Both a perceived biased action or a strictly impartial one could lead to public distrust, political backlash, or family alienation, gravely impacting his professional integrity and personal life.
+The communities involved, the local police force, the credibility of the district administration, and the overarching principle of the rule of law are all stakeholders in Ms. Sharma’s decision. Both acceding to the political pressure and upholding her ethical duties carry severe and potentially far-reaching consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rajesh Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
