@@ -1,35 +1,36 @@
-Date: 17 Sep 2026
+Date: 18 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
+GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the symbiotic relationship between inadequately planned urban infrastructure development and the proliferation of informal settlements in rapidly urbanizing Indian cities. To what extent does this reflect a deeper governance deficit?
+Examine how globalisation has fostered a 'glocal' cultural synthesis in India, simultaneously promoting local expressions while integrating global influences. Discuss the potential challenges this hybridisation poses to the preservation of indigenous cultural distinctiveness in the long run.
 
 Q2. (10 Marks | 150 words)
-Critically examine the extent to which the Smart Cities Mission has truly empowered urban local bodies, as envisioned by the 74th Constitutional Amendment, in achieving sustainable and inclusive urban development across India.
+How has the burgeoning gig economy, a significant outcome of globalised economic trends, reshaped traditional notions of social security and labour solidarity among urban Indian youth? Critically examine its implications for long-term career stability and intergenerational upward mobility.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted challenges in urban solid waste management in India, particularly concerning plastic and e-waste. How do the social, economic, and environmental ramifications of these challenges impact the quality of life and future sustainability of urban agglomerations?
+Critically analyse the multi-faceted impact of globalisation on the traditional Indian family structure, particularly highlighting the rise of nuclear families and individualistic aspirations. Discuss how these shifts have profoundly altered caregiving responsibilities for the elderly and redefined women's roles within both the household and the evolving economic landscape.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
+GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how Kant's categorical imperative, specifically the principle of universalizability, can guide an administrator in formulating policies that uphold justice and fairness for all citizens, irrespective of their background.
+Explain the profound significance of 'transparency' not merely as an administrative process but as a foundational ethical virtue for fostering public trust in governance. How does a lack of transparency erode the moral legitimacy of public institutions and civic engagement?
 
 Q5. (10 Marks | 150 words)
-Plato's ideal of the 'Philosopher King' and Kautilya's emphasis on 'Dharma' in statecraft both underscore the necessity of wisdom and virtue in leadership. Discuss the contemporary relevance of these ancient ideals for cultivating ethical governance and responsible administration in a democratic setup.
+How should a civil servant ethically navigate the delicate balance between institutional loyalty and the paramount duty to uphold public interest when confronted with internal procedural lapses that adversely affect citizen welfare? Examine the challenges inherent in prioritising the public good in such situations.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Ananya Sharma is the District Magistrate (DM) of Rudraprayag, a district with a sensitive social fabric. Recently, a minor local dispute was amplified on social media, leading to communal tension and isolated incidents of violence. The district is now on edge, requiring careful administrative handling.
 
-In the midst of this volatile situation, Ms. Sharma receives an informal directive from the Chief Minister’s office. She is instructed to take a visibly stern and punitive action, predominantly targeting one community, as this approach is believed to appease a powerful political constituency and secure "stability." Her immediate superior, the Divisional Commissioner, has also subtly advised compliance, hinting at potential adverse career repercussions if she defies the political will. However, confidential intelligence reports suggest that any biased action would only inflame passions, leading to widespread communal violence and significant loss of life and property.
+Ms. Anjali Sharma, District Project Coordinator for the Department of Rural Development in Sagar district, Madhya Pradesh, is in the final stages of compiling the annual impact report for the 'Gram Samridhhi Yojana'. This flagship welfare scheme aims to uplift marginalized farmers through direct benefit transfers and agricultural support. Her preliminary internal analysis, based on ground surveys and financial records, indicates significant underperformance in several blocks regarding fund utilization and beneficiary outreach.
 
-The communities involved, the local police force, the credibility of the district administration, and the overarching principle of the rule of law are all stakeholders in Ms. Sharma’s decision. Both acceding to the political pressure and upholding her ethical duties carry severe and potentially far-reaching consequences.
+Her immediate superior, the District Collector, Mr. Ramesh Kumar, has subtly advised her to "adjust the figures" to present a more favourable picture, citing potential negative repercussions for the district's reputation and funding continuity if the report is submitted as is. Simultaneously, the local Member of Legislative Assembly (MLA) has directly contacted Anjali, emphasising the political sensitivity of the report ahead of upcoming elections and suggesting that a positive outcome is crucial for 'public morale'. Anjali knows manipulating data would artificially inflate the scheme's success, masking the ground realities.
+
+Anjali's decision will directly impact thousands of marginalized farmers who genuinely need improved scheme implementation, the credibility of government welfare programs, and the public trust in administrative reporting. Submitting a manipulated report could lead to misinformed policy decisions and continued deprivation for the needy, while an honest report might invite political backlash and jeopardize her professional standing.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
