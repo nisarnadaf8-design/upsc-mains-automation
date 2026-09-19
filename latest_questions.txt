@@ -1,36 +1,35 @@
-Date: 18 Sep 2026
+Date: 19 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
+GS-1 SOCIETY: Social Movements and Civil Society in India
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how globalisation has fostered a 'glocal' cultural synthesis in India, simultaneously promoting local expressions while integrating global influences. Discuss the potential challenges this hybridisation poses to the preservation of indigenous cultural distinctiveness in the long run.
+Examine the evolving role of digital platforms and transnational networks in shaping contemporary social movements in India. How do these new avenues impact their efficacy and the state's traditional mechanisms of engagement?
 
 Q2. (10 Marks | 150 words)
-How has the burgeoning gig economy, a significant outcome of globalised economic trends, reshaped traditional notions of social security and labour solidarity among urban Indian youth? Critically examine its implications for long-term career stability and intergenerational upward mobility.
+Critically examine the persistent challenge of Naxalism, not merely as a law and order issue, but as a complex manifestation of underdevelopment and social injustice. What adjustments in state policy are imperative to address its underlying causes effectively?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multi-faceted impact of globalisation on the traditional Indian family structure, particularly highlighting the rise of nuclear families and individualistic aspirations. Discuss how these shifts have profoundly altered caregiving responsibilities for the elderly and redefined women's roles within both the household and the evolving economic landscape.
+Discuss the multifaceted role of civil society organisations in promoting transparency and accountability within India’s governance framework. Examine the social, political, and legal challenges they encounter, particularly concerning resource mobilisation and regulatory oversight, providing suitable examples.
 
 ========================================
-GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
+GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the profound significance of 'transparency' not merely as an administrative process but as a foundational ethical virtue for fostering public trust in governance. How does a lack of transparency erode the moral legitimacy of public institutions and civic engagement?
+What do you understand by 'revolving door syndrome' in public administration, and how does it pose a fundamental conflict of interest detrimental to ethical governance? Explain its potential impact on policy formulation and public trust.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant ethically navigate the delicate balance between institutional loyalty and the paramount duty to uphold public interest when confronted with internal procedural lapses that adversely affect citizen welfare? Examine the challenges inherent in prioritising the public good in such situations.
+How should a civil servant balance the ethical imperative of 'duty to expose' corruption against the personal and professional risks associated with whistleblowing? Discuss the institutional and individual safeguards necessary to foster a culture of integrity without compromising self-preservation.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Anjali Sharma, a probationary IAS officer, is posted as the Sub-Divisional Magistrate (SDM) in Devgarh District, State of Aryavarta. Her primary responsibility includes overseeing land records, revenue administration, and local development projects. Recently, she was tasked with the final review of a large land acquisition process for a proposed industrial corridor, a project championed by powerful private builders.
 
-Ms. Anjali Sharma, District Project Coordinator for the Department of Rural Development in Sagar district, Madhya Pradesh, is in the final stages of compiling the annual impact report for the 'Gram Samridhhi Yojana'. This flagship welfare scheme aims to uplift marginalized farmers through direct benefit transfers and agricultural support. Her preliminary internal analysis, based on ground surveys and financial records, indicates significant underperformance in several blocks regarding fund utilization and beneficiary outreach.
+During her review, Anjali uncovers substantial irregularities: suppressed land values, dubious ownership transfers, and the forceful displacement of tribal and marginalized farmers without fair compensation, all seemingly orchestrated to benefit the private builders. Her immediate superior, the District Collector, subtly advises her to expedite the process without 'unnecessary scrutiny' citing 'larger public interest' and 'development targets'. A local political leader, with visible ties to the builders, also 'requests' her cooperation, hinting at potential career repercussions.
 
-Her immediate superior, the District Collector, Mr. Ramesh Kumar, has subtly advised her to "adjust the figures" to present a more favourable picture, citing potential negative repercussions for the district's reputation and funding continuity if the report is submitted as is. Simultaneously, the local Member of Legislative Assembly (MLA) has directly contacted Anjali, emphasising the political sensitivity of the report ahead of upcoming elections and suggesting that a positive outcome is crucial for 'public morale'. Anjali knows manipulating data would artificially inflate the scheme's success, masking the ground realities.
-
-Anjali's decision will directly impact thousands of marginalized farmers who genuinely need improved scheme implementation, the credibility of government welfare programs, and the public trust in administrative reporting. Submitting a manipulated report could lead to misinformed policy decisions and continued deprivation for the needy, while an honest report might invite political backlash and jeopardize her professional standing.
+Her decision directly impacts hundreds of impoverished families facing homelessness and loss of livelihood, the credibility of the district administration, and the ethical foundations of public service. Both confirming the acquisition with irregularities and exposing them carry significant professional and personal consequences for Anjali.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
