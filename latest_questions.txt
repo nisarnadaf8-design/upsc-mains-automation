@@ -1,35 +1,35 @@
-Date: 19 Sep 2026
+Date: 20 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Social Movements and Civil Society in India
+GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving role of digital platforms and transnational networks in shaping contemporary social movements in India. How do these new avenues impact their efficacy and the state's traditional mechanisms of engagement?
+Examine how the National Education Policy 2020 aims to bridge the persistent disparities in educational quality and access between rural and urban India. Discuss the key structural reforms proposed to ensure equitable learning outcomes across diverse geographic settings.
 
 Q2. (10 Marks | 150 words)
-Critically examine the persistent challenge of Naxalism, not merely as a law and order issue, but as a complex manifestation of underdevelopment and social injustice. What adjustments in state policy are imperative to address its underlying causes effectively?
+Critically examine the complex interplay between the widening digital divide and the concerning trends of higher dropout rates among marginalized communities in India. How has the push for online learning exacerbated existing inequities in access and retention, particularly for girls and Scheduled Tribes?
 
 Q3. (15 Marks | 250 words)
-Discuss the multifaceted role of civil society organisations in promoting transparency and accountability within India’s governance framework. Examine the social, political, and legal challenges they encounter, particularly concerning resource mobilisation and regulatory oversight, providing suitable examples.
+Discuss the multi-faceted impact of the increasing commercialisation of higher education in India on social mobility and the efficacy of education in breaking the intergenerational poverty cycle. Critically analyse its implications from social, economic, and policy perspectives, providing suitable examples to illustrate the challenges to equity and inclusion.
 
 ========================================
-GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
+GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by 'revolving door syndrome' in public administration, and how does it pose a fundamental conflict of interest detrimental to ethical governance? Explain its potential impact on policy formulation and public trust.
+What do you understand by 'ethical erosion' within a public administration system? Explain how gradual normalization of petty corruption and a culture of impunity can lead even initially upright individuals to compromise their ethical standards, thereby perpetuating systemic corruption in governance.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant balance the ethical imperative of 'duty to expose' corruption against the personal and professional risks associated with whistleblowing? Discuss the institutional and individual safeguards necessary to foster a culture of integrity without compromising self-preservation.
+Examine the ethical challenges faced by a civil servant tasked with implementing e-governance solutions aimed at reducing corruption, particularly concerning data privacy, algorithmic bias, and ensuring equitable access. How can ethical leadership mitigate these risks to build genuine public trust?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Anjali Sharma, a probationary IAS officer, is posted as the Sub-Divisional Magistrate (SDM) in Devgarh District, State of Aryavarta. Her primary responsibility includes overseeing land records, revenue administration, and local development projects. Recently, she was tasked with the final review of a large land acquisition process for a proposed industrial corridor, a project championed by powerful private builders.
+Arjun Sharma, an experienced IAS officer of the 2015 batch, is currently serving as the District Magistrate of Sagar district, known for its flood-prone regions. In July 2026, severe monsoon floods devastated several blocks, displacing thousands and causing extensive damage. The state government swiftly released emergency relief funds amounting to INR 50 Crores, placing Arjun in charge of their immediate disbursement for essential supplies, temporary shelters, and rehabilitation.
 
-During her review, Anjali uncovers substantial irregularities: suppressed land values, dubious ownership transfers, and the forceful displacement of tribal and marginalized farmers without fair compensation, all seemingly orchestrated to benefit the private builders. Her immediate superior, the District Collector, subtly advises her to expedite the process without 'unnecessary scrutiny' citing 'larger public interest' and 'development targets'. A local political leader, with visible ties to the builders, also 'requests' her cooperation, hinting at potential career repercussions.
+Just as the relief operations gained momentum, Arjun received a direct call from a powerful state minister, Mr. Rakesh Verma, who subtly but firmly suggested diverting a significant portion of the funds (around 10-15%) towards a 'development project' in his constituency, which was not flood-affected. Simultaneously, Arjun's close cousin, who runs a construction business, approached him, offering a substantial 'kickback' if he could secure contracts for temporary shelter construction, bypassing standard procurement procedures. Public expectations for swift and transparent relief are extremely high, with media closely scrutinizing every move.
 
-Her decision directly impacts hundreds of impoverished families facing homelessness and loss of livelihood, the credibility of the district administration, and the ethical foundations of public service. Both confirming the acquisition with irregularities and exposing them carry significant professional and personal consequences for Anjali.
+Arjun's decision will directly affect the flood victims who desperately need aid, the integrity of the administration, and public trust. Complying could alleviate immediate political pressure but would leave thousands suffering and compromise ethical governance, while refusal risks his career and personal safety.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Arjun Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
