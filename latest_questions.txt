@@ -1,35 +1,36 @@
-Date: 20 Sep 2026
+Date: 21 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
+GS-1 SOCIETY: Health: Public Health System and Social Determinants
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the National Education Policy 2020 aims to bridge the persistent disparities in educational quality and access between rural and urban India. Discuss the key structural reforms proposed to ensure equitable learning outcomes across diverse geographic settings.
+Examine how the structural inequalities rooted in caste and gender intersect with economic disparities to challenge the principles of universal access and equity within India’s public health system.
 
 Q2. (10 Marks | 150 words)
-Critically examine the complex interplay between the widening digital divide and the concerning trends of higher dropout rates among marginalized communities in India. How has the push for online learning exacerbated existing inequities in access and retention, particularly for girls and Scheduled Tribes?
+Critically examine the extent to which a top-down approach in health policy formulation overlooks the nuances of community-specific social determinants, particularly in addressing persistent malnutrition and mental health disparities across India.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted impact of the increasing commercialisation of higher education in India on social mobility and the efficacy of education in breaking the intergenerational poverty cycle. Critically analyse its implications from social, economic, and policy perspectives, providing suitable examples to illustrate the challenges to equity and inclusion.
+Critically analyse the efficacy of the Ayushman Bharat program in bridging the urban-rural healthcare accessibility divide. Discuss its achievements and shortcomings, considering its social inclusivity, financial sustainability, and the governance challenges in its implementation.
 
 ========================================
-GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
+GS-4 ETHICS: Corporate Governance and Business Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by 'ethical erosion' within a public administration system? Explain how gradual normalization of petty corruption and a culture of impunity can lead even initially upright individuals to compromise their ethical standards, thereby perpetuating systemic corruption in governance.
+Explain the significance of 'fiduciary duty' for civil servants in upholding public trust and ensuring ethical governance, drawing parallels with its role in sound corporate governance.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical challenges faced by a civil servant tasked with implementing e-governance solutions aimed at reducing corruption, particularly concerning data privacy, algorithmic bias, and ensuring equitable access. How can ethical leadership mitigate these risks to build genuine public trust?
+Examine the ethical considerations a civil servant must navigate when balancing economic development interests with environmental protection mandates, particularly when confronting influential corporate entities.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Arjun Sharma, an experienced IAS officer of the 2015 batch, is currently serving as the District Magistrate of Sagar district, known for its flood-prone regions. In July 2026, severe monsoon floods devastated several blocks, displacing thousands and causing extensive damage. The state government swiftly released emergency relief funds amounting to INR 50 Crores, placing Arjun in charge of their immediate disbursement for essential supplies, temporary shelters, and rehabilitation.
 
-Just as the relief operations gained momentum, Arjun received a direct call from a powerful state minister, Mr. Rakesh Verma, who subtly but firmly suggested diverting a significant portion of the funds (around 10-15%) towards a 'development project' in his constituency, which was not flood-affected. Simultaneously, Arjun's close cousin, who runs a construction business, approached him, offering a substantial 'kickback' if he could secure contracts for temporary shelter construction, bypassing standard procurement procedures. Public expectations for swift and transparent relief are extremely high, with media closely scrutinizing every move.
+Rohan Sharma, a diligent District Environmental Officer in the State Pollution Control Board, has recently been transferred to the Peenya Industrial Area in Karnataka, a region critical for both industrial output and ecological balance. Known for his unwavering integrity and commitment to environmental laws, Rohan's primary responsibility is to ensure industrial compliance with pollution control norms.
 
-Arjun's decision will directly affect the flood victims who desperately need aid, the integrity of the administration, and public trust. Complying could alleviate immediate political pressure but would leave thousands suffering and compromise ethical governance, while refusal risks his career and personal safety.
+Shortly after his arrival, Rohan's team uncovers clear evidence that "Vardhman Textiles," a prominent industry and a major employer in the area, is discharging untreated effluents directly into a local river. This practice has led to severe water contamination, causing widespread skin diseases and gastrointestinal issues among the villagers downstream. Rohan's superior, the Secretary of the Environment Department, discreetly advises a "pragmatic approach," emphasizing the company's contribution to employment and state revenue. Simultaneously, the local MLA directly calls Rohan, hinting at significant political repercussions if the matter is not "managed sensitively." The company itself threatens massive layoffs if forced to undertake expensive immediate remediation.
+
+Rohan is acutely aware that overlooking the violations would severely impact public health and the environment, betraying his professional ethics and the trust placed in him. Conversely, strict enforcement risks significant political backlash and economic disruption, potentially jeopardizing his career and the livelihoods of many workers.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Arjun Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
