@@ -1,36 +1,35 @@
-Date: 22 Sep 2026
+Date: 23 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Tribal Communities: Issues, Rights and Constitutional Safeguards
+GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the effectiveness of existing constitutional mechanisms and legislative frameworks in safeguarding the land rights and cultural autonomy of tribal communities amidst the escalating demand for natural resources and rapid infrastructural development.
+Examine how the evolving interpretations of ‘positive secularism’ in India have challenged the state’s commitment to neutrality while simultaneously striving for equitable development and social justice for all communities. Discuss the inherent tensions in balancing these objectives.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the Forest Rights Act, 2006, has shaped the relationship between traditional forest dwellers and the state, particularly concerning issues of community governance and the prevention of forced displacement in protected areas.
+Critically examine the effectiveness of existing constitutional safeguards and state policies in preserving the cultural identity and ensuring the socio-economic inclusion of linguistic minority groups settled outside their traditional regions. How do these measures influence national cohesion?
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted challenges faced by tribal communities residing in regions affected by prolonged internal security conflicts, analysing the complex interplay of socio-economic disenfranchisement, political marginalisation, and the erosion of traditional community structures.
+Critically analyse the contemporary debate surrounding a Uniform Civil Code in India, specifically evaluating its potential impact on gender justice, the distinct legal identity of various religious communities, and the broader socio-political implications for maintaining pluralism. Discuss with suitable examples how these dimensions intersect.
 
 ========================================
-GS-4 ETHICS: Ethics in Public and Private Relationships
+GS-4 ETHICS: Social Influence, Persuasion and Moral Development
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the concept of 'ethical congruence' for a civil servant, and how does a persistent conflict between personal convictions and official duties erode public trust and institutional integrity?
+Explain the significance of fostering post-conventional moral reasoning among civil servants for ethical leadership, especially when navigating complex policy dilemmas and resisting undue external pressures. How does an institutional culture either facilitate or impede an individual's progression through Kohlberg’s stages of moral development?
 
 Q5. (10 Marks | 150 words)
-How should a civil servant ethically navigate situations where personal obligations towards family or friends potentially conflict with their professional responsibility to uphold impartiality and meritocracy in administrative decision-making?
+How should a civil servant ethically employ persuasive communication strategies to ensure public participation and compliance for crucial government initiatives without resorting to manipulative tactics? Examine the ethical boundaries that distinguish legitimate persuasion from undue influence in administrative outreach.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Rohan Sharma is the District Collector of Aranya District, a remote and ecologically sensitive region in a central Indian state. The Union Ministry of Environment has recently greenlighted the 'Green Corridor Highway Project', a national strategic initiative aimed at connecting major industrial hubs. A 20 km stretch of this highway is slated to pass through Aranya, necessitating the acquisition of ancestral lands belonging to the indigenous 'Vanwasi' community, a recognized linguistic minority group. These lands also house a sacred grove central to the Vanwasi people's faith and cultural identity. Rohan has been tasked with expediting the land acquisition process to ensure timely project completion.
 
-Amitabh Singh, a dedicated Deputy Director in the Ministry of Corporate Affairs, had recently been transferred to the Insolvency & Bankruptcy Board of India (IBBI) office in Mumbai. Known for his integrity, he was tasked with overseeing several high-profile insolvency cases. His current assignment involved the liquidation proceedings of a large, debt-ridden conglomerate, a case with significant public and financial implications.
+Rohan faces immense pressure from his Chief Secretary to meet strict deadlines for the project, who emphasizes its national strategic importance and the significant economic benefits it promises. Concurrently, local community leaders, supported by a coalition of environmental activists, are staging peaceful protests, citing violations of their traditional forest rights, the irreversible destruction of their cultural heritage, and inadequate compensation based on their customary land valuation. A prominent political leader from an opposition party has publicly accused the district administration of callously disregarding tribal rights in favor of corporate interests, further escalating tensions.
 
-During his meticulous review, Amitabh uncovered substantial financial irregularities and potential fraudulent transactions involving a prominent industrialist and certain politically connected individuals. He promptly reported his findings to the Chairman of IBBI, as per official protocol. However, instead of commendation, Amitabh soon found himself facing a series of punitive transfers, harassment through anonymous complaints, and subtle threats to his family’s safety, orchestrated by a powerful nexus attempting to silence him and bury the fraud.
-
-Amitabh’s decision to pursue the matter further could expose powerful figures, potentially jeopardising his career and the safety of his family, but inaction would betray his oath of office, public trust, and allow large-scale corruption to continue unchecked, further eroding institutional credibility.
+The decision Rohan makes will directly impact the Vanwasi community's livelihood, cultural practices, and spiritual connection to their land. It will also significantly affect the environmental integrity of the region, the state's economic development trajectory, and Rohan's professional integrity and career prospects. Both proceeding with the acquisition and delaying or stalling it carry serious social, economic, and political consequences for multiple stakeholders.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Amitabh Singh? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
