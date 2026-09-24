@@ -1,35 +1,36 @@
-Date: 23 Sep 2026
+Date: 24 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
+GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the evolving interpretations of ‘positive secularism’ in India have challenged the state’s commitment to neutrality while simultaneously striving for equitable development and social justice for all communities. Discuss the inherent tensions in balancing these objectives.
+Examine how rapid urbanization and the gig economy are subtly reshaping the landscape of child labour and human trafficking vulnerabilities in India, demanding re-evaluation of existing protective mechanisms.
 
 Q2. (10 Marks | 150 words)
-Critically examine the effectiveness of existing constitutional safeguards and state policies in preserving the cultural identity and ensuring the socio-economic inclusion of linguistic minority groups settled outside their traditional regions. How do these measures influence national cohesion?
+Critically examine the dual role of digital platforms and social media in both perpetuating and combating human trafficking, especially concerning the exploitation of vulnerable youth and women.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the contemporary debate surrounding a Uniform Civil Code in India, specifically evaluating its potential impact on gender justice, the distinct legal identity of various religious communities, and the broader socio-political implications for maintaining pluralism. Discuss with suitable examples how these dimensions intersect.
+Discuss the multifaceted challenges in eradicating intergenerational bonded labour, particularly in informal sectors, by analyzing the interplay of social norms, economic disparities, legal enforcement gaps, and political will. Suggest comprehensive strategies for a sustainable solution.
 
 ========================================
-GS-4 ETHICS: Social Influence, Persuasion and Moral Development
+GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of fostering post-conventional moral reasoning among civil servants for ethical leadership, especially when navigating complex policy dilemmas and resisting undue external pressures. How does an institutional culture either facilitate or impede an individual's progression through Kohlberg’s stages of moral development?
+What do you understand by 'moral imagination' in the context of public administration? Explain its significance for civil servants in anticipating and navigating ethical dilemmas beyond mere adherence to rules.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant ethically employ persuasive communication strategies to ensure public participation and compliance for crucial government initiatives without resorting to manipulative tactics? Examine the ethical boundaries that distinguish legitimate persuasion from undue influence in administrative outreach.
+How can the ethical steadfastness and courage demonstrated by figures during India's freedom struggle inspire contemporary civil servants to uphold constitutional values when faced with intense political pressure for non-compliance?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Rohan Sharma is the District Collector of Aranya District, a remote and ecologically sensitive region in a central Indian state. The Union Ministry of Environment has recently greenlighted the 'Green Corridor Highway Project', a national strategic initiative aimed at connecting major industrial hubs. A 20 km stretch of this highway is slated to pass through Aranya, necessitating the acquisition of ancestral lands belonging to the indigenous 'Vanwasi' community, a recognized linguistic minority group. These lands also house a sacred grove central to the Vanwasi people's faith and cultural identity. Rohan has been tasked with expediting the land acquisition process to ensure timely project completion.
 
-Rohan faces immense pressure from his Chief Secretary to meet strict deadlines for the project, who emphasizes its national strategic importance and the significant economic benefits it promises. Concurrently, local community leaders, supported by a coalition of environmental activists, are staging peaceful protests, citing violations of their traditional forest rights, the irreversible destruction of their cultural heritage, and inadequate compensation based on their customary land valuation. A prominent political leader from an opposition party has publicly accused the district administration of callously disregarding tribal rights in favor of corporate interests, further escalating tensions.
+Akash Kumar, a recently appointed Sub-Divisional Magistrate (SDM) in District Rudrapur, Uttarakhand, is known for his commitment to administrative transparency and efficiency. His current responsibility includes the verification and issuance of eligibility certificates for the 'Har Gaon, Swa-Nirman' welfare scheme, designed to provide skill development grants to economically weaker sections. The upcoming by-election in the district has intensified political activity.
 
-The decision Rohan makes will directly impact the Vanwasi community's livelihood, cultural practices, and spiritual connection to their land. It will also significantly affect the environmental integrity of the region, the state's economic development trajectory, and Rohan's professional integrity and career prospects. Both proceeding with the acquisition and delaying or stalling it carry serious social, economic, and political consequences for multiple stakeholders.
+During a routine review, Akash receives an urgent directive from his District Collector, subtly hinting at a 'special request' from the local MLA of the ruling party. The MLA explicitly demands Akash to fast-track and approve a large batch of applications, bypassing standard verification, for individuals who clearly do not meet the scheme's income criteria, stating it would be 'beneficial for party prospects and your own career trajectory.' This would mean issuing false income certificates.
+
+Akash's decision will directly impact the legitimate beneficiaries of the welfare scheme, the integrity of the electoral process, the public's trust in governance, and his own professional conscience. Both compliance and refusal carry significant personal and systemic consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Akash Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
