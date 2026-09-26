@@ -1,36 +1,35 @@
-Date: 24 Sep 2026
+Date: 26 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
+GS-1 SOCIETY: Media, Social Media and Their Role in Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how rapid urbanization and the gig economy are subtly reshaping the landscape of child labour and human trafficking vulnerabilities in India, demanding re-evaluation of existing protective mechanisms.
+Examine the evolving dynamic between traditional media's journalistic gatekeeping and the unverified content proliferation on social media platforms in shaping public discourse. How does this shift impact the informed citizenry essential for a robust democracy?
 
 Q2. (10 Marks | 150 words)
-Critically examine the dual role of digital platforms and social media in both perpetuating and combating human trafficking, especially concerning the exploitation of vulnerable youth and women.
+What do you understand by the 'participatory paradox' in the context of digital social media engagement in India? How has uneven access to digital infrastructure and literacy created new forms of exclusion, despite promises of widespread civic participation?
 
 Q3. (15 Marks | 250 words)
-Discuss the multifaceted challenges in eradicating intergenerational bonded labour, particularly in informal sectors, by analyzing the interplay of social norms, economic disparities, legal enforcement gaps, and political will. Suggest comprehensive strategies for a sustainable solution.
+Critically analyse the complex challenges involved in regulating digital content, balancing individual freedom of expression with the imperative to curb online hate speech and misinformation. Discuss its social, legal, and economic implications for a diverse society like India.
 
 ========================================
-GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
+GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by 'moral imagination' in the context of public administration? Explain its significance for civil servants in anticipating and navigating ethical dilemmas beyond mere adherence to rules.
+Explain the significance of 'moral courage' and 'institutional integrity' for a civil servant in upholding public trust, especially when confronted with powerful vested interests. How do these virtues guide decision-making in ethically ambiguous situations?
 
 Q5. (10 Marks | 150 words)
-How can the ethical steadfastness and courage demonstrated by figures during India's freedom struggle inspire contemporary civil servants to uphold constitutional values when faced with intense political pressure for non-compliance?
+Examine the ethical dilemmas faced by a civil servant when the demands of official loyalty to a superior conflict with the professional obligation to uphold legal provisions and public welfare. How can an officer navigate such a conflict without compromising their ethical principles?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Riya Sharma, a conscientious District Magistrate in Aridpur District, a rapidly industrializing region, has recently taken charge with a mandate to ensure effective governance and social welfare. During a surprise inspection of industrial units in the district, aimed at assessing labour compliance and safety standards, she personally entered a manufacturing facility.
 
-Akash Kumar, a recently appointed Sub-Divisional Magistrate (SDM) in District Rudrapur, Uttarakhand, is known for his commitment to administrative transparency and efficiency. His current responsibility includes the verification and issuance of eligibility certificates for the 'Har Gaon, Swa-Nirman' welfare scheme, designed to provide skill development grants to economically weaker sections. The upcoming by-election in the district has intensified political activity.
+During her inspection, she discovered several children, visibly underage, working in hazardous conditions within the premises of "Agni Textiles." Investigations confirmed they were engaged in child labour. Further inquiry revealed that "Agni Textiles" is owned by Mr. Suresh Kumar, a powerful cabinet minister in the state government. Immediately after the discovery, Riya received an indirect but stern call from the Minister's office, suggesting that such "minor issues" be handled with "discretion" to avoid "unnecessary political noise." Her Chief Secretary also advised "extreme caution" given the Minister's political clout, hinting at potential career repercussions.
 
-During a routine review, Akash receives an urgent directive from his District Collector, subtly hinting at a 'special request' from the local MLA of the ruling party. The MLA explicitly demands Akash to fast-track and approve a large batch of applications, bypassing standard verification, for individuals who clearly do not meet the scheme's income criteria, stating it would be 'beneficial for party prospects and your own career trajectory.' This would mean issuing false income certificates.
-
-Akash's decision will directly impact the legitimate beneficiaries of the welfare scheme, the integrity of the electoral process, the public's trust in governance, and his own professional conscience. Both compliance and refusal carry significant personal and systemic consequences.
+Riya's decision will directly impact the future of the exploited children, the Minister's political standing, the credibility of the district administration, and her own professional integrity. Both swift action and cautious inaction carry significant and far-reaching consequences for all involved stakeholders.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Akash Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Riya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
