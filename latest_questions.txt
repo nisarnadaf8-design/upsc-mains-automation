@@ -1,35 +1,36 @@
-Date: 26 Sep 2026
+Date: 27 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Media, Social Media and Their Role in Society
+GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving dynamic between traditional media's journalistic gatekeeping and the unverified content proliferation on social media platforms in shaping public discourse. How does this shift impact the informed citizenry essential for a robust democracy?
+Examine the evolving nature of caste as a social institution in urban India, particularly its subtle reinforcement through modern professional networks and marriage patterns, moving beyond overt discrimination. Discuss how this contributes to new forms of structural barriers.
 
 Q2. (10 Marks | 150 words)
-What do you understand by the 'participatory paradox' in the context of digital social media engagement in India? How has uneven access to digital infrastructure and literacy created new forms of exclusion, despite promises of widespread civic participation?
+Critically examine how the processes of Sanskritisation and Westernisation, as conceptualised by M.N. Srinivas, have intersected and sometimes converged in shaping new forms of social aspiration and cultural identity among various communities in contemporary India. What are the implications for traditional hierarchies?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the complex challenges involved in regulating digital content, balancing individual freedom of expression with the imperative to curb online hate speech and misinformation. Discuss its social, legal, and economic implications for a diverse society like India.
+Critically analyse the efficacy of India's reservation policy in achieving genuine social justice, considering its complex interplay with evolving class distinctions, gender disparities, and the economic landscape. Discuss its implications for meritocracy and inclusive development in the current socio-political context.
 
 ========================================
-GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
+GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'moral courage' and 'institutional integrity' for a civil servant in upholding public trust, especially when confronted with powerful vested interests. How do these virtues guide decision-making in ethically ambiguous situations?
+Explain how a civil servant, operating within a diverse socio-cultural context, can reconcile the demands of moral relativism prevalent in certain community practices with the imperative of upholding universal ethical principles of justice and equity in public administration. How does this dilemma challenge a civil servant's conscience?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemmas faced by a civil servant when the demands of official loyalty to a superior conflict with the professional obligation to uphold legal provisions and public welfare. How can an officer navigate such a conflict without compromising their ethical principles?
+How should a civil servant navigate situations where deeply ingrained values, shaped by family and societal upbringing, conflict with the prescribed ethical code of conduct and principles of impartiality required for public service? Illustrate with an example involving resource allocation.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Riya Sharma, a conscientious District Magistrate in Aridpur District, a rapidly industrializing region, has recently taken charge with a mandate to ensure effective governance and social welfare. During a surprise inspection of industrial units in the district, aimed at assessing labour compliance and safety standards, she personally entered a manufacturing facility.
 
-During her inspection, she discovered several children, visibly underage, working in hazardous conditions within the premises of "Agni Textiles." Investigations confirmed they were engaged in child labour. Further inquiry revealed that "Agni Textiles" is owned by Mr. Suresh Kumar, a powerful cabinet minister in the state government. Immediately after the discovery, Riya received an indirect but stern call from the Minister's office, suggesting that such "minor issues" be handled with "discretion" to avoid "unnecessary political noise." Her Chief Secretary also advised "extreme caution" given the Minister's political clout, hinting at potential career repercussions.
+Ritu Sharma, an upright and dedicated District Magistrate of Ramnagar district, has recently been lauded for her efforts in streamlining public service delivery and enforcing environmental regulations. Her department is currently overseeing a critical land acquisition process for a new industrial corridor, vital for regional economic growth and job creation.
 
-Riya's decision will directly impact the future of the exploited children, the Minister's political standing, the credibility of the district administration, and her own professional integrity. Both swift action and cautious inaction carry significant and far-reaching consequences for all involved stakeholders.
+A powerful State Minister, Mr. Surendra Singh, personally contacts Ritu, insisting she fast-track the acquisition of a specific parcel of land, currently a small wetland crucial for local biodiversity and inhabited by a tribal community, to favour a private developer known to be his close associate. He subtly hints at adverse career consequences, including a possible transfer to an obscure posting, if she fails to "understand the larger political imperatives." Her immediate superior, the Divisional Commissioner, also advises her informally to be "pragmatic" to avoid friction and ensure the project's smooth progress.
 
-(a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Riya Sharma? Evaluate each option with its merits and demerits. (100 words)
-(c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+The decision will directly impact the tribal community's livelihood and cultural heritage, the delicate local ecosystem, and the public's perception of administrative fairness. Upholding the rules might lead to political reprisal against Ritu and potential derailment of her career, while bending them would compromise environmental protection, social justice, and the integrity of public service, potentially inviting public outcry and legal challenges.
+
+(a) Identify and discuss the ethical issues involved in this case.
+(b) What are the options available to Ritu Sharma? Evaluate each option with its merits and demerits.
+(c) What course of action would you recommend and why? How would you handle the pressures involved from the Minister and your superior?
