@@ -1,35 +1,35 @@
-Date: 28 Sep 2026
+Date: 29 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
+GS-1 SOCIETY: Communalism, Regionalism and Secularism
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the persistent gender gap in workforce participation, exacerbated by the digital divide and evolving skill requirements in the post-pandemic economy, undermines the broader goal of women's economic empowerment in India. Discuss the structural and attitudinal barriers that contribute to this phenomenon.
+Examine how the 'principled distance' approach of Indian secularism uniquely equips the state to manage contemporary challenges arising from diverse religious practices and the aspiration for social justice, differentiating it from Western models of strict separation.
 
 Q2. (10 Marks | 150 words)
-Critically examine the limitations of solely legal frameworks in addressing the pervasive issue of gender-based violence, such as domestic abuse and online harassment, in India. How do prevailing societal attitudes and systemic institutional biases often impede the full realization of justice and protection for women?
+Critically examine how the assertion of regional linguistic or cultural identity can sometimes be exploited to fuel communal narratives, thereby posing a complex challenge to India's pluralistic fabric and national cohesion.
 
 Q3. (15 Marks | 250 words)
-Discuss how the proposed framework for increased political representation for women can be leveraged to not only enhance their presence in legislative bodies but also to profoundly impact socio-economic development and gender mainstreaming at the local governance level. Critically analyse the potential for such representation to accelerate the empowerment fostered by grassroots initiatives like Self Help Groups, considering the associated political, social, and administrative challenges.
+Discuss how India's syncretic traditions and composite culture serve as a resilient bulwark against the divisive forces of communalism. Critically analyse the socio-political and digital challenges faced in nurturing these traditions in an increasingly polarised information ecosystem.
 
 ========================================
-GS-4 ETHICS: Attitude: Formation, Change and Social Influence
+GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by cognitive dissonance in the context of public administration? Explain how an administrator's ethical decision-making can be compromised when confronted with situations that create a conflict between their personal moral compass and institutional norms or political directives.
+Explain how integrity in public service extends beyond mere adherence to rules and regulations, encompassing a deeper commitment to ethical principles and the 'spirit of law' necessary for truly transformative governance outcomes.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant proactively identify and challenge subconscious prejudices and stereotypes within their team and in the delivery of public services? Examine the strategies for fostering a more inclusive and equitable work culture, considering the pervasive influence of societal attitudes on bureaucratic functioning.
+How should a civil servant navigate situations where maintaining strict impartiality and objective decision-making conflicts with immediate political directives, especially when the welfare of a marginalized community is at stake?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Rahul Sharma, an IAS officer of the 2020 batch, is serving as the District Development Officer in the cyclone-ravaged coastal district of Jagatsinghpur, Odisha. Following a devastating super cyclone that left thousands homeless and displaced, he has been entrusted with overseeing critical relief and rehabilitation operations, including the procurement and distribution of essential supplies like temporary shelters, medical kits, and food grains. The central and state governments have allocated substantial emergency funds to expedite recovery.
+Ms. Aditi Sharma, District Collector of Gondwana district, a Scheduled Area in Chhattisgarh, has consistently focused on improving the livelihood and education of the indigenous tribal communities. Her district is rich in mineral resources, and a large multi-state mining corporation has been pushing for expedited land acquisition for a new project, promising significant state revenue and local employment.
 
-During his extensive field visits and verification of procurement records, Rahul uncovers compelling evidence of significant irregularities and inflated billing in the purchase of relief materials. He discovers that his immediate superior, Sanjeev Kumar, IAS, the District Collector, has allegedly been colluding with a network of contractors to siphon off a considerable portion of the disaster relief funds. Sanjeev, sensing Rahul's investigation, subtly warns him about maintaining 'team cohesion' and 'not creating unnecessary hurdles' in an emergency situation, hinting at potential career repercussions. Simultaneously, a local MLA, whose relatives are linked to the beneficiary contractors, exerts veiled pressure on Rahul to drop the matter, emphasizing the need for 'swift action, not bureaucratic delays'.
+Recently, the State Government issued a directive for immediate possession of a specific tract of forest land, home to a particularly vulnerable tribal group, for the mining project, citing "public interest and economic development." This order bypasses some established legal safeguards for tribal land. Ms. Sharma knows that this displacement would severely disrupt their traditional way of life, access to forest produce, and spiritual sites, potentially leading to irreparable cultural loss and forced migration without adequate rehabilitation. She faces intense pressure from the Chief Secretary's office for prompt compliance, while tribal leaders and local activists are appealing to her for protection, citing constitutional provisions and human rights.
 
-The primary stakeholders affected are the vulnerable cyclone victims, whose survival and recovery depend on transparent and efficient fund utilization, and the public, whose trust in the administration is at stake. Rahul's decision will have profound consequences on his career, the integrity of the civil service, the lives of the affected population, and the accountability of public funds, regardless of whether he acts or remains silent.
+The tribal community, the mining corporation, the state government, local economy, and the future ecological balance of the region are all significant stakeholders. A decision favouring the project could lead to socio-cultural devastation for the tribals and potential unrest, while non-compliance could lead to disciplinary action against Ms. Sharma, stalled development, and strained state-level relations.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rahul Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Aditi Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
