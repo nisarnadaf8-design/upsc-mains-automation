@@ -1,35 +1,35 @@
-Date: 29 Sep 2026
+Date: 30 Sep 2026
 
 ========================================
-GS-1 SOCIETY: Communalism, Regionalism and Secularism
+GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the 'principled distance' approach of Indian secularism uniquely equips the state to manage contemporary challenges arising from diverse religious practices and the aspiration for social justice, differentiating it from Western models of strict separation.
+Examine the critical role of adaptive skill development and robust social infrastructure in preventing India from prematurely closing its demographic dividend window amidst global economic shifts and technological advancements.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the assertion of regional linguistic or cultural identity can sometimes be exploited to fuel communal narratives, thereby posing a complex challenge to India's pluralistic fabric and national cohesion.
+Critically examine how large-scale rural-to-urban migration patterns exacerbate the social security and care challenges for the elderly population in their native villages, demanding novel policy responses in India.
 
 Q3. (15 Marks | 250 words)
-Discuss how India's syncretic traditions and composite culture serve as a resilient bulwark against the divisive forces of communalism. Critically analyse the socio-political and digital challenges faced in nurturing these traditions in an increasingly polarised information ecosystem.
+Critically analyse how a holistic national population policy, extending beyond mere fertility control, can be instrumental in fostering gender empowerment, equitable regional economic development, and sustainable urbanisation in India. Discuss with suitable examples.
 
 ========================================
-GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
+GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how integrity in public service extends beyond mere adherence to rules and regulations, encompassing a deeper commitment to ethical principles and the 'spirit of law' necessary for truly transformative governance outcomes.
+Explain the significance of emotional intelligence in cultivating a culture of ethical governance and enhancing public trust in the civil services, particularly in complex policy implementation and public engagement.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant navigate situations where maintaining strict impartiality and objective decision-making conflicts with immediate political directives, especially when the welfare of a marginalized community is at stake?
+How can a civil servant effectively leverage empathy and self-regulation to deliver inclusive public services and mitigate the risks of administrative burnout, especially when engaging with vulnerable communities and managing high-stress situations?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Aditi Sharma, District Collector of Gondwana district, a Scheduled Area in Chhattisgarh, has consistently focused on improving the livelihood and education of the indigenous tribal communities. Her district is rich in mineral resources, and a large multi-state mining corporation has been pushing for expedited land acquisition for a new project, promising significant state revenue and local employment.
+Officer Akash Verma, Senior Superintendent of Police (SSP) in the Anti-Corruption Bureau (ACB) of Indrapuri State, is a decorated officer known for his impeccable integrity. Recently transferred to head a critical investigation, he has been tasked with unearthing a widespread land acquisition scam involving nexus between real estate developers and officials in the Urban Development Department, leading to significant financial losses for the state exchequer and displacement of local farmers.
 
-Recently, the State Government issued a directive for immediate possession of a specific tract of forest land, home to a particularly vulnerable tribal group, for the mining project, citing "public interest and economic development." This order bypasses some established legal safeguards for tribal land. Ms. Sharma knows that this displacement would severely disrupt their traditional way of life, access to forest produce, and spiritual sites, potentially leading to irreparable cultural loss and forced migration without adequate rehabilitation. She faces intense pressure from the Chief Secretary's office for prompt compliance, while tribal leaders and local activists are appealing to her for protection, citing constitutional provisions and human rights.
+During the exhaustive investigation, Akash uncovers irrefutable evidence implicating a highly influential, recently retired Additional Director General of Police (ADGP) in receiving substantial kickbacks related to the same land deals. This retired officer, who served in a key administrative role within the state police department (not ACB) at the time, was a former mentor to Akash and enjoys significant clout with the current Director General of Police (DGP). Exposing this senior police involvement would not only bring severe disrepute to the entire state police force but could also raise questions about the ACB's past oversight, potentially destabilizing the institution and inviting intense political scrutiny. His immediate superior, the ACB Director, has informally counselled him to prioritize "maintaining institutional stability" and avoid "opening a Pandora's box" that could jeopardize ongoing reforms.
 
-The tribal community, the mining corporation, the state government, local economy, and the future ecological balance of the region are all significant stakeholders. A decision favouring the project could lead to socio-cultural devastation for the tribals and potential unrest, while non-compliance could lead to disciplinary action against Ms. Sharma, stalled development, and strained state-level relations.
+The victims of the land scam, the general public's trust in governance, the integrity of the police department, Akash's career, the reputation of his superior and the DGP, and the broader political landscape of the state are all critically affected by his decision. Both proceeding with the full truth and selectively prosecuting carry profound and far-reaching consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Aditi Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Akash Verma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
