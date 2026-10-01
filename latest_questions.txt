@@ -1,35 +1,45 @@
-Date: 30 Sep 2026
+Date: 01 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
+GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the critical role of adaptive skill development and robust social infrastructure in preventing India from prematurely closing its demographic dividend window amidst global economic shifts and technological advancements.
+Examine how India's advancements in reducing multidimensional poverty, as reflected in recent national indices, necessitate a re-evaluation of welfare delivery mechanisms to ensure equitable access and prevent new forms of exclusion arising from digital or systemic biases.
 
 Q2. (10 Marks | 150 words)
-Critically examine how large-scale rural-to-urban migration patterns exacerbate the social security and care challenges for the elderly population in their native villages, demanding novel policy responses in India.
+Critically examine how the informalization of labour and inadequate social protection schemes perpetuate cycles of poverty and reinforce social exclusion for marginalized communities, particularly Scheduled Castes and tribal populations, in rapidly urbanizing landscapes.
 
 Q3. (15 Marks | 250 words)
-Critically analyse how a holistic national population policy, extending beyond mere fertility control, can be instrumental in fostering gender empowerment, equitable regional economic development, and sustainable urbanisation in India. Discuss with suitable examples.
+Discuss how the long-term effectiveness of rural employment guarantee schemes like MGNREGA in fostering genuine inclusive growth is challenged by factors beyond wage provision, such as gender-based wage disparities, limited skill development opportunities, and barriers to financial literacy. Analyse this across socio-economic and gender dimensions.
 
 ========================================
-GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
+GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of emotional intelligence in cultivating a culture of ethical governance and enhancing public trust in the civil services, particularly in complex policy implementation and public engagement.
+Explain the significance of Mahatma Gandhi's concept of 'Trusteeship' in guiding modern public administrators to manage natural resources and public assets ethically, ensuring intergenerational equity and community benefit rather than private accumulation.
 
 Q5. (10 Marks | 150 words)
-How can a civil servant effectively leverage empathy and self-regulation to deliver inclusive public services and mitigate the risks of administrative burnout, especially when engaging with vulnerable communities and managing high-stress situations?
+How does Dr. B.R. Ambedkar's distinction between 'constitutional morality' and 'social morality' pose a critical challenge for civil servants striving to implement progressive legislation in contexts marked by entrenched caste prejudices and patriarchal norms?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Officer Akash Verma, Senior Superintendent of Police (SSP) in the Anti-Corruption Bureau (ACB) of Indrapuri State, is a decorated officer known for his impeccable integrity. Recently transferred to head a critical investigation, he has been tasked with unearthing a widespread land acquisition scam involving nexus between real estate developers and officials in the Urban Development Department, leading to significant financial losses for the state exchequer and displacement of local farmers.
 
-During the exhaustive investigation, Akash uncovers irrefutable evidence implicating a highly influential, recently retired Additional Director General of Police (ADGP) in receiving substantial kickbacks related to the same land deals. This retired officer, who served in a key administrative role within the state police department (not ACB) at the time, was a former mentor to Akash and enjoys significant clout with the current Director General of Police (DGP). Exposing this senior police involvement would not only bring severe disrepute to the entire state police force but could also raise questions about the ACB's past oversight, potentially destabilizing the institution and inviting intense political scrutiny. His immediate superior, the ACB Director, has informally counselled him to prioritize "maintaining institutional stability" and avoid "opening a Pandora's box" that could jeopardize ongoing reforms.
+Rajesh Sharma, a diligent District Magistrate of Ramgarh, has earned a reputation for his integrity and swift action against illegal mining and environmental violations. His district is ecologically sensitive, and he has recently spearheaded a crackdown on unauthorized sand extraction along the riverbeds, a major revenue source for local contractors but a severe ecological threat.
 
-The victims of the land scam, the general public's trust in governance, the integrity of the police department, Akash's career, the reputation of his superior and the DGP, and the broader political landscape of the state are all critically affected by his decision. Both proceeding with the full truth and selectively prosecuting carry profound and far-reaching consequences.
+During a recent raid, one of the confiscated trucks belonged to a transport company owned by his younger brother-in-law, who operates several such vehicles across the district. Rajesh's brother-in-law approaches him, pleading for a lenient approach, emphasizing potential financial ruin and family distress. Simultaneously, a local environmental activist group demands strict enforcement, and a senior political leader from the ruling party subtly advises a "pragmatic" resolution to avoid embarrassing local business interests.
+
+The decision will directly impact his family's financial stability, his professional reputation, the environmental protection efforts, and public trust in the administration. Both strict action and undue leniency carry significant ethical and practical consequences for all involved.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Akash Verma? Evaluate each option with its merits and demerits. (100 words)
+The case involves conflict of interest, integrity versus personal relations, public trust, rule of law versus political/familial pressure, and environmental protection versus economic distress. Upholding impartiality and accountability are key ethical dilemmas.
+
+(b) What are the options available to Rajesh Sharma? Evaluate each option with its merits and merits. (100 words)
+1. Proceed strictly as per law: Merits - Upholds rule of law, maintains integrity, protects environment, strengthens public trust. Demerits - Strains family relations, political backlash, potential financial ruin for brother-in-law.
+2. Grant leniency to brother-in-law: Merits - Protects family, eases political pressure. Demerits - Compromises integrity, violates rule of law, damages public trust, encourages corruption, harms environment.
+3. Recuse himself from the case: Merits - Avoids direct conflict of interest, maintains personal integrity. Demerits - May be seen as dereliction of duty, might not fully remove pressure, potential for influence on successor.
+
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+I would recommend Rajesh Sharma proceed strictly as per law without any leniency. This upholds the fundamental principles of public service: integrity, impartiality, and the rule of law. Any deviation would establish a dangerous precedent, erode public trust, and compromise environmental protection.
+
+To handle pressures, Rajesh should officially recuse himself from direct involvement in his brother-in-law's specific case, ensuring due process is followed by another competent officer or committee under his overall supervision. He must clearly communicate his decision to his brother-in-law, explaining the paramount importance of his official duty. To the political leader, he should firmly state his commitment to constitutional principles and uniform application of law, citing the need for transparent governance. He should proactively engage with the environmental group, assuring them of impartial action. Documentation of all communication and decisions will be crucial.
