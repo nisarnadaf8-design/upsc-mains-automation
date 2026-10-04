@@ -1,36 +1,36 @@
-Date: 03 Oct 2026
+Date: 04 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
+GS-1 SOCIETY: Social Movements and Civil Society in India
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the paradoxical emergence of 'glocal' identities among urban Indian youth amidst the pervasive influence of globalisation, moving beyond simple cultural homogenisation debates. Discuss how this impacts traditional social markers.
+Examine the evolving tension between state oversight and the imperative for autonomous civil society action in fostering public accountability and democratic governance in India, especially in the context of foreign funding regulations.
 
 Q2. (10 Marks | 150 words)
-How has the accelerated digital transformation, driven by globalisation, exacerbated existing income disparities and created new forms of precarity within India's informal economy?
+How have digital platforms and youth engagement redefined the landscape and efficacy of contemporary social movements in advocating for environmental justice and tribal rights in India, moving beyond traditional forms of protest?
 
 Q3. (15 Marks | 250 words)
-Critically analyse how the expansion of the gig economy, spurred by globalisation, has reshaped the traditional employer-employee relationship in India, impacting social security, labour rights, and gender roles, particularly for women in urban centres.
+Critically analyse the multifaceted challenges posed by Naxalism, examining its roots in socio-economic disparities, its political implications for democratic institutions, and the complex ethical dilemmas it presents for security forces and local governance while ensuring human rights.
 
 ========================================
-GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
+GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the ethical significance of proactive disclosure of information by public authorities, extending beyond mere compliance with the RTI Act, in fostering a culture of genuine transparency and accountability.
+Explain the significance of upholding 'impartiality' and 'objectivity' for a civil servant in mitigating the challenges posed by both direct and perceived conflicts of interest, especially in an era of increasing public-private partnerships and revolving door issues.
 
 Q5. (10 Marks | 150 words)
-A civil servant faces an ethical dilemma when an institutional practice, while legally permissible, appears to compromise public interest. How should one balance loyalty to the organisation with one's duty towards public good and uphold professional ethics in such a situation?
+Examine the ethical dilemma faced by a public servant who discovers systemic corruption within their department, balancing their duty to expose wrongdoing against the imperatives of institutional loyalty, career progression, and personal safety within the existing legal frameworks.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Manoj Kumar is the diligent Project Director for the 'Gram Samridhi Yojana' under the Ministry of Rural Development, overseeing its implementation in a socio-economically disadvantaged district in eastern Uttar Pradesh. The scheme aims to provide crucial skill development and livelihood support to the rural poor. Manoj’s team has just completed rigorous ground surveys for the quarterly performance report, which is vital for future funding allocations and policy evaluations.
+Anjali Sharma, a young and dynamic IAS officer, has recently been posted as the Sub-Divisional Magistrate (SDM) in Mandgaon District, a rapidly urbanizing peri-urban area experiencing a boom in infrastructure and real estate development. Her responsibilities include overseeing land records, acquisition processes, and granting necessary approvals.
 
-The raw data, however, reveals a significant shortfall in achieving set targets and a lower-than-anticipated effective beneficiary outreach, reflecting genuine implementation challenges. His immediate superior, the Joint Secretary, upon reviewing the preliminary findings, expresses "deep disappointment" and implicitly suggests "adjusting" beneficiary numbers and success rates upwards to ensure continued funding and avoid negative political fallout, especially with state elections approaching. Simultaneously, the local Member of Parliament (MP) pressures Manoj, insisting that a "positive report" is imperative to maintain public confidence in the government's welfare initiatives. Manoj finds himself in a severe ethical bind, caught between presenting accurate, albeit unfavorable, data and succumbing to pressure to manipulate figures to safeguard his career and potentially secure further funds for a scheme that does benefit some, albeit not as widely as hoped.
+Within weeks of her posting, Anjali observes a troubling pattern: multiple land acquisition projects meant for public-private partnerships are consistently benefiting a specific consortium of private builders. She finds evidence of undervaluation of agricultural land acquired from vulnerable farmers, deliberate manipulation of survey records, and hurried approvals circumventing due process. Her District Collector, Mr. Verma, subtly advises her to prioritize "expeditious development" and avoid "unnecessary complications," hinting at political sensitivities. Simultaneously, the local MLA expresses 'keen interest' in these projects and reminds Anjali of the 'importance of cooperation' for a smooth career path. Farmers from affected villages approach Anjali with grave concerns, describing threats and coercion, but are too fearful to provide formal complaints.
 
-Manoj’s decision will profoundly impact the genuine beneficiaries, the integrity of government data and policy-making, the credibility of his department, and his own professional conscience. Both adhering to the truth or yielding to pressure carry serious, far-reaching consequences for the scheme's future and his personal integrity.
+Anjali faces a profound ethical predicament. Her actions, or inactions, will directly impact the lives of countless marginalized farmers, the integrity of governance, and her own nascent career. She is aware that exposing these irregularities could lead to significant backlash, including threats to her personal safety, a difficult transfer, or professional isolation.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Manoj Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
