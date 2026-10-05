@@ -1,36 +1,35 @@
-Date: 04 Oct 2026
+Date: 05 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Social Movements and Civil Society in India
+GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving tension between state oversight and the imperative for autonomous civil society action in fostering public accountability and democratic governance in India, especially in the context of foreign funding regulations.
+Examine how effectively the National Education Policy 2020 has begun to dismantle the structural barriers hindering equitable access to quality education for marginalized communities, particularly in remote and socio-economically disadvantaged regions, by October 2026.
 
 Q2. (10 Marks | 150 words)
-How have digital platforms and youth engagement redefined the landscape and efficacy of contemporary social movements in advocating for environmental justice and tribal rights in India, moving beyond traditional forms of protest?
+Critically examine the persistent and evolving challenges posed by the digital divide in achieving equitable learning outcomes, especially for girls and Scheduled Tribes, despite significant e-governance initiatives in education. How has this divide reshaped educational access in a post-pandemic hybrid learning landscape by 2026?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multifaceted challenges posed by Naxalism, examining its roots in socio-economic disparities, its political implications for democratic institutions, and the complex ethical dilemmas it presents for security forces and local governance while ensuring human rights.
+Critically analyze the multi-faceted impact of the increasing commercialization of higher education and vocational training in India on the quality of learning, social mobility aspirations, and gender parity. Discuss the socio-economic and ethical implications of this trend on the nation's human capital development by October 2026.
 
 ========================================
-GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
+GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of upholding 'impartiality' and 'objectivity' for a civil servant in mitigating the challenges posed by both direct and perceived conflicts of interest, especially in an era of increasing public-private partnerships and revolving door issues.
+Explain the significance of upholding fundamental ethical principles such as integrity, transparency, and accountability for a civil servant in combating systemic corruption. How does the erosion of these values contribute to a decline in public trust and efficient governance?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemma faced by a public servant who discovers systemic corruption within their department, balancing their duty to expose wrongdoing against the imperatives of institutional loyalty, career progression, and personal safety within the existing legal frameworks.
+Examine the ethical challenges faced by administrators in leveraging emerging technologies like AI and blockchain for corruption prevention in public service delivery. How can these tools be deployed effectively while safeguarding individual privacy and preventing new avenues for malpractices?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Smt. Priya Sharma, a diligent IAS officer, is serving as the District Relief Coordinator in a coastal district recently devastated by unprecedented monsoon floods. Her primary responsibility is to ensure the swift and transparent distribution of emergency relief funds and materials to thousands of displaced families now living in temporary shelters. The state government has allocated a substantial corpus, and public expectations for rapid rehabilitation are extremely high.
 
-Anjali Sharma, a young and dynamic IAS officer, has recently been posted as the Sub-Divisional Magistrate (SDM) in Mandgaon District, a rapidly urbanizing peri-urban area experiencing a boom in infrastructure and real estate development. Her responsibilities include overseeing land records, acquisition processes, and granting necessary approvals.
+Amidst the urgent relief operations, Priya receives a discreet but firm instruction from the Chief Minister's Office, conveyed through her immediate superior, the District Collector. The instruction is to quietly divert 20% of the allocated relief funds towards a newly proposed 'urban beautification project' in the state capital, a pet project of a senior minister, with a promise of career advancement for her. Concurrently, local media reports highlight increasing discontent among flood victims regarding delays and insufficient aid.
 
-Within weeks of her posting, Anjali observes a troubling pattern: multiple land acquisition projects meant for public-private partnerships are consistently benefiting a specific consortium of private builders. She finds evidence of undervaluation of agricultural land acquired from vulnerable farmers, deliberate manipulation of survey records, and hurried approvals circumventing due process. Her District Collector, Mr. Verma, subtly advises her to prioritize "expeditious development" and avoid "unnecessary complications," hinting at political sensitivities. Simultaneously, the local MLA expresses 'keen interest' in these projects and reminds Anjali of the 'importance of cooperation' for a smooth career path. Farmers from affected villages approach Anjali with grave concerns, describing threats and coercion, but are too fearful to provide formal complaints.
-
-Anjali faces a profound ethical predicament. Her actions, or inactions, will directly impact the lives of countless marginalized farmers, the integrity of governance, and her own nascent career. She is aware that exposing these irregularities could lead to significant backlash, including threats to her personal safety, a difficult transfer, or professional isolation.
+Priya's decision will directly impact thousands of vulnerable flood victims who desperately need aid for survival and rebuilding. It will also affect public trust in the administration, her career trajectory, and the integrity of the disaster relief mechanism. Both compliance and defiance carry severe personal and professional consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Smt. Priya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
