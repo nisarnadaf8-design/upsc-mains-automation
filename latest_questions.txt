@@ -1,35 +1,35 @@
-Date: 05 Oct 2026
+Date: 06 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
+GS-1 SOCIETY: Health: Public Health System and Social Determinants
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how effectively the National Education Policy 2020 has begun to dismantle the structural barriers hindering equitable access to quality education for marginalized communities, particularly in remote and socio-economically disadvantaged regions, by October 2026.
+Examine the intricate relationship between persistent social inequities and the effectiveness of India's public health system in building resilience against recurrent and emerging health challenges. Discuss how addressing these determinants is critical for sustainable health security.
 
 Q2. (10 Marks | 150 words)
-Critically examine the persistent and evolving challenges posed by the digital divide in achieving equitable learning outcomes, especially for girls and Scheduled Tribes, despite significant e-governance initiatives in education. How has this divide reshaped educational access in a post-pandemic hybrid learning landscape by 2026?
+Critically examine the extent to which the Ayushman Bharat scheme, through its two pillars, has truly democratized healthcare access and reduced out-of-pocket expenditure, especially for marginalized communities, in the context of persistent infrastructural and human resource gaps.
 
 Q3. (15 Marks | 250 words)
-Critically analyze the multi-faceted impact of the increasing commercialization of higher education and vocational training in India on the quality of learning, social mobility aspirations, and gender parity. Discuss the socio-economic and ethical implications of this trend on the nation's human capital development by October 2026.
+Critically analyse how the persistent challenges of malnutrition, particularly stunting, wasting, and anaemia, are deeply rooted in a complex interplay of socio-cultural practices, economic disparities, and governance effectiveness across India. Discuss multi-pronged strategies, incorporating gender-sensitive and community-led approaches, essential for achieving sustainable nutritional security and holistic well-being.
 
 ========================================
-GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
+GS-4 ETHICS: Corporate Governance and Business Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of upholding fundamental ethical principles such as integrity, transparency, and accountability for a civil servant in combating systemic corruption. How does the erosion of these values contribute to a decline in public trust and efficient governance?
+Explain how a genuine commitment to the 'stakeholder model' of corporate governance, moving beyond mere regulatory compliance, can ethically transform business practices and contribute to sustainable development. Contrast this with the limitations of a sole 'shareholder primacy' approach.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical challenges faced by administrators in leveraging emerging technologies like AI and blockchain for corruption prevention in public service delivery. How can these tools be deployed effectively while safeguarding individual privacy and preventing new avenues for malpractices?
+Examine the ethical dimensions a public regulatory body faces when assessing corporate claims of 'green initiatives' and 'sustainable practices', especially when such claims might amount to 'greenwashing'. How can genuine environmental accountability be ensured through robust ethical oversight?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Smt. Priya Sharma, a diligent IAS officer, is serving as the District Relief Coordinator in a coastal district recently devastated by unprecedented monsoon floods. Her primary responsibility is to ensure the swift and transparent distribution of emergency relief funds and materials to thousands of displaced families now living in temporary shelters. The state government has allocated a substantial corpus, and public expectations for rapid rehabilitation are extremely high.
+Ms. Kavita Sharma serves as the District Environmental Officer in Rajnagar, a rapidly industrializing district known for its delicate wetland ecosystems. Having joined the State Pollution Control Board recently, she has quickly established a reputation for diligence and strict adherence to environmental regulations. Her current responsibility involves overseeing compliance of industrial units with pollution norms.
 
-Amidst the urgent relief operations, Priya receives a discreet but firm instruction from the Chief Minister's Office, conveyed through her immediate superior, the District Collector. The instruction is to quietly divert 20% of the allocated relief funds towards a newly proposed 'urban beautification project' in the state capital, a pet project of a senior minister, with a promise of career advancement for her. Concurrently, local media reports highlight increasing discontent among flood victims regarding delays and insufficient aid.
+During a routine inspection of Vardhaman Cements Ltd., a prominent cement manufacturer and a significant employer in the district, her team uncovers substantial evidence of untreated industrial effluent discharge into a local river that feeds into the protected wetlands. The plant’s management, citing expansion pressures and critical economic contributions, approaches her with an offer to "resolve" the issue quietly. Soon after, her superior, the Chairperson of the SPCB, advises her to adopt a "flexible approach" given the plant's political backing and importance to the state's economy, subtly hinting at potential negative impacts on her career if she escalates the matter. Simultaneously, local farmers and environmental groups present her with strong community grievances and photographic evidence of ecological damage and health issues.
 
-Priya's decision will directly impact thousands of vulnerable flood victims who desperately need aid for survival and rebuilding. It will also affect public trust in the administration, her career trajectory, and the integrity of the disaster relief mechanism. Both compliance and defiance carry severe personal and professional consequences.
+Kavita faces a profound ethical dilemma. Her decision will directly impact the environmental health of Rajnagar, the livelihoods and well-being of thousands of local residents, the economic stability of a major industry, the credibility of the regulatory body, and her personal and professional integrity. Both immediate action and inaction carry significant and far-reaching consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Smt. Priya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Kavita Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
