@@ -1,44 +1,35 @@
-Date: 08 Oct 2026
+Date: 09 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
+GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the evolving concept of 'positive secularism' in India grapples with the demands of minority religious groups for cultural preservation while simultaneously promoting social cohesion and uniform citizenship principles.
+Examine the limitations of a purely punitive approach in combating contemporary forms of child labour and bonded labour, particularly in informal economic sectors. Suggest complementary strategies for long-term eradication.
 
 Q2. (10 Marks | 150 words)
-Critically evaluate the efficacy of existing state policies and constitutional safeguards in protecting the cultural and educational rights of linguistic minorities, particularly in the face of increasing demographic shifts and regional majoritarianism.
+Critically examine how global supply chains and cross-border migration patterns have exacerbated the vulnerabilities of certain demographic groups to human trafficking in India. What role do international conventions play in addressing these complex dynamics?
 
 Q3. (15 Marks | 250 words)
-The debate surrounding a Uniform Civil Code often intertwines legal reforms with deeply entrenched social norms and gender justice considerations. Discuss the potential socio-economic implications and challenges for social harmony if such a code were to be implemented, with suitable examples illustrating both its benefits and pitfalls for different communities.
+Discuss how the interplay of socio-economic deprivation, inadequate legal enforcement, and gender-based discrimination perpetuates the cycles of child labour, bonded labour, and human trafficking in marginalized communities. Illustrate with recent examples, highlighting the challenges in rehabilitation and reintegration.
 
 ========================================
-GS-4 ETHICS: Social Influence, Persuasion and Moral Development
+GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of moving towards post-conventional moral reasoning, as outlined by Kohlberg, for civil servants in upholding constitutional values and ensuring impartial public service delivery in a deeply diverse society.
+Explain the significance of 'moral imagination' in enabling a civil servant to uphold values like compassion and tolerance when confronted with conflicting demands from diverse stakeholders. Provide examples from public administration.
 
 Q5. (10 Marks | 150 words)
-In navigating complex administrative decisions, how should a civil servant ethically distinguish between legitimate persuasion aimed at achieving public good and manipulative tactics that undermine autonomy or trust, especially when dealing with diverse community stakeholders?
+How can a civil servant draw upon the lessons of humility and integrity exemplified by historical figures and literary narratives to navigate the contemporary pressures of political interference and bureaucratic inertia? Discuss with specific reference to ethical decision-making.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ms. Meera Sharma, a relatively new Block Development Officer (BDO) in the Nandanpur Block of a drought-prone district, is known for her diligence and adherence to rules. She is currently overseeing the implementation of a crucial government welfare scheme designed to provide immediate financial relief and agricultural subsidies to genuinely distressed small and marginal farmers, requiring rigorous verification of land records.
 
-You are Ms. Priyanka Sharma, a young and dynamic District Magistrate of Balia district, known for its rich biodiversity and home to several indigenous communities. Your district has been identified as a strategic location for a crucial national infrastructure project – a high-speed rail corridor connecting major economic hubs, vital for national development and reducing transit times significantly.
+With local elections approaching, the influential local MLA approaches Meera, strongly recommending the expedited issuance of land-ownership certificates for approximately fifty individuals who are known party loyalists but do not meet the scheme's strict eligibility criteria. The MLA assures her a smooth and rewarding tenure if she complies, hinting at severe repercussions, including a punitive transfer or departmental inquiry, if she obstructs their 'party's developmental agenda.' Her immediate superior, the District Collector, has also subtly conveyed the importance of 'cooperating with local elected representatives for harmonious functioning.'
 
-The proposed alignment, however, passes directly through a sacred grove central to the spiritual and cultural identity of the indigenous 'Vanvasis' community, who hold traditional rights over the forest land. They are vehemently opposing the project, citing desecration of their ancestral worship site and loss of their traditional way of life. Your superior, the Divisional Commissioner, is pressuring you to expedite land acquisition, emphasizing national priority, while a powerful local politician is instigating the community, demanding a complete rerouting, regardless of the increased costs and delays.
-
-Your decision will profoundly impact the developmental trajectory of the nation, the economic prospects of many, and the cultural survival and rights of the indigenous community. Both proceeding as planned and halting the project carry significant social, economic, and ethical ramifications.
+Meera faces an acute ethical dilemma. Issuing false certificates would deprive genuine, vulnerable farmers of critical aid and undermine public trust in governance, while refusing could jeopardize her career and potentially expose her to harassment, affecting her family's stability.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-The primary ethical issues involve balancing national development against indigenous community rights, cultural preservation versus economic progress, and the potential for injustice or exploitation. It also tests the integrity of administrative decision-making under political pressure.
-
-(b) What are the options available to Priyanka Sharma? Evaluate each option with its merits and demerits. (100 words)
-1. Proceed with original alignment: Merits include faster project completion, economic benefits, fulfilling superior's directive. Demerits: desecration of sacred site, violation of indigenous rights, social unrest, loss of trust.
-2. Recommend full rerouting: Merits: protects community rights, avoids cultural destruction, promotes social harmony. Demerits: significant cost escalation, project delays, political backlash, perceived obstruction of national interest.
-3. Propose a modified alignment with dialogue: Merits: attempts to balance development with community rights, explores alternatives, fosters participation. Demerits: requires extensive negotiation, may still not satisfy all parties, potential for compromise on project efficiency.
-
+(b) What are the options available to Meera Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
-I would recommend Priyanka pursue Option 3: Propose a modified alignment after extensive, transparent dialogue with the Vanvasis community, project engineers, and relevant experts. This approach prioritizes participatory justice and attempts to find a mutually acceptable solution that minimizes cultural impact while still serving national interest.
-To handle pressures: I would formally document all communications and concerns from the community, superior, and politician. I would present a detailed report to the Divisional Commissioner outlining the social and ethical risks of proceeding without community consent, emphasizing the long-term stability benefits of a more inclusive approach. I would also leverage the project's Public Relations team to explain the complexities and options to a wider audience, thereby countering political manipulation with facts and transparency, aiming for a resolution that respects both development and human dignity.
