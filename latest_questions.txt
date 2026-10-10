@@ -1,35 +1,36 @@
-Date: 09 Oct 2026
+Date: 10 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
+GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the limitations of a purely punitive approach in combating contemporary forms of child labour and bonded labour, particularly in informal economic sectors. Suggest complementary strategies for long-term eradication.
+Examine how the proliferation of digital communication platforms has reshaped the forms and efficacy of social capital in fostering community resilience and local development initiatives in India. Discuss its implications for traditional community-based organisations.
 
 Q2. (10 Marks | 150 words)
-Critically examine how global supply chains and cross-border migration patterns have exacerbated the vulnerabilities of certain demographic groups to human trafficking in India. What role do international conventions play in addressing these complex dynamics?
+Critically examine the evolving challenges faced by the voluntary sector in India in maintaining its autonomy and operational effectiveness amidst increasing regulatory scrutiny and shifting funding landscapes. How do these challenges impact their capacity to act as a bridge between the state and citizens?
 
 Q3. (15 Marks | 250 words)
-Discuss how the interplay of socio-economic deprivation, inadequate legal enforcement, and gender-based discrimination perpetuates the cycles of child labour, bonded labour, and human trafficking in marginalized communities. Illustrate with recent examples, highlighting the challenges in rehabilitation and reintegration.
+The success of the cooperative movement, particularly exemplified by Amul, offers significant lessons for achieving inclusive rural development in India. Critically analyse these lessons, considering their social empowerment, economic growth, and governance implications for sustainable livelihoods and community participation at the grassroots.
 
 ========================================
-GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
+GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'moral imagination' in enabling a civil servant to uphold values like compassion and tolerance when confronted with conflicting demands from diverse stakeholders. Provide examples from public administration.
+Explain the ethical significance of the principle of 'common but differentiated responsibilities and respective capabilities' (CBDR-RC) in addressing global climate change. How does this principle guide a nation-state's policy formulation and a civil servant's approach towards sustainable development goals?
 
 Q5. (10 Marks | 150 words)
-How can a civil servant draw upon the lessons of humility and integrity exemplified by historical figures and literary narratives to navigate the contemporary pressures of political interference and bureaucratic inertia? Discuss with specific reference to ethical decision-making.
+Examine the ethical dilemmas confronting district administrators in border regions when faced with an influx of refugees or displaced persons. How should they balance the humanitarian imperative of providing aid with national security concerns and the principle of state sovereignty?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Meera Sharma, a relatively new Block Development Officer (BDO) in the Nandanpur Block of a drought-prone district, is known for her diligence and adherence to rules. She is currently overseeing the implementation of a crucial government welfare scheme designed to provide immediate financial relief and agricultural subsidies to genuinely distressed small and marginal farmers, requiring rigorous verification of land records.
 
-With local elections approaching, the influential local MLA approaches Meera, strongly recommending the expedited issuance of land-ownership certificates for approximately fifty individuals who are known party loyalists but do not meet the scheme's strict eligibility criteria. The MLA assures her a smooth and rewarding tenure if she complies, hinting at severe repercussions, including a punitive transfer or departmental inquiry, if she obstructs their 'party's developmental agenda.' Her immediate superior, the District Collector, has also subtly conveyed the importance of 'cooperating with local elected representatives for harmonious functioning.'
+Rahul Kumar, a diligent District Development Officer (DDO) in Rudrapur District, Uttarakhand, is highly regarded for his commitment to public service and transparent administration. He recently oversaw a flagship rural road construction project which, through his proactive measures, was completed ahead of schedule and significantly under budget, earning widespread public appreciation and state recognition.
 
-Meera faces an acute ethical dilemma. Issuing false certificates would deprive genuine, vulnerable farmers of critical aid and undermine public trust in governance, while refusing could jeopardize her career and potentially expose her to harassment, affecting her family's stability.
+A local investigative journalist, known for uncovering corruption, has filed a Right to Information (RTI) application demanding comprehensive financial records, contractor payment details, and all internal audit reports for the successful road project. Simultaneously, Rahul's superior, the District Magistrate, informally advised him to be discreet, expressing concerns that releasing overly granular details, especially a specific internal audit note highlighting a minor procedural lapse already rectified, could be exploited by political rivals to discredit the project and the administration, potentially hindering future development initiatives.
+
+The primary stakeholders include the RTI applicant, the local community benefiting from the roads, the contractors, Rahul's superior, and potentially political figures. Releasing all information could either solidify public trust or trigger unnecessary political controversy, while withholding it could protect the project from political attacks but risk eroding Rahul’s reputation for transparency and the public's faith in the system.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Meera Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rahul Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
