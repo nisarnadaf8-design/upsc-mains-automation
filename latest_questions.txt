@@ -1,36 +1,35 @@
-Date: 10 Oct 2026
+Date: 11 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
+GS-1 SOCIETY: Media, Social Media and Their Role in Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the proliferation of digital communication platforms has reshaped the forms and efficacy of social capital in fostering community resilience and local development initiatives in India. Discuss its implications for traditional community-based organisations.
+Examine how the escalating sophistication of AI-generated content and deepfake technologies challenges the traditional role of media as the fourth pillar of democracy in ensuring an informed citizenry. Discuss the implications for accountability in the information ecosystem.
 
 Q2. (10 Marks | 150 words)
-Critically examine the evolving challenges faced by the voluntary sector in India in maintaining its autonomy and operational effectiveness amidst increasing regulatory scrutiny and shifting funding landscapes. How do these challenges impact their capacity to act as a bridge between the state and citizens?
+What do you understand by the 'filter bubble' phenomenon prevalent on social media platforms? Critically examine how these algorithmic echo chambers contribute to societal polarisation and hinder inclusive public discourse in a diverse country like India.
 
 Q3. (15 Marks | 250 words)
-The success of the cooperative movement, particularly exemplified by Amul, offers significant lessons for achieving inclusive rural development in India. Critically analyse these lessons, considering their social empowerment, economic growth, and governance implications for sustainable livelihoods and community participation at the grassroots.
+Critically analyse the complex ethical and legal tightrope walk involved in regulating political content on social media platforms to curb misinformation and hate speech. Discuss its implications for individual free speech, democratic political mobilisation, and the socio-legal framework in India, providing suitable examples.
 
 ========================================
-GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
+GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the ethical significance of the principle of 'common but differentiated responsibilities and respective capabilities' (CBDR-RC) in addressing global climate change. How does this principle guide a nation-state's policy formulation and a civil servant's approach towards sustainable development goals?
+Explain the significance of 'moral courage' and 'intellectual honesty' as foundational virtues for a civil servant in upholding the integrity of public administration. How do these virtues enable them to resist undue influence and make objective decisions?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemmas confronting district administrators in border regions when faced with an influx of refugees or displaced persons. How should they balance the humanitarian imperative of providing aid with national security concerns and the principle of state sovereignty?
+How should a civil servant navigate the ethical dilemma of prioritising immediate, tangible public welfare initiatives championed by influential political figures versus upholding stringent procedural norms and institutional integrity, especially when political pressure to expedite is intense?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ms. Ananya Sharma, an upright and recently appointed District Magistrate of Rudrapur District in Uttarakhand, has earned a reputation for her commitment to social justice and administrative efficiency. During a routine, unannounced inspection spearheaded by her office's Child Welfare Unit, a shocking discovery was made in a large textile manufacturing unit, "Himalayan Looms," a prominent local employer in the district.
 
-Rahul Kumar, a diligent District Development Officer (DDO) in Rudrapur District, Uttarakhand, is highly regarded for his commitment to public service and transparent administration. He recently oversaw a flagship rural road construction project which, through his proactive measures, was completed ahead of schedule and significantly under budget, earning widespread public appreciation and state recognition.
+The inspection team found irrefutable evidence of systematic child labour, with several minors working in hazardous conditions. Further investigation revealed that "Himalayan Looms" is owned by Mr. Ved Prakash, a senior and highly influential cabinet minister in the state government. Immediately, Ms. Sharma received veiled warnings from the Chief Minister's Office suggesting the matter be handled "discreetly" to avoid political embarrassment, while her immediate superior, the Divisional Commissioner, subtly advised a "pragmatic approach" citing her promising career trajectory. Local media outlets, having caught wind of the inspection, are beginning to raise pointed questions.
 
-A local investigative journalist, known for uncovering corruption, has filed a Right to Information (RTI) application demanding comprehensive financial records, contractor payment details, and all internal audit reports for the successful road project. Simultaneously, Rahul's superior, the District Magistrate, informally advised him to be discreet, expressing concerns that releasing overly granular details, especially a specific internal audit note highlighting a minor procedural lapse already rectified, could be exploited by political rivals to discredit the project and the administration, potentially hindering future development initiatives.
-
-The primary stakeholders include the RTI applicant, the local community benefiting from the roads, the contractors, Rahul's superior, and potentially political figures. Releasing all information could either solidify public trust or trigger unnecessary political controversy, while withholding it could protect the project from political attacks but risk eroding Rahul’s reputation for transparency and the public's faith in the system.
+Ms. Sharma faces an acute ethical dilemma. Her decision will directly impact the exploited children, their impoverished families, the rule of law, her own career, the integrity of the civil service, and public trust in governance. Both decisive action and cautious inaction carry significant and far-reaching consequences for all involved stakeholders.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rahul Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
