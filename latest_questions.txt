@@ -1,35 +1,35 @@
-Date: 11 Oct 2026
+Date: 12 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Media, Social Media and Their Role in Society
+GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the escalating sophistication of AI-generated content and deepfake technologies challenges the traditional role of media as the fourth pillar of democracy in ensuring an informed citizenry. Discuss the implications for accountability in the information ecosystem.
+Examine how caste, despite its diminishing traditional institutional rigidity, continues to manifest as a dynamic political identity shaping electoral outcomes and policy discourse in 21st-century India. Discuss the implications of this evolving role on social cohesion.
 
 Q2. (10 Marks | 150 words)
-What do you understand by the 'filter bubble' phenomenon prevalent on social media platforms? Critically examine how these algorithmic echo chambers contribute to societal polarisation and hinder inclusive public discourse in a diverse country like India.
+Critically examine the contemporary relevance of M.N. Srinivas’s concepts of Sanskritisation and Westernisation in understanding social mobility amidst the complexities introduced by rapid economic liberalisation and digital transformation in India. How do these frameworks account for upward mobility that challenges traditional hierarchies?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the complex ethical and legal tightrope walk involved in regulating political content on social media platforms to curb misinformation and hate speech. Discuss its implications for individual free speech, democratic political mobilisation, and the socio-legal framework in India, providing suitable examples.
+Discuss how the intersection of caste, class, and gender influences the effectiveness and perception of reservation policies in achieving genuine social justice, critically analysing its socio-economic ramifications and political contestations in contemporary India. Illustrate with suitable examples demonstrating both successes and persisting challenges.
 
 ========================================
-GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
+GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'moral courage' and 'intellectual honesty' as foundational virtues for a civil servant in upholding the integrity of public administration. How do these virtues enable them to resist undue influence and make objective decisions?
+Explain how a civil servant navigates the tension between following one's personal conscience and adhering to established bureaucratic norms, especially when universal ethical principles are at stake in public service delivery. Under what circumstances should conscience take precedence over rules?
 
 Q5. (10 Marks | 150 words)
-How should a civil servant navigate the ethical dilemma of prioritising immediate, tangible public welfare initiatives championed by influential political figures versus upholding stringent procedural norms and institutional integrity, especially when political pressure to expedite is intense?
+How can the 'Ethics of Care' framework, traditionally applied to interpersonal relationships, be effectively integrated into public administration to foster greater empathy and responsiveness towards vulnerable sections, moving beyond rigid rule-based governance? Discuss its potential to transform citizen-centric service delivery.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Ananya Sharma, an upright and recently appointed District Magistrate of Rudrapur District in Uttarakhand, has earned a reputation for her commitment to social justice and administrative efficiency. During a routine, unannounced inspection spearheaded by her office's Child Welfare Unit, a shocking discovery was made in a large textile manufacturing unit, "Himalayan Looms," a prominent local employer in the district.
+Ms. Anjali Sharma, District Magistrate of Rudrapur, a rapidly developing district, is overseeing a critical land acquisition process for a major national highway project. The project promises significant economic growth but also involves resettlement of numerous small farmers and tribals from a sensitive ecological zone. She is known for her integrity and adherence to due process.
 
-The inspection team found irrefutable evidence of systematic child labour, with several minors working in hazardous conditions. Further investigation revealed that "Himalayan Looms" is owned by Mr. Ved Prakash, a senior and highly influential cabinet minister in the state government. Immediately, Ms. Sharma received veiled warnings from the Chief Minister's Office suggesting the matter be handled "discreetly" to avoid political embarrassment, while her immediate superior, the Divisional Commissioner, subtly advised a "pragmatic approach" citing her promising career trajectory. Local media outlets, having caught wind of the inspection, are beginning to raise pointed questions.
+Suddenly, she receives direct pressure from the influential State Cabinet Minister for Infrastructure, Mr. Raghav Singh, to expedite the land acquisition by relaxing certain environmental impact assessment norms and fast-tracking compensation disbursement without thorough verification of land titles. Her immediate superior, the Divisional Commissioner, subtly advises her to adopt a 'pragmatic' approach, hinting at potential career repercussions if the project faces delays. Meanwhile, local community groups and environmental NGOs are closely monitoring the process, threatening protests if due diligence is compromised.
 
-Ms. Sharma faces an acute ethical dilemma. Her decision will directly impact the exploited children, their impoverished families, the rule of law, her own career, the integrity of the civil service, and public trust in governance. Both decisive action and cautious inaction carry significant and far-reaching consequences for all involved stakeholders.
+Anjali's decision will directly impact thousands of displaced families, the environmental integrity of the region, the public exchequer, and the credibility of the administrative machinery. Both compliance and resistance carry significant personal and professional risks for her.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
