@@ -1,35 +1,35 @@
-Date: 12 Oct 2026
+Date: 13 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
+GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how caste, despite its diminishing traditional institutional rigidity, continues to manifest as a dynamic political identity shaping electoral outcomes and policy discourse in 21st-century India. Discuss the implications of this evolving role on social cohesion.
+Examine the multifaceted structural barriers that continue to impede women's full and equitable participation in the formal economy, despite rising educational attainment. Discuss how these barriers undermine broader empowerment goals.
 
 Q2. (10 Marks | 150 words)
-Critically examine the contemporary relevance of M.N. Srinivas’s concepts of Sanskritisation and Westernisation in understanding social mobility amidst the complexities introduced by rapid economic liberalisation and digital transformation in India. How do these frameworks account for upward mobility that challenges traditional hierarchies?
+Critically examine how far legal frameworks, such as the Protection of Women from Domestic Violence Act, have been effective in addressing the pervasive issue of gender-based violence, considering the persistent influence of patriarchal social attitudes.
 
 Q3. (15 Marks | 250 words)
-Discuss how the intersection of caste, class, and gender influences the effectiveness and perception of reservation policies in achieving genuine social justice, critically analysing its socio-economic ramifications and political contestations in contemporary India. Illustrate with suitable examples demonstrating both successes and persisting challenges.
+Discuss how increased women's political representation at local government levels, facilitated by grassroots movements and Self-Help Groups, can serve as a catalyst for reversing the feminisation of poverty and fostering inclusive community development. Illustrate with examples covering social, economic, and political dimensions.
 
 ========================================
-GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
+GS-4 ETHICS: Attitude: Formation, Change and Social Influence
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how a civil servant navigates the tension between following one's personal conscience and adhering to established bureaucratic norms, especially when universal ethical principles are at stake in public service delivery. Under what circumstances should conscience take precedence over rules?
+What do you understand by 'unconscious bias' in the context of administrative decision-making? Explain how such biases, rooted in an administrator's underlying attitudes, can inadvertently compromise principles of impartiality and equity in governance.
 
 Q5. (10 Marks | 150 words)
-How can the 'Ethics of Care' framework, traditionally applied to interpersonal relationships, be effectively integrated into public administration to foster greater empathy and responsiveness towards vulnerable sections, moving beyond rigid rule-based governance? Discuss its potential to transform citizen-centric service delivery.
+How should a civil servant navigate situations where the prevailing institutional attitude or groupthink encourages practices that are ethically questionable, yet not explicitly illegal? Discuss the challenges involved in demonstrating moral courage and fostering an ethical work culture under such social influence.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Anjali Sharma, District Magistrate of Rudrapur, a rapidly developing district, is overseeing a critical land acquisition process for a major national highway project. The project promises significant economic growth but also involves resettlement of numerous small farmers and tribals from a sensitive ecological zone. She is known for her integrity and adherence to due process.
+Ms. Ananya Sharma, a newly posted Sub-Divisional Magistrate (SDM) in the coastal district of Sagarika, is leading a critical relief operation following a devastating cyclone. Her primary responsibility is to ensure the timely and transparent distribution of emergency aid, essential supplies, and rehabilitation funds to thousands of displaced families.
 
-Suddenly, she receives direct pressure from the influential State Cabinet Minister for Infrastructure, Mr. Raghav Singh, to expedite the land acquisition by relaxing certain environmental impact assessment norms and fast-tracking compensation disbursement without thorough verification of land titles. Her immediate superior, the Divisional Commissioner, subtly advises her to adopt a 'pragmatic' approach, hinting at potential career repercussions if the project faces delays. Meanwhile, local community groups and environmental NGOs are closely monitoring the process, threatening protests if due diligence is compromised.
+While reviewing ground reports and audit trails for a major relief fund, Ananya stumbles upon irrefutable evidence indicating a well-orchestrated scheme of embezzlement of essential goods and funds. The trail leads directly to Mr. Rajesh Verma, the District Collector, who is widely known for his political patronage and authoritarian style. Ananya faces immense pressure: exposing her superior could mean severe professional repercussions and personal targeting, yet remaining silent would betray her duty to the suffering populace and perpetuate a grave injustice.
 
-Anjali's decision will directly impact thousands of displaced families, the environmental integrity of the region, the public exchequer, and the credibility of the administrative machinery. Both compliance and resistance carry significant personal and professional risks for her.
+The primary stakeholders are the vulnerable cyclone victims, whose survival depends on the aid. Her decision will significantly impact their welfare, the morale of honest officials, the public's trust in governance, and the overall integrity of the disaster management framework. Both reporting the corruption and choosing to overlook it carry profound consequences for all involved.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
