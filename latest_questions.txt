@@ -1,35 +1,35 @@
-Date: 14 Oct 2026
+Date: 15 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Communalism, Regionalism and Secularism
+GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the pervasive influence of digital media and targeted algorithms facilitates the selective retrieval and amplification of historical narratives, thereby challenging India's nuanced model of constitutional secularism and fostering communal polarisation.
+Examine the imperative of designing an integrated national policy framework that simultaneously leverages India's demographic dividend while proactively preparing for the social and economic implications of an ageing population. Discuss the complexities of balancing these often competing demands on public resources.
 
 Q2. (10 Marks | 150 words)
-Critically analyse how the strategic intertwining of sub-regional identities with cultural majoritarian sentiments by political actors can either consolidate or fragment national integration within India's diverse electoral democracy.
+What do you understand by a 'holistic approach' to population management that extends beyond fertility control? How have evolving patterns of internal and international migration, including reverse migration trends post-pandemic, reshaped India's population challenges and policy priorities?
 
 Q3. (15 Marks | 250 words)
-Discuss how persistent regional economic disparities and social inequalities contribute to the emergence of sub-nationalist movements, and critically evaluate their implications for the preservation of India's composite culture and cooperative federal structure.
+Critically analyse the socio-economic and gendered implications of increasing male out-migration from rural areas on the well-being of left-behind women, children, and the elderly in their villages of origin. Discuss the challenges it poses for local governance, social security mechanisms, and the rural economy, suggesting comprehensive policy interventions.
 
 ========================================
-GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
+GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how "integrity beyond mere legal compliance" and "impartiality in spirit" are indispensable ethical anchors for civil servants, particularly when formulating policies that might disproportionately affect certain societal groups or interests.
+Explain the significance of emotional self-regulation for a civil servant in maintaining impartiality and upholding ethical standards, especially when faced with intense public scrutiny or political pressure. How does this competence contribute to objective decision-making in governance?
 
 Q5. (10 Marks | 150 words)
-In situations demanding stringent administrative decisions, how can a civil servant balance the imperative of objectivity and evidence-based policy making with a foundational commitment to empathy for the most vulnerable sections of society?
+How should an administrator leverage empathy as a strategic tool to bridge cultural and ideological divides within diverse teams and among various stakeholder groups? Examine its role in fostering trust, facilitating constructive dialogue, and driving inclusive policy implementation in a multi-stakeholder environment.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Aditi Sharma, a newly appointed District Collector in a remote, resource-rich tribal district in Chhattisgarh, is known for her diligence and pro-people approach. The district is home to several indigenous communities whose lives and livelihoods are deeply intertwined with the forests and traditional land use. A significant portion of the district is designated for a proposed mega-industrial corridor, a flagship project of the State Government aimed at attracting investments and creating jobs.
+Superintendent of Police Vikram Singh, a diligent and upright IPS officer, currently heads the Vigilance Branch in Rudrapur District. For the past six months, he has been quietly investigating irregularities in the procurement of essential supplies and infrastructure development for police welfare housing, a scheme crucial for boosting constable morale.
 
-Recently, the State Government issued an executive order mandating expedited land acquisition and forest clearance procedures for the industrial corridor, bypassing certain provisions of the Forest Rights Act and PESA, citing "urgent public interest." This order comes directly from the Chief Secretary's office, with implied political pressure from the Chief Minister's secretariat to ensure rapid progress. However, implementing this order would directly displace thousands of tribal families, disrupt their traditional way of life, and severely impact their access to forest produce and sacred sites, potentially leading to widespread unrest. Ms. Sharma has received numerous petitions from tribal community leaders and local NGOs highlighting the potential human rights violations and ecological damage.
+His investigation has uncovered a systematic embezzlement of funds, revealing a nexus between certain contractors and senior officials within the State Police Department, including his immediate superior, the Deputy Inspector General (DIG). The evidence is substantial, but exposing it would not only implicate colleagues but also severely tarnish the reputation of the force and potentially lead to a major political scandal involving a local minister known to patronize some of the implicated contractors. The DIG has subtly warned Vikram about the 'fragility of institutional trust' and the 'risks of internal witch-hunts'.
 
-Her decision will significantly affect the tribal communities, the state's economic development agenda, the credibility of her administration, and potentially her own career. Both strict adherence to the government order and a defiant stance have serious, far-reaching consequences for all parties involved, including the district's long-term peace and stability.
+Vikram's decision will directly affect the morale and trust of the constabulary, the public's perception of law enforcement, the careers of implicated officials, and his own professional future. Both exposing the truth and suppressing it carry significant, far-reaching consequences for justice, accountability, and institutional integrity.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Aditi Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Vikram Singh? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
