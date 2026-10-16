@@ -1,35 +1,44 @@
-Date: 15 Oct 2026
+Date: 16 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
+GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the imperative of designing an integrated national policy framework that simultaneously leverages India's demographic dividend while proactively preparing for the social and economic implications of an ageing population. Discuss the complexities of balancing these often competing demands on public resources.
+Examine how a narrow focus on income-based poverty metrics might obscure the true extent of deprivation and hinder the effectiveness of inclusive growth initiatives in India, particularly in the context of recent multidimensional poverty indices.
 
 Q2. (10 Marks | 150 words)
-What do you understand by a 'holistic approach' to population management that extends beyond fertility control? How have evolving patterns of internal and international migration, including reverse migration trends post-pandemic, reshaped India's population challenges and policy priorities?
+Critically examine how systemic social exclusion, particularly of Scheduled Tribes and specific minority groups, perpetuates intergenerational poverty and limits upward mobility despite targeted educational and economic interventions.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the socio-economic and gendered implications of increasing male out-migration from rural areas on the well-being of left-behind women, children, and the elderly in their villages of origin. Discuss the challenges it poses for local governance, social security mechanisms, and the rural economy, suggesting comprehensive policy interventions.
+Discuss how the evolving landscape of rural employment guarantee programs like MGNREGA addresses both economic poverty and dimensions of social exclusion, while also considering its political sustainability and potential for fostering educational empowerment among marginalized communities.
 
 ========================================
-GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
+GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of emotional self-regulation for a civil servant in maintaining impartiality and upholding ethical standards, especially when faced with intense public scrutiny or political pressure. How does this competence contribute to objective decision-making in governance?
+Explain the contemporary relevance of Gandhi's concept of 'trusteeship' for public servants tasked with managing national resources and serving a diverse citizenry in a welfare state, facing pressures of privatization and resource scarcity.
 
 Q5. (10 Marks | 150 words)
-How should an administrator leverage empathy as a strategic tool to bridge cultural and ideological divides within diverse teams and among various stakeholder groups? Examine its role in fostering trust, facilitating constructive dialogue, and driving inclusive policy implementation in a multi-stakeholder environment.
+How does Ambedkar's distinction between 'constitutional morality' and 'social morality' guide a civil servant in navigating policy implementation amidst deeply entrenched societal prejudices and customary practices that often contradict constitutional values?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Superintendent of Police Vikram Singh, a diligent and upright IPS officer, currently heads the Vigilance Branch in Rudrapur District. For the past six months, he has been quietly investigating irregularities in the procurement of essential supplies and infrastructure development for police welfare housing, a scheme crucial for boosting constable morale.
 
-His investigation has uncovered a systematic embezzlement of funds, revealing a nexus between certain contractors and senior officials within the State Police Department, including his immediate superior, the Deputy Inspector General (DIG). The evidence is substantial, but exposing it would not only implicate colleagues but also severely tarnish the reputation of the force and potentially lead to a major political scandal involving a local minister known to patronize some of the implicated contractors. The DIG has subtly warned Vikram about the 'fragility of institutional trust' and the 'risks of internal witch-hunts'.
+Rajesh Kumar, a highly respected District Collector in Palghat District, Kerala, is known for his unwavering integrity and efficiency, particularly in mediating complex land dispute cases. His office is currently overseeing the expedited processing of land records to facilitate a critical infrastructure project, requiring meticulous scrutiny and a transparent approach to all pending disputes.
 
-Vikram's decision will directly affect the morale and trust of the constabulary, the public's perception of law enforcement, the careers of implicated officials, and his own professional future. Both exposing the truth and suppressing it carry significant, far-reaching consequences for justice, accountability, and institutional integrity.
+A significant land dispute case, involving a large tract of agricultural land vital for this public infrastructure, lands on Rajesh’s desk for final review and decision. To his profound dismay, he discovers that his estranged brother, Suresh, has a direct financial interest in one of the disputing parties, a prominent private real estate firm. Suresh approaches Rajesh privately, hinting at potential family discord and public embarrassment if the decision doesn't favor his associate, while a local political leader also subtly pressures him to expedite a favorable outcome for the real estate firm.
+
+The farmers whose livelihoods depend on this land, the real estate firm with its commercial interests, the critical infrastructure project's timeline, the public's trust in impartial governance, and Rajesh's personal family relationships are all at stake. Both a biased decision and perceived evasion of duty carry serious, far-reaching consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Vikram Singh? Evaluate each option with its merits and demerits. (100 words)
+The case presents a clear conflict of interest for Rajesh, compromising his impartiality and integrity. It involves potential nepotism, a threat to public trust, and raises questions of accountability versus familial loyalty. Political pressure further complicates adherence to ethical governance principles and constitutional morality.
+
+(b) What are the options available to Rajesh Kumar? Evaluate each option with its merits and demerits. (100 words)
+Option 1: Recuse himself from the case. Merits: Upholds impartiality, avoids conflict of interest. Demerits: Might delay project, seen as evading responsibility, superior might resist.
+Option 2: Decide strictly on merit. Merits: Upholds integrity, ensures justice. Demerits: Family discord, political backlash, potential personal harassment.
+Option 3: Seek guidance from his superior. Merits: Shares responsibility, follows protocol. Demerits: Might be seen as indecisiveness, superior could also face pressure.
+
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+I would recommend Rajesh immediately declare the conflict of interest to his superior in writing, formally recusing himself from this specific case. He should request its reassignment to another competent officer or a higher authority for an unbiased review, citing the principles of integrity and fair play. This course upholds impartiality, safeguards public trust, and aligns with service rules.
+To handle pressures, Rajesh should firmly but politely inform his brother about his ethical obligations and legal ramifications, reiterating his commitment to justice over personal ties. He must document the political pressure and report it to appropriate channels, emphasizing the need for procedural fairness for the infrastructure project's long-term success. Transparency about his recusal will also deter speculation.
