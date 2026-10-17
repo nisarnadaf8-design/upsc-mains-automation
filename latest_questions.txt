@@ -1,44 +1,35 @@
-Date: 16 Oct 2026
+Date: 17 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
+GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how a narrow focus on income-based poverty metrics might obscure the true extent of deprivation and hinder the effectiveness of inclusive growth initiatives in India, particularly in the context of recent multidimensional poverty indices.
+Examine how the Smart Cities Mission, despite its digital and infrastructure focus, has struggled to fundamentally address the persistent issues of social inclusion and informal settlements in India's rapidly expanding urban landscape.
 
 Q2. (10 Marks | 150 words)
-Critically examine how systemic social exclusion, particularly of Scheduled Tribes and specific minority groups, perpetuates intergenerational poverty and limits upward mobility despite targeted educational and economic interventions.
+Critically examine the extent to which the intended decentralisation under the 74th Constitutional Amendment has empowered Urban Local Bodies to effectively manage the escalating challenges of urban waste and resource scarcity.
 
 Q3. (15 Marks | 250 words)
-Discuss how the evolving landscape of rural employment guarantee programs like MGNREGA addresses both economic poverty and dimensions of social exclusion, while also considering its political sustainability and potential for fostering educational empowerment among marginalized communities.
+Discuss the multi-dimensional impacts of persistent rural-to-urban migration on India's metropolitan cities, specifically analysing the socio-economic strain on public services, the environmental challenges of rapid informal urbanisation, and the governance gaps in planned infrastructure development.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
+GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the contemporary relevance of Gandhi's concept of 'trusteeship' for public servants tasked with managing national resources and serving a diverse citizenry in a welfare state, facing pressures of privatization and resource scarcity.
+Explain the relevance of Kautilya's concept of 'statecraft as a science of punishment' (Dandaniti) in ensuring ethical governance and maintaining public order in contemporary Indian administration.
 
 Q5. (10 Marks | 150 words)
-How does Ambedkar's distinction between 'constitutional morality' and 'social morality' guide a civil servant in navigating policy implementation amidst deeply entrenched societal prejudices and customary practices that often contradict constitutional values?
+How can a civil servant draw upon the principles of Kant's Categorical Imperative to ensure fairness and impartiality when formulating public policies that affect diverse sections of society?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Aarav Sharma, the District Magistrate of Shantipur, a district known for its diverse population, has been diligently working to maintain peace and foster inter-community harmony. Recently, a minor local dispute escalated into communal tension after provocative social media posts further inflamed sentiments, leading to widespread unrest in certain pockets of the district.
 
-Rajesh Kumar, a highly respected District Collector in Palghat District, Kerala, is known for his unwavering integrity and efficiency, particularly in mediating complex land dispute cases. His office is currently overseeing the expedited processing of land records to facilitate a critical infrastructure project, requiring meticulous scrutiny and a transparent approach to all pending disputes.
+The situation demands swift and impartial action. However, Aarav receives explicit directives from a powerful state minister to selectively target one community during law enforcement operations and to downplay the role of certain influential individuals from the minister's political base, despite evidence suggesting their involvement. His immediate superior, the Divisional Commissioner, hints at political repercussions if these directives are not followed.
 
-A significant land dispute case, involving a large tract of agricultural land vital for this public infrastructure, lands on Rajesh’s desk for final review and decision. To his profound dismay, he discovers that his estranged brother, Suresh, has a direct financial interest in one of the disputing parties, a prominent private real estate firm. Suresh approaches Rajesh privately, hinting at potential family discord and public embarrassment if the decision doesn't favor his associate, while a local political leader also subtly pressures him to expedite a favorable outcome for the real estate firm.
-
-The farmers whose livelihoods depend on this land, the real estate firm with its commercial interests, the critical infrastructure project's timeline, the public's trust in impartial governance, and Rajesh's personal family relationships are all at stake. Both a biased decision and perceived evasion of duty carry serious, far-reaching consequences.
+Both compliance and defiance would have serious implications for communal harmony, public trust in governance, justice, and Aarav's professional future. The local communities, law enforcement, district administration's credibility, and the political leadership are all key stakeholders in Aarav's impending decision.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-The case presents a clear conflict of interest for Rajesh, compromising his impartiality and integrity. It involves potential nepotism, a threat to public trust, and raises questions of accountability versus familial loyalty. Political pressure further complicates adherence to ethical governance principles and constitutional morality.
-
-(b) What are the options available to Rajesh Kumar? Evaluate each option with its merits and demerits. (100 words)
-Option 1: Recuse himself from the case. Merits: Upholds impartiality, avoids conflict of interest. Demerits: Might delay project, seen as evading responsibility, superior might resist.
-Option 2: Decide strictly on merit. Merits: Upholds integrity, ensures justice. Demerits: Family discord, political backlash, potential personal harassment.
-Option 3: Seek guidance from his superior. Merits: Shares responsibility, follows protocol. Demerits: Might be seen as indecisiveness, superior could also face pressure.
-
+(b) What are the options available to Aarav Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
-I would recommend Rajesh immediately declare the conflict of interest to his superior in writing, formally recusing himself from this specific case. He should request its reassignment to another competent officer or a higher authority for an unbiased review, citing the principles of integrity and fair play. This course upholds impartiality, safeguards public trust, and aligns with service rules.
-To handle pressures, Rajesh should firmly but politely inform his brother about his ethical obligations and legal ramifications, reiterating his commitment to justice over personal ties. He must document the political pressure and report it to appropriate channels, emphasizing the need for procedural fairness for the infrastructure project's long-term success. Transparency about his recusal will also deter speculation.
