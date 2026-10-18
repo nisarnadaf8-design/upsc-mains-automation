@@ -1,34 +1,34 @@
-Date: 17 Oct 2026
+Date: 18 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
+GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the Smart Cities Mission, despite its digital and infrastructure focus, has struggled to fundamentally address the persistent issues of social inclusion and informal settlements in India's rapidly expanding urban landscape.
+Examine how the pervasive influence of digital platforms, a key facet of globalisation, has simultaneously fostered cultural convergence and amplified regional distinctiveness within Indian society. Discuss the implications of this dual phenomenon for social cohesion.
 
 Q2. (10 Marks | 150 words)
-Critically examine the extent to which the intended decentralisation under the 74th Constitutional Amendment has empowered Urban Local Bodies to effectively manage the escalating challenges of urban waste and resource scarcity.
+How has the 'platformisation' of work, accelerated by globalisation, reshaped traditional employer-employee relationships and consequently impacted social security frameworks for a significant segment of the Indian workforce? Critically evaluate the emergent challenges.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-dimensional impacts of persistent rural-to-urban migration on India's metropolitan cities, specifically analysing the socio-economic strain on public services, the environmental challenges of rapid informal urbanisation, and the governance gaps in planned infrastructure development.
+Critically analyse the multi-faceted impact of globalisation on women's socio-economic status in India, considering aspects of skill development, labour market participation, challenges to traditional gender roles, and the rise of new vulnerabilities within the digital economy. Illustrate with relevant examples.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
+GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the relevance of Kautilya's concept of 'statecraft as a science of punishment' (Dandaniti) in ensuring ethical governance and maintaining public order in contemporary Indian administration.
+What do you understand by the concept of 'ethical infrastructure' within public administration? Explain its significance in fostering a culture of probity and institutional accountability, particularly in the context of preventing malpractices in service delivery.
 
 Q5. (10 Marks | 150 words)
-How can a civil servant draw upon the principles of Kant's Categorical Imperative to ensure fairness and impartiality when formulating public policies that affect diverse sections of society?
+A senior civil servant is offered a consultancy position by a private firm with whom their department frequently transacts, immediately after retirement. Examine the ethical considerations involved in such a 'revolving door' phenomenon and suggest mechanisms for its transparent and fair management to uphold public trust.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Aarav Sharma, the District Magistrate of Shantipur, a district known for its diverse population, has been diligently working to maintain peace and foster inter-community harmony. Recently, a minor local dispute escalated into communal tension after provocative social media posts further inflamed sentiments, leading to widespread unrest in certain pockets of the district.
+Aarav Sharma, a dedicated District Development Officer (DDO) in Sagar district, is overseeing the implementation of the 'Gramin Ujjwal Yojana', a flagship government welfare scheme aimed at improving rural infrastructure and livelihoods. The scheme's progress is critical for the district's development targets, and a comprehensive annual report on its impact and expenditure is due to be submitted to the state government within the next two weeks.
 
-The situation demands swift and impartial action. However, Aarav receives explicit directives from a powerful state minister to selectively target one community during law enforcement operations and to downplay the role of certain influential individuals from the minister's political base, despite evidence suggesting their involvement. His immediate superior, the Divisional Commissioner, hints at political repercussions if these directives are not followed.
+During the preparation of the report, Aarav discovers significant discrepancies between the ground reality and the official figures submitted by some Block Development Officers (BDOs) under him. The data suggests that beneficiary reach and infrastructural development targets have been underachieved by a considerable margin. His immediate superior, the District Collector, along with a prominent local political leader, strongly advises Aarav to 'adjust' the figures to reflect a more favourable outcome, emphasizing the political sensitivity and potential backlash if the actual numbers are revealed.
 
-Both compliance and defiance would have serious implications for communal harmony, public trust in governance, justice, and Aarav's professional future. The local communities, law enforcement, district administration's credibility, and the political leadership are all key stakeholders in Aarav's impending decision.
+Aarav is now faced with a stark choice: present an accurate but unflattering report, or comply with the pressure to manipulate data. His decision will directly impact the allocation of future funds for genuine beneficiaries, the credibility of the government scheme, public trust in administration, and potentially his own career progression.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
 (b) What are the options available to Aarav Sharma? Evaluate each option with its merits and demerits. (100 words)
