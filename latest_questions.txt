@@ -1,35 +1,36 @@
-Date: 18 Oct 2026
+Date: 19 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
+GS-1 SOCIETY: Social Movements and Civil Society in India
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the pervasive influence of digital platforms, a key facet of globalisation, has simultaneously fostered cultural convergence and amplified regional distinctiveness within Indian society. Discuss the implications of this dual phenomenon for social cohesion.
+Examine how the proliferation of digital platforms and hyper-connectivity has reshaped the strategies, reach, and demands of contemporary social movements in India, particularly concerning issues of transparency and state accountability.
 
 Q2. (10 Marks | 150 words)
-How has the 'platformisation' of work, accelerated by globalisation, reshaped traditional employer-employee relationships and consequently impacted social security frameworks for a significant segment of the Indian workforce? Critically evaluate the emergent challenges.
+Critically examine the complex challenges faced by civil society organizations in advocating for the rights of marginalized tribal communities while simultaneously navigating the state's developmental priorities and the enduring problem of socio-economic grievances in conflict-affected regions.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multi-faceted impact of globalisation on women's socio-economic status in India, considering aspects of skill development, labour market participation, challenges to traditional gender roles, and the rise of new vulnerabilities within the digital economy. Illustrate with relevant examples.
+Discuss the multifaceted legacy of prominent anti-corruption movements in India, analyzing their social awakening impact, political ramifications on electoral dynamics, and the subsequent challenges regarding regulatory oversight and internal democratic functioning within the civil society sector itself.
 
 ========================================
-GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
+GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the concept of 'ethical infrastructure' within public administration? Explain its significance in fostering a culture of probity and institutional accountability, particularly in the context of preventing malpractices in service delivery.
+Explain the concept of 'impartiality' as a foundational ethical value for public service. How does its diligent application help prevent both direct and 'revolving door' types of conflict of interest, thereby fostering public trust in administrative decisions?
 
 Q5. (10 Marks | 150 words)
-A senior civil servant is offered a consultancy position by a private firm with whom their department frequently transacts, immediately after retirement. Examine the ethical considerations involved in such a 'revolving door' phenomenon and suggest mechanisms for its transparent and fair management to uphold public trust.
+Examine the ethical dilemmas encountered by an honest civil servant when confronted with systemic institutional resistance to upholding established rules and fair procedures. How can adherence to the 'duty to expose' be reconciled with practical considerations of organisational loyalty and self-preservation in such a scenario?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Aarav Sharma, a dedicated District Development Officer (DDO) in Sagar district, is overseeing the implementation of the 'Gramin Ujjwal Yojana', a flagship government welfare scheme aimed at improving rural infrastructure and livelihoods. The scheme's progress is critical for the district's development targets, and a comprehensive annual report on its impact and expenditure is due to be submitted to the state government within the next two weeks.
 
-During the preparation of the report, Aarav discovers significant discrepancies between the ground reality and the official figures submitted by some Block Development Officers (BDOs) under him. The data suggests that beneficiary reach and infrastructural development targets have been underachieved by a considerable margin. His immediate superior, the District Collector, along with a prominent local political leader, strongly advises Aarav to 'adjust' the figures to reflect a more favourable outcome, emphasizing the political sensitivity and potential backlash if the actual numbers are revealed.
+Ms. Ananya Sharma, a newly appointed IAS officer serving as the Sub-Divisional Magistrate in Vikaspur district, a rapidly urbanising region, is known for her meticulous approach to public administration. She has been tasked with overseeing the final stages of a critical land acquisition project for a proposed industrial corridor.
 
-Aarav is now faced with a stark choice: present an accurate but unflattering report, or comply with the pressure to manipulate data. His decision will directly impact the allocation of future funds for genuine beneficiaries, the credibility of the government scheme, public trust in administration, and potentially his own career progression.
+During her review, Ananya uncovers significant irregularities: undervaluation of farmers' land, inflated compensation for specific plots linked to a prominent private builder, and procedural shortcuts bypassing environmental assessments. Her superior, the District Collector Mr. Rakesh Kumar, advises her to 'expedite approvals' for the 'greater developmental good.' A powerful local MLA, Mr. Suresh Singh, also pressures her to ignore 'minor discrepancies,' citing political implications and potential career setbacks.
+
+The farmers stand to lose their land and livelihood without fair compensation, while the private builders stand to gain illicit profits. Her decision will significantly impact public trust in governance and her own professional integrity and future career trajectory, regardless of the path she chooses.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Aarav Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
