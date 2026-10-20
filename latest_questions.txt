@@ -1,36 +1,36 @@
-Date: 19 Oct 2026
+Date: 20 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Social Movements and Civil Society in India
+GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the proliferation of digital platforms and hyper-connectivity has reshaped the strategies, reach, and demands of contemporary social movements in India, particularly concerning issues of transparency and state accountability.
+Examine the effectiveness of NEP 2020's structural reforms in fundamentally altering the landscape of educational equity and quality across diverse socio-economic strata in India, particularly beyond urban centers. Discuss how implementation challenges might impede its transformative potential.
 
 Q2. (10 Marks | 150 words)
-Critically examine the complex challenges faced by civil society organizations in advocating for the rights of marginalized tribal communities while simultaneously navigating the state's developmental priorities and the enduring problem of socio-economic grievances in conflict-affected regions.
+Critically examine how the persistent digital chasm in India compromises the stated objectives of inclusive quality education, especially in the context of emerging pedagogical paradigms and access to advanced learning resources. How can this gap be systematically bridged?
 
 Q3. (15 Marks | 250 words)
-Discuss the multifaceted legacy of prominent anti-corruption movements in India, analyzing their social awakening impact, political ramifications on electoral dynamics, and the subsequent challenges regarding regulatory oversight and internal democratic functioning within the civil society sector itself.
+Discuss the multifaceted socio-economic and gendered ramifications of persistent high dropout rates among girls and marginalized communities in various educational stages. Suggest comprehensive policy interventions that address systemic barriers beyond mere enrollment targets to ensure sustained retention and learning outcomes.
 
 ========================================
-GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
+GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the concept of 'impartiality' as a foundational ethical value for public service. How does its diligent application help prevent both direct and 'revolving door' types of conflict of interest, thereby fostering public trust in administrative decisions?
+Explain how a culture of 'expediency over integrity' within bureaucratic functioning can gradually erode individual ethical frameworks, leading to systemic corruption even among otherwise honest public servants. Illustrate with examples from public administration.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemmas encountered by an honest civil servant when confronted with systemic institutional resistance to upholding established rules and fair procedures. How can adherence to the 'duty to expose' be reconciled with practical considerations of organisational loyalty and self-preservation in such a scenario?
+Examine the ethical imperative for leveraging transparent e-governance platforms not merely for efficiency, but as a foundational pillar for rebuilding public trust and fostering an anti-corruption ecosystem within governance. What ethical challenges might arise in this transition?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Ms. Ananya Sharma, a newly appointed IAS officer serving as the Sub-Divisional Magistrate in Vikaspur district, a rapidly urbanising region, is known for her meticulous approach to public administration. She has been tasked with overseeing the final stages of a critical land acquisition project for a proposed industrial corridor.
+Smita Sharma, a dedicated IAS officer of 2018 batch, serves as the District Magistrate of Sagar district, known for its vulnerability to monsoon floods. Following a recent catastrophic flood that devastated the region, she has been appointed as the Nodal Officer for the Prime Minister's Flood Relief Fund, overseeing the disbursement of crucial aid, including food, shelter, and medical supplies to thousands of displaced families in remote villages. Her team has meticulously assessed the immediate needs and prepared a disbursement plan.
 
-During her review, Ananya uncovers significant irregularities: undervaluation of farmers' land, inflated compensation for specific plots linked to a prominent private builder, and procedural shortcuts bypassing environmental assessments. Her superior, the District Collector Mr. Rakesh Kumar, advises her to 'expedite approvals' for the 'greater developmental good.' A powerful local MLA, Mr. Suresh Singh, also pressures her to ignore 'minor discrepancies,' citing political implications and potential career setbacks.
+Just as the first tranche of funds is about to be released, Smita receives a direct order from the state's Chief Minister's Office to reallocate a significant portion of the relief funds, earmarked for emergency housing, towards a politically sensitive infrastructure project in a neighboring constituency. Simultaneously, her immediate superior, the Divisional Commissioner, subtly advises her to comply to avoid political friction and potential career repercussions, hinting at the CM's personal interest. Local NGOs and affected communities, however, are desperately relying on the promised aid for their very survival.
 
-The farmers stand to lose their land and livelihood without fair compensation, while the private builders stand to gain illicit profits. Her decision will significantly impact public trust in governance and her own professional integrity and future career trajectory, regardless of the path she chooses.
+Smita's decision will directly impact thousands of flood victims awaiting relief, the integrity of the relief operation, and public trust in government. Non-compliance could jeopardize her career and the broader relationship between the administration and the political executive, while compliance would betray her duty, compromise aid delivery, and potentially lead to further human suffering.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Smita Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
