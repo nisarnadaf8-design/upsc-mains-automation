@@ -1,34 +1,34 @@
-Date: 23 Oct 2026
+Date: 24 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
+GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the dynamic interpretation of secularism in India has impacted the scope and effectiveness of constitutional safeguards for minority rights over time.
+Examine the paradoxical challenges in enforcing child labour laws effectively, despite robust legal frameworks, considering the socio-economic compulsions in marginalized communities across India.
 
 Q2. (10 Marks | 150 words)
-Critically examine the challenges faced by the state in fostering genuine social harmony amidst ongoing debates surrounding personal laws and religious freedom in a diverse society.
+Critically examine how the evolving nature of informal sector employment and seasonal migration patterns have perpetuated new forms of bonded labour, often escaping traditional identification mechanisms, in contemporary India.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted implications (social, legal, and political) of the demand for a Uniform Civil Code on India's secular fabric and the protection of distinct minority identities. Provide suitable examples.
+Critically analyse the complex interplay of socio-economic vulnerabilities, gender disparities, and porous legal enforcement mechanisms that facilitate human trafficking, particularly targeting women and children from remote regions, and discuss the comprehensive strategies required for its prevention and rehabilitation.
 
 ========================================
-GS-4 ETHICS: Social Influence, Persuasion and Moral Development
+GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of fostering post-conventional moral reasoning among civil servants in upholding integrity and ensuring equitable public service delivery.
+Explain the significance of 'moral imagination' as an essential human value for a civil servant, drawing insights from historical figures who demonstrated empathetic leadership and foresight in public service.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical boundaries between legitimate persuasion and manipulative tactics often employed in bureaucratic decision-making, especially when addressing public dissent on policy matters.
+How can the study of classical literature and indigenous art forms contribute to cultivating essential virtues like integrity and resilience among civil service probationers, preparing them for ethical dilemmas in contemporary administration?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Ananya Sharma, a diligent District Collector in District X, a remote tribal-dominated region, faces a critical situation. The 'National Green Energy Corridor' project, a flagship national infrastructure initiative, requires a vital segment of its high-tension transmission line to pass directly through a revered ancestral forest area. This forest is central to the cultural and spiritual identity and livelihood of the indigenous 'Vanvasi' community, who lack formal land titles but have traditionally resided there for centuries. The project promises significant national energy security and regional development.
+Ms. Ananya Sharma is the newly appointed Sub-Divisional Magistrate (SDM) in a remote district of a politically sensitive state. Known for her integrity and commitment to public service, she has been actively working to streamline administrative processes. With general elections approaching, the political climate in her district is highly charged.
 
-Ananya is under immense pressure from the Chief Secretary to ensure swift land acquisition and project completion to avoid substantial cost overruns and political scrutiny at the national level. Simultaneously, a powerful local politician, with undisclosed business interests linked to the project's contractors, is subtly inciting local factions against the Vanvasi community while publicly demanding adherence to national development goals. The Vanvasi community, led by an articulate elder, vehemently opposes displacement, asserting their unrecognised community forest rights under the Forest Rights Act and highlighting the ecological fragility of the area. Public sentiment is divided, with environmental activists supporting the tribal community and urban stakeholders prioritising energy infrastructure.
+Her immediate superior, the District Collector, along with a powerful local political leader from the ruling party, urgently calls a meeting. Ananya is strongly urged to expedite and issue a large number of 'domicile certificates' and 'income certificates' to specific individuals, who are known supporters of the political party. It is clear to Ananya that many of these individuals do not meet the stipulated eligibility criteria. The Collector subtly hints at potential career repercussions, including an undesirable transfer, if she fails to cooperate, framing it as "maintaining good relations with stakeholders for smooth administration."
 
-Ananya's decision will directly impact the Vanvasi community's socio-cultural survival, their trust in the administration, and fundamental human rights. Conversely, any significant delay could jeopardise a nationally critical project, lead to severe financial penalties for the government, and invite political repercussions, potentially affecting her career.
+Ananya’s decision in this situation will significantly affect her personal integrity, the credibility of the revenue administration, the fairness of the electoral process, and the public's trust in governance. Both immediate compliance and outright refusal carry serious consequences for her career and the broader administrative setup.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
 (b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
