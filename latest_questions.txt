@@ -1,35 +1,45 @@
-Date: 24 Oct 2026
+Date: 25 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
+GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the paradoxical challenges in enforcing child labour laws effectively, despite robust legal frameworks, considering the socio-economic compulsions in marginalized communities across India.
+Examine the evolving nature of social capital in the digital age and its implications for strengthening community-led development initiatives, particularly in geographically remote regions of India.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the evolving nature of informal sector employment and seasonal migration patterns have perpetuated new forms of bonded labour, often escaping traditional identification mechanisms, in contemporary India.
+Critically examine how the recent regulatory framework, including amendments to the Foreign Contribution (Regulation) Act, has reshaped the operational autonomy and collaborative landscape for NGOs working on citizen-centric governance projects in India.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the complex interplay of socio-economic vulnerabilities, gender disparities, and porous legal enforcement mechanisms that facilitate human trafficking, particularly targeting women and children from remote regions, and discuss the comprehensive strategies required for its prevention and rehabilitation.
+Discuss the multi-dimensional success of the cooperative movement in India, drawing lessons from models like Amul, and analyze its potential to foster sustainable rural development across economic prosperity, social empowerment, and enhanced community participation.
 
 ========================================
-GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
+GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'moral imagination' as an essential human value for a civil servant, drawing insights from historical figures who demonstrated empathetic leadership and foresight in public service.
+What do you understand by the concept of 'intergenerational equity' in the context of global environmental governance? Explain its ethical implications for civil servants formulating India's climate policy and resource management strategies.
 
 Q5. (10 Marks | 150 words)
-How can the study of classical literature and indigenous art forms contribute to cultivating essential virtues like integrity and resilience among civil service probationers, preparing them for ethical dilemmas in contemporary administration?
+Examine the ethical dilemmas faced by civil servants in a nation dealing with a large influx of refugees or displaced persons, specifically regarding the balance between national security concerns, resource allocation for citizens, and humanitarian obligations under international law.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Ananya Sharma is the newly appointed Sub-Divisional Magistrate (SDM) in a remote district of a politically sensitive state. Known for her integrity and commitment to public service, she has been actively working to streamline administrative processes. With general elections approaching, the political climate in her district is highly charged.
 
-Her immediate superior, the District Collector, along with a powerful local political leader from the ruling party, urgently calls a meeting. Ananya is strongly urged to expedite and issue a large number of 'domicile certificates' and 'income certificates' to specific individuals, who are known supporters of the political party. It is clear to Ananya that many of these individuals do not meet the stipulated eligibility criteria. The Collector subtly hints at potential career repercussions, including an undesirable transfer, if she fails to cooperate, framing it as "maintaining good relations with stakeholders for smooth administration."
+Ms. Ananya Sharma, a diligent Joint Secretary in the Ministry of Environment, Forest and Climate Change in New Delhi, is currently overseeing critical preparations for India's position at an upcoming global climate financing summit. Her department holds sensitive internal documents detailing India's negotiation strategies, proposed emission reduction timelines, and confidential financial projections related to seeking international climate adaptation funds.
 
-Ananya’s decision in this situation will significantly affect her personal integrity, the credibility of the revenue administration, the fairness of the electoral process, and the public's trust in governance. Both immediate compliance and outright refusal carry serious consequences for her career and the broader administrative setup.
+A prominent environmental advocacy group, known for its transparency campaigns, has filed a comprehensive RTI application demanding full disclosure of all these documents, citing the public's right to know about decisions impacting future generations. While Ms. Sharma believes in transparent governance, her Minister and senior colleagues have vehemently instructed her to deny the request, arguing that releasing such information prematurely would severely compromise India's strategic advantage in complex global negotiations, potentially undermining national interests and economic development goals.
+
+Ms. Sharma finds herself in a difficult position, caught between the legitimate demand for public transparency and the imperative of safeguarding national strategic interests. Her decision will significantly affect several stakeholders.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
+The ethical issues include transparency vs. official secrecy, national interest vs. public accountability, duty to obey superiors vs. upholding democratic values, and the potential for eroding public trust if information is withheld, or compromising national strategy if disclosed.
+
 (b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
+Option 1: Deny the RTI citing national interest and strategic secrecy. Merits: Protects negotiating position, follows orders. Demerits: Undermines transparency, fuels public distrust, potential legal challenge.
+Option 2: Release partially redacted documents, withholding only highly sensitive strategic details. Merits: Balances transparency and secrecy, shows good faith. Demerits: Might not fully satisfy applicant, still risks some strategic compromise.
+Option 3: Seek ministerial approval to release aggregated, non-sensitive information immediately and commit to full disclosure post-summit. Merits: Respects RTI spirit, maintains public confidence, protects current negotiations. Demerits: Requires significant internal persuasion, may be seen as delaying tactics.
+
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+I would recommend Ms. Sharma pursue Option 3. She should advocate for releasing general information regarding India's climate policy objectives and commitments, while temporarily redacting specific negotiation tactics and financial projections under Section 8(1)(a) of the RTI Act (information prejudicing national security or strategic interests). Simultaneously, a public statement could be issued committing to full disclosure of all relevant documents once the global summit concludes and India's position is secured.
+
+To handle pressures, Ms. Sharma should present a detailed legal and ethical brief to her Minister and superiors, explaining how a judicious, time-bound partial disclosure can mitigate public backlash and uphold democratic principles without jeopardizing national interest. She should maintain meticulous records of all communications and decisions, demonstrating diligence and integrity. Directly engaging with the advocacy group to explain the rationale for the temporary redaction and future disclosure commitment would also manage external pressure.
