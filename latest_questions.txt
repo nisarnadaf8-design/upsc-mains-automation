@@ -1,36 +1,35 @@
-Date: 26 Oct 2026
+Date: 27 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Media, Social Media and Their Role in Society
+GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the evolution of social media platforms as primary news aggregators has reshaped the traditional role of mainstream media as the fourth pillar of democracy, particularly concerning accountability and gatekeeping functions.
+Examine how the simultaneous processes of Sanskritisation and Westernisation contribute to both the reproduction and transformation of existing caste hierarchies in modern Indian society.
 
 Q2. (10 Marks | 150 words)
-How has the widening digital divide in India exacerbated vulnerabilities to misinformation and algorithmic echo chambers, posing significant challenges to fostering an informed citizenry and maintaining social harmony?
+Critically examine how the intersection of caste, class, and gender creates multi-layered structural barriers, limiting genuine social mobility and perpetuating inequalities in urban and rural India today.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the multifaceted challenges involved in developing effective regulatory frameworks for digital content in India that balance freedom of expression with the imperative to curb hate speech, considering its social, political, and economic implications.
+Discuss the evolving role of caste as a political mobilisation tool in India and critically analyse its implications for social cohesion, economic justice, and the administrative efficacy of reservation policies, citing suitable contemporary examples.
 
 ========================================
-GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
+GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by 'moral courage' in the context of public administration? Explain its significance for a civil servant navigating ethical dilemmas involving political pressure and institutional inertia.
+Explain the significance of an individual's 'moral conscience' as a determinant of ethical behaviour in public service, especially when confronted with prevailing social norms that may contradict universal ethical principles.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical considerations a civil servant must balance when implementing a sensitive public policy that requires a degree of administrative discretion while simultaneously upholding demands for transparency and accountability.
+How can a civil servant effectively apply the 'ethics of care' approach, as proposed by Carol Gilligan, to decision-making in public service without compromising objectivity or adherence to legal frameworks, particularly in welfare administration?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Divya Sharma, a diligent District Magistrate in Lakhimpur District, is overseeing a critical state highway expansion project aimed at improving connectivity and economic development in a remote region. The project involves significant land acquisition and adherence to stringent environmental clearances, which she has meticulously ensured thus far.
 
-Rajesh Kumar, a young and diligent District Magistrate in the industrially developing district of Shanti Nagar, initiated a comprehensive drive against illegal labour practices. During a surprise inspection at a large garment factory, 'Prosperity Apparel', situated in a secluded zone, his team unearthed concrete evidence of child labour, with several minors working in unhygienic and unsafe conditions. The factory is widely known to be owned by Mr. Rakesh Verma, a powerful State Cabinet Minister with significant political clout and a reputation for ruthlessness.
+The State Minister for Infrastructure, a powerful political figure, has recently exerted immense pressure on Divya to alter a section of the approved highway alignment. The proposed diversion would pass through a small but ecologically sensitive forest patch, allegedly to enhance the value of certain private land parcels owned by the Minister's close associates, directly contravening environmental protection laws and the original detailed project report. Divya's immediate superior, the Chief Secretary, has also subtly hinted at accommodating the Minister's request to avoid political friction.
 
-Upon discovery, the factory manager immediately offered Rajesh a substantial financial inducement to overlook the findings and threatened severe political repercussions, including transfer and potential career stagnation, if he proceeded with official action. Subsequently, Rajesh received a discreet phone call from his immediate superior, the Divisional Commissioner, who, without directly instructing, advised 'prudence' and 'political sensitivity' in handling the matter, hinting at the minister's influence reaching the highest echelons. Rajesh is aware that pursuing the case vigorously could jeopardize his budding career and face institutional pushback, while inaction would mean a grave compromise of his ethical principles and a betrayal of his oath.
-
-The exploited children and their impoverished families, the factory workers whose livelihoods might be affected, the minister's political standing, the credibility of the district administration, and Rajesh's personal integrity are all at stake. Both decisive action and passive oversight carry far-reaching consequences.
+Divya's decision will directly impact local tribal communities living near the forest, the project's long-term environmental sustainability, public trust in governance, and her own professional integrity. Yielding to pressure risks legal repercussions and environmental degradation, while resisting might jeopardise her career and create administrative deadlock for the crucial development project.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rajesh Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Divya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
