@@ -1,35 +1,35 @@
-Date: 27 Oct 2026
+Date: 28 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
+GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the simultaneous processes of Sanskritisation and Westernisation contribute to both the reproduction and transformation of existing caste hierarchies in modern Indian society.
+Examine how the persistent gender gap in India's workforce participation, as indicated by recent labour force data, could exacerbate the feminisation of poverty, and discuss the strategic role of Self-Help Groups in addressing this multi-dimensional challenge.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the intersection of caste, class, and gender creates multi-layered structural barriers, limiting genuine social mobility and perpetuating inequalities in urban and rural India today.
+Critically examine how the current underrepresentation of women in legislative bodies might impact the framing and effective implementation of legal safeguards against gender-based violence, such as the POCSO Act, in a rapidly evolving social landscape.
 
 Q3. (15 Marks | 250 words)
-Discuss the evolving role of caste as a political mobilisation tool in India and critically analyse its implications for social cohesion, economic justice, and the administrative efficacy of reservation policies, citing suitable contemporary examples.
+Discuss the underlying socio-economic and patriarchal structures that perpetuate tokenism in women's political representation even with reservation policies, and analyse how these systemic barriers contribute to the pervasive issue of gender-based violence and further limit genuine empowerment at the grassroots.
 
 ========================================
-GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
+GS-4 ETHICS: Attitude: Formation, Change and Social Influence
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of an individual's 'moral conscience' as a determinant of ethical behaviour in public service, especially when confronted with prevailing social norms that may contradict universal ethical principles.
+What do you understand by cognitive dissonance in the context of an administrator grappling with a policy decision that conflicts with their deeply held personal beliefs? Explain its potential impact on ethical administrative decision-making and service delivery.
 
 Q5. (10 Marks | 150 words)
-How can a civil servant effectively apply the 'ethics of care' approach, as proposed by Carol Gilligan, to decision-making in public service without compromising objectivity or adherence to legal frameworks, particularly in welfare administration?
+How should a civil servant cultivate the moral courage to challenge ingrained institutional attitudes of prejudice and stereotyping that adversely affect vulnerable sections, especially when facing social influence from peers and superiors? Discuss practical strategies.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Divya Sharma, a diligent District Magistrate in Lakhimpur District, is overseeing a critical state highway expansion project aimed at improving connectivity and economic development in a remote region. The project involves significant land acquisition and adherence to stringent environmental clearances, which she has meticulously ensured thus far.
+Rohan Sharma is the newly appointed District Magistrate of Shantinagar, a region recently devastated by unprecedented monsoon floods. He arrived a week ago to oversee critical relief and rehabilitation efforts, with public infrastructure destroyed and lakhs displaced. The government has allocated substantial emergency funds for immediate aid and reconstruction.
 
-The State Minister for Infrastructure, a powerful political figure, has recently exerted immense pressure on Divya to alter a section of the approved highway alignment. The proposed diversion would pass through a small but ecologically sensitive forest patch, allegedly to enhance the value of certain private land parcels owned by the Minister's close associates, directly contravening environmental protection laws and the original detailed project report. Divya's immediate superior, the Chief Secretary, has also subtly hinted at accommodating the Minister's request to avoid political friction.
+During his review of procurement records for relief materials and temporary shelter construction, Rohan uncovers significant discrepancies. Evidence strongly suggests his immediate senior, Divisional Commissioner Mr. Alok Singh, is colluding with contractors to siphon off a substantial portion of these critical funds. Reporting this immediately would undoubtedly halt crucial relief operations temporarily and expose a powerful figure, while Mr. Singh has subtly hinted at his strong political connections and severe career repercussions if his activities are questioned. Local non-governmental organisations are independently raising concerns about the quality and delayed delivery of essential relief supplies.
 
-Divya's decision will directly impact local tribal communities living near the forest, the project's long-term environmental sustainability, public trust in governance, and her own professional integrity. Yielding to pressure risks legal repercussions and environmental degradation, while resisting might jeopardise her career and create administrative deadlock for the crucial development project.
+The lives of flood victims, including countless women, children, and elderly, depend on the immediate and effective flow of aid. Rohan's decision will critically affect the integrity of governance, public trust, and potentially his own future in the civil service. Both immediate action and continued inaction have serious, far-reaching consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Divya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
