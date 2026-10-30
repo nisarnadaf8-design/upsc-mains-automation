@@ -1,35 +1,36 @@
-Date: 29 Oct 2026
+Date: 30 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Communalism, Regionalism and Secularism
+GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the dynamic interplay between competitive electoral politics and identity-based narratives contributes to the perpetuation and intensification of communal sentiments in India. Discuss the long-term societal implications of such a trend on democratic cohesion.
+Examine how the evolving nature of work, driven by automation and artificial intelligence, presents both unprecedented opportunities and significant challenges for India to fully capitalize on its demographic dividend, particularly in skill development and job creation.
 
 Q2. (10 Marks | 150 words)
-How can the proactive fostering of India's indigenous syncretic traditions and composite cultural heritage reinforce the nation's distinctive approach to secularism amidst growing challenges from identity politics? Critically assess its potential to counter communal polarization.
+Critically examine the complex interplay between inter-state migration patterns, especially reverse migration post-pandemic, and the varying regional capacities to address the socio-economic security needs of India’s rapidly ageing population.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the complex phenomenon of regionalism, specifically examining how growing aspirations related to resource distribution and developmental inequities impact social cohesion, economic planning, and administrative decentralization in contemporary India. Discuss whether these localized demands inherently impede or potentially enrich national integration.
+Discuss the multi-faceted implications of internal and international labour migration on India's urban development, rural livelihoods, and social cohesion. What policy interventions are needed to transform 'brain drain' into 'brain circulation' while ensuring equitable regional development and addressing the gendered impact on sending households?
 
 ========================================
-GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
+GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how cultivating a robust sense of integrity, extending beyond mere adherence to rules and regulations, can proactively shape an ethical organizational culture and bolster public trust in governance. Discuss its foundational role in preventing systemic corruption.
+Explain the significance of 'self-regulation' and 'social skills' components of Emotional Intelligence in fostering an ethically robust and accountable bureaucracy, particularly in an era of intense public scrutiny and rapid information dissemination.
 
 Q5. (10 Marks | 150 words)
-In an era of increasing citizen expectations and political scrutiny, how can a civil servant effectively balance the demands of impartiality and objectivity with the imperative of demonstrating empathy and ensuring citizen-centric service delivery? Discuss the ethical tightrope walk involved when policies need compassionate application.
+How can a civil servant effectively leverage 'empathy' and 'motivation' as core tenets of Emotional Intelligence to address community grievances, bridge communication gaps, and ensure inclusive policy implementation in a diverse and politically sensitive district?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Dr. Priya Sharma is the District Collector of Sundargarh, a mineral-rich, forest-dense district in a tribal-majority state. She has diligently worked on inclusive development initiatives, earning significant trust from the local communities. The district is now earmarked for a major industrial corridor project, a flagship initiative of the state government aimed at boosting economic growth and attracting investments.
 
-The state government has issued an urgent directive to expedite land acquisition for the industrial corridor, implying a bypass of certain environmental and social impact assessments stipulated under existing tribal land protection laws. A significant portion of the proposed land belongs to Particularly Vulnerable Tribal Groups (PVTGs) who hold customary forest rights and whose livelihoods are intricately linked to the land and forest produce. The Chief Secretary has personally called Dr. Sharma, emphasizing the project's strategic importance and the need for "zero delays." Meanwhile, tribal community leaders, backed by local activists, have approached Dr. Sharma with petitions and emotional appeals, highlighting the catastrophic displacement and loss of cultural identity if the project proceeds as ordered.
+SP Rohan Verma, a young and upright officer, was recently posted as Superintendent of Police in Mandar District. Known for his keen eye for detail and commitment to ethical policing, he initiated a review of ongoing infrastructure projects. During this review, he stumbled upon significant financial discrepancies in the multi-crore Police Welfare Housing Project, a flagship initiative from the previous administration.
 
-Dr. Sharma's decision will profoundly affect thousands of tribal families, their ancestral lands, and traditional way of life. It also has significant implications for the state's industrial development agenda, investor confidence, and Dr. Sharma's career, as defiance could lead to professional repercussions while compliance could erode public trust and exacerbate social unrest.
+His preliminary investigation reveals a well-orchestrated scam involving inflated bills and substandard materials, with clear indications that several senior officers, including the current Additional Director General of Police (ADGP) who was his predecessor in Mandar, are implicated. Exposing this would mean directly confronting his superior and potentially destabilizing the department, inviting political interference given the ADGP's connections. Rohan faces immense pressure to either overlook the findings for departmental harmony or expose the truth.
+
+The decision will profoundly impact the morale and living conditions of police personnel, public trust in the administration, the careers of implicated officers, and Rohan’s own professional integrity. Both exposing and concealing the scam carry severe and far-reaching consequences for the institution and society.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Dr. Priya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rohan Verma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
