@@ -1,36 +1,36 @@
-Date: 30 Oct 2026
+Date: 31 Oct 2026
 
 ========================================
-GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
+GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the evolving nature of work, driven by automation and artificial intelligence, presents both unprecedented opportunities and significant challenges for India to fully capitalize on its demographic dividend, particularly in skill development and job creation.
+Examine how the evolution from purely income-based poverty measures to a multidimensional approach, as highlighted by recent National Multidimensional Poverty Index findings, necessitates a re-evaluation of policy priorities for achieving truly sustainable poverty reduction in India.
 
 Q2. (10 Marks | 150 words)
-Critically examine the complex interplay between inter-state migration patterns, especially reverse migration post-pandemic, and the varying regional capacities to address the socio-economic security needs of India’s rapidly ageing population.
+Critically examine how deeply entrenched social exclusion, particularly for historically marginalized communities, perpetuates intergenerational poverty and severely restricts upward social mobility, despite decades of targeted economic growth initiatives.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted implications of internal and international labour migration on India's urban development, rural livelihoods, and social cohesion. What policy interventions are needed to transform 'brain drain' into 'brain circulation' while ensuring equitable regional development and addressing the gendered impact on sending households?
+Discuss the persistent challenges in fostering genuinely inclusive growth in India, considering the intricate interplay of economic disparities, structural social stratification, and uneven regional development. Illustrate with contemporary examples how current policy frameworks attempt to address these multi-faceted issues in rural and urban contexts.
 
 ========================================
-GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
+GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'self-regulation' and 'social skills' components of Emotional Intelligence in fostering an ethically robust and accountable bureaucracy, particularly in an era of intense public scrutiny and rapid information dissemination.
+What do you understand by Dr. B.R. Ambedkar’s nuanced concept of 'constitutional morality'? Explain its fundamental importance for public administrators tasked with upholding justice and equality amidst deeply entrenched social inequalities in modern Indian governance.
 
 Q5. (10 Marks | 150 words)
-How can a civil servant effectively leverage 'empathy' and 'motivation' as core tenets of Emotional Intelligence to address community grievances, bridge communication gaps, and ensure inclusive policy implementation in a diverse and politically sensitive district?
+Examine how Mahatma Gandhi's principle of 'trusteeship' can be practically adapted and applied by a civil servant to foster ethical governance and ensure equitable resource distribution in an era characterized by increasing resource scarcity and powerful corporate influences.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-SP Rohan Verma, a young and upright officer, was recently posted as Superintendent of Police in Mandar District. Known for his keen eye for detail and commitment to ethical policing, he initiated a review of ongoing infrastructure projects. During this review, he stumbled upon significant financial discrepancies in the multi-crore Police Welfare Housing Project, a flagship initiative from the previous administration.
+Alok Sharma, a highly respected and diligent District Collector of Ramanagara District, Karnataka, is known for his unwavering integrity and commitment to fair administration. He has recently initiated a focused drive to resolve a backlog of long-pending land dispute cases, which are a major source of litigation and public grievance in his district, often involving complex ancestral claims and local power dynamics.
 
-His preliminary investigation reveals a well-orchestrated scam involving inflated bills and substandard materials, with clear indications that several senior officers, including the current Additional Director General of Police (ADGP) who was his predecessor in Mandar, are implicated. Exposing this would mean directly confronting his superior and potentially destabilizing the department, inviting political interference given the ADGP's connections. Rohan faces immense pressure to either overlook the findings for departmental harmony or expose the truth.
+One such critical land dispute case, concerning a significant agricultural plot with considerable market value, has now reached Alok's desk for final adjudication after successfully navigating initial levels of inquiry and local recommendations. To his dismay, Alok discovers that his younger brother, Raghav Sharma, is one of the primary parties claiming ownership of the land. Raghav, aware of his brother's influential position, has already approached Alok privately, urging him to "look favorably" at his claim, while a local political strongman, who subtly supports the opposing party, has indicated that "justice must be seen to be done without any familial bias."
 
-The decision will profoundly impact the morale and living conditions of police personnel, public trust in the administration, the careers of implicated officers, and Rohan’s own professional integrity. Both exposing and concealing the scam carry severe and far-reaching consequences for the institution and society.
+Alok's decision will directly impact his brother's financial future, the livelihood of the opposing claimant who is a small farmer, the public's trust in the district administration, and Alok's own professional reputation built over years. Both taking a decision himself in this situation or recusing without proper justification carry significant repercussions for ethical governance and the perception of justice.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rohan Verma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Alok Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
