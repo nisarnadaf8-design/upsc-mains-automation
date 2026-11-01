@@ -1,36 +1,36 @@
-Date: 31 Oct 2026
+Date: 01 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
+GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the evolution from purely income-based poverty measures to a multidimensional approach, as highlighted by recent National Multidimensional Poverty Index findings, necessitates a re-evaluation of policy priorities for achieving truly sustainable poverty reduction in India.
+Examine the inherent paradox in pursuing 'Smart City' development goals in India while a significant portion of the urban population continues to reside in informal settlements. Discuss how this duality impacts inclusive urban planning and equitable resource allocation.
 
 Q2. (10 Marks | 150 words)
-Critically examine how deeply entrenched social exclusion, particularly for historically marginalized communities, perpetuates intergenerational poverty and severely restricts upward social mobility, despite decades of targeted economic growth initiatives.
+Critically examine how the effectiveness of the 74th Constitutional Amendment Act in fostering urban decentralisation has been challenged by the persistent stress on infrastructure and services due to unchecked rural-to-urban migration.
 
 Q3. (15 Marks | 250 words)
-Discuss the persistent challenges in fostering genuinely inclusive growth in India, considering the intricate interplay of economic disparities, structural social stratification, and uneven regional development. Illustrate with contemporary examples how current policy frameworks attempt to address these multi-faceted issues in rural and urban contexts.
+Discuss the multi-dimensional challenges posed by inadequate urban waste management, encompassing solid, plastic, and wastewater, on the social fabric, public health, and environmental sustainability of Indian cities. Propose comprehensive strategies for sustainable urban waste governance, citing suitable examples.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
+GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by Dr. B.R. Ambedkar’s nuanced concept of 'constitutional morality'? Explain its fundamental importance for public administrators tasked with upholding justice and equality amidst deeply entrenched social inequalities in modern Indian governance.
+Explain the significance of Aristotle's concept of 'virtue as a habit' in cultivating an ethical character for civil servants. How can this principle guide continuous moral development and professional excellence in public administration?
 
 Q5. (10 Marks | 150 words)
-Examine how Mahatma Gandhi's principle of 'trusteeship' can be practically adapted and applied by a civil servant to foster ethical governance and ensure equitable resource distribution in an era characterized by increasing resource scarcity and powerful corporate influences.
+In policy formulation, an administrator often confronts the tension between adhering to universal ethical principles (Kantian duty) and pursuing the 'greatest good for the greatest number' (Utilitarianism). How should a civil servant navigate this ethical dilemma while ensuring equitable public service delivery?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Alok Sharma, a highly respected and diligent District Collector of Ramanagara District, Karnataka, is known for his unwavering integrity and commitment to fair administration. He has recently initiated a focused drive to resolve a backlog of long-pending land dispute cases, which are a major source of litigation and public grievance in his district, often involving complex ancestral claims and local power dynamics.
+Ms. Ananya Sharma is the District Magistrate of Rudrapur District in Uttar Pradesh, a region known for its diverse population and historical communal harmony. Over the past year, a dormant land dispute between two communities has been reignited, exacerbated by provocative social media campaigns and local vested interests. Despite her efforts, the situation is increasingly tense, with sporadic clashes reported, creating a volatile environment.
 
-One such critical land dispute case, concerning a significant agricultural plot with considerable market value, has now reached Alok's desk for final adjudication after successfully navigating initial levels of inquiry and local recommendations. To his dismay, Alok discovers that his younger brother, Raghav Sharma, is one of the primary parties claiming ownership of the land. Raghav, aware of his brother's influential position, has already approached Alok privately, urging him to "look favorably" at his claim, while a local political strongman, who subtly supports the opposing party, has indicated that "justice must be seen to be done without any familial bias."
+As state assembly elections draw near, Ms. Sharma receives explicit instructions from the local Member of Parliament, who is also an influential cabinet minister. They demand that she take swift, biased action against one particular community, claiming it is necessary to restore order and will significantly aid the ruling party's electoral prospects. They subtly warn her of adverse career consequences, including a potential transfer to an insignificant post, if she fails to comply with their directive. Ms. Sharma is acutely aware that such a partisan move would violate constitutional principles, undermine due process, and likely inflame communal passions further, leading to greater instability.
 
-Alok's decision will directly impact his brother's financial future, the livelihood of the opposing claimant who is a small farmer, the public's trust in the district administration, and Alok's own professional reputation built over years. Both taking a decision himself in this situation or recusing without proper justification carry significant repercussions for ethical governance and the perception of justice.
+Her decision will directly impact the safety, rights, and trust of both communities, the credibility of the district administration, and the integrity of the electoral process. Both compliance and defiance carry significant risks for public order, justice, and her professional future.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Alok Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
