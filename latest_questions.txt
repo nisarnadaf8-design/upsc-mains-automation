@@ -1,36 +1,36 @@
-Date: 01 Nov 2026
+Date: 02 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
+GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the inherent paradox in pursuing 'Smart City' development goals in India while a significant portion of the urban population continues to reside in informal settlements. Discuss how this duality impacts inclusive urban planning and equitable resource allocation.
+Examine how the forces of globalisation have reconfigured traditional markers of cultural identity and community bonds in India, leading to both revitalization of local forms and the emergence of hybrid cultural expressions. Discuss the underlying mechanisms facilitating these dual processes.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the effectiveness of the 74th Constitutional Amendment Act in fostering urban decentralisation has been challenged by the persistent stress on infrastructure and services due to unchecked rural-to-urban migration.
+Critically examine how the expansion of the gig economy, propelled by globalized technological platforms, is challenging the established social security paradigms and traditional employer-employee relationships within the Indian context. What are the long-term societal implications?
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-dimensional challenges posed by inadequate urban waste management, encompassing solid, plastic, and wastewater, on the social fabric, public health, and environmental sustainability of Indian cities. Propose comprehensive strategies for sustainable urban waste governance, citing suitable examples.
+Discuss the multi-faceted impact of globalisation on Indian women, examining how increased economic participation and exposure to global norms have transformed family structures, social roles, and political agency, while simultaneously presenting new forms of vulnerability and exploitation. Support your analysis with suitable examples.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
+GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of Aristotle's concept of 'virtue as a habit' in cultivating an ethical character for civil servants. How can this principle guide continuous moral development and professional excellence in public administration?
+Explain the significance of probity as a foundational ethical virtue for civil servants, arguing how it underpins institutional legitimacy and builds enduring public trust in democratic governance, rather than merely ensuring legal compliance.
 
 Q5. (10 Marks | 150 words)
-In policy formulation, an administrator often confronts the tension between adhering to universal ethical principles (Kantian duty) and pursuing the 'greatest good for the greatest number' (Utilitarianism). How should a civil servant navigate this ethical dilemma while ensuring equitable public service delivery?
+In an era of enhanced public scrutiny and the Right to Information Act, how should a civil servant navigate the ethical dilemmas arising from potential conflicts between institutional loyalty and the paramountcy of public interest in sensitive policy implementation?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Ms. Ananya Sharma is the District Magistrate of Rudrapur District in Uttar Pradesh, a region known for its diverse population and historical communal harmony. Over the past year, a dormant land dispute between two communities has been reignited, exacerbated by provocative social media campaigns and local vested interests. Despite her efforts, the situation is increasingly tense, with sporadic clashes reported, creating a volatile environment.
+Divya Sharma, a diligent District Welfare Officer in Bharatpur, an aspirational district, has been tasked with compiling the first quarterly impact report for the "Gramin Samriddhi Abhiyan," a flagship state welfare scheme for rural economic upliftment. Her ground teams have collected comprehensive data, which, while showing some positive trends, also highlights significant implementation bottlenecks and lower-than-projected beneficiary saturation.
 
-As state assembly elections draw near, Ms. Sharma receives explicit instructions from the local Member of Parliament, who is also an influential cabinet minister. They demand that she take swift, biased action against one particular community, claiming it is necessary to restore order and will significantly aid the ruling party's electoral prospects. They subtly warn her of adverse career consequences, including a potential transfer to an insignificant post, if she fails to comply with their directive. Ms. Sharma is acutely aware that such a partisan move would violate constitutional principles, undermine due process, and likely inflame communal passions further, leading to greater instability.
+As Divya prepares the draft report, she is summoned by the District Collector, who, under implicit pressure from the local Member of Legislative Assembly (MLA), suggests "optimizing" the data. The Collector explicitly asks her to inflate beneficiary numbers, embellish success stories, and downplay critical gaps, stating that a highly positive report is crucial for securing further state funding and political goodwill. Divya knows manipulating the data would present a misleading picture, compromising the scheme's integrity and future course corrections.
 
-Her decision will directly impact the safety, rights, and trust of both communities, the credibility of the district administration, and the integrity of the electoral process. Both compliance and defiance carry significant risks for public order, justice, and her professional future.
+Her decision will directly affect thousands of genuine rural beneficiaries who rely on accurate scheme evaluation for effective resource allocation. It will also impact the credibility of government reporting, the ethical fabric of her department, and her personal integrity, setting a precedent for future administrative conduct. Both compliance and defiance carry significant professional and ethical ramifications.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Divya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
