@@ -1,36 +1,36 @@
-Date: 03 Nov 2026
+Date: 04 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Social Movements and Civil Society in India
+GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the increasing digital participation and hyper-localised concerns have reshaped the landscape of civil society's role in strengthening democratic accountability in India. Discuss the resultant challenges for governance.
+Examine how the National Education Policy 2020 seeks to bridge the entrenched socio-economic disparities in accessing quality higher education across diverse regions of India. Discuss the extent to which its reformative measures are likely to foster genuine equity rather than merely expand access.
 
 Q2. (10 Marks | 150 words)
-What do you understand by "new social movements" in the Indian context? Critically examine how environmental and tribal rights movements have challenged traditional development paradigms while navigating issues of legitimacy and representation.
+Critically examine the persistent challenges posed by the evolving digital divide in ensuring equitable learning outcomes, particularly for marginalized communities, five years into the implementation of NEP 2020. How does this technological gap exacerbate existing inequalities in educational quality and future employability?
 
 Q3. (15 Marks | 250 words)
-Critically analyse the complex interplay between state surveillance, foreign funding regulations, and local developmental challenges faced by civil society organisations operating in regions affected by historical deprivation and Naxalite influence. Discuss its implications for grassroots development and democratic spaces.
+Discuss the multi-faceted challenges arising from the increasing commercialisation of school education in India, particularly its impact on student dropout rates among vulnerable groups and their prospects for upward social mobility. Critically analyse this phenomenon from social, economic, and gender perspectives, suggesting policy interventions to safeguard inclusive educational opportunities.
 
 ========================================
-GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
+GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the philosophical basis of the "Nolan Principles of Public Life" and their continued relevance in mitigating diverse forms of conflict of interest in contemporary Indian administration.
+Explain how a gradual erosion of ethical consciousness, rather than outright malice, can contribute to systemic corruption within public administration. Discuss the significance of 'virtue ethics' in fostering an environment where civil servants prioritize public interest over personal gain, even amidst institutional pressures.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant navigate the ethical dilemma arising from discovering a systemic integrity lapse within their department, where loyalty to the institution conflicts with the imperative of upholding public trust? Discuss the safeguards and challenges associated with whistleblowing in such a scenario.
+Examine the ethical dilemmas faced by a civil servant tasked with implementing e-governance initiatives aimed at reducing corruption, particularly when these initiatives challenge established power structures and vested interests. How can ethical leadership ensure that technological solutions genuinely enhance transparency and accountability without creating new forms of exclusion or digital inequalities?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Ms. Anya Sharma, a bright and idealistic young IAS officer, is serving as the Sub-Divisional Magistrate (SDM) in a rapidly urbanising district. Her current responsibility involves overseeing the land acquisition process for a crucial highway bypass project. This project promises significant economic growth but requires the acquisition of substantial agricultural and private land parcels.
+Manoj Kumar, a diligent District Collector in the flood-ravaged Araria district of Bihar, is grappling with the aftermath of unprecedented monsoon rains in October 2026. Thousands are displaced, infrastructure is severely damaged, and immediate relief in the form of food, shelter, and medical supplies is critical. As the nodal officer for disaster relief operations, he oversees the substantial funds released by both central and state governments to address the humanitarian crisis.
 
-During her meticulous review of land records and compensation proposals, Anya uncovers glaring irregularities. She finds instances of deliberate undervaluation of fertile agricultural land, manipulation of ownership documents, and an unusually swift approval process for certain parcels disproportionately benefiting a powerful private real estate developer with strong political connections. Her immediate superior, the District Magistrate, advises her to not dwell on minor discrepancies, stressing the project's strategic importance and political urgency. A local MLA has also subtly conveyed the political ramifications of delaying the project.
+Amidst the chaos, Manoj receives a direct instruction from a senior political leader to sanction a significant portion of the relief funds for a 'reconstruction project' in a politically crucial constituency, which is not among the worst-hit areas. Simultaneously, his immediate superior, the Divisional Commissioner, subtly advises him to prioritize allocations to certain contractors known to be 'reliable' and to expedite approvals bypassing some procedural checks, hinting at future career implications if he fails to cooperate. Local NGOs and affected communities, meanwhile, are clamoring for transparent and immediate aid distribution.
 
-Farmers, many belonging to vulnerable communities, face imminent displacement with inadequate compensation, while the private developer stands to gain immense profits. Anya's decision will directly impact the lives and livelihoods of thousands, the financial health of the state exchequer, the integrity of her office, and her own career trajectory.
+Manoj’s decision will profoundly impact thousands of desperate flood victims, the integrity of public service, and his own conscience and career. Both diverting funds and strictly adhering to rules have serious consequences, affecting lives, public trust, and governmental accountability.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Manoj Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
