@@ -1,36 +1,36 @@
-Date: 04 Nov 2026
+Date: 05 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
+GS-1 SOCIETY: Health: Public Health System and Social Determinants
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the National Education Policy 2020 seeks to bridge the entrenched socio-economic disparities in accessing quality higher education across diverse regions of India. Discuss the extent to which its reformative measures are likely to foster genuine equity rather than merely expand access.
+Examine the intricate interplay of structural inequalities, such as caste and gender, in perpetuating health disparities within India's public health system. Discuss how these social determinants manifest as barriers to equitable healthcare access and outcomes for marginalized communities.
 
 Q2. (10 Marks | 150 words)
-Critically examine the persistent challenges posed by the evolving digital divide in ensuring equitable learning outcomes, particularly for marginalized communities, five years into the implementation of NEP 2020. How does this technological gap exacerbate existing inequalities in educational quality and future employability?
+Critically examine the extent to which the Ayushman Bharat initiatives have genuinely narrowed the persistent urban-rural divide in healthcare infrastructure and service delivery across India. What are the key remaining challenges in achieving truly universal and equitable health coverage?
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted challenges arising from the increasing commercialisation of school education in India, particularly its impact on student dropout rates among vulnerable groups and their prospects for upward social mobility. Critically analyse this phenomenon from social, economic, and gender perspectives, suggesting policy interventions to safeguard inclusive educational opportunities.
+Discuss the interconnectedness of malnutrition, especially among women and children, and the growing burden of mental health challenges in India. Critically analyse this complex issue from social, economic, and public policy perspectives, suggesting integrated strategies for a comprehensive national response.
 
 ========================================
-GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
+GS-4 ETHICS: Corporate Governance and Business Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain how a gradual erosion of ethical consciousness, rather than outright malice, can contribute to systemic corruption within public administration. Discuss the significance of 'virtue ethics' in fostering an environment where civil servants prioritize public interest over personal gain, even amidst institutional pressures.
+What do you understand by the stakeholder model of governance in contrast to the traditional shareholder primacy model? Explain the significance of adopting a stakeholder-centric approach for public sector institutions in ensuring ethical and inclusive policy formulation and implementation.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemmas faced by a civil servant tasked with implementing e-governance initiatives aimed at reducing corruption, particularly when these initiatives challenge established power structures and vested interests. How can ethical leadership ensure that technological solutions genuinely enhance transparency and accountability without creating new forms of exclusion or digital inequalities?
+Examine the ethical challenges faced by a regulatory body official when balancing the imperative of environmental protection with pressures from powerful industrial lobbies seeking exemptions. How should a civil servant uphold institutional integrity and intergenerational equity in such circumstances?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Manoj Kumar, a diligent District Collector in the flood-ravaged Araria district of Bihar, is grappling with the aftermath of unprecedented monsoon rains in October 2026. Thousands are displaced, infrastructure is severely damaged, and immediate relief in the form of food, shelter, and medical supplies is critical. As the nodal officer for disaster relief operations, he oversees the substantial funds released by both central and state governments to address the humanitarian crisis.
+Avantika Sharma, a recently promoted District Environmental Officer in the State Pollution Control Board, is posted in Vardhmanpur, a major industrial district. Known for her integrity, she finds herself in a challenging environment where older industries, crucial for local employment, often struggle to meet modern environmental norms.
 
-Amidst the chaos, Manoj receives a direct instruction from a senior political leader to sanction a significant portion of the relief funds for a 'reconstruction project' in a politically crucial constituency, which is not among the worst-hit areas. Simultaneously, his immediate superior, the Divisional Commissioner, subtly advises him to prioritize allocations to certain contractors known to be 'reliable' and to expedite approvals bypassing some procedural checks, hinting at future career implications if he fails to cooperate. Local NGOs and affected communities, meanwhile, are clamoring for transparent and immediate aid distribution.
+A recent inspection confirmed 'Bharat Chemicals Ltd.', a prominent and influential industry and major employer, is illegally discharging untreated toxic effluents into the local river, severely impacting downstream agriculture and potable water sources. Avantika's Chairman subtly advises "pragmatic flexibility" citing the company's economic contributions and political patronage. The local MLA has also personally conveyed expectations of "understanding" to prevent industrial unrest, while her own sibling is employed by a firm that supplies Bharat Chemicals Ltd.
 
-Manoj’s decision will profoundly impact thousands of desperate flood victims, the integrity of public service, and his own conscience and career. Both diverting funds and strictly adhering to rules have serious consequences, affecting lives, public trust, and governmental accountability.
+The local community, farmers, and environmental activists are demanding strict action, threatening protests. Her decision will significantly impact public health, environmental integrity, local livelihoods, the company's operations, and the credibility of the State Pollution Control Board, besides her personal and professional future.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Manoj Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Avantika Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
