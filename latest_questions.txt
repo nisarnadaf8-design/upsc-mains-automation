@@ -1,36 +1,35 @@
-Date: 05 Nov 2026
+Date: 06 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Health: Public Health System and Social Determinants
+GS-1 SOCIETY: Tribal Communities: Issues, Rights and Constitutional Safeguards
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the intricate interplay of structural inequalities, such as caste and gender, in perpetuating health disparities within India's public health system. Discuss how these social determinants manifest as barriers to equitable healthcare access and outcomes for marginalized communities.
+Examine how the spirit of constitutional safeguards for tribal communities, beyond the explicit provisions of the Fifth and Sixth Schedules, navigates the complexities of contemporary development paradigms and tribal self-determination movements. Discuss its relevance in ensuring inclusive governance amidst diverse regional aspirations.
 
 Q2. (10 Marks | 150 words)
-Critically examine the extent to which the Ayushman Bharat initiatives have genuinely narrowed the persistent urban-rural divide in healthcare infrastructure and service delivery across India. What are the key remaining challenges in achieving truly universal and equitable health coverage?
+What do you understand by 'cultural resilience' in the context of Indian tribal communities? How have state-led development initiatives and market forces inadvertently challenged or strengthened this resilience, impacting their unique identities and traditional governance structures over time?
 
 Q3. (15 Marks | 250 words)
-Discuss the interconnectedness of malnutrition, especially among women and children, and the growing burden of mental health challenges in India. Critically analyse this complex issue from social, economic, and public policy perspectives, suggesting integrated strategies for a comprehensive national response.
+Critically analyse the paradox where well-intentioned development projects, while aiming for national progress, often exacerbate socio-economic vulnerabilities and ecological degradation for tribal communities. Discuss how this dynamic fuels local discontent, sometimes feeding into security challenges, and suggest comprehensive legal and administrative reforms needed for equitable resource governance and conflict resolution.
 
 ========================================
-GS-4 ETHICS: Corporate Governance and Business Ethics
+GS-4 ETHICS: Ethics in Public and Private Relationships
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the stakeholder model of governance in contrast to the traditional shareholder primacy model? Explain the significance of adopting a stakeholder-centric approach for public sector institutions in ensuring ethical and inclusive policy formulation and implementation.
+Explain the ethical imperative of maintaining objectivity in administrative decision-making when personal relationships or affiliations invariably intersect with professional duties. How does a lack of integrity in such situations erode public trust and undermine good governance in the long run?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical challenges faced by a regulatory body official when balancing the imperative of environmental protection with pressures from powerful industrial lobbies seeking exemptions. How should a civil servant uphold institutional integrity and intergenerational equity in such circumstances?
+Examine the ethical challenges faced by public officials in upholding confidentiality and preventing the misuse of privileged information, particularly when personal loyalty or kinship ties exert pressure. What mechanisms can strengthen ethical conduct in ensuring the sanctity of public data and administrative trust?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Mr. Alok Kumar, a diligent Divisional Forest Officer posted in the mineral-rich Sundargarh district, recently unearthed a complex nexus of financial irregularities amounting to several crores in the procurement of forestry equipment and execution of compensatory afforestation projects. His detailed report, backed by irrefutable evidence, exposed kickbacks and ghost beneficiaries involving influential contractors and some departmental officials.
 
-Avantika Sharma, a recently promoted District Environmental Officer in the State Pollution Control Board, is posted in Vardhmanpur, a major industrial district. Known for her integrity, she finds herself in a challenging environment where older industries, crucial for local employment, often struggle to meet modern environmental norms.
+Upon submitting his findings to the State Vigilance Commission and his immediate superior, the Principal Chief Conservator of Forests (PCCF), Alok began facing subtle yet persistent retaliation. The PCCF subtly advised him to withdraw the complaint, stressing the potential damage to the department's reputation and the 'political sensitivities' involved. Simultaneously, a powerful local MLA, whose relatives were implicated, used intermediaries to hint at punitive transfers and career stagnation for Alok, while his family expressed deep concerns about his safety and future prospects.
 
-A recent inspection confirmed 'Bharat Chemicals Ltd.', a prominent and influential industry and major employer, is illegally discharging untreated toxic effluents into the local river, severely impacting downstream agriculture and potable water sources. Avantika's Chairman subtly advises "pragmatic flexibility" citing the company's economic contributions and political patronage. The local MLA has also personally conveyed expectations of "understanding" to prevent industrial unrest, while her own sibling is employed by a firm that supplies Bharat Chemicals Ltd.
-
-The local community, farmers, and environmental activists are demanding strict action, threatening protests. Her decision will significantly impact public health, environmental integrity, local livelihoods, the company's operations, and the credibility of the State Pollution Control Board, besides her personal and professional future.
+Alok's decision will significantly impact his personal integrity and career, the financial health and credibility of the Forest Department, the public's trust in administrative honesty, and the morale of other upright officers. Both pursuing the truth and backing down carry severe, far-reaching consequences for him and the larger administrative ecosystem.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Avantika Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Mr. Alok Kumar? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
