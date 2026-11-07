@@ -1,35 +1,40 @@
-Date: 06 Nov 2026
+Date: 07 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Tribal Communities: Issues, Rights and Constitutional Safeguards
+GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the spirit of constitutional safeguards for tribal communities, beyond the explicit provisions of the Fifth and Sixth Schedules, navigates the complexities of contemporary development paradigms and tribal self-determination movements. Discuss its relevance in ensuring inclusive governance amidst diverse regional aspirations.
+Examine the evolving nature of India's constitutional secularism in the context of increasing debates around uniform personal laws and the state's role in regulating religious and cultural practices.
 
 Q2. (10 Marks | 150 words)
-What do you understand by 'cultural resilience' in the context of Indian tribal communities? How have state-led development initiatives and market forces inadvertently challenged or strengthened this resilience, impacting their unique identities and traditional governance structures over time?
+Critically analyse how the constitutional safeguards for linguistic minorities contribute to national integration, yet face contemporary challenges from homogenising cultural narratives propagated through digital media.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the paradox where well-intentioned development projects, while aiming for national progress, often exacerbate socio-economic vulnerabilities and ecological degradation for tribal communities. Discuss how this dynamic fuels local discontent, sometimes feeding into security challenges, and suggest comprehensive legal and administrative reforms needed for equitable resource governance and conflict resolution.
+Discuss the multi-dimensional implications – social, political, and legal – of recent state interventions aimed at managing religious conversions, highlighting the delicate balance between individual autonomy and collective communal harmony.
 
 ========================================
-GS-4 ETHICS: Ethics in Public and Private Relationships
+GS-4 ETHICS: Social Influence, Persuasion and Moral Development
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the ethical imperative of maintaining objectivity in administrative decision-making when personal relationships or affiliations invariably intersect with professional duties. How does a lack of integrity in such situations erode public trust and undermine good governance in the long run?
+Explain the significance of cultivating 'post-conventional morality' among civil servants for fostering truly ethical governance, especially when faced with conflicting public demands and political expediency.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical challenges faced by public officials in upholding confidentiality and preventing the misuse of privileged information, particularly when personal loyalty or kinship ties exert pressure. What mechanisms can strengthen ethical conduct in ensuring the sanctity of public data and administrative trust?
+How should a civil servant navigate the subtle line between ethical persuasion and manipulation when seeking public consensus for a critical but unpopular government policy? Illustrate with administrative examples.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Mr. Alok Kumar, a diligent Divisional Forest Officer posted in the mineral-rich Sundargarh district, recently unearthed a complex nexus of financial irregularities amounting to several crores in the procurement of forestry equipment and execution of compensatory afforestation projects. His detailed report, backed by irrefutable evidence, exposed kickbacks and ghost beneficiaries involving influential contractors and some departmental officials.
 
-Upon submitting his findings to the State Vigilance Commission and his immediate superior, the Principal Chief Conservator of Forests (PCCF), Alok began facing subtle yet persistent retaliation. The PCCF subtly advised him to withdraw the complaint, stressing the potential damage to the department's reputation and the 'political sensitivities' involved. Simultaneously, a powerful local MLA, whose relatives were implicated, used intermediaries to hint at punitive transfers and career stagnation for Alok, while his family expressed deep concerns about his safety and future prospects.
+Paragraph 1 — Background and Context (3-4 lines):
+Ms. Anjali Sharma, a young and dynamic District Magistrate of Palamuru district in Telangana, is overseeing the implementation of the ambitious 'SagarMala Inland Waterways Project'. This national project aims to connect crucial industrial hubs, promising significant economic growth and employment generation for the region. The first phase involves acquiring land, including a large tract designated as sacred forest land by the indigenous Gond tribal community of village Rampur, a PESA-notified area.
 
-Alok's decision will significantly impact his personal integrity and career, the financial health and credibility of the Forest Department, the public's trust in administrative honesty, and the morale of other upright officers. Both pursuing the truth and backing down carry severe, far-reaching consequences for him and the larger administrative ecosystem.
+Paragraph 2 — The Dilemma (3-4 lines):
+The project's completion is a national priority, with the Chief Minister personally monitoring its progress. Your immediate superior, the Divisional Commissioner, has urged you to expedite land acquisition, emphasizing that any delay would lead to cost overruns and political backlash. However, the Gond community vehemently opposes the acquisition of their ancestral sacred groves, citing religious sentiments, cultural identity, and traditional forest rights under the Forest Rights Act, 2006. Local tribal leaders have organised peaceful protests, gaining significant media attention and sympathy from human rights activists. Simultaneously, a powerful industrial lobby group, keen on the project's early completion, is exerting pressure on your office, promising investments and development.
 
+Paragraph 3 — Stakeholders and Consequences (2-3 lines):
+Your decision will directly impact the economic development of the state, the cultural and religious identity of the Gond community, the credibility of the government, and your own career. Acquiescence to the project could mean the irreversible loss of an ancient cultural heritage and displacement of vulnerable communities, while resisting could lead to project delays, economic setbacks, and potential disciplinary action against you.
+
+Sub-questions (exactly as UPSC format):
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Mr. Alok Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
