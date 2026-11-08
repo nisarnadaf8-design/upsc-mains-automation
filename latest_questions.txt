@@ -1,40 +1,44 @@
-Date: 07 Nov 2026
+Date: 08 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
+GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving nature of India's constitutional secularism in the context of increasing debates around uniform personal laws and the state's role in regulating religious and cultural practices.
+Examine how the rapid informalization of the economy and the proliferation of gig-based work platforms in developing countries have subtly altered the manifestations and drivers of child labour and human trafficking, presenting new challenges for enforcement agencies.
 
 Q2. (10 Marks | 150 words)
-Critically analyse how the constitutional safeguards for linguistic minorities contribute to national integration, yet face contemporary challenges from homogenising cultural narratives propagated through digital media.
+Critically examine the efficacy of India's existing legal and policy framework in addressing the intertwined challenges of bonded labour and inter-state human trafficking, especially concerning vulnerable migrant populations in urban informal sectors.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-dimensional implications – social, political, and legal – of recent state interventions aimed at managing religious conversions, highlighting the delicate balance between individual autonomy and collective communal harmony.
+Discuss how climate-induced displacement and increasing cross-border migration create a heightened vulnerability for communities, leading to an exacerbated risk of child labour, bonded labour, and human trafficking. Analyse this phenomenon through social, economic, and legal dimensions, providing suitable examples.
 
 ========================================
-GS-4 ETHICS: Social Influence, Persuasion and Moral Development
+GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of cultivating 'post-conventional morality' among civil servants for fostering truly ethical governance, especially when faced with conflicting public demands and political expediency.
+Explain the significance of 'intellectual humility' for a civil servant navigating complex policy challenges in a diverse democratic society. How does an absence of this value impede effective governance and public trust?
 
 Q5. (10 Marks | 150 words)
-How should a civil servant navigate the subtle line between ethical persuasion and manipulation when seeking public consensus for a critical but unpopular government policy? Illustrate with administrative examples.
+In contemporary public administration, civil servants often face situations where adhering to procedural fairness might conflict with achieving immediate substantive justice. Discuss how drawing lessons from historical figures known for their ethical fortitude can guide an officer in resolving such dilemmas.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ms. Anjali Singh, a District Social Welfare Officer in the drought-prone district of Mahipur, is responsible for implementing critical state-sponsored welfare schemes, including a housing subsidy program for marginalized rural families. Her role demands stringent verification of beneficiary eligibility through field reports and official certificates.
 
-Paragraph 1 — Background and Context (3-4 lines):
-Ms. Anjali Sharma, a young and dynamic District Magistrate of Palamuru district in Telangana, is overseeing the implementation of the ambitious 'SagarMala Inland Waterways Project'. This national project aims to connect crucial industrial hubs, promising significant economic growth and employment generation for the region. The first phase involves acquiring land, including a large tract designated as sacred forest land by the indigenous Gond tribal community of village Rampur, a PESA-notified area.
+Ahead of a by-election, Anjali faces immense pressure from her superior, the District Collector, and a powerful local MLA. They demand she fast-track issuance of eligibility certificates for a list of individuals provided by the MLA, many of whom Anjali’s preliminary review indicates do not meet the criteria. Issuing false certificates would divert funds from genuine beneficiaries. She is explicitly warned of a punitive transfer and inquiry for non-compliance.
 
-Paragraph 2 — The Dilemma (3-4 lines):
-The project's completion is a national priority, with the Chief Minister personally monitoring its progress. Your immediate superior, the Divisional Commissioner, has urged you to expedite land acquisition, emphasizing that any delay would lead to cost overruns and political backlash. However, the Gond community vehemently opposes the acquisition of their ancestral sacred groves, citing religious sentiments, cultural identity, and traditional forest rights under the Forest Rights Act, 2006. Local tribal leaders have organised peaceful protests, gaining significant media attention and sympathy from human rights activists. Simultaneously, a powerful industrial lobby group, keen on the project's early completion, is exerting pressure on your office, promising investments and development.
+Anjali's decision will directly impact genuine needy families, compromise the integrity of the welfare scheme, erode public trust, and deeply affect her own moral conscience and professional career. Both compliance and defiance present significant repercussions.
 
-Paragraph 3 — Stakeholders and Consequences (2-3 lines):
-Your decision will directly impact the economic development of the state, the cultural and religious identity of the Gond community, the credibility of the government, and your own career. Acquiescence to the project could mean the irreversible loss of an ancient cultural heritage and displacement of vulnerable communities, while resisting could lead to project delays, economic setbacks, and potential disciplinary action against you.
-
-Sub-questions (exactly as UPSC format):
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+The core ethical issues are public trust erosion, conflict of interest, abuse of authority, and compromise of integrity. Anjali faces a dilemma between upholding professional ethics, distributive justice for genuine beneficiaries, and succumbing to political pressure, risking her career for moral principles.
+
+(b) What are the options available to Ms. Anjali Singh? Evaluate each option with its merits and demerits. (100 words)
+1. Comply: Merits- Avoids transfer, short-term political appeasement. Demerits- Undermines justice, illegal, sets bad precedent, harms integrity and public trust.
+2. Directly refuse and report: Merits- Upholds rule of law, protects public interest, maintains integrity. Demerits- High risk of retaliation (transfer, inquiry), isolation.
+3. Seek written orders/document: Merits- Creates an audit trail, shifts responsibility, buys time for appeal. Demerits- May not be successful, pressure might intensify, still faces personal risk.
+
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+I would recommend Ms. Anjali Singh to unequivocally refuse to issue false certificates. She must communicate her inability to comply, citing specific scheme rules and legal provisions, preferably in writing to her superior. This upholds her constitutional duty, integrity, and public trust, ensuring resources reach the deserving.
+
+To handle pressures, she should meticulously document all directives and conversations, especially the threats. She should explore internal grievance mechanisms or anti-corruption channels available to civil servants. Simultaneously, she must prepare herself mentally for potential adverse transfers or inquiries, understanding that upholding ethical conduct is paramount for a civil servant's long-term moral standing and credibility. Engaging with ethical colleagues for support could also be beneficial.
