@@ -1,44 +1,45 @@
-Date: 08 Nov 2026
+Date: 09 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
+GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the rapid informalization of the economy and the proliferation of gig-based work platforms in developing countries have subtly altered the manifestations and drivers of child labour and human trafficking, presenting new challenges for enforcement agencies.
+Examine the evolving nature of social capital in an increasingly digital and urbanized Indian society, discussing its implications for fostering community resilience and enabling inclusive development initiatives.
 
 Q2. (10 Marks | 150 words)
-Critically examine the efficacy of India's existing legal and policy framework in addressing the intertwined challenges of bonded labour and inter-state human trafficking, especially concerning vulnerable migrant populations in urban informal sectors.
+Critically examine how the recent regulatory frameworks concerning foreign contributions have reshaped the operational space and strategic priorities of non-governmental organizations, particularly impacting their role in advocacy and grassroots development.
 
 Q3. (15 Marks | 250 words)
-Discuss how climate-induced displacement and increasing cross-border migration create a heightened vulnerability for communities, leading to an exacerbated risk of child labour, bonded labour, and human trafficking. Analyse this phenomenon through social, economic, and legal dimensions, providing suitable examples.
+Discuss the multi-faceted potential of a digitally integrated cooperative framework, building on the Amul model, to foster rural economic empowerment, enhance social cohesion, and strengthen local governance through community participation. Provide suitable examples from contemporary India.
 
 ========================================
-GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
+GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of 'intellectual humility' for a civil servant navigating complex policy challenges in a diverse democratic society. How does an absence of this value impede effective governance and public trust?
+What do you understand by the concept of 'global solidarity' in the context of contemporary international challenges? Explain its significance for a civil servant contributing to national policy formulation on issues like climate migration and resource scarcity.
 
 Q5. (10 Marks | 150 words)
-In contemporary public administration, civil servants often face situations where adhering to procedural fairness might conflict with achieving immediate substantive justice. Discuss how drawing lessons from historical figures known for their ethical fortitude can guide an officer in resolving such dilemmas.
+Examine the ethical dilemmas faced by national administrations when balancing sovereign interests with humanitarian obligations during a large-scale trans-border refugee influx driven by climate change and geopolitical instability.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Anjali Singh, a District Social Welfare Officer in the drought-prone district of Mahipur, is responsible for implementing critical state-sponsored welfare schemes, including a housing subsidy program for marginalized rural families. Her role demands stringent verification of beneficiary eligibility through field reports and official certificates.
 
-Ahead of a by-election, Anjali faces immense pressure from her superior, the District Collector, and a powerful local MLA. They demand she fast-track issuance of eligibility certificates for a list of individuals provided by the MLA, many of whom Anjali’s preliminary review indicates do not meet the criteria. Issuing false certificates would divert funds from genuine beneficiaries. She is explicitly warned of a punitive transfer and inquiry for non-compliance.
+Smt. Anjali Sharma, a diligent District Collector in the economically sensitive district of Raigarh, Chhattisgarh, is overseeing a major tribal welfare project. The project involves resettlement and rehabilitation of several villages due to a critical public infrastructure development. Her office is also responsible for land acquisition records and has been lauded for community engagement efforts.
 
-Anjali's decision will directly impact genuine needy families, compromise the integrity of the welfare scheme, erode public trust, and deeply affect her own moral conscience and professional career. Both compliance and defiance present significant repercussions.
+An RTI applicant, representing a local tribal advocacy group, has sought complete records, including internal deliberations and preliminary land valuation reports, related to the project over the last three years. Simultaneously, a senior political leader has strongly advised Smt. Sharma to withhold certain 'sensitive' details, citing potential public unrest and delays that could derail the project and undermine ongoing negotiations with affected communities. Her immediate superior, concerned about the project's timeline and the political ramifications, subtly hints at classifying the requested information under 'official secrecy' provisions.
+
+Her decision will directly impact the trust of the tribal communities, the transparency of governance, the project's legitimacy, and her own professional integrity. Both full disclosure and complete withholding of information carry significant socio-political and legal ramifications.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-The core ethical issues are public trust erosion, conflict of interest, abuse of authority, and compromise of integrity. Anjali faces a dilemma between upholding professional ethics, distributive justice for genuine beneficiaries, and succumbing to political pressure, risking her career for moral principles.
+The core ethical dilemmas here involve transparency vs. official secrecy, public accountability vs. maintaining social order/project timelines, upholding the rule of law (RTI Act) vs. succumbing to political pressure, and ensuring justice for vulnerable communities. Also, Smt. Sharma's professional integrity is at stake.
 
-(b) What are the options available to Ms. Anjali Singh? Evaluate each option with its merits and demerits. (100 words)
-1. Comply: Merits- Avoids transfer, short-term political appeasement. Demerits- Undermines justice, illegal, sets bad precedent, harms integrity and public trust.
-2. Directly refuse and report: Merits- Upholds rule of law, protects public interest, maintains integrity. Demerits- High risk of retaliation (transfer, inquiry), isolation.
-3. Seek written orders/document: Merits- Creates an audit trail, shifts responsibility, buys time for appeal. Demerits- May not be successful, pressure might intensify, still faces personal risk.
+(b) What are the options available to Smt. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+Option 1: Disclose all requested information. Merits: Upholds transparency, strengthens public trust, adheres to RTI's spirit. Demerits: Potential for public unrest, project delays, clash with political/administrative superiors.
+Option 2: Withhold all 'sensitive' information. Merits: Avoids immediate conflict, maintains project pace. Demerits: Undermines transparency, erodes public trust, potential legal challenge under RTI, compromises ethical governance.
+Option 3: Disclose information permissible under RTI Act, redacting exempted categories. Merits: Balances transparency and strategic interests, legally sound, protects vulnerable data. Demerits: May not fully satisfy applicant, requires meticulous legal justification.
 
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
-I would recommend Ms. Anjali Singh to unequivocally refuse to issue false certificates. She must communicate her inability to comply, citing specific scheme rules and legal provisions, preferably in writing to her superior. This upholds her constitutional duty, integrity, and public trust, ensuring resources reach the deserving.
-
-To handle pressures, she should meticulously document all directives and conversations, especially the threats. She should explore internal grievance mechanisms or anti-corruption channels available to civil servants. Simultaneously, she must prepare herself mentally for potential adverse transfers or inquiries, understanding that upholding ethical conduct is paramount for a civil servant's long-term moral standing and credibility. Engaging with ethical colleagues for support could also be beneficial.
+I recommend Option 3: Disclosing all information permissible under the RTI Act, meticulously redacting only those details explicitly exempted (e.g., information prejudicing project safety or personal privacy of tribal beneficiaries during ongoing negotiations). This balances transparency with responsible governance and legal compliance.
+My justification is that it respects the citizen's right to information, maintains official integrity, and proactively addresses public concerns while safeguarding critical project interests.
+To handle pressures: I would formally document the RTI response, citing specific legal provisions for any redactions, informing superiors. I would politely but firmly explain the legal mandate of RTI to political leaders, emphasizing the long-term benefits of transparency in building trust and ensuring project success. I would also initiate open dialogue sessions with tribal community representatives to clarify the disclosure process and address their specific grievances, thereby diffusing potential unrest through direct engagement.
