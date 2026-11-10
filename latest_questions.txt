@@ -1,45 +1,35 @@
-Date: 09 Nov 2026
+Date: 10 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
+GS-1 SOCIETY: Media, Social Media and Their Role in Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving nature of social capital in an increasingly digital and urbanized Indian society, discussing its implications for fostering community resilience and enabling inclusive development initiatives.
+Examine how the proliferation of user-generated content and the emergence of AI-driven news generation platforms have profoundly redefined the traditional accountability frameworks for both mainstream and social media in fostering an informed and discerning citizenry.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the recent regulatory frameworks concerning foreign contributions have reshaped the operational space and strategic priorities of non-governmental organizations, particularly impacting their role in advocacy and grassroots development.
+Critically examine how the pervasive phenomena of 'filter bubbles' and 'echo chambers', amplified by sophisticated algorithmic curation on social media platforms, pose a significant challenge to the foundations of an inclusive and deliberative democratic process.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted potential of a digitally integrated cooperative framework, building on the Amul model, to foster rural economic empowerment, enhance social cohesion, and strengthen local governance through community participation. Provide suitable examples from contemporary India.
+Discuss the multifaceted challenges associated with regulating the creation and dissemination of deepfakes and AI-generated deceptive content, considering their social, legal, and political ramifications, while simultaneously upholding the principles of freedom of expression and journalistic integrity.
 
 ========================================
-GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
+GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the concept of 'global solidarity' in the context of contemporary international challenges? Explain its significance for a civil servant contributing to national policy formulation on issues like climate migration and resource scarcity.
+What constitutes 'moral courage' for a civil servant in contemporary public administration? Explain its critical significance when confronting deeply entrenched corruption or systemic injustices, especially when such actions entail substantial personal and professional risks.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemmas faced by national administrations when balancing sovereign interests with humanitarian obligations during a large-scale trans-border refugee influx driven by climate change and geopolitical instability.
+Examine the ethical dilemmas a civil servant confronts when facing strong political directives to reallocate public welfare funds towards projects that disproportionately benefit powerful private interests, drawing a distinction between a purely utilitarian approach and one guided by deontological principles.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Aarav Sharma, a newly appointed District Magistrate in the industrially developing Rampur district, was known for his proactive approach to social welfare, particularly child rights. On 10th November 2026, during a routine but unannounced inspection of a manufacturing cluster in a less regulated zone, he aimed to assess working conditions.
 
-Smt. Anjali Sharma, a diligent District Collector in the economically sensitive district of Raigarh, Chhattisgarh, is overseeing a major tribal welfare project. The project involves resettlement and rehabilitation of several villages due to a critical public infrastructure development. Her office is also responsible for land acquisition records and has been lauded for community engagement efforts.
+To his dismay, Aarav discovered multiple child labourers, some as young as nine, working in hazardous conditions in a prominent garment factory. Further investigation revealed the factory was beneficially owned by none other than Minister Raghavendra Singh, a highly influential state cabinet minister with significant political clout. Aarav's immediate superior, the Divisional Commissioner, subtly cautioned him, emphasizing 'political sensitivities' and the upcoming state elections, suggesting a more 'pragmatic' and less confrontational resolution.
 
-An RTI applicant, representing a local tribal advocacy group, has sought complete records, including internal deliberations and preliminary land valuation reports, related to the project over the last three years. Simultaneously, a senior political leader has strongly advised Smt. Sharma to withhold certain 'sensitive' details, citing potential public unrest and delays that could derail the project and undermine ongoing negotiations with affected communities. Her immediate superior, concerned about the project's timeline and the political ramifications, subtly hints at classifying the requested information under 'official secrecy' provisions.
-
-Her decision will directly impact the trust of the tribal communities, the transparency of governance, the project's legitimacy, and her own professional integrity. Both full disclosure and complete withholding of information carry significant socio-political and legal ramifications.
+Aarav now faces immense pressure to either dilute his findings or overlook the transgression. His decision will directly impact the exploited children, the Minister's political standing, the factory's operations, the credibility of the district administration, and potentially Aarav's own career trajectory. Both decisive action and passive inaction carry severe and far-reaching consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-The core ethical dilemmas here involve transparency vs. official secrecy, public accountability vs. maintaining social order/project timelines, upholding the rule of law (RTI Act) vs. succumbing to political pressure, and ensuring justice for vulnerable communities. Also, Smt. Sharma's professional integrity is at stake.
-
-(b) What are the options available to Smt. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
-Option 1: Disclose all requested information. Merits: Upholds transparency, strengthens public trust, adheres to RTI's spirit. Demerits: Potential for public unrest, project delays, clash with political/administrative superiors.
-Option 2: Withhold all 'sensitive' information. Merits: Avoids immediate conflict, maintains project pace. Demerits: Undermines transparency, erodes public trust, potential legal challenge under RTI, compromises ethical governance.
-Option 3: Disclose information permissible under RTI Act, redacting exempted categories. Merits: Balances transparency and strategic interests, legally sound, protects vulnerable data. Demerits: May not fully satisfy applicant, requires meticulous legal justification.
-
+(b) What are the options available to Aarav Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
-I recommend Option 3: Disclosing all information permissible under the RTI Act, meticulously redacting only those details explicitly exempted (e.g., information prejudicing project safety or personal privacy of tribal beneficiaries during ongoing negotiations). This balances transparency with responsible governance and legal compliance.
-My justification is that it respects the citizen's right to information, maintains official integrity, and proactively addresses public concerns while safeguarding critical project interests.
-To handle pressures: I would formally document the RTI response, citing specific legal provisions for any redactions, informing superiors. I would politely but firmly explain the legal mandate of RTI to political leaders, emphasizing the long-term benefits of transparency in building trust and ensuring project success. I would also initiate open dialogue sessions with tribal community representatives to clarify the disclosure process and address their specific grievances, thereby diffusing potential unrest through direct engagement.
