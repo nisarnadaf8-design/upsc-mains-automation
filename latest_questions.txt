@@ -1,35 +1,36 @@
-Date: 10 Nov 2026
+Date: 11 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Media, Social Media and Their Role in Society
+GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the proliferation of user-generated content and the emergence of AI-driven news generation platforms have profoundly redefined the traditional accountability frameworks for both mainstream and social media in fostering an informed and discerning citizenry.
+Examine the subtle yet pervasive ways caste as a social institution continues to influence interpersonal relationships and resource allocation within India's rapidly urbanising professional sectors, despite overt assertions of meritocracy. Discuss how this persistent influence shapes contemporary social stratification beyond traditional village structures.
 
 Q2. (10 Marks | 150 words)
-Critically examine how the pervasive phenomena of 'filter bubbles' and 'echo chambers', amplified by sophisticated algorithmic curation on social media platforms, pose a significant challenge to the foundations of an inclusive and deliberative democratic process.
+What do you understand by the concept of "digital sanskritisation" or "digital westernisation" in the context of online communities and gig economy aspirations? Critically examine how these phenomena might redefine or reinforce existing patterns of social mobility and structural barriers in Indian society.
 
 Q3. (15 Marks | 250 words)
-Discuss the multifaceted challenges associated with regulating the creation and dissemination of deepfakes and AI-generated deceptive content, considering their social, legal, and political ramifications, while simultaneously upholding the principles of freedom of expression and journalistic integrity.
+Critically analyse the effectiveness of India's reservation policy in achieving substantive social justice, particularly for women from marginalised caste and class backgrounds, in a rapidly evolving economy. Discuss how its implementation navigates the complex interplay of inherited social capital, gendered occupational segregation, and the contemporary discourse on merit, providing suitable examples.
 
 ========================================
-GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
+GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
 ========================================
 
 Q4. (10 Marks | 150 words)
-What constitutes 'moral courage' for a civil servant in contemporary public administration? Explain its critical significance when confronting deeply entrenched corruption or systemic injustices, especially when such actions entail substantial personal and professional risks.
+Explain the significance of navigating the tension between culturally specific moral relativism and universal ethical principles for a civil servant in a pluralistic democracy like India. How does an officer's individual conscience act as a moral compass when confronted with policies or practices that align with popular sentiment but contradict established ethical frameworks?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemmas a civil servant confronts when facing strong political directives to reallocate public welfare funds towards projects that disproportionately benefit powerful private interests, drawing a distinction between a purely utilitarian approach and one guided by deontological principles.
+How should a civil servant integrate the 'ethics of care' framework, as distinct from purely utilitarian or deontological approaches, into their daily administrative decisions, especially concerning vulnerable populations? Examine the challenges and potential benefits of foregrounding relational and contextual empathy in public service delivery.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Aarav Sharma, a newly appointed District Magistrate in the industrially developing Rampur district, was known for his proactive approach to social welfare, particularly child rights. On 10th November 2026, during a routine but unannounced inspection of a manufacturing cluster in a less regulated zone, he aimed to assess working conditions.
 
-To his dismay, Aarav discovered multiple child labourers, some as young as nine, working in hazardous conditions in a prominent garment factory. Further investigation revealed the factory was beneficially owned by none other than Minister Raghavendra Singh, a highly influential state cabinet minister with significant political clout. Aarav's immediate superior, the Divisional Commissioner, subtly cautioned him, emphasizing 'political sensitivities' and the upcoming state elections, suggesting a more 'pragmatic' and less confrontational resolution.
+Ms. Anjali Sharma, a newly appointed District Forest Officer (DFO), is responsible for enforcing environmental regulations in a biodiverse region recently designated an Ecologically Sensitive Zone (ESZ). Her district is slated for a major commercial resort project, promoted as a significant employment generator for the local populace.
 
-Aarav now faces immense pressure to either dilute his findings or overlook the transgression. His decision will directly impact the exploited children, the Minister's political standing, the factory's operations, the credibility of the district administration, and potentially Aarav's own career trajectory. Both decisive action and passive inaction carry severe and far-reaching consequences.
+The powerful local Member of Parliament (MP), Mr. Rajeev Singh, a key proponent of the project, directly pressures Anjali to expedite clearances and overlook certain environmental impact assessment (EIA) requirements, hinting at significant career repercussions if she obstructs the development. Her immediate superior, the Conservator of Forests, advises her to show "flexibility" to avoid political friction. Meanwhile, local communities are divided, with some welcoming the development for job prospects and others fearing irreversible ecological damage.
+
+Ms. Sharma's decision will directly affect the region's fragile ecosystem, the livelihood and well-being of local communities, the integrity of the Forest Department, and her own professional future. Both strict adherence to rules and strategic compromise carry serious and far-reaching consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Aarav Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
