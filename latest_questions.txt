@@ -1,36 +1,35 @@
-Date: 11 Nov 2026
+Date: 13 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
+GS-1 SOCIETY: Communalism, Regionalism and Secularism
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the subtle yet pervasive ways caste as a social institution continues to influence interpersonal relationships and resource allocation within India's rapidly urbanising professional sectors, despite overt assertions of meritocracy. Discuss how this persistent influence shapes contemporary social stratification beyond traditional village structures.
+Examine the evolving role of digital platforms and hyper-local news aggregators in shaping contemporary communal narratives, and discuss their implications for India's democratic fabric and social cohesion.
 
 Q2. (10 Marks | 150 words)
-What do you understand by the concept of "digital sanskritisation" or "digital westernisation" in the context of online communities and gig economy aspirations? Critically examine how these phenomena might redefine or reinforce existing patterns of social mobility and structural barriers in Indian society.
+Beyond theoretical distinctions, how has India's 'principled distance' approach to secularism manifested in fostering or challenging inter-community trust and the composite cultural ethos at the grassroots level? Critically analyze with relevant examples.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the effectiveness of India's reservation policy in achieving substantive social justice, particularly for women from marginalised caste and class backgrounds, in a rapidly evolving economy. Discuss how its implementation navigates the complex interplay of inherited social capital, gendered occupational segregation, and the contemporary discourse on merit, providing suitable examples.
+Critically analyse how the resurgence of linguistic and cultural identities, often manifesting as regionalist demands, presents both an opportunity for inclusive development and a challenge to national cohesion. Discuss this phenomenon considering its social, economic, and political ramifications in diverse Indian states.
 
 ========================================
-GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
+GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of navigating the tension between culturally specific moral relativism and universal ethical principles for a civil servant in a pluralistic democracy like India. How does an officer's individual conscience act as a moral compass when confronted with policies or practices that align with popular sentiment but contradict established ethical frameworks?
+What do you understand by 'moral courage' in the context of public service? Explain its significance in upholding the spirit of law and fostering an ethical organizational culture, especially when legal compliance alone falls short of addressing public good.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant integrate the 'ethics of care' framework, as distinct from purely utilitarian or deontological approaches, into their daily administrative decisions, especially concerning vulnerable populations? Examine the challenges and potential benefits of foregrounding relational and contextual empathy in public service delivery.
+How can a civil servant balance the imperative of administrative impartiality and objectivity with the foundational value of empathy, particularly when designing and implementing welfare schemes for vulnerable populations at scale without compromising due process?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ms. Ananya Sharma is the District Collector of Surajpur, a district characterized by rich mineral deposits and a substantial indigenous tribal population, many of whom reside in scheduled areas. Her administration has been focused on bridging the socio-economic gap through sustainable development initiatives.
 
-Ms. Anjali Sharma, a newly appointed District Forest Officer (DFO), is responsible for enforcing environmental regulations in a biodiverse region recently designated an Ecologically Sensitive Zone (ESZ). Her district is slated for a major commercial resort project, promoted as a significant employment generator for the local populace.
+Recently, the State Government issued a high-priority directive for expedited land acquisition for a large-scale mining project in a tribal-dominated block, citing national economic interest. However, tribal communities dependent on these forest lands for sustenance and cultural identity have voiced vehement opposition, alleging insufficient free, prior, and informed consent, inadequate rehabilitation plans, and irreversible environmental damage to their sacred groves. Ms. Sharma is facing intense pressure from the Chief Secretary to complete the process swiftly, while tribal elders and human rights activists are besieging her office, appealing to her constitutional duty to protect their rights.
 
-The powerful local Member of Parliament (MP), Mr. Rajeev Singh, a key proponent of the project, directly pressures Anjali to expedite clearances and overlook certain environmental impact assessment (EIA) requirements, hinting at significant career repercussions if she obstructs the development. Her immediate superior, the Conservator of Forests, advises her to show "flexibility" to avoid political friction. Meanwhile, local communities are divided, with some welcoming the development for job prospects and others fearing irreversible ecological damage.
-
-Ms. Sharma's decision will directly affect the region's fragile ecosystem, the livelihood and well-being of local communities, the integrity of the Forest Department, and her own professional future. Both strict adherence to rules and strategic compromise carry serious and far-reaching consequences.
+The decision will profoundly impact the livelihoods, culture, and constitutional rights of thousands of tribal individuals, the state's economic development goals, and the district administration's credibility. Both immediate compliance and defiance carry severe socio-political, economic, and personal repercussions.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
