@@ -1,34 +1,34 @@
-Date: 13 Nov 2026
+Date: 14 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Communalism, Regionalism and Secularism
+GS-1 SOCIETY: Population: Demographic Dividend, Ageing and Migration
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving role of digital platforms and hyper-local news aggregators in shaping contemporary communal narratives, and discuss their implications for India's democratic fabric and social cohesion.
+Examine how the 'demographic dividend' in India, post-2026, could be transformed into a sustainable human development advantage, considering the intersecting challenges of skill mismatch, insufficient social infrastructure, and unequal access to opportunities across regions. Discuss the policy interventions required to harness this potential effectively.
 
 Q2. (10 Marks | 150 words)
-Beyond theoretical distinctions, how has India's 'principled distance' approach to secularism manifested in fostering or challenging inter-community trust and the composite cultural ethos at the grassroots level? Critically analyze with relevant examples.
+Critically examine the implications of accelerated internal migration patterns on the socio-economic well-being of the elderly in both source and destination regions of India. How do these shifts necessitate a rethinking of traditional family support systems and state-provided social security frameworks?
 
 Q3. (15 Marks | 250 words)
-Critically analyse how the resurgence of linguistic and cultural identities, often manifesting as regionalist demands, presents both an opportunity for inclusive development and a challenge to national cohesion. Discuss this phenomenon considering its social, economic, and political ramifications in diverse Indian states.
+Discuss the necessity of a rights-based, gender-sensitive national population policy beyond fertility control. Analyse its potential impact on women's autonomy, economic participation, and environmental sustainability, offering specific examples where possible, to underscore its multi-faceted benefits for India's long-term development.
 
 ========================================
-GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
+GS-4 ETHICS: Emotional Intelligence in Governance and Leadership
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by 'moral courage' in the context of public service? Explain its significance in upholding the spirit of law and fostering an ethical organizational culture, especially when legal compliance alone falls short of addressing public good.
+Explain the significance of emotional literacy, encompassing both self-awareness and social awareness, as a foundational virtue for public servants navigating complex policy implementation and public engagement challenges. How does it contribute to fostering trust and accountability in administration?
 
 Q5. (10 Marks | 150 words)
-How can a civil servant balance the imperative of administrative impartiality and objectivity with the foundational value of empathy, particularly when designing and implementing welfare schemes for vulnerable populations at scale without compromising due process?
+How should an administrative leader effectively leverage empathy and self-regulation to foster a resilient and ethical work culture, particularly when managing inter-departmental conflicts and preventing team burnout? Discuss with suitable examples from governance.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Ananya Sharma is the District Collector of Surajpur, a district characterized by rich mineral deposits and a substantial indigenous tribal population, many of whom reside in scheduled areas. Her administration has been focused on bridging the socio-economic gap through sustainable development initiatives.
+Ms. Ananya Sharma, a diligent IPS officer of the 2015 batch, is currently serving as the Superintendent of Police (Vigilance) in the State Police Housing Corporation, located in a bustling state capital. Her current assignment involves overseeing the quality and financial integrity of various infrastructure projects, including new police stations and residential quarters, a critical responsibility given the substantial public funds involved.
 
-Recently, the State Government issued a high-priority directive for expedited land acquisition for a large-scale mining project in a tribal-dominated block, citing national economic interest. However, tribal communities dependent on these forest lands for sustenance and cultural identity have voiced vehement opposition, alleging insufficient free, prior, and informed consent, inadequate rehabilitation plans, and irreversible environmental damage to their sacred groves. Ms. Sharma is facing intense pressure from the Chief Secretary to complete the process swiftly, while tribal elders and human rights activists are besieging her office, appealing to her constitutional duty to protect their rights.
+During a routine audit, Ananya uncovers undeniable evidence of a deep-rooted scam involving the use of substandard materials and fraudulent billing for several major projects. The evidence strongly implicates multiple senior officers within the Police Housing Corporation and, disturbingly, points towards complicity from officials in the Home Department, including those close to the Home Minister. Her Director General of Police has subtly advised her to proceed cautiously, hinting at the potential damage to the police force's image and her own promising career if she pursues the matter aggressively, while a local newspaper is independently investigating similar allegations.
 
-The decision will profoundly impact the livelihoods, culture, and constitutional rights of thousands of tribal individuals, the state's economic development goals, and the district administration's credibility. Both immediate compliance and defiance carry severe socio-political, economic, and personal repercussions.
+Her decision will profoundly impact the integrity of the police force, the safety of officers residing in compromised buildings, public trust in governance, and potentially her personal safety and career trajectory. Both exposing and suppressing the scam carry severe, far-reaching consequences for all involved.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
 (b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
