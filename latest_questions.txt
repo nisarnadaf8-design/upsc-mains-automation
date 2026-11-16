@@ -1,36 +1,35 @@
-Date: 15 Nov 2026
+Date: 16 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Poverty, Social Exclusion and Inclusive Growth
+GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the concept of 'multidimensional poverty' offers a more nuanced framework than purely income-based metrics for addressing the persistent deprivation cycles experienced by vulnerable groups in contemporary India.
+Examine how the persistent failure in decentralised urban governance, particularly concerning land-use planning and basic service delivery, directly contributes to the proliferation of informal settlements and urban distress, despite the spirit of the 74th Constitutional Amendment Act. Discuss the implications of this governance deficit on sustainable urban development.
 
 Q2. (10 Marks | 150 words)
-Critically examine the inherent tension between the 'trickle-down' economic approach and the imperatives of 'inclusive growth' in mitigating the systemic social exclusion of religious minorities and tribal populations in a developing economy.
+Critically examine the extent to which India’s Smart Cities Mission, with its emphasis on technology-centric solutions, has genuinely addressed core challenges of urban inclusivity, sustainable resource management, and equitable access to services for all strata of society. How effectively has it mitigated the increasing pressure on urban infrastructure?
 
 Q3. (15 Marks | 250 words)
-Discuss how persistent intergenerational poverty, despite targeted interventions like MGNREGA, perpetuates social immobility, particularly for women and rural youth. Examine the multi-dimensional barriers – social, economic, and educational – that hinder true upward mobility in such contexts, providing suitable examples.
+Discuss how rapid, unplanned rural-urban migration, driven by both economic aspirations and climate vulnerabilities, compounds the multi-faceted challenges of urban waste management, including solid waste, plastic, and water scarcity. Critically analyse the effectiveness of urban local bodies in leveraging the 74th Constitutional Amendment to build resilient, resource-efficient urban ecosystems capable of managing this stress across social, economic, and environmental dimensions.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Gandhi and Ambedkar
+GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of Mahatma Gandhi's concept of 'Sarvodaya' in shaping an ethical framework for public administration that prioritizes the welfare of the last person. How can its principles inform policy-making today?
+Explain the significance of Aristotle’s concept of 'virtue as a mean' in shaping the character and decision-making process of an ideal civil servant in contemporary public administration. How does cultivating practical wisdom (phronesis) enable ethical leadership in complex policy environments?
 
 Q5. (10 Marks | 150 words)
-How should a civil servant navigate situations where 'constitutional morality', emphasizing equality and justice, comes into direct conflict with entrenched 'social morality' prevalent within their administrative jurisdiction, particularly concerning issues of caste discrimination or gender inequality?
+How should a civil servant navigate the ethical dilemma of applying Kant's categorical imperative, which prioritises universal moral laws, when faced with situations demanding a utilitarian outcome of 'greatest good for the greatest number'? Discuss the practical challenges in upholding absolute moral duties in real-world administrative decision-making.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ms. Anjali Sharma, a diligent District Magistrate of Ayodhya Nagar, is lauded for her proactive governance. Her district, historically sensitive, is currently on edge due to a long-standing dispute over a traditional religious procession route, recently exacerbated by inflammatory social media posts and aggressive local youth groups from both communities.
 
-Rakesh Kumar, a diligent Superintendent of Police in Bilaspur district, has built a reputation for integrity and impartiality over his 15 years of service. His district is ecologically sensitive and has a significant tribal population, for whom land rights are a contentious issue often leading to socio-legal disputes.
+As communal tensions escalate, leading to minor skirmishes, Ms. Sharma proposes a neutral, mutually agreed upon alternative route to ensure peace. However, she receives direct instructions from the powerful local political representative, supported by her immediate superior, to permit the procession strictly along the disputed route for one community, while denying the other's request, citing 'political expediency' and 'maintaining vote bank stability'.
 
-Recently, a case of alleged illegal encroachment on communally owned tribal land for a large-scale commercial poultry farm has been reported. The investigation falls directly under Rakesh's jurisdiction. To his dismay, he discovers that his younger brother, Manoj Kumar, is the principal investor and alleged perpetrator of the encroachment. His parents have appealed to him emotionally to protect Manoj, while the local MLA, a close acquaintance of his brother, has subtly suggested expediting the investigation in Manoj's favor.
-
-The tribal community has launched protests, demanding immediate and fair action, garnering significant media attention. His superior officer expects a transparent and swift resolution. Any decision Rakesh makes will have profound implications not only for his family and career but also for the trust placed in the police force by vulnerable communities and the rule of law itself.
+Her decision will critically impact peace, public safety, and the fragile communal harmony in the district, as well as her professional integrity and the administration's perceived impartiality. Both compliance and defiance carry significant personal and systemic consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rakesh Kumar? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
