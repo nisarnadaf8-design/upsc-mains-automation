@@ -1,35 +1,36 @@
-Date: 16 Nov 2026
+Date: 17 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Urbanisation: Smart Cities, Slums and Urban Governance
+GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the persistent failure in decentralised urban governance, particularly concerning land-use planning and basic service delivery, directly contributes to the proliferation of informal settlements and urban distress, despite the spirit of the 74th Constitutional Amendment Act. Discuss the implications of this governance deficit on sustainable urban development.
+Examine the evolving dynamics of cultural hybridisation in urban Indian centres, where global cultural inflows are actively negotiated and indigenised rather than merely assimilated, leading to new forms of social expression.
 
 Q2. (10 Marks | 150 words)
-Critically examine the extent to which India’s Smart Cities Mission, with its emphasis on technology-centric solutions, has genuinely addressed core challenges of urban inclusivity, sustainable resource management, and equitable access to services for all strata of society. How effectively has it mitigated the increasing pressure on urban infrastructure?
+Critically analyse how the proliferation of the gig economy, a direct outcome of globalisation, has reshaped traditional notions of employment security and labour rights for a significant segment of India's workforce, especially its youth.
 
 Q3. (15 Marks | 250 words)
-Discuss how rapid, unplanned rural-urban migration, driven by both economic aspirations and climate vulnerabilities, compounds the multi-faceted challenges of urban waste management, including solid waste, plastic, and water scarcity. Critically analyse the effectiveness of urban local bodies in leveraging the 74th Constitutional Amendment to build resilient, resource-efficient urban ecosystems capable of managing this stress across social, economic, and environmental dimensions.
+Discuss how globalisation has generated a complex interplay of social, economic, and gender-related impacts on Indian women, simultaneously offering avenues for empowerment through new economic opportunities while exposing them to novel forms of exploitation and care burden challenges.
 
 ========================================
-GS-4 ETHICS: Moral Thinkers: Aristotle, Kant, Plato and Kautilya
+GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of Aristotle’s concept of 'virtue as a mean' in shaping the character and decision-making process of an ideal civil servant in contemporary public administration. How does cultivating practical wisdom (phronesis) enable ethical leadership in complex policy environments?
+Explain the concept of 'ethical stewardship' in public administration and its significance in ensuring long-term institutional probity beyond mere legal compliance, particularly in the context of managing public resources.
 
 Q5. (10 Marks | 150 words)
-How should a civil servant navigate the ethical dilemma of applying Kant's categorical imperative, which prioritises universal moral laws, when faced with situations demanding a utilitarian outcome of 'greatest good for the greatest number'? Discuss the practical challenges in upholding absolute moral duties in real-world administrative decision-making.
+How should a civil servant uphold the spirit of democratic accountability and transparency when facing institutional resistance or political pressure to withhold information that the public has a legitimate right to know under the RTI Act?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Anjali Sharma, a diligent District Magistrate of Ayodhya Nagar, is lauded for her proactive governance. Her district, historically sensitive, is currently on edge due to a long-standing dispute over a traditional religious procession route, recently exacerbated by inflammatory social media posts and aggressive local youth groups from both communities.
 
-As communal tensions escalate, leading to minor skirmishes, Ms. Sharma proposes a neutral, mutually agreed upon alternative route to ensure peace. However, she receives direct instructions from the powerful local political representative, supported by her immediate superior, to permit the procession strictly along the disputed route for one community, while denying the other's request, citing 'political expediency' and 'maintaining vote bank stability'.
+Rohan Verma, a diligent District Planning Officer in a rural district of Uttar Pradesh, was tasked with compiling the final impact assessment report for the flagship 'Gramin Jan Kalyan Yojana' – a major government welfare scheme aimed at poverty alleviation and infrastructure development over the past five years. His team had conducted extensive fieldwork, collecting data directly from beneficiaries and local administrative units, revealing several critical gaps and underperformance issues.
 
-Her decision will critically impact peace, public safety, and the fragile communal harmony in the district, as well as her professional integrity and the administration's perceived impartiality. Both compliance and defiance carry significant personal and systemic consequences.
+As the deadline approached, Rohan's immediate superior, the Additional District Magistrate, along with a powerful local MLA, exerted immense pressure on him to significantly inflate the reported beneficiary numbers and project completion rates in the final report. They argued that positive figures were crucial for securing further central grants and enhancing the district's image, implying severe career repercussions if he failed to comply and suggesting the report would be altered regardless.
+
+The manipulation of data would directly benefit political figures and some officials, but would gravely mislead policymakers, divert resources from genuine needs, undermine public trust in governance, and ultimately harm the very rural populace the scheme was meant to serve. Both compliance and resistance carry significant professional and personal consequences for Rohan.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rohan Verma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
