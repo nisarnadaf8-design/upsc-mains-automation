@@ -1,36 +1,36 @@
-Date: 17 Nov 2026
+Date: 18 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Globalisation and Its Impact on Indian Society
+GS-1 SOCIETY: Social Movements and Civil Society in India
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving dynamics of cultural hybridisation in urban Indian centres, where global cultural inflows are actively negotiated and indigenised rather than merely assimilated, leading to new forms of social expression.
+Examine how the changing landscape of digital activism and increasing scrutiny on funding mechanisms have collectively shaped the capacity of civil society organizations to effectively strengthen democratic accountability in India. Discuss the inherent paradoxes they face in balancing advocacy with state cooperation.
 
 Q2. (10 Marks | 150 words)
-Critically analyse how the proliferation of the gig economy, a direct outcome of globalisation, has reshaped traditional notions of employment security and labour rights for a significant segment of India's workforce, especially its youth.
+What do you understand by the term 'identity politics' within the context of contemporary Indian social movements? How have movements centered on gender, caste, and tribal rights redefined traditional notions of collective action and social justice in the last two decades?
 
 Q3. (15 Marks | 250 words)
-Discuss how globalisation has generated a complex interplay of social, economic, and gender-related impacts on Indian women, simultaneously offering avenues for empowerment through new economic opportunities while exposing them to novel forms of exploitation and care burden challenges.
+Critically analyze the interplay between increasingly stringent state regulation of Non-Governmental Organizations (NGOs) and their ability to effectively address persistent structural inequalities related to land, resources, and social justice in India. Discuss its implications across social, economic, political, and legal dimensions.
 
 ========================================
-GS-4 ETHICS: Probity in Governance: Transparency, Accountability and RTI
+GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the concept of 'ethical stewardship' in public administration and its significance in ensuring long-term institutional probity beyond mere legal compliance, particularly in the context of managing public resources.
+Explain the concept of "regulatory capture" and its ethical implications for upholding the Nolan Principles of objectivity and selflessness within public administration. How does this phenomenon erode public trust and necessitate robust ethical frameworks for governance?
 
 Q5. (10 Marks | 150 words)
-How should a civil servant uphold the spirit of democratic accountability and transparency when facing institutional resistance or political pressure to withhold information that the public has a legitimate right to know under the RTI Act?
+Examine the ethical dilemma faced by a public servant who discovers systemic corruption in their department, weighing their professional obligation of loyalty against their moral duty to uphold transparency and accountability. Discuss the institutional mechanisms required to protect and encourage such whistleblowers effectively.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Rohan Verma, a diligent District Planning Officer in a rural district of Uttar Pradesh, was tasked with compiling the final impact assessment report for the flagship 'Gramin Jan Kalyan Yojana' – a major government welfare scheme aimed at poverty alleviation and infrastructure development over the past five years. His team had conducted extensive fieldwork, collecting data directly from beneficiaries and local administrative units, revealing several critical gaps and underperformance issues.
+Aarav Sharma, a young and idealistic IAS officer, recently posted as Sub-Divisional Magistrate in the rapidly urbanizing district of Krishnapuram, is overseeing a major land acquisition project for a proposed industrial corridor. The project aims to boost regional development and create employment.
 
-As the deadline approached, Rohan's immediate superior, the Additional District Magistrate, along with a powerful local MLA, exerted immense pressure on him to significantly inflate the reported beneficiary numbers and project completion rates in the final report. They argued that positive figures were crucial for securing further central grants and enhancing the district's image, implying severe career repercussions if he failed to comply and suggesting the report would be altered regardless.
+During the verification process, Aarav uncovers a pattern of discrepancies in land records and compensation assessments, strongly suggesting that large tracts of fertile agricultural land are being undervalued and acquired from vulnerable farmers, only to be resold immediately to a cartel of private builders at exorbitant prices. His immediate superior, the District Collector, subtly advises him to expedite the approvals without 'unnecessary scrutiny', hinting at political pressure from a powerful state minister who has a known association with the builder lobby.
 
-The manipulation of data would directly benefit political figures and some officials, but would gravely mislead policymakers, divert resources from genuine needs, undermine public trust in governance, and ultimately harm the very rural populace the scheme was meant to serve. Both compliance and resistance carry significant professional and personal consequences for Rohan.
+Aarav's decision will directly impact thousands of farmers who face displacement and livelihood loss, as well as the district's economic development trajectory. His actions or inactions will also shape public trust in the administration and his own career trajectory.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rohan Verma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Aarav Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
