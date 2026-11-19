@@ -1,36 +1,36 @@
-Date: 18 Nov 2026
+Date: 19 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Social Movements and Civil Society in India
+GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the changing landscape of digital activism and increasing scrutiny on funding mechanisms have collectively shaped the capacity of civil society organizations to effectively strengthen democratic accountability in India. Discuss the inherent paradoxes they face in balancing advocacy with state cooperation.
+Examine how the National Education Policy 2020 seeks to bridge the chasm between fragmented educational access and the imperative for quality learning outcomes across diverse socio-economic strata in India. Discuss its foundational strategies in this regard.
 
 Q2. (10 Marks | 150 words)
-What do you understand by the term 'identity politics' within the context of contemporary Indian social movements? How have movements centered on gender, caste, and tribal rights redefined traditional notions of collective action and social justice in the last two decades?
+Critically evaluate the extent to which the persistent digital divide, exacerbated by uneven infrastructure and digital literacy, continues to undermine the core objectives of equitable learning and inclusive access envisioned by NEP 2020.
 
 Q3. (15 Marks | 250 words)
-Critically analyze the interplay between increasingly stringent state regulation of Non-Governmental Organizations (NGOs) and their ability to effectively address persistent structural inequalities related to land, resources, and social justice in India. Discuss its implications across social, economic, political, and legal dimensions.
+Analyse the multi-faceted impact of the increasing commercialisation of higher education on social mobility, the intrinsic quality of education delivery, and the ethical governance frameworks within the sector in India. Discuss with suitable contemporary examples.
 
 ========================================
-GS-4 ETHICS: Conflict of Interest, Whistleblowing and Ethical Governance
+GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the concept of "regulatory capture" and its ethical implications for upholding the Nolan Principles of objectivity and selflessness within public administration. How does this phenomenon erode public trust and necessitate robust ethical frameworks for governance?
+Explain the significance of cultivating a robust culture of institutional integrity and ethical leadership within public administration as a primary deterrent to systemic corruption, rather than solely relying on punitive measures.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemma faced by a public servant who discovers systemic corruption in their department, weighing their professional obligation of loyalty against their moral duty to uphold transparency and accountability. Discuss the institutional mechanisms required to protect and encourage such whistleblowers effectively.
+Examine the ethical dilemmas faced by civil servants when implementing e-governance solutions aimed at enhancing transparency and accountability, but which may inadvertently create new vulnerabilities for sophisticated forms of malfeasance.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Aarav Sharma, a young and idealistic IAS officer, recently posted as Sub-Divisional Magistrate in the rapidly urbanizing district of Krishnapuram, is overseeing a major land acquisition project for a proposed industrial corridor. The project aims to boost regional development and create employment.
+Divya Sharma, a diligent Sub-Divisional Magistrate (SDM) of Brahmapuri district, has been entrusted with overseeing the distribution of crucial relief funds following unprecedented floods that have devastated her region. The district, predominantly rural and economically vulnerable, faces immense challenges in rebuilding lives and livelihoods, and public expectation for immediate and fair assistance is extraordinarily high. Divya is known for her impeccable record of integrity and dedication to public service.
 
-During the verification process, Aarav uncovers a pattern of discrepancies in land records and compensation assessments, strongly suggesting that large tracts of fertile agricultural land are being undervalued and acquired from vulnerable farmers, only to be resold immediately to a cartel of private builders at exorbitant prices. His immediate superior, the District Collector, subtly advises him to expedite the approvals without 'unnecessary scrutiny', hinting at political pressure from a powerful state minister who has a known association with the builder lobby.
+Amidst the chaos and urgent need, Divya faces significant pressure from various powerful quarters. A local Member of Legislative Assembly (MLA) subtly suggests diverting a substantial portion of funds to a 'rehabilitation project' spearheaded by a politically connected contractor in his constituency, implying future career benefits. Simultaneously, her superior, the Principal Secretary, verbally instructs her to prioritise 'long-term infrastructure repair' over immediate direct aid, a move that could benefit certain large construction firms and indirectly involve kickbacks for higher officials. Meanwhile, local community leaders are vehemently demanding the immediate disbursement of direct relief to the suffering populace.
 
-Aarav's decision will directly impact thousands of farmers who face displacement and livelihood loss, as well as the district's economic development trajectory. His actions or inactions will also shape public trust in the administration and his own career trajectory.
+Divya understands that diverting funds would directly impact thousands of flood-affected families awaiting aid, deepening their misery and eroding public trust in the administration. However, resisting these pressures could lead to severe professional repercussions, including punitive transfers or career stagnation, and even potential political targeting. Both compliance and defiance carry heavy consequences for her career, the affected citizens, and the integrity of public service.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Aarav Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Divya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
