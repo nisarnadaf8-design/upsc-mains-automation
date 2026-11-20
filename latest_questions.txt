@@ -1,36 +1,36 @@
-Date: 19 Nov 2026
+Date: 20 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Education: Access, Equity, Quality and NEP 2020
+GS-1 SOCIETY: Health: Public Health System and Social Determinants
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the National Education Policy 2020 seeks to bridge the chasm between fragmented educational access and the imperative for quality learning outcomes across diverse socio-economic strata in India. Discuss its foundational strategies in this regard.
+Examine how the persistence of systemic inequalities, particularly caste and income disparities, continues to undermine the efficacy of public health interventions aimed at achieving health equity in India.
 
 Q2. (10 Marks | 150 words)
-Critically evaluate the extent to which the persistent digital divide, exacerbated by uneven infrastructure and digital literacy, continues to undermine the core objectives of equitable learning and inclusive access envisioned by NEP 2020.
+Critically examine the extent to which Ayushman Bharat's current design addresses the structural vulnerabilities faced by marginalized communities, particularly regarding their access to tertiary care and the rural-urban healthcare infrastructure gap.
 
 Q3. (15 Marks | 250 words)
-Analyse the multi-faceted impact of the increasing commercialisation of higher education on social mobility, the intrinsic quality of education delivery, and the ethical governance frameworks within the sector in India. Discuss with suitable contemporary examples.
+Despite significant policy interventions, persistent challenges in tackling malnutrition, including stunting and anaemia, reflect deeper societal issues. Discuss the socio-economic, gendered, and governance dimensions that impede effective progress in improving nutritional outcomes across India.
 
 ========================================
-GS-4 ETHICS: Corruption: Causes, Effects, Prevention and Ethics
+GS-4 ETHICS: Corporate Governance and Business Ethics
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of cultivating a robust culture of institutional integrity and ethical leadership within public administration as a primary deterrent to systemic corruption, rather than solely relying on punitive measures.
+Explain the concept of 'ecological integrity' in the context of corporate accountability. How should a regulatory body, committed to public trust, ethically navigate the tension between industrial development and environmental preservation?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemmas faced by civil servants when implementing e-governance solutions aimed at enhancing transparency and accountability, but which may inadvertently create new vulnerabilities for sophisticated forms of malfeasance.
+Examine the ethical imperative for corporate leaders to adopt a 'stakeholder-centric' approach, beyond mere shareholder wealth maximization. What challenges might a civil servant face in promoting such a paradigm shift within a traditionally profit-driven industrial sector?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
 
-Divya Sharma, a diligent Sub-Divisional Magistrate (SDM) of Brahmapuri district, has been entrusted with overseeing the distribution of crucial relief funds following unprecedented floods that have devastated her region. The district, predominantly rural and economically vulnerable, faces immense challenges in rebuilding lives and livelihoods, and public expectation for immediate and fair assistance is extraordinarily high. Divya is known for her impeccable record of integrity and dedication to public service.
+Rohan Sharma, a diligent District Environmental Officer recently posted to the bustling industrial district of Siddharthnagar, is keen on ensuring strict adherence to environmental norms. His department, the State Pollution Control Board, is responsible for monitoring industrial compliance and safeguarding ecological balance in the region. Siddharthnagar is home to several large manufacturing units, including 'GreenOzone Industries', a significant employer and revenue generator for the state.
 
-Amidst the chaos and urgent need, Divya faces significant pressure from various powerful quarters. A local Member of Legislative Assembly (MLA) subtly suggests diverting a substantial portion of funds to a 'rehabilitation project' spearheaded by a politically connected contractor in his constituency, implying future career benefits. Simultaneously, her superior, the Principal Secretary, verbally instructs her to prioritise 'long-term infrastructure repair' over immediate direct aid, a move that could benefit certain large construction firms and indirectly involve kickbacks for higher officials. Meanwhile, local community leaders are vehemently demanding the immediate disbursement of direct relief to the suffering populace.
+During a routine inspection, Rohan's team uncovered serious violations by GreenOzone Industries, particularly concerning untreated effluent discharge into a nearby river, impacting local farming communities. Before he could initiate punitive action, his immediate superior, a senior bureaucrat, subtly advised him to 'handle the matter sensitively,' hinting at the industry's economic clout and political connections. Concurrently, the local Member of Legislative Assembly (MLA) contacted Rohan, emphasizing the company's contribution to employment and warning against any action that might deter investment or cause job losses.
 
-Divya understands that diverting funds would directly impact thousands of flood-affected families awaiting aid, deepening their misery and eroding public trust in the administration. However, resisting these pressures could lead to severe professional repercussions, including punitive transfers or career stagnation, and even potential political targeting. Both compliance and defiance carry heavy consequences for her career, the affected citizens, and the integrity of public service.
+Rohan's decision will directly affect the health and livelihood of downstream communities, the ecological integrity of the river system, the reputation of his department, and the state's industrial policy. Both strict enforcement and overlooking the violations carry significant professional and ethical ramifications for him.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Divya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
