@@ -1,36 +1,35 @@
-Date: 20 Nov 2026
+Date: 22 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Health: Public Health System and Social Determinants
+GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the persistence of systemic inequalities, particularly caste and income disparities, continues to undermine the efficacy of public health interventions aimed at achieving health equity in India.
+Examine the evolving challenges to India's pluralistic secular fabric in a digitally interconnected society. Discuss how emergent socio-political narratives impact inter-community trust and social cohesion.
 
 Q2. (10 Marks | 150 words)
-Critically examine the extent to which Ayushman Bharat's current design addresses the structural vulnerabilities faced by marginalized communities, particularly regarding their access to tertiary care and the rural-urban healthcare infrastructure gap.
+Critically examine the complex interplay between the constitutional protection of cultural rights, the demand for gender justice within personal laws, and the state's pursuit of a Uniform Civil Code. How might these seemingly conflicting principles be reconciled for a truly equitable society?
 
 Q3. (15 Marks | 250 words)
-Despite significant policy interventions, persistent challenges in tackling malnutrition, including stunting and anaemia, reflect deeper societal issues. Discuss the socio-economic, gendered, and governance dimensions that impede effective progress in improving nutritional outcomes across India.
+Discuss how rapid urbanization and large-scale infrastructure projects pose distinct challenges to the cultural preservation and socio-economic integration of linguistic minorities in India. Examine the efficacy of existing constitutional safeguards and state policies in addressing these multi-faceted concerns, with suitable examples.
 
 ========================================
-GS-4 ETHICS: Corporate Governance and Business Ethics
+GS-4 ETHICS: Social Influence, Persuasion and Moral Development
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the concept of 'ecological integrity' in the context of corporate accountability. How should a regulatory body, committed to public trust, ethically navigate the tension between industrial development and environmental preservation?
+Explain the significance of an administrator operating at the post-conventional stages of moral development, as per Kohlberg's theory, in fostering a culture of public service ethics. How does such a moral compass influence their approach to policy formulation and implementation?
 
 Q5. (10 Marks | 150 words)
-Examine the ethical imperative for corporate leaders to adopt a 'stakeholder-centric' approach, beyond mere shareholder wealth maximization. What challenges might a civil servant face in promoting such a paradigm shift within a traditionally profit-driven industrial sector?
+How should a civil servant ethically employ persuasion techniques to foster desirable public behaviour and secure community participation for government initiatives, without veering into manipulation? Examine the moral boundaries that must be upheld in such administrative interactions.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ms. Anjali Sharma serves as the District Magistrate of Harsil District, a remote tribal-dominated region in a central Indian state. Her district is earmarked for a large-scale national 'Green Energy Corridor' project involving the construction of high-tension power lines and substations, deemed critical for national energy security and economic growth.
 
-Rohan Sharma, a diligent District Environmental Officer recently posted to the bustling industrial district of Siddharthnagar, is keen on ensuring strict adherence to environmental norms. His department, the State Pollution Control Board, is responsible for monitoring industrial compliance and safeguarding ecological balance in the region. Siddharthnagar is home to several large manufacturing units, including 'GreenOzone Industries', a significant employer and revenue generator for the state.
+The proposed alignment of the power lines passes directly through a sacred grove (Sarna Sthal) crucial to the spiritual and cultural identity of the indigenous 'Gond' community, which has inhabited the area for centuries. While alternative alignments exist, they would significantly increase project costs and delay timelines. The project director is pushing for the original alignment, citing national priority and cost-effectiveness. The local tribal council, led by an influential elder, is vehemently opposing any disturbance to their sacred site, invoking their constitutional rights to cultural preservation and self-governance. Political leaders from the ruling party are pressurising Ms. Sharma to ensure smooth land acquisition for the project, hinting at potential career repercussions if there are delays.
 
-During a routine inspection, Rohan's team uncovered serious violations by GreenOzone Industries, particularly concerning untreated effluent discharge into a nearby river, impacting local farming communities. Before he could initiate punitive action, his immediate superior, a senior bureaucrat, subtly advised him to 'handle the matter sensitively,' hinting at the industry's economic clout and political connections. Concurrently, the local Member of Legislative Assembly (MLA) contacted Rohan, emphasizing the company's contribution to employment and warning against any action that might deter investment or cause job losses.
-
-Rohan's decision will directly affect the health and livelihood of downstream communities, the ecological integrity of the river system, the reputation of his department, and the state's industrial policy. Both strict enforcement and overlooking the violations carry significant professional and ethical ramifications for him.
+The Gond community faces the displacement of their cultural heritage and disruption of traditional life. The national project faces delays and cost overruns impacting national energy targets. Ms. Sharma's career and the public's perception of government's commitment to both development and community rights are at stake. Both pushing through the original alignment and halting it have serious consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rohan Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
