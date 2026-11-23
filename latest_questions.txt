@@ -1,35 +1,35 @@
-Date: 22 Nov 2026
+Date: 23 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Minority Issues, Secularism and Social Harmony
+GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving challenges to India's pluralistic secular fabric in a digitally interconnected society. Discuss how emergent socio-political narratives impact inter-community trust and social cohesion.
+Examine the intricate nexus between increasing climate-induced migration and the exacerbation of child labour and human trafficking vulnerabilities in India. How do these interconnected crises challenge conventional policy interventions focused solely on legal enforcement or poverty alleviation?
 
 Q2. (10 Marks | 150 words)
-Critically examine the complex interplay between the constitutional protection of cultural rights, the demand for gender justice within personal laws, and the state's pursuit of a Uniform Civil Code. How might these seemingly conflicting principles be reconciled for a truly equitable society?
+Critically examine the effectiveness of existing legislative frameworks in India in addressing the evolving nature of bonded labour, particularly in informal and gig economy sectors. What structural and social barriers hinder the identification and liberation of such modern forms of slavery, despite robust legal provisions?
 
 Q3. (15 Marks | 250 words)
-Discuss how rapid urbanization and large-scale infrastructure projects pose distinct challenges to the cultural preservation and socio-economic integration of linguistic minorities in India. Examine the efficacy of existing constitutional safeguards and state policies in addressing these multi-faceted concerns, with suitable examples.
+Discuss the multi-faceted challenges in preventing human trafficking, ensuring comprehensive victim rehabilitation, and securing effective prosecution of offenders, considering social, economic, and cross-border legal dimensions in the Indian context. Illustrate with suitable examples how a coordinated approach across these spheres is essential for a sustainable impact.
 
 ========================================
-GS-4 ETHICS: Social Influence, Persuasion and Moral Development
+GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of an administrator operating at the post-conventional stages of moral development, as per Kohlberg's theory, in fostering a culture of public service ethics. How does such a moral compass influence their approach to policy formulation and implementation?
+Explain the significance of integrating historical narratives of ethical courage and selflessness, particularly from India's freedom struggle, in shaping the value system of aspiring civil servants. How do such inspirational accounts contribute to fostering resilience and integrity in administrative decision-making?
 
 Q5. (10 Marks | 150 words)
-How should a civil servant ethically employ persuasion techniques to foster desirable public behaviour and secure community participation for government initiatives, without veering into manipulation? Examine the moral boundaries that must be upheld in such administrative interactions.
+How can exposure to diverse literary and artistic expressions foster empathy and ethical reasoning among civil servants, enabling them to navigate complex societal challenges with greater moral clarity? Discuss how such engagement moves beyond theoretical ethics to cultivate practical wisdom essential for governance.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Anjali Sharma serves as the District Magistrate of Harsil District, a remote tribal-dominated region in a central Indian state. Her district is earmarked for a large-scale national 'Green Energy Corridor' project involving the construction of high-tension power lines and substations, deemed critical for national energy security and economic growth.
+Rajeev Sharma, a recently posted Sub-Divisional Magistrate (SDM) in the Revenue Department of a politically sensitive district, is known for his integrity and efficiency. He is keen to make a positive impact and streamline the issuance of various public certificates, a critical service for the local populace, especially with state elections approaching within the year.
 
-The proposed alignment of the power lines passes directly through a sacred grove (Sarna Sthal) crucial to the spiritual and cultural identity of the indigenous 'Gond' community, which has inhabited the area for centuries. While alternative alignments exist, they would significantly increase project costs and delay timelines. The project director is pushing for the original alignment, citing national priority and cost-effectiveness. The local tribal council, led by an influential elder, is vehemently opposing any disturbance to their sacred site, invoking their constitutional rights to cultural preservation and self-governance. Political leaders from the ruling party are pressurising Ms. Sharma to ensure smooth land acquisition for the project, hinting at potential career repercussions if there are delays.
+A powerful local MLA and a senior political leader of the ruling party approaches Rajeev, insisting that he issue a large number of income and domicile certificates to individuals known to be ineligible, citing "party interests" and the need to secure votes for upcoming government schemes. Concurrently, the District Collector subtly advises Rajeev to be "flexible" and "cooperative" for smooth administration and his own career progression, while local party workers start creating minor disruptions at the SDM office, subtly threatening non-cooperation and potential transfers.
 
-The Gond community faces the displacement of their cultural heritage and disruption of traditional life. The national project faces delays and cost overruns impacting national energy targets. Ms. Sharma's career and the public's perception of government's commitment to both development and community rights are at stake. Both pushing through the original alignment and halting it have serious consequences.
+Rajeev realizes that acceding to this demand would fundamentally compromise the integrity of public service and electoral fairness. However, outright refusal could lead to significant professional repercussions, including punitive transfers or stalling his career, and potentially create an adverse environment for his work and family.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Anjali Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Rajeev Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
