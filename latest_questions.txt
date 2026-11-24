@@ -1,35 +1,43 @@
-Date: 23 Nov 2026
+Date: 24 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Child Labour, Bonded Labour and Human Trafficking
+GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the intricate nexus between increasing climate-induced migration and the exacerbation of child labour and human trafficking vulnerabilities in India. How do these interconnected crises challenge conventional policy interventions focused solely on legal enforcement or poverty alleviation?
+Examine the dynamic interplay between digital platforms and traditional forms of social capital in fostering community resilience and local development initiatives in India, particularly in times of crisis.
 
 Q2. (10 Marks | 150 words)
-Critically examine the effectiveness of existing legislative frameworks in India in addressing the evolving nature of bonded labour, particularly in informal and gig economy sectors. What structural and social barriers hinder the identification and liberation of such modern forms of slavery, despite robust legal provisions?
+Critically examine how recent regulatory frameworks have reshaped the operational autonomy and citizen engagement models of the voluntary sector in India, particularly in underserved regions.
 
 Q3. (15 Marks | 250 words)
-Discuss the multi-faceted challenges in preventing human trafficking, ensuring comprehensive victim rehabilitation, and securing effective prosecution of offenders, considering social, economic, and cross-border legal dimensions in the Indian context. Illustrate with suitable examples how a coordinated approach across these spheres is essential for a sustainable impact.
+Discuss how robust community participation, through institutions like Self-Help Groups and Gram Sabhas, can drive inclusive development. Illustrate its impact across social empowerment, economic upliftment, and gender equity, with relevant examples from India.
 
 ========================================
-GS-4 ETHICS: Human Values: Lessons from Lives, Literature and History
+GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the significance of integrating historical narratives of ethical courage and selflessness, particularly from India's freedom struggle, in shaping the value system of aspiring civil servants. How do such inspirational accounts contribute to fostering resilience and integrity in administrative decision-making?
+What do you understand by the concept of 'ethical cosmopolitanism' in the context of a public servant's approach to global challenges? Discuss its relevance in framing national policy responses to issues like climate change or refugee crises.
 
 Q5. (10 Marks | 150 words)
-How can exposure to diverse literary and artistic expressions foster empathy and ethical reasoning among civil servants, enabling them to navigate complex societal challenges with greater moral clarity? Discuss how such engagement moves beyond theoretical ethics to cultivate practical wisdom essential for governance.
+Examine the ethical dilemmas faced by a nation's foreign service officer when balancing strategic national interests with the imperative for humanitarian assistance during an ongoing international conflict or a severe global health crisis.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Rajeev Sharma, a recently posted Sub-Divisional Magistrate (SDM) in the Revenue Department of a politically sensitive district, is known for his integrity and efficiency. He is keen to make a positive impact and streamline the issuance of various public certificates, a critical service for the local populace, especially with state elections approaching within the year.
+Ms. Ananya Sharma is an Under Secretary in the Ministry of Defence (MoD), New Delhi, specifically handling procurement records. She is responsible for maintaining sensitive project files related to a recently awarded defence contract for critical aerospace components. This contract involves a foreign vendor and has been a subject of public debate regarding its value and specifications in national media.
 
-A powerful local MLA and a senior political leader of the ruling party approaches Rajeev, insisting that he issue a large number of income and domicile certificates to individuals known to be ineligible, citing "party interests" and the need to secure votes for upcoming government schemes. Concurrently, the District Collector subtly advises Rajeev to be "flexible" and "cooperative" for smooth administration and his own career progression, while local party workers start creating minor disruptions at the SDM office, subtly threatening non-cooperation and potential transfers.
+An RTI applicant, a prominent investigative journalist, has requested detailed financial clauses, technical specifications, and internal appraisal reports related to this specific defence contract. Ms. Sharma knows that while public interest demands transparency, revealing certain details could compromise national security, expose sensitive technological know-how of a strategic partner, and potentially lead to competitive disadvantages for future indigenous development. Her Joint Secretary has explicitly cautioned her about maintaining secrecy, citing the Official Secrets Act. Simultaneously, a leading newspaper has already published speculative articles hinting at alleged irregularities, mounting public pressure for full disclosure.
 
-Rajeev realizes that acceding to this demand would fundamentally compromise the integrity of public service and electoral fairness. However, outright refusal could lead to significant professional repercussions, including punitive transfers or stalling his career, and potentially create an adverse environment for his work and family.
+Her decision will directly affect the applicant's right to information, national security interests, the reputation of the MoD, the foreign vendor's trust, and potentially the integrity of future defence acquisitions. Both full disclosure and complete denial carry significant and potentially damaging consequences.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Rajeev Sharma? Evaluate each option with its merits and demerits. (100 words)
+The core ethical issues are the conflict between public's right to information (transparency) and national security (official secrecy). It also involves upholding integrity and accountability in public administration, managing public trust, and preventing misinformation versus protecting strategic defence interests and international relations.
+
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
+1. Disclose full information: Merits – Upholds transparency, addresses public concerns, reinforces RTI spirit. Demerits – Severely compromises national security, violates Official Secrets Act, strains diplomatic relations with strategic partners.
+2. Deny all information citing national security: Merits – Protects sensitive data, adheres to superior’s directive. Demerits – Erodes public trust, fuels suspicion of wrongdoing, appears opaque, disregards the spirit of RTI.
+3. Partial disclosure with careful redaction: Merits – Balances transparency with security, demonstrates accountability, mitigates public distrust. Demerits – Risks accusations of selective disclosure, might not fully satisfy the applicant, requires meticulous justification.
+
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
+I would recommend Ms. Sharma opt for partial disclosure through careful redaction of information genuinely compromising national security or strategic interests, while releasing all other non-sensitive contractual details. This approach best upholds both transparency and national interest, demonstrating responsible governance and accountability without endangering state security.
+To handle pressures: I would thoroughly document the rationale for redactions, citing specific sections of relevant acts (RTI Act 2005 exemptions, Official Secrets Act). I would proactively brief my superior, the Joint Secretary, explaining the legal basis and ethical considerations for this balanced approach. A transparent press note from the MoD explaining the rationale for redacted information would also manage public expectations and scrutiny.
