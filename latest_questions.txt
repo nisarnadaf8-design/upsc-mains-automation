@@ -1,43 +1,35 @@
-Date: 24 Nov 2026
+Date: 25 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Social Capital, NGOs and Voluntary Sector
+GS-1 SOCIETY: Media, Social Media and Their Role in Society
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the dynamic interplay between digital platforms and traditional forms of social capital in fostering community resilience and local development initiatives in India, particularly in times of crisis.
+Examine how the proliferation of hyper-local digital news platforms and citizen journalism has redefined the traditional gatekeeping role of mainstream media and its accountability towards public interest in India.
 
 Q2. (10 Marks | 150 words)
-Critically examine how recent regulatory frameworks have reshaped the operational autonomy and citizen engagement models of the voluntary sector in India, particularly in underserved regions.
+In what ways has the strategic weaponization of disinformation on social media platforms posed a multifaceted challenge to social cohesion and informed electoral participation in diverse democracies like India?
 
 Q3. (15 Marks | 250 words)
-Discuss how robust community participation, through institutions like Self-Help Groups and Gram Sabhas, can drive inclusive development. Illustrate its impact across social empowerment, economic upliftment, and gender equity, with relevant examples from India.
+Critically analyse the efficacy of existing regulatory frameworks in India for addressing online harms such as cyberbullying and incitement to violence, while simultaneously safeguarding the constitutional right to freedom of expression. Discuss the socio-legal and technological complexities involved.
 
 ========================================
-GS-4 ETHICS: Ethical Concerns in International Relations and Global Issues
+GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by the concept of 'ethical cosmopolitanism' in the context of a public servant's approach to global challenges? Discuss its relevance in framing national policy responses to issues like climate change or refugee crises.
+What do you understand by 'moral courage' in the context of civil services? Explain its significance for an officer upholding ethical governance amidst intense political and bureaucratic pressures.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemmas faced by a nation's foreign service officer when balancing strategic national interests with the imperative for humanitarian assistance during an ongoing international conflict or a severe global health crisis.
+Examine the ethical dilemmas encountered by a public servant when faced with the choice between adhering to official secrecy and fulfilling the imperative for transparency and public accountability, especially concerning resource allocation during a crisis.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ms. Ananya Sharma is an Under Secretary in the Ministry of Defence (MoD), New Delhi, specifically handling procurement records. She is responsible for maintaining sensitive project files related to a recently awarded defence contract for critical aerospace components. This contract involves a foreign vendor and has been a subject of public debate regarding its value and specifications in national media.
+Divya Sharma, a newly posted District Magistrate in Rudrapur district, Uttarakhand, is known for her meticulous and proactive approach to public administration, especially in enforcing social welfare laws. On a routine inspection tour, responding to community intelligence, she visited the premises of 'Shakti Garments', a prominent textile factory that is a major employer in the region.
 
-An RTI applicant, a prominent investigative journalist, has requested detailed financial clauses, technical specifications, and internal appraisal reports related to this specific defence contract. Ms. Sharma knows that while public interest demands transparency, revealing certain details could compromise national security, expose sensitive technological know-how of a strategic partner, and potentially lead to competitive disadvantages for future indigenous development. Her Joint Secretary has explicitly cautioned her about maintaining secrecy, citing the Official Secrets Act. Simultaneously, a leading newspaper has already published speculative articles hinting at alleged irregularities, mounting public pressure for full disclosure.
+During her inspection, Ms. Sharma's team uncovered irrefutable evidence of systematic child labour involving several underage children working in hazardous conditions. It was subsequently revealed that 'Shakti Garments' is indirectly owned by Mr. Suryakant Tiwari, a highly influential Member of Parliament from the ruling party, known for his political patronage in the state. Ms. Sharma's immediate superior, the Divisional Commissioner, has discreetly advised 'exercising caution and discretion', implying a delay in formal proceedings. Further, subtle but clear threats of adverse career implications have been conveyed to her through various channels if she proceeds with strict legal action.
 
-Her decision will directly affect the applicant's right to information, national security interests, the reputation of the MoD, the foreign vendor's trust, and potentially the integrity of future defence acquisitions. Both full disclosure and complete denial carry significant and potentially damaging consequences.
+Ms. Sharma now faces a profound ethical conflict. Her decision will profoundly affect the exploited children, the factory's future, the public's trust in the administration, and her own professional integrity and career trajectory. Both swift, decisive action and any perceived hesitation carry significant and far-reaching consequences for all stakeholders.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-The core ethical issues are the conflict between public's right to information (transparency) and national security (official secrecy). It also involves upholding integrity and accountability in public administration, managing public trust, and preventing misinformation versus protecting strategic defence interests and international relations.
-
-(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
-1. Disclose full information: Merits – Upholds transparency, addresses public concerns, reinforces RTI spirit. Demerits – Severely compromises national security, violates Official Secrets Act, strains diplomatic relations with strategic partners.
-2. Deny all information citing national security: Merits – Protects sensitive data, adheres to superior’s directive. Demerits – Erodes public trust, fuels suspicion of wrongdoing, appears opaque, disregards the spirit of RTI.
-3. Partial disclosure with careful redaction: Merits – Balances transparency with security, demonstrates accountability, mitigates public distrust. Demerits – Risks accusations of selective disclosure, might not fully satisfy the applicant, requires meticulous justification.
-
+(b) What are the options available to Divya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
-I would recommend Ms. Sharma opt for partial disclosure through careful redaction of information genuinely compromising national security or strategic interests, while releasing all other non-sensitive contractual details. This approach best upholds both transparency and national interest, demonstrating responsible governance and accountability without endangering state security.
-To handle pressures: I would thoroughly document the rationale for redactions, citing specific sections of relevant acts (RTI Act 2005 exemptions, Official Secrets Act). I would proactively brief my superior, the Joint Secretary, explaining the legal basis and ethical considerations for this balanced approach. A transparent press note from the MoD explaining the rationale for redacted information would also manage public expectations and scrutiny.
