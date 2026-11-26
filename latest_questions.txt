@@ -1,35 +1,36 @@
-Date: 25 Nov 2026
+Date: 26 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Media, Social Media and Their Role in Society
+GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine how the proliferation of hyper-local digital news platforms and citizen journalism has redefined the traditional gatekeeping role of mainstream media and its accountability towards public interest in India.
+Examine the evolving nature of caste in modern India, particularly how its traditional ritualistic dimensions are increasingly yielding to its potent role as a tool for political mobilisation and identity assertion in electoral democracies. Discuss the implications for social cohesion.
 
 Q2. (10 Marks | 150 words)
-In what ways has the strategic weaponization of disinformation on social media platforms posed a multifaceted challenge to social cohesion and informed electoral participation in diverse democracies like India?
+How do the concurrent processes of Sanskritisation and Westernisation, as conceptualized by M.N. Srinivas, influence the dynamics of social mobility and the persistence of structural inequalities in urban India today? Critically examine their complex interplay.
 
 Q3. (15 Marks | 250 words)
-Critically analyse the efficacy of existing regulatory frameworks in India for addressing online harms such as cyberbullying and incitement to violence, while simultaneously safeguarding the constitutional right to freedom of expression. Discuss the socio-legal and technological complexities involved.
+Critically analyse how the implementation of affirmative action policies, particularly reservation, impacts the intersection of caste, class, and gender within beneficiary groups in India. Discuss its social, economic, political, and gendered consequences, providing suitable examples.
 
 ========================================
-GS-4 ETHICS: Case Studies: Disaster, Corruption, Political Pressure and Dilemmas
+GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
 ========================================
 
 Q4. (10 Marks | 150 words)
-What do you understand by 'moral courage' in the context of civil services? Explain its significance for an officer upholding ethical governance amidst intense political and bureaucratic pressures.
+In the context of public administration, explain the significance of an officer's individual conscience as a moral compass, especially when confronted with dilemmas arising from the tension between prevailing social norms and universal ethical principles.
 
 Q5. (10 Marks | 150 words)
-Examine the ethical dilemmas encountered by a public servant when faced with the choice between adhering to official secrecy and fulfilling the imperative for transparency and public accountability, especially concerning resource allocation during a crisis.
+Examine how the principles of the 'Ethics of Care', as articulated by Carol Gilligan, can guide a civil servant in fostering a more empathetic and inclusive approach to policy implementation and service delivery, particularly towards vulnerable sections of society.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Divya Sharma, a newly posted District Magistrate in Rudrapur district, Uttarakhand, is known for her meticulous and proactive approach to public administration, especially in enforcing social welfare laws. On a routine inspection tour, responding to community intelligence, she visited the premises of 'Shakti Garments', a prominent textile factory that is a major employer in the region.
 
-During her inspection, Ms. Sharma's team uncovered irrefutable evidence of systematic child labour involving several underage children working in hazardous conditions. It was subsequently revealed that 'Shakti Garments' is indirectly owned by Mr. Suryakant Tiwari, a highly influential Member of Parliament from the ruling party, known for his political patronage in the state. Ms. Sharma's immediate superior, the Divisional Commissioner, has discreetly advised 'exercising caution and discretion', implying a delay in formal proceedings. Further, subtle but clear threats of adverse career implications have been conveyed to her through various channels if she proceeds with strict legal action.
+Ms. Ananya Sharma, a diligent District Magistrate in Shahjahanpur district, is overseeing a critical express highway project. The project involves acquisition of agricultural land and requires strict adherence to environmental impact assessment norms as per a recent High Court directive. Her reputation for integrity and efficiency is well-known in the state administration.
 
-Ms. Sharma now faces a profound ethical conflict. Her decision will profoundly affect the exploited children, the factory's future, the public's trust in the administration, and her own professional integrity and career trajectory. Both swift, decisive action and any perceived hesitation carry significant and far-reaching consequences for all stakeholders.
+During the final phase of land acquisition, a powerful State Minister, Mr. Rakesh Kumar, approaches Ms. Sharma directly. He insists on fast-tracking clearances for a specific section of land owned by a close associate, proposing to bypass certain environmental scrutiny steps and relax compensation norms for a particular village. He clearly communicates that her 'cooperation' is essential for her future career progression. Simultaneously, her immediate superior, the Divisional Commissioner, subtly advises her to "find a pragmatic solution" to avoid political friction, implying that strict adherence to rules might lead to unnecessary bureaucratic hurdles for the project.
+
+Ms. Sharma's decision will directly impact hundreds of villagers whose livelihoods depend on the land, the project's environmental sustainability, and the state exchequer. Bending the rules could lead to public protests and legal challenges, undermining the project's legitimacy and the integrity of the administration. Upholding the rules might lead to her own transfer or career stagnation and earn the minister's wrath.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Divya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
