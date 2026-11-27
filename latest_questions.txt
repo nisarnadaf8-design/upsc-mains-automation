@@ -1,36 +1,35 @@
-Date: 26 Nov 2026
+Date: 27 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Indian Society: Diversity, Caste and Social Stratification
+GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the evolving nature of caste in modern India, particularly how its traditional ritualistic dimensions are increasingly yielding to its potent role as a tool for political mobilisation and identity assertion in electoral democracies. Discuss the implications for social cohesion.
+Examine the intricate interplay between persistent patriarchal social structures and the efficacy of economic development policies in addressing the feminisation of poverty and the widening gender gap in formal workforce participation in India.
 
 Q2. (10 Marks | 150 words)
-How do the concurrent processes of Sanskritisation and Westernisation, as conceptualized by M.N. Srinivas, influence the dynamics of social mobility and the persistence of structural inequalities in urban India today? Critically examine their complex interplay.
+Critically examine the extent to which legislative frameworks and affirmative action for political representation, while crucial, often fall short in dismantling the deeply embedded attitudinal barriers that perpetuate gender-based discrimination and violence at community levels.
 
 Q3. (15 Marks | 250 words)
-Critically analyse how the implementation of affirmative action policies, particularly reservation, impacts the intersection of caste, class, and gender within beneficiary groups in India. Discuss its social, economic, political, and gendered consequences, providing suitable examples.
+Critically analyze the transformative potential and inherent challenges posed by the rapid digital transformation and the rise of online advocacy platforms in shaping women's empowerment, political representation, and combating gender-based violence in contemporary India, considering its social, legal, and economic implications.
 
 ========================================
-GS-4 ETHICS: Ethics and Human Interface: Determinants of Ethical Behaviour
+GS-4 ETHICS: Attitude: Formation, Change and Social Influence
 ========================================
 
 Q4. (10 Marks | 150 words)
-In the context of public administration, explain the significance of an officer's individual conscience as a moral compass, especially when confronted with dilemmas arising from the tension between prevailing social norms and universal ethical principles.
+Explain the concept of 'ethical dissonance' in public administration, distinct from cognitive dissonance, where an officer’s deeply ingrained moral attitudes clash with established institutional practices or politically expedient directives, and its implications for maintaining integrity in governance.
 
 Q5. (10 Marks | 150 words)
-Examine how the principles of the 'Ethics of Care', as articulated by Carol Gilligan, can guide a civil servant in fostering a more empathetic and inclusive approach to policy implementation and service delivery, particularly towards vulnerable sections of society.
+In the face of pervasive social influences that perpetuate implicit biases and stereotypes, how can a civil servant cultivate and maintain an attitude of impartiality and moral courage to ensure fair and inclusive public service delivery?
 
 Q6. (20 Marks | 300 words) — CASE STUDY
+Ananya Sharma, a newly posted District Magistrate in a flood-ravaged district of Odisha, has been tirelessly leading relief and rehabilitation operations. The district, already vulnerable, experienced unprecedented damage, leading to a critical need for rapid and transparent distribution of aid. Her senior, the Divisional Commissioner, Mr. Rakesh Verma, has been overseeing the procurement of essential supplies for the entire division.
 
-Ms. Ananya Sharma, a diligent District Magistrate in Shahjahanpur district, is overseeing a critical express highway project. The project involves acquisition of agricultural land and requires strict adherence to environmental impact assessment norms as per a recent High Court directive. Her reputation for integrity and efficiency is well-known in the state administration.
+During a routine audit of procurement records for emergency medical supplies and temporary shelters, Ananya uncovers irrefutable evidence of gross financial irregularities, indicating large-scale embezzlement involving inflated prices and substandard materials. The evidence strongly implicates Mr. Verma, who is known to be well-connected politically and is also her direct reporting authority. A local political leader, whose contractor firm benefited, subtly warns Ananya about potential career repercussions if she pursues the matter, citing the need for 'unity' during the crisis.
 
-During the final phase of land acquisition, a powerful State Minister, Mr. Rakesh Kumar, approaches Ms. Sharma directly. He insists on fast-tracking clearances for a specific section of land owned by a close associate, proposing to bypass certain environmental scrutiny steps and relax compensation norms for a particular village. He clearly communicates that her 'cooperation' is essential for her future career progression. Simultaneously, her immediate superior, the Divisional Commissioner, subtly advises her to "find a pragmatic solution" to avoid political friction, implying that strict adherence to rules might lead to unnecessary bureaucratic hurdles for the project.
-
-Ms. Sharma's decision will directly impact hundreds of villagers whose livelihoods depend on the land, the project's environmental sustainability, and the state exchequer. Bending the rules could lead to public protests and legal challenges, undermining the project's legitimacy and the integrity of the administration. Upholding the rules might lead to her own transfer or career stagnation and earn the minister's wrath.
+Her decision will directly impact thousands of desperate flood victims whose lives depend on adequate aid, the integrity of the administration, and the public's faith in the system. Both exposing the corruption and remaining silent carry significant personal and professional risks for Ananya.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ms. Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
