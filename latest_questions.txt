@@ -1,35 +1,36 @@
-Date: 27 Nov 2026
+Date: 28 Nov 2026
 
 ========================================
-GS-1 SOCIETY: Role of Women: Empowerment, Violence and Representation
+GS-1 SOCIETY: Communalism, Regionalism and Secularism
 ========================================
 
 Q1. (10 Marks | 150 words)
-Examine the intricate interplay between persistent patriarchal social structures and the efficacy of economic development policies in addressing the feminisation of poverty and the widening gender gap in formal workforce participation in India.
+Examine the evolving role of decentralised digital platforms and algorithmic biases in reconfiguring the landscape of communal narratives, making them more pervasive and resistant to traditional counter-measures in a diverse society.
 
 Q2. (10 Marks | 150 words)
-Critically examine the extent to which legislative frameworks and affirmative action for political representation, while crucial, often fall short in dismantling the deeply embedded attitudinal barriers that perpetuate gender-based discrimination and violence at community levels.
+What defines India's operational model of secularism, characterised by a 'principled distance', and how does this approach navigate the complexities of a multi-religious society to foster social cohesion rather than mere religious neutrality?
 
 Q3. (15 Marks | 250 words)
-Critically analyze the transformative potential and inherent challenges posed by the rapid digital transformation and the rise of online advocacy platforms in shaping women's empowerment, political representation, and combating gender-based violence in contemporary India, considering its social, legal, and economic implications.
+Critically analyse how contemporary forms of regionalism, often fuelled by uneven development and assertion of distinct cultural identities, present both challenges to national integration and opportunities for strengthening India's federal structure and democratic pluralism. Discuss this with suitable examples from recent sociopolitical trends.
 
 ========================================
-GS-4 ETHICS: Attitude: Formation, Change and Social Influence
+GS-4 ETHICS: Civil Services Values: Integrity, Impartiality and Empathy
 ========================================
 
 Q4. (10 Marks | 150 words)
-Explain the concept of 'ethical dissonance' in public administration, distinct from cognitive dissonance, where an officer’s deeply ingrained moral attitudes clash with established institutional practices or politically expedient directives, and its implications for maintaining integrity in governance.
+Explain how upholding integrity, extending beyond mere legal compliance to include moral uprightness and transparency, forms the bedrock of public trust in civil administration and ensures accountability in governance.
 
 Q5. (10 Marks | 150 words)
-In the face of pervasive social influences that perpetuate implicit biases and stereotypes, how can a civil servant cultivate and maintain an attitude of impartiality and moral courage to ensure fair and inclusive public service delivery?
+How should a civil servant maintain impartiality in implementing welfare schemes or regulatory policies when confronted with intense lobbying from influential groups that might disadvantage a marginalised section of society? Examine the ethical dilemmas involved.
 
 Q6. (20 Marks | 300 words) — CASE STUDY
-Ananya Sharma, a newly posted District Magistrate in a flood-ravaged district of Odisha, has been tirelessly leading relief and rehabilitation operations. The district, already vulnerable, experienced unprecedented damage, leading to a critical need for rapid and transparent distribution of aid. Her senior, the Divisional Commissioner, Mr. Rakesh Verma, has been overseeing the procurement of essential supplies for the entire division.
 
-During a routine audit of procurement records for emergency medical supplies and temporary shelters, Ananya uncovers irrefutable evidence of gross financial irregularities, indicating large-scale embezzlement involving inflated prices and substandard materials. The evidence strongly implicates Mr. Verma, who is known to be well-connected politically and is also her direct reporting authority. A local political leader, whose contractor firm benefited, subtly warns Ananya about potential career repercussions if she pursues the matter, citing the need for 'unity' during the crisis.
+Aparna Sharma is the newly posted District Collector of Chandrapur, a district rich in mineral resources, particularly bauxite. The state government has fast-tracked a large-scale bauxite mining project, promising significant revenue generation and job creation for the region. However, the proposed mining lease area encompasses vast tracts of ancestral forest land that are home to the particularly vulnerable 'Dongaria Kondh' tribal community, who depend on these forests for their livelihood, cultural identity, and spiritual beliefs, and hold valid Forest Rights Act claims.
 
-Her decision will directly impact thousands of desperate flood victims whose lives depend on adequate aid, the integrity of the administration, and the public's faith in the system. Both exposing the corruption and remaining silent carry significant personal and professional risks for Ananya.
+Aparna receives a direct order from the Chief Secretary's office to expedite the land acquisition process and grant all necessary clearances for the mining project within a stringent timeline, citing the project's strategic economic importance. Simultaneously, she is faced with widespread protests and representations from the Dongaria Kondh community, supported by local activists, pleading for the protection of their ancestral lands and traditional way of life. The local MLA, who has significant business interests linked to the mining company, is also exerting considerable political pressure on her to comply with the state's directives, while a human rights commission has recently issued an advisory highlighting concerns about potential tribal displacement and loss of cultural heritage.
+
+The tribal community faces potential displacement, irreversible loss of livelihood, and cultural disruption if the project proceeds without proper safeguards and consent. The state government stands to lose significant investment and political capital if the project is stalled, potentially impacting other development initiatives. Aparna's career and reputation are also on the line, as both strict compliance and outright defiance carry severe professional repercussions, impacting public trust and administrative efficacy simultaneously.
 
 (a) Identify and discuss the ethical issues involved in this case. (50 words)
-(b) What are the options available to Ananya Sharma? Evaluate each option with its merits and demerits. (100 words)
+(b) What are the options available to Aparna Sharma? Evaluate each option with its merits and demerits. (100 words)
 (c) What course of action would you recommend and why? How would you handle the pressures involved? (150 words)
